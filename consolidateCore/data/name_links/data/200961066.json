@@ -1,0 +1,122 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "SIMUNOVICH IVAN : Service Number - WX38312 : Date of birth - 02 Sep 1904 : Place of birth - DALMATIA : Place of enlistment - IN THE FIELD WA : Next of Kin - SIMUNOVICH MIKOVIL", 
+        "series": "B883", 
+        "identifier": "6364619", 
+        "control_symbol": "WX38312", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - SIMUNOVICH Ivan; Nominee - GERGIC George; nationality Yugoslavian", 
+        "series": "A261", 
+        "control_symbol": "1926/1975", 
+        "contents_dates": {
+            "date_str": "1926 - 1926", 
+            "start_date": "1926", 
+            "end_date": "1926"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7639728"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BRAJCICH Joseph [Also documentation relating to Ivan SIMUNOVICH] [Immigration file]", 
+        "series": "PP105/1", 
+        "control_symbol": "W1956/9689", 
+        "contents_dates": {
+            "date_str": "1956 - 1958", 
+            "start_date": "1956", 
+            "end_date": "1958"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7966489"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SIMUNOVICH Ivan [Immigration file]", 
+        "series": "PP105/1", 
+        "control_symbol": "W1956/10393", 
+        "contents_dates": {
+            "date_str": "1947 - 1963", 
+            "start_date": "1947", 
+            "end_date": "1963"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7966788"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - SIMUNOVICH Rade; Nominee - SIMUNOVICH Ivan; nationality Yugoslavian", 
+        "series": "A261", 
+        "control_symbol": "1927/2721", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8164765"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - SIMUNOVICH Ivan; Nominee - SIMUNOVICH Marija; nationality Yugoslavian", 
+        "series": "A261", 
+        "control_symbol": "1933/482", 
+        "contents_dates": {
+            "date_str": "1933 - 1933", 
+            "start_date": "1933", 
+            "end_date": "1933"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8174835"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Tony SIMUNOVICH [also included - Ivan SIMUNOVIC/SIMUNOVICH; Pieter RADOCEVIC/RIDOCEVICH; Jakov SIMUNOVIC/SIMUNOVICH; Petar KRNICH; Visko ACALINOVIC/ACALINOVICH; Jakov PERIBONIO; Joso GRADISKA SESTAN]", 
+        "series": "PP302/1", 
+        "control_symbol": "WA2462", 
+        "contents_dates": {
+            "date_str": "1915 - 1940", 
+            "start_date": "1915", 
+            "end_date": "1940"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1594730"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SIMUNOVICH Ivan - Nationality : Dalmatian - [Application Form for Registration as Alien]", 
+        "series": "PP14/3", 
+        "control_symbol": "AUSTRIAN/SIMUNOVICH I", 
+        "contents_dates": {
+            "date_str": "circa1916 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4303144"
+    }
+]

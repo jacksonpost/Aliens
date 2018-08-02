@@ -1,0 +1,602 @@
+[
+    {
+        "digitised_pages": "13", 
+        "title": "Karl Ludwig Solberg - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1918/1420", 
+        "contents_dates": {
+            "date_str": "1913 - 1918", 
+            "start_date": "1913", 
+            "end_date": "1918"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "36533"
+    }, 
+    {
+        "digitised_pages": "14", 
+        "title": "L.K. Ludwig Karl Furmann Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1922/3643", 
+        "contents_dates": {
+            "date_str": "1921 - 1922", 
+            "start_date": "1921", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "41607"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Johann Heinrich Karl Ludwig SCHUMANN - Naturalization", 
+        "series": "A63", 
+        "control_symbol": "A1910/1134", 
+        "contents_dates": {
+            "date_str": "1909 - 1910", 
+            "start_date": "1909", 
+            "end_date": "1910"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "53491"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Ludwig Poersche under engagement to Widdis Diamond Dry Cells Pty Ltd ex \"Ormonde\" January 1933", 
+        "series": "B13", 
+        "control_symbol": "1932/18382", 
+        "contents_dates": {
+            "date_str": "1932 - circa1932", 
+            "start_date": "1932", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "809994"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WOPPERER Karl Ludwig born 27 October 1944 - German - travelled per MIQAN under Australian German Assisted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "WOPPERER K L", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1204056"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLOSKA Imre born 20 September 1924; Terezia (nee Sebian) born 10 March 1929; Ludwig Karl (Horvath) born 25 October 1958 - Hungarian - travelled per ship TOSCANA departing in 1959", 
+        "series": "A2478", 
+        "control_symbol": "KLOSKA I", 
+        "contents_dates": {
+            "date_str": "1958 - 1959", 
+            "start_date": "1958", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1412426"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RIPKEN Karl Ludwig born 12 August 1931 - German - travelled per ship SKAUBRYN departing in 1954", 
+        "series": "A2478", 
+        "control_symbol": "RIPKEN K L", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1412743"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRAUTSTORFER Karl Ludwig born 1 June 1934 - German - travelled per ship STRATHAIRD departing in 1959", 
+        "series": "A2478", 
+        "control_symbol": "KRAUTSTORFER K L", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1412896"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHUETZ Karl Ludwig born 21 August 1923; (nee Wenzel) Liselotte born 7 April 1926; Elvira Isolde born 21 March 1950 - German - travelled per ship SKAUBRYN departing in 1957", 
+        "series": "A2478", 
+        "control_symbol": "SCHUETZ K L", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1413091"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SEIDL Karl born 8 December 1937; Gertraud (nee Bergmyr) born 28 August 1929; Karl born 9 February 1958; Christine born 7 March 1961; Rosa born 1 August 1962; Ludwig born 18 October 1963; Gertruad born 1 April 1949 - German - travelled per FLAVIA under German Australian Assisted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "SEIDL K", 
+        "contents_dates": {
+            "date_str": "1965 - 1965", 
+            "start_date": "1965", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1427175"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KOCH Ludwig Karl born 26 November 1927 - German - travelled per ship SKAUBRYN departing in 1953", 
+        "series": "A2478", 
+        "control_symbol": "KOCH L K", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1435240"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WOZNY Ludwig born 6 November 1919; Irmgard (nee Quast and Eggert) born 2 June 1917; Joerg Otto Karl (Eggert) born 2 November 1937; Ralf Eduard Hans (Eggert) born 22 February 1939 - German - travelled per ship SKAUBRYN departing in 1957", 
+        "series": "A2478", 
+        "control_symbol": "WOZNY L", 
+        "contents_dates": {
+            "date_str": "1956 - 1957", 
+            "start_date": "1956", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1439492"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "EGGERT Joerg Otto Karl born 2 November 1937; Ludwig (Wozny) born 6 November 1919; Irmgard (Wozny nee Quast) born 2 June 1917; Ralf born 22 February 1939 - German - travelled per ship SKAUBRYN departing in 1957", 
+        "series": "A2478", 
+        "control_symbol": "EGGERT J O K", 
+        "contents_dates": {
+            "date_str": "1956 - 1957", 
+            "start_date": "1956", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1439812"
+    }, 
+    {
+        "digitised_pages": "12", 
+        "title": "ORLICKI Karl Ludwig born 23 January 1933 - German - travelled per ship SKAUBRYN departing in 1954", 
+        "series": "A2478", 
+        "control_symbol": "ORLICKI K L", 
+        "contents_dates": {
+            "date_str": "1953 - 1954", 
+            "start_date": "1953", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1439873"
+    }, 
+    {
+        "digitised_pages": "26", 
+        "title": "KUEBLER Karl Ludwig born 20 June 1934; Griseldis (nee Rosenbusch) born 14 September 1936; Karl born 11 November 1955; Elke born 10 March 1957; Heike born 17 April 1958; Frithjof born 25 August 1959; Ottilie born 11 September 1960; Jens born 16 October 1961 - German - travelled per ship FLAVIA departing in 1963 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "KUEBLER K L", 
+        "contents_dates": {
+            "date_str": "1963 - 1963", 
+            "start_date": "1963", 
+            "end_date": "1963"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1455018"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HANSEN Karl Ludwig born 12 April 1934; Margot (nee Burmeister) born 17 March 1936; Walter born 26 November 1956; Holger born 17 January 1958; Joerg born 2 May 1959 - German - travelled per ship FLAMINIA departing in 1960 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "HANSEN K L", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1459898"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHRIEVER Karl Ludwig born 12 December 1939 - German - travelled per ship FAIRSEA departing in 1962 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "SCHRIEVER K L", 
+        "contents_dates": {
+            "date_str": "1962 - 1962", 
+            "start_date": "1962", 
+            "end_date": "1962"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1460125"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANGE Hans Karl Ewald born 8 June 1934; Hannelore (nee Konradi) born 16 January 1937; Wilhelm Ludwig born 20 March 1957; Wolfg born 23 January 1963 - German - travelled per ship FAIRSEA departing in 1964 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "LANGE H K E", 
+        "contents_dates": {
+            "date_str": "1964 - 1964", 
+            "start_date": "1964", 
+            "end_date": "1964"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1461166"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BRAUER Karl Ludwig born 4 September 1937 - German - travelled per ship FLAMINIA departing in 1959 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "BRAUER K L", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1464472"
+    }, 
+    {
+        "digitised_pages": "16", 
+        "title": "BAUSCH Ludwig born 22 September 1918; Erna (nee Seel) born 20 October 1919; Ingrid born 24 February 1938; Gudrun born 29 February 1944; Karl born 28 October 1950 - German - travelled per ship FAIRSEA departing in 1953 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "BAUSCH L", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1467340"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Krawinkel, Karl Gustav George Ludwig Naturalization", 
+        "series": "D1915", 
+        "control_symbol": "SA13773", 
+        "contents_dates": {
+            "date_str": "1939 - 1951", 
+            "start_date": "1939", 
+            "end_date": "1951"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "327275"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Adolf Theodor Wilhelm Keim and Ludwig Karl Keim [Interned] [Box 1]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N59/22/112", 
+        "contents_dates": {
+            "date_str": "1914 - 1922", 
+            "start_date": "1914", 
+            "end_date": "1922"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "447888"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Ludwig Friedrich Erhard [Frederico Albert Ludwig Erhard] [Application for Land Transfer] Hermann Wilhelm Erhard [Interned] [Applicant] Walther Wiechmann [Nominee] [Correspondence concerning loyalties of family] [Box 72]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N19781", 
+        "contents_dates": {
+            "date_str": "1915 - 1942", 
+            "start_date": "1915", 
+            "end_date": "1942"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "521514"
+    }, 
+    {
+        "digitised_pages": "61", 
+        "title": "[Failure to comply with Alien Registration Regulations] [Includes Louis Max BOETTCHER, Rudolf Amo NESTLER, Agnes MOLLENHAUSER, Battista POSITTA, Anders PERSSON, Willeam GRUNDT, Karl Ludwig OLSEN and others] [Includes Returns of Prosecutions under War Precautions (Alien Registration) Regulations]", 
+        "series": "PP14/1", 
+        "control_symbol": "1/12/223A", 
+        "contents_dates": {
+            "date_str": "1918 - 1918", 
+            "start_date": "1918", 
+            "end_date": "1918"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "747311"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hammer Karl Ludwig", 
+        "series": "A367", 
+        "control_symbol": "C85897", 
+        "contents_dates": {
+            "date_str": "1941 - 1945", 
+            "start_date": "1941", 
+            "end_date": "1945"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "767760"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Tintrup Ludwig Karl (Charles)", 
+        "series": "A367", 
+        "control_symbol": "C75466", 
+        "contents_dates": {
+            "date_str": "1943 - 1947", 
+            "start_date": "1943", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "771365"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Podesta Karl Ludwig (known as Charles)", 
+        "series": "A367", 
+        "control_symbol": "C62668", 
+        "contents_dates": {
+            "date_str": "1941 - 1945", 
+            "start_date": "1941", 
+            "end_date": "1945"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "781361"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT, Richard Ludwig Karl Hans [155 pp]", 
+        "series": "A367", 
+        "control_symbol": "C66363", 
+        "contents_dates": {
+            "date_str": "1941 - 1949", 
+            "start_date": "1941", 
+            "end_date": "1949"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "781989"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GUTH Ludwig Karl Johannes - QLD naturalisation inquiry", 
+        "series": "D1915", 
+        "control_symbol": "SA3377", 
+        "contents_dates": {
+            "date_str": "1932 - 1932", 
+            "start_date": "1932", 
+            "end_date": "1932"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "888210"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Carl RODGERS [Karl ROSENBERG] [arrived Melbourne 19 November 1929 per Oronsay] [application for admission of relatives or friends to Australia Ernst Ludwig ROSENBERG, Elisa ROSENBERG, Kurt ROSENBERG, Ruth ROSENBERG;  application for naturalisation]", 
+        "series": "PP302/1", 
+        "control_symbol": "WA9542", 
+        "contents_dates": {
+            "date_str": "1929 - 1945", 
+            "start_date": "1929", 
+            "end_date": "1945"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1655744"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NOWAD Ludwig Karl Heinz [alien registration Melbourne 1957]", 
+        "series": "E1129", 
+        "control_symbol": "NOWAD L K H", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Darwin", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "1748660"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Guth, Ludwig Karl Johannes - Queensland Internee", 
+        "series": "BP242/1", 
+        "control_symbol": "Q9521", 
+        "contents_dates": {
+            "date_str": "1932 - 1958", 
+            "start_date": "1932", 
+            "end_date": "1958"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "3293489"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LUDWIG, Karl (born Germany - Naturalised British Subject) [0.25 cm; box 42]", 
+        "series": "C123", 
+        "control_symbol": "2223", 
+        "contents_dates": {
+            "date_str": "1939 - 1942", 
+            "start_date": "1939", 
+            "end_date": "1942"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3400391"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Roubicek, Ernst born 1905; wife Marianne age 31 years; two children Peter Ludwig age 7 years, George Karl age 3 years - nationality German - arrived in Brisbane on NARKUNDA 17 April 1939", 
+        "series": "BP9/3", 
+        "control_symbol": "GERMAN ROUBICEK E", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3433284"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MARISSEN Roeland Ludwig Karl - Nationality: Dutch - Arrived Fremantle per Maetsuycker 24 September 1955", 
+        "series": "K1331", 
+        "control_symbol": "DUTCH/MARISSEN R L K", 
+        "contents_dates": {
+            "date_str": "1955 - 1965", 
+            "start_date": "1955", 
+            "end_date": "1965"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3908503"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DUENSING Karl Ludwig - Nationality: German - Arrived: Melbourne per M/S ANNA SALEN 16 June 1955", 
+        "series": "A1870", 
+        "control_symbol": "DUENSING K L", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4016366"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GIEBEL Wolfgang Karl Willi Ludwig - Nationality: German - Arrived: Melbourne per T/N CASTEL FELICE 13 September 1958", 
+        "series": "A1870", 
+        "control_symbol": "GIEBEL W K W L", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4016588"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Karl Konrad Ludwig Brinskele [Austrian - arrived Melbourne per TOSCANA, 3 Feb 1960. Box 48]", 
+        "series": "SP908/1", 
+        "control_symbol": "AUSTRIAN/BRINSKELE K K L", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4047632"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "TORNOW Karl Ludwig - Nationality: German - Arrived Melbourne per Castel Felice 29 June 1961", 
+        "series": "K1331", 
+        "control_symbol": "GERMAN/TORNOW K L", 
+        "contents_dates": {
+            "date_str": "1961 - 1961", 
+            "start_date": "1961", 
+            "end_date": "1961"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4092162"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent  for an invention by Karl Ludwig Blanck, titled  - An improved ventilated cover for cream and milk cans(Cognate 16909 28 - 21462 29)", 
+        "series": "A627", 
+        "control_symbol": "16909/1928", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4229416"
+    }
+]

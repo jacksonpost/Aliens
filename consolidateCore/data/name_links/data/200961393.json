@@ -1,0 +1,137 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Wagner, Joseph Max; Army Number - 322442; Date of birth - 16 February 1918", 
+        "series": "B4747", 
+        "identifier": "9327291", 
+        "control_symbol": "WAGNER/JOSEPH MAX", 
+        "contents_dates": {
+            "date_str": "1936 - 1946", 
+            "start_date": "1936", 
+            "end_date": "1946"
+        }, 
+        "location": "Melbourne"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Max Joseph Wagner - Naturalization", 
+        "series": "A1", 
+        "identifier": "28328", 
+        "control_symbol": "1914/3374", 
+        "contents_dates": {
+            "date_str": "1913 - 1914", 
+            "start_date": "1913", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Max August Wilhelm Wagner [Interned] Mrs Mary Wagner [Application for Allowance] [Box 2]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N59/22/276", 
+        "contents_dates": {
+            "date_str": "1914 - 1924", 
+            "start_date": "1914", 
+            "end_date": "1924"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "448051"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ABC Concert Programmes - Bound copies of programmes from the 1955 Queensland Concert Series. Included are programmes for concerts held across the state by the Queensland Symphony Orchestra (QSO) principally conducted by Rudolf Pekarek and featuring various celebrity soloists. Programmes for productions of Elgar's Dream of Gerontius, Wagner's The Flying Dutchman and Handel's Messiah, performed by the QSO in conjunction with the Queensland State and Municipal Choir, are also held. Also included are programmes for performances by violinist Max Rostal, pianists Monique Haas, Ventsislav Yankoff and Colin Horsley, sopranos Sylvia Fisher and Mattiwilda Dobbs, comedian Anna Russell, tenor Partick O'Hagan and baritone Hans Hotter. In addition, programmes for the various Schools and Youth Orchestral concerts and the QSO's Brahms Festival are also contained in this volume. [Box 13]", 
+        "series": "SP722/1", 
+        "control_symbol": "90", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3112416"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "New South Wales Letters Patent. A skeleton bearing - Specification by Max Wagner", 
+        "series": "A4617", 
+        "control_symbol": "13187", 
+        "contents_dates": {
+            "date_str": "1903 - 1903", 
+            "start_date": "1903", 
+            "end_date": "1903"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4212099"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Correspondence with Max Wagner concerning invention entitled - A skeleton bearing", 
+        "series": "A4618", 
+        "control_symbol": "13187", 
+        "contents_dates": {
+            "date_str": "1903 - 1903", 
+            "start_date": "1903", 
+            "end_date": "1903"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5010737"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "'Richard II' [includes written publicity] - James Condon, Ric Hutton, Geoffrey King, Rosemary Webster, Peter Wagner, Max Meldrum, John Faassen, Richard Parry, Owen Weingott, Norman Mann [n.d.] [Box 10]", 
+        "series": "SP1426/4", 
+        "control_symbol": "182", 
+        "contents_dates": {
+            "date_str": "1956 - 1969", 
+            "start_date": "1956", 
+            "end_date": "1969"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5401073"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for registration of patent by Max Wagner  titled - A reinforcing framework for bearings", 
+        "series": "A13149", 
+        "control_symbol": "20520", 
+        "contents_dates": {
+            "date_str": "1903 - 1903", 
+            "start_date": "1903", 
+            "end_date": "1903"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9032042"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Specifications for registration of patent by Max Wagner  titled - A reinforcing framework for bearings", 
+        "series": "A13150", 
+        "control_symbol": "20520", 
+        "contents_dates": {
+            "date_str": "1903 - 1903", 
+            "start_date": "1903", 
+            "end_date": "1903"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9049804"
+    }
+]

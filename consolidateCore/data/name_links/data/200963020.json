@@ -1,0 +1,77 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "TAYLOR MAX WINTER : Service Number - 310557 : Date of birth - 07 Feb 1916 : Place of birth - Unknown : Place of enlistment - Unknown : Next of Kin - Unknown", 
+        "series": "A9300", 
+        "identifier": "5256626", 
+        "control_symbol": "TAYLOR M W", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Alfred Max Winter - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1904/6106", 
+        "contents_dates": {
+            "date_str": "1904 - 1904", 
+            "start_date": "1904", 
+            "end_date": "1904"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1537"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - HEIMANN Max; Nominee - HESS Helene Winter; nationality Stateless", 
+        "series": "A261", 
+        "control_symbol": "1946/1968", 
+        "contents_dates": {
+            "date_str": "1946 - 1946", 
+            "start_date": "1946", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7864669"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - WINTER Frederick; Nominee - LINDENFELD Max; LINDENFELD Josefine; nationality Romanian", 
+        "series": "A261", 
+        "control_symbol": "1947/2629A", 
+        "contents_dates": {
+            "date_str": "1947 - 1947", 
+            "start_date": "1947", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7874640"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Winter, Max - Nationality: German - Alien Registration Certificate No 302 issued at Brisbane", 
+        "series": "BP4/3", 
+        "identifier": "6304382", 
+        "control_symbol": "GERMAN WINTER M", 
+        "contents_dates": {
+            "date_str": "1918 - 1918", 
+            "start_date": "1918", 
+            "end_date": "1918"
+        }, 
+        "location": "Brisbane"
+    }
+]

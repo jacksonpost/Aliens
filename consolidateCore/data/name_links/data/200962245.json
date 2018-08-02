@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Bruno Mosler Naturalization", 
+        "series": "A1", 
+        "identifier": "28229", 
+        "control_symbol": "1914/2526", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "MOSLER Bruno - [personal case file]", 
+        "series": "PP14/2", 
+        "identifier": "752017", 
+        "control_symbol": "PF/57", 
+        "contents_dates": {
+            "date_str": "1914 - 1919", 
+            "start_date": "1914", 
+            "end_date": "1919"
+        }, 
+        "location": "Perth"
+    }
+]

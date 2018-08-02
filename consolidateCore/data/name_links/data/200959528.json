@@ -1,0 +1,647 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "Fischer, Friedrich Karl VX26740 [Prisoners of War Trust Fund application]", 
+        "series": "B503", 
+        "identifier": "1037479", 
+        "control_symbol": "V1015", 
+        "contents_dates": {
+            "date_str": "1955 - 1977", 
+            "start_date": "1955", 
+            "end_date": "1977"
+        }, 
+        "location": "Melbourne"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FREUDENTHAL FRIEDRICH WILHELM KARL : Service Number - 148186 : Date of birth - 03 Jan 1914 : Place of birth - YARRAM VIC : Place of enlistment - MELBOURNE : Next of Kin - FREUDENTHAL GLADYS", 
+        "series": "A9301", 
+        "control_symbol": "148186", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5344785"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "FISCHER FRIEDRICH KARL : Service Number - VX26740 : Date of birth - 27 Jun 1910 : Place of birth - PLEASANT HILLS NSW : Place of enlistment - CAULFIELD VIC : Next of Kin - FISCHER M", 
+        "series": "B883", 
+        "control_symbol": "VX26740", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6218169"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Karl Friedrich Wilhelm HARM - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1906/8590", 
+        "contents_dates": {
+            "date_str": "1906 - 1906", 
+            "start_date": "1906", 
+            "end_date": "1906"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7638"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Friedrich Karl WINKLER - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1907/39", 
+        "contents_dates": {
+            "date_str": "1906 - 1907", 
+            "start_date": "1906", 
+            "end_date": "1907"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7711"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "Karl Friedrich August Hesse, Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1912/19972", 
+        "contents_dates": {
+            "date_str": "1912 - 1913", 
+            "start_date": "1912", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "14440"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Friedrich Karl Herrig - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1913/18523", 
+        "contents_dates": {
+            "date_str": "1913 - 1914", 
+            "start_date": "1913", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "27779"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Karl Friedrich Loose, Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1914/7341", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "28795"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Friedrich Karl Dorr Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1914/12664", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "29571"
+    }, 
+    {
+        "digitised_pages": "15", 
+        "title": "F.K. Friedrich Karl Meditsch - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1919/12115", 
+        "contents_dates": {
+            "date_str": "1914 - 1919", 
+            "start_date": "1914", 
+            "end_date": "1919"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "37869"
+    }, 
+    {
+        "digitised_pages": "11", 
+        "title": "Frederick Karl Friedrich Wilhelm Klefoth Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1921/3784", 
+        "contents_dates": {
+            "date_str": "1921 - 1921", 
+            "start_date": "1921", 
+            "end_date": "1921"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "39678"
+    }, 
+    {
+        "digitised_pages": "15", 
+        "title": "F.W.K. Friedrich Wilhelm Karl Baumgart Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1921/6411", 
+        "contents_dates": {
+            "date_str": "1919 - 1921", 
+            "start_date": "1919", 
+            "end_date": "1921"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "39934"
+    }, 
+    {
+        "digitised_pages": "14", 
+        "title": "Karl F. Friedrich Zogelin", 
+        "series": "A1", 
+        "control_symbol": "1921/15065", 
+        "contents_dates": {
+            "date_str": "1915 - 1922", 
+            "start_date": "1915", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "40537"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "F K W Friedrich Karl Willy Lehmann Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1921/21382", 
+        "contents_dates": {
+            "date_str": "1921 - 1922", 
+            "start_date": "1921", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "41048"
+    }, 
+    {
+        "digitised_pages": "36", 
+        "title": "F.A. Friedrich August Karl Schroeder - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1922/12179", 
+        "contents_dates": {
+            "date_str": "1914 - 1922", 
+            "start_date": "1914", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "42229"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Kirsch, Friedrich Karl and Family [Magarete Babette, Karl Heinz, Marianne Friedrich Gerhard, Emma Hedwig and Hermine Adelheid Kirsch] - Permit for Admission", 
+        "series": "A434", 
+        "control_symbol": "1948/3/400", 
+        "contents_dates": {
+            "date_str": "1947 - 1948", 
+            "start_date": "1947", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "74328"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "GUNTHER, Christian Friedrich Karl", 
+        "series": "A821", 
+        "control_symbol": "SET 1/NO 37 FOLIO 12", 
+        "contents_dates": {
+            "date_str": "1851 - 1851", 
+            "start_date": "1851", 
+            "end_date": "1851"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "814888"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Friedrich Karl Dudinsky - Deserter ex \"Altona\"  [2 pp]", 
+        "series": "B13", 
+        "control_symbol": "1936/10639", 
+        "contents_dates": {
+            "date_str": "1936 - 1936", 
+            "start_date": "1936", 
+            "end_date": "1936"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "817975"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BRUGGEMANN Wilhelm Friedrich Karl born 24 November 1936 - Austrian - travelled per MIQAN under Australian Austrian Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "BRUGGEMANN W F K", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1203153"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DORING Paul Friedrich Karl born 26 August 1932; Gisela (nee Seidel) born 15 November 1932; Karin born 18 March 1952; Rainer born 13 April 1956 - German - travelled per MIQAN under Australian German Assisted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "DORING P F K", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1204371"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KALKE Werner Friedrich Karl born 22 November 1942; Ingrid (nee Adam) born 3 August 1939 - German - travelled per PROFLIGHT under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "KALKE W F K", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1222209"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DORIN Friedrich Karl born 4 May 1940; Edeltraud (nee Brandmeier) born 21 December 1943 - German - travelled under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "DORIN F K", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1222800"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HANSBAUER Friedrich Karl born 28 January 1937; Dietlinde (nee Chalaupka) born 5 September 1942 - Austrian - travelled per MIQAN flight under Australian Austrian Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "HANSBAUER F K", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1231285"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Sustenance Allowances - Application by the controller of Dohnert Mueller Schmidt and Company re Josepha Weissflog, Gustav Adolph Weissflog, Ellen Schmidt, Friedrich Wilhelm Schmidt, Friedrich Karl August Hoffman, Lorna Marjorie Hoffman, Fritz George Muller, Julie Anna Muller", 
+        "series": "A472", 
+        "control_symbol": "W672", 
+        "contents_dates": {
+            "date_str": "1940 - 1951", 
+            "start_date": "1940", 
+            "end_date": "1951"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "100040"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Wodarczak, Friedrich Karl (Merchant Navy) PWGM 88031 - Born:  25 September 1920, Saarbrucken Germany - Captured:  28 November 1942, At Sea - Previously interned:  Not known - Arrived Australia: 2 December 1942 - Interned:  Not known - Departed:  ORONTES, 22 January 1947, for Cuxhaven Germany", 
+        "series": "A7919", 
+        "control_symbol": "102039", 
+        "contents_dates": {
+            "date_str": "1945 - 1947", 
+            "start_date": "1945", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "254351"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Reidt, Karl Friedrich (Navy) PWGA 42344 - Born:  10 October 1913, Dortmund Karten Germany - Captured:  23 November 1941, Near Carnarvon Western Australia - Previously interned:  Not known  - Arrived Australia:  SS CENTAUR, 23 November 1941, Fremantle - Interned:  Not known - Departed:  ORONTES, 22 January 1947, for Cuxhaven Germany", 
+        "series": "A7919", 
+        "control_symbol": "102078", 
+        "contents_dates": {
+            "date_str": "1945 - 1947", 
+            "start_date": "1945", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "254390"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Klinke Friedrich (Karl)", 
+        "series": "MP16/1", 
+        "control_symbol": "1914/1/107", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "319567"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schroder, Ernst Karl Friedrich Wilhelm - Adelaide - application for passport", 
+        "series": "D1915", 
+        "control_symbol": "SA225", 
+        "contents_dates": {
+            "date_str": "1920 - 1920", 
+            "start_date": "1920", 
+            "end_date": "1920"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "323186"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schroeder, Friedrich August Karl - application for naturalization - German", 
+        "series": "D1915", 
+        "control_symbol": "SA760", 
+        "contents_dates": {
+            "date_str": "1922 - 1922", 
+            "start_date": "1922", 
+            "end_date": "1922"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "324567"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "CARTER (OR CARLE) Friedrich Karl", 
+        "series": "D1915", 
+        "control_symbol": "SA1275", 
+        "contents_dates": {
+            "date_str": "1925 - 1926", 
+            "start_date": "1925", 
+            "end_date": "1926"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "326080"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "National Security - Frederich [Friedrich] Herman THIEL. [Application for admission of relatives or friends to Australia - Karl WERNER]", 
+        "series": "PP302/1", 
+        "control_symbol": "WA667", 
+        "contents_dates": {
+            "date_str": "1921 - 1941", 
+            "start_date": "1921", 
+            "end_date": "1941"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "331492"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Friedrich Muffler [2 x passport photos]", 
+        "series": "B741", 
+        "control_symbol": "V/22795", 
+        "contents_dates": {
+            "date_str": "1939 - 1947", 
+            "start_date": "1939", 
+            "end_date": "1947"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "396583"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "(Fritz Kleuk) Karl Friedrich Kleuk", 
+        "series": "B741", 
+        "control_symbol": "V/22793", 
+        "contents_dates": {
+            "date_str": "1939 - 1953", 
+            "start_date": "1939", 
+            "end_date": "1953"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "396597"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Julius Friedrich Karl Eberhard SCHUSTER [Box 151]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N39214", 
+        "contents_dates": {
+            "date_str": "1944 - 1946", 
+            "start_date": "1944", 
+            "end_date": "1946"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "521474"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Ludwig Friedrich Erhard [Frederico Albert Ludwig Erhard] [Application for Land Transfer] Hermann Wilhelm Erhard [Interned] [Applicant] Walther Wiechmann [Nominee] [Correspondence concerning loyalties of family] [Box 72]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N19781", 
+        "contents_dates": {
+            "date_str": "1915 - 1942", 
+            "start_date": "1915", 
+            "end_date": "1942"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "521514"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hermann Friedrich Wilhelm Karl MEIER (Objection 39 of 1940; AC) [Box 19]", 
+        "series": "C329", 
+        "control_symbol": "586", 
+        "contents_dates": {
+            "date_str": "1940 - 1940", 
+            "start_date": "1940", 
+            "end_date": "1940"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "676534"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Bauman, Johann Karl Herman Friedrich [born Germany 1883] [district register W3/29/144, W3/29/133, W3/29/134, W3/29/21]", 
+        "series": "A401", 
+        "control_symbol": "BAUMANN", 
+        "contents_dates": {
+            "date_str": "1914 - 1918", 
+            "start_date": "1914", 
+            "end_date": "1918"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "734067"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Krockenberger Karl Friedrich also Hilda, Irene, Oscar and Bruno", 
+        "series": "A367", 
+        "control_symbol": "C84201", 
+        "contents_dates": {
+            "date_str": "1941 - 1947", 
+            "start_date": "1941", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "768558"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Weid Karl Friedrich also Nelli and Gisela", 
+        "series": "A367", 
+        "control_symbol": "C82120", 
+        "contents_dates": {
+            "date_str": "1941 - 1946", 
+            "start_date": "1941", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "768669"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Gonschorek Friedrich Karl", 
+        "series": "A367", 
+        "control_symbol": "C73104", 
+        "contents_dates": {
+            "date_str": "1939 - 1947", 
+            "start_date": "1939", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "773638"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schleehauf Friedrich Wilhelm and Heidrich August Karl", 
+        "series": "A367", 
+        "control_symbol": "C70837", 
+        "contents_dates": {
+            "date_str": "1941 - 1945", 
+            "start_date": "1941", 
+            "end_date": "1945"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "776162"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Weiss Karl Friedrich", 
+        "series": "A367", 
+        "control_symbol": "C73259", 
+        "contents_dates": {
+            "date_str": "1943 - 1966", 
+            "start_date": "1943", 
+            "end_date": "1966"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "776241"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Haertel Karl Friedrich", 
+        "series": "A367", 
+        "control_symbol": "C65683", 
+        "contents_dates": {
+            "date_str": "1944 - 1946", 
+            "start_date": "1944", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "781800"
+    }
+]

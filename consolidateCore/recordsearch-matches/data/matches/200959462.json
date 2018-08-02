@@ -1,0 +1,92 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "Seifert, Paul Frderick Josef", 
+        "series": "MP14/1", 
+        "identifier": "1013942", 
+        "control_symbol": "NN", 
+        "contents_dates": {
+            "date_str": "1942 - 1945", 
+            "start_date": "1942", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SEIFERT Paul Friedrich Josef - born 29 May 1901 - German", 
+        "series": "A435", 
+        "control_symbol": "1946/4/979", 
+        "contents_dates": {
+            "date_str": "1930 - 1946", 
+            "start_date": "1930", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7019094"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WITMER Neal Byerly born 30 April 1917; Vivian Gertrude (nee Seifert) born 30 July 1925; Janet Kae born 15 August 1952; Francis Paul born 5 October 1953; Valerie Anita born 30 December 1954; Mark Nevin born 31 October 1957; Perry Alan born 31 October 1959; Dann Jason born 10 October 1963 - United States Citizen", 
+        "series": "A2562", 
+        "control_symbol": "1968/3277", 
+        "contents_dates": {
+            "date_str": "1967 - 1967", 
+            "start_date": "1967", 
+            "end_date": "1967"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7719097"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SEIFERT Anthony Paul born 27 February 1949 - United States Citizen - travelled per flight BOAC591/QF575 departing Los Angeles/America on 8 November 1971", 
+        "series": "A2562", 
+        "control_symbol": "1971/12583", 
+        "contents_dates": {
+            "date_str": "1970 - 1971", 
+            "start_date": "1970", 
+            "end_date": "1971"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7739156"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SEIFERT Harold Goodwin born 12 September 1917; Nancy Day (nee Standhardt) born 30 May 1936; Lynetta Helen born 2 April 1947; Donald Ivan born 12 June 1949; Sheldon Karl born 22 March 1952; Bertelle Julie born 10 July 1955; Paul Frank born 11 February 1957 - American", 
+        "series": "A446", 
+        "control_symbol": "1960/53749", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7747655"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "SEIFERT Paul - Nationality: German - Arrived Sydney per Aircraft VH EBO 6 April 1951", 
+        "series": "D4881", 
+        "identifier": "9223985", 
+        "control_symbol": "SEIFERT PAUL", 
+        "contents_dates": {
+            "date_str": "06 Apr 1951 - 31 Dec 1976", 
+            "start_date": "1951-04-06", 
+            "end_date": "1976-12-31"
+        }, 
+        "location": "Adelaide"
+    }
+]

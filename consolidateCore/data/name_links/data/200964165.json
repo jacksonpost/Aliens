@@ -1,0 +1,137 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "C.F.S. Carl Friedrich Arno Thiermann Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1918/9240", 
+        "contents_dates": {
+            "date_str": "1908 - 1918", 
+            "start_date": "1908", 
+            "end_date": "1918"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "36983"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER Siegfried Arno Friedrich born 22 June 1936; Gisela born 19 October 1935; Simone born 28 November 1954; Sabine born 5 March 1961; Frank born 23 April 1963 - Nationality German  -  arrived per ship RHMS QUEEN FREDEICA departed Brehaven/Germany  12 October 1968 under General Assisted Passage Scheme", 
+        "series": "A2559", 
+        "control_symbol": "1968/220/1268-72", 
+        "contents_dates": {
+            "date_str": "1968 - 1968", 
+            "start_date": "1968", 
+            "end_date": "1968"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5302858"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BLEWONSKI Friedrich born 22 December 1923; Lotte Kuhlmann born 29 December 1926; Walter born 9 April 1951; Arno born 22 July 1952 - German - travelled per ANNA SALEN in July 1954", 
+        "series": "A2478", 
+        "control_symbol": "BLEWONSKI F", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7673941"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BETHGE Walter Friedrich born 17 April 1921; Elsbeth Irmgard (nee Meier) born 28 March 1921; Irena born 28 January 1945; Arno born 8 March 1949; Walter born 8 March 1949 - German - travelled per CASTEL FELICE in May 1959", 
+        "series": "A2478", 
+        "control_symbol": "BETHGE W F", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7702843"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Friedrich Arno", 
+        "series": "PP14/2", 
+        "control_symbol": "PF/262", 
+        "contents_dates": {
+            "date_str": "circa1914 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "752267"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Arno Herman Friedrich [Interned] [includes names of other possible internees] [Box 30]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N5363", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "844019"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "War Graves of ex-enemy aliens who were buried in Australia - Leon Braunstein - Karl Rauscher - Miko Tunpor - Arno Friedrich [15 pages]", 
+        "series": "B741", 
+        "control_symbol": "V/7326", 
+        "contents_dates": {
+            "date_str": "1930 - 1930", 
+            "start_date": "1930", 
+            "end_date": "1930"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1142073"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Arno Friedrich Otto Rieck [German - Arrived Melbourne per STRATHAIRD 31 May 1959]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/RIECK ARNO FRIEDRICH OTTO", 
+        "contents_dates": {
+            "date_str": "1959 - 1968", 
+            "start_date": "1959", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7845437"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RATHSACK Arno Friedrich Wilhelm - Nationality: German - Arrived Adelaide per Nelly 3 May 1952", 
+        "series": "D4881", 
+        "control_symbol": "RATHSACK ARNO FRIEDRICH WILHELM", 
+        "contents_dates": {
+            "date_str": "1952 - 1976", 
+            "start_date": "1952", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9239968"
+    }
+]

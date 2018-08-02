@@ -1,0 +1,62 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "SCHOTT BADEN KEITH : Service Number - VX110787 : Date of birth - 24 Mar 1922 : Place of birth - WONTHAGGI VIC : Place of enlistment - MELBOURNE VIC : Next of Kin - SCHOTT J", 
+        "series": "B883", 
+        "control_symbol": "VX110787", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6098535"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JOHNS DOUGLAS BADEN TUCHIN : Service Number - V265254 : Date of birth - 26 Jun 1923 : Place of birth - GOULBURN NSW : Place of enlistment - BAIRNSDALE VIC : Next of Kin - JOHNS J", 
+        "series": "B884", 
+        "control_symbol": "V265254", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6608725"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "'Education - TV Experimental' - F J Hafey, R Fisher, Bill Bain, J H Pendlebury, E R Dawes, Sir Baden Pattinson, J S Miller [No item present - possibility item was never transferred to National Archives] [Box 5]", 
+        "series": "SP1426/4", 
+        "control_symbol": "79", 
+        "contents_dates": {
+            "date_str": "1969 - 1969", 
+            "start_date": "1969", 
+            "end_date": "1969"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4366917"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "J Pierre Couve Limited versus GUTERMANN Alexander; GUTTERMAN Richard C; GUTTERMAN Oscar J; GUTERMANN Heinrich carrying on business in Gutach Breisgan Baden Germany under the name of Gutermann and Company", 
+        "series": "A10071", 
+        "control_symbol": "1932/55", 
+        "contents_dates": {
+            "date_str": "1932 - 1932", 
+            "start_date": "1932", 
+            "end_date": "1932"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8353633"
+    }
+]

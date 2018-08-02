@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_pages": "2", 
+        "title": "Applicant - TRCIN Anti; Nominee - MRSA Mate; nationality Yugoslavian", 
+        "series": "A261", 
+        "control_symbol": "1926/2157", 
+        "contents_dates": {
+            "date_str": "1926 - 1926", 
+            "start_date": "1926", 
+            "end_date": "1926"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7639810"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MRSA Mate [Yugoslav]", 
+        "series": "PP256/1", 
+        "control_symbol": "W1961/6631", 
+        "contents_dates": {
+            "date_str": "1961 - 1961", 
+            "start_date": "1961", 
+            "end_date": "1961"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "30808186"
+    }
+]

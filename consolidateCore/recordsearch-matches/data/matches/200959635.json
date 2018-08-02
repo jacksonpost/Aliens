@@ -1,0 +1,317 @@
+[
+    {
+        "digitised_pages": "11", 
+        "title": "Karl Edward PEDERSEN. Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1915/10566", 
+        "contents_dates": {
+            "date_str": "1915 - 1916", 
+            "start_date": "1915", 
+            "end_date": "1916"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "33026"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PEDERSEN Karl Evald Peder born 7 May 1916; Ruth Rigmor Agnete born 13 September 1918; Kothe Burke born 17 February 1940; Teddy Burke Stenild born 11 March 1946 - Danish - travelled per HIMALAYA departing London/England on 18 February 1957 under General Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "PEDERSEN K E P", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1214060"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PEDERSEN Karl Rikardt born 28 May 1933; Ena Liv (nee Halbo) born 3 July 1924 - Danish - travelled per ship SKAUBRYN departing Bremerhaven/Germany on 30 March 1957 under General Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "PEDERSEN K R", 
+        "contents_dates": {
+            "date_str": "1956 - 1957", 
+            "start_date": "1956", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1439708"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PEDERSEN Karl Gunnar Vilhelm Vigel born 1 February 1940 - Danish - travelled per TAHITIEN on 15 April 1969", 
+        "series": "A2562", 
+        "control_symbol": "1969/3318", 
+        "contents_dates": {
+            "date_str": "1968 - 1968", 
+            "start_date": "1968", 
+            "end_date": "1968"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7609425"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PEDERSEN Karl Otto born 28 September 1925; Birgit born 16 April 1923; Viggo born 10 April 1945 - Denmark -  travelled per CASTEL FELICE in January 1957", 
+        "series": "A2478", 
+        "control_symbol": "PEDERSEN K O", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7698966"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PEDERSEN KARL Vigel born 20 December 1940 - Danish - travelled per ship AUSTRALIS departing Southampton/England on 2 February 1967", 
+        "series": "A2561", 
+        "control_symbol": "2467", 
+        "contents_dates": {
+            "date_str": "1965 - 1967", 
+            "start_date": "1965", 
+            "end_date": "1967"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7758531"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Naturalisation - PEDERSEN Karl Martin born 14 February 1919", 
+        "series": "A446", 
+        "control_symbol": "1956/43984", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8372766"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Pedersen, Birgit Danish born 1923 - arrived Sydney 27 January 1957 aboard Castel Felice - husband Karl and child Jorgen", 
+        "series": "BP308/1", 
+        "control_symbol": "PEDERSEN B", 
+        "contents_dates": {
+            "date_str": "1949 - 1964", 
+            "start_date": "1949", 
+            "end_date": "1964"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9103961"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "pedersen, Kathe Burke Danish born 1940 - arrived Sydney 24 March 1957 aboard Himalaya - father Karl Evald", 
+        "series": "BP308/1", 
+        "control_symbol": "PEDERSEN K", 
+        "contents_dates": {
+            "date_str": "1949 - 1964", 
+            "start_date": "1949", 
+            "end_date": "1964"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9103969"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Pedersen, Karl Evald Peder Danish born 1916 - arrived Sydney 24 March 1957 aboard Himalaya - husband Ruth Rigmar", 
+        "series": "BP308/1", 
+        "control_symbol": "PEDERSEN K E", 
+        "contents_dates": {
+            "date_str": "1949 - 1964", 
+            "start_date": "1949", 
+            "end_date": "1964"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9103970"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Pedersen, karl Otto Danish born 1925 - arrived Sydney 27 January 1957 aboard Castel Felice - wife Birgit", 
+        "series": "BP308/1", 
+        "control_symbol": "PEDERSEN K O", 
+        "contents_dates": {
+            "date_str": "1949 - 1964", 
+            "start_date": "1949", 
+            "end_date": "1964"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9103971"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Pedersen, Ruth Rigmor Agnette Danish born 1918 - arrived Sydney 24 March 1957 aboard Himalaya - husband Karl Evald and child Teddy Stenild Burke", 
+        "series": "BP308/1", 
+        "control_symbol": "PEDERSEN R R", 
+        "contents_dates": {
+            "date_str": "1949 - 1964", 
+            "start_date": "1949", 
+            "end_date": "1964"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9103977"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Jens Karl Hyldborg Pedersen [Application for Naturalisation] [Box 41]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N6382", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "846884"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "PEDERSEN, Karl Evald Peder - Nationality: Danish - arrived Sydney on S/s Himalaya 24 March 1957 - departed Sydney Flight QF830104 1 May 1962", 
+        "series": "BP25/1", 
+        "control_symbol": "PEDERSEN K E P - DANISH", 
+        "contents_dates": {
+            "date_str": "1957 - 1962", 
+            "start_date": "1957", 
+            "end_date": "1962"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4065352"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PEDERSEN Karl - Nationality : Norwegian - [Application Form for Registration as Alien]", 
+        "series": "PP14/3", 
+        "control_symbol": "NORWEGIAN/PEDERSEN K", 
+        "contents_dates": {
+            "date_str": "circa1916 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4278859"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PEDERSEN Karl Martin - Nationality: Norwegian - Arrived Melbourne per Skagerak 5 December 1945", 
+        "series": "B78", 
+        "control_symbol": "1956/PEDERSEN K M", 
+        "contents_dates": {
+            "date_str": "1946 - 1956", 
+            "start_date": "1946", 
+            "end_date": "1956"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4804675"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PEDERSEN Karl Andreas - Nationality: Norwegian - Arrived Melbourne per James Stove 27 June 1949 Departed Commonwealth on 23 July 1949", 
+        "series": "B78", 
+        "control_symbol": "NORWEGIAN/PEDERSEN KARL ANDREAS", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5926779"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PEDERSON Karl - Nationality: Norwegian - Arrived Melbourne per Buccinum 09 January 1950 Departed Commonwealth on 20 February 1951 Also known as PEDERSEN", 
+        "series": "B78", 
+        "control_symbol": "NORWEGIAN/PEDERSON KARL", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5929186"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Pederson, Jens Karl Hyldborg - Nationality: Danish - Alien Registration Certificate not issued [folio indicates Pedersen was naturalized 2 February 1928]", 
+        "series": "BP4/3", 
+        "control_symbol": "DANISH PEDERSON J K H", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6314850"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PEDERSEN Karl: Nationality - Norwegian: Date of Birth - 20 September 1883: Arrived per BALLANDS: First Registered at Williamstown - Victoria", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/NORWAY/PEDERSEN KARL", 
+        "contents_dates": {
+            "date_str": "1917 - 1918", 
+            "start_date": "1917", 
+            "end_date": "1918"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6544431"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "PEDERSEN Ove Karl: Nationality - Danish: Date of Birth - 24 December 1894: Date of Arrival - 10 November 1927: Arrived per HOBSON BAY: Certificate Number 27: Date of Issue - 19 September 1939: [Contains one black and white photograph]", 
+        "series": "B6531", 
+        "control_symbol": "NATURALISED/1939-1945/PEDERSEN OVE", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6544846"
+    }
+]

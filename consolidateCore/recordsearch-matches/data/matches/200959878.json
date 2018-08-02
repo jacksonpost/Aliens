@@ -1,0 +1,107 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Froreich, Herrmann Paul Richard - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1863/D7921", 
+        "contents_dates": {
+            "date_str": "1863 - 1863", 
+            "start_date": "1863", 
+            "end_date": "1863"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1815234"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GEFFERT Paul Herrmann born 19 May 1936 - German - travelled per ANNA SALEN in June 1955", 
+        "series": "A2478", 
+        "control_symbol": "GEFFERT P", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7677022"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HERRMANN Paul Josef born 27 June 1936 - German - travelled per CASTEL FELICE on 2 September 1960", 
+        "series": "A2478", 
+        "control_symbol": "HERRMANN P J", 
+        "contents_dates": {
+            "date_str": "1959 - 1960", 
+            "start_date": "1959", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7710106"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WEBER Elise Auguste Charlott - Application for admission of relative or friend to Australia - EINHORN Erika and Paul - HERRMANN ANNA and Curt", 
+        "series": "D401", 
+        "control_symbol": "SA1947/3/721", 
+        "contents_dates": {
+            "date_str": "1947 - 1947", 
+            "start_date": "1947", 
+            "end_date": "1947"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "12486310"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HERRMANN Paul Heinrich Otto - Nationality: German - Arrived Melbourne per Seven Seas 20 February 1955 Departed Commonwealth on 30 Dec 1959", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/HERRMANN PAUL HEINRICH OTTO", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5705175"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Heinz Herrmann Paul - Nationality: German - Arrived Melbourne per Castel Felice 29 November 1958", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/WAGNER HEINZ HERRMANN PAUL", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6590709"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Wolfgang August Gunter Emil Paul Herrmann [German - Arrived Melbourne per CASTEL FELICE 25 June 1958]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/HERRMANN WOLFGANG AUGUST GUNTER EMIL PAUL", 
+        "contents_dates": {
+            "date_str": "1958 - 1968", 
+            "start_date": "1958", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7532058"
+    }
+]

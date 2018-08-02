@@ -1,0 +1,122 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "VAN HAGEN Johannes born 21 March 1921; Anna (nee Hovancek) born 11 October 1922; Rudolf born 22 March 1947; Anna M born 19 November 1949 - Dutch - travelled per WATERMAN under Netherlands Australia Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "VAN HAGEN J", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1194478"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HAGEN Rudolf Peter born 11 November 1946 - Nationality Dutch - arrived per ship M.S. AUSTRALIS departed Southampton Netherlands 15 September 1969 under Netherlands/Australia Migration Agreement", 
+        "series": "A2559", 
+        "control_symbol": "1969/222/27", 
+        "contents_dates": {
+            "date_str": "1968 - 1968", 
+            "start_date": "1968", 
+            "end_date": "1968"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5300327"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HAGEN Rudolf born 10 April 1934 - German - travelled per CASTEL FELICE on 31 October 1955", 
+        "series": "A2478", 
+        "control_symbol": "HAGEN R", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7793824"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "VAN HAGEN Anna born 1922, Rudolf born 1947, Anna born 1949 - Nationality: Dutch - Arrived Melbourne per Waterman September 1955", 
+        "series": "D343", 
+        "control_symbol": "HAGEN A", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30448767"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HAGEN Rudolf - Nationality: Swiss - Arrived Perth per Aircraft 7 October 1960", 
+        "series": "K1331", 
+        "control_symbol": "1960/1961/HAGEN R", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3324281"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent by Rudolf Hagen and Carl Frohnhaeusen titled - Improvements in motor oad vehicles", 
+        "series": "A12572", 
+        "control_symbol": "5209", 
+        "contents_dates": {
+            "date_str": "1899 - 1900", 
+            "start_date": "1899", 
+            "end_date": "1900"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7669022"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Specifications for registration of patent by Rudolf Hagen and Carl Frohnhaeuser titled - Improvements in motor road vehicles - Patent not registered", 
+        "series": "A13127", 
+        "control_symbol": "5209", 
+        "contents_dates": {
+            "date_str": "1899 - 1899", 
+            "start_date": "1899", 
+            "end_date": "1899"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9002073"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WOHLGEHAGEN Rudolf David - Nationality: Polish Arrived Adelaide per William Bornhoffen 3 March 1952 Also known as HAGEN", 
+        "series": "D4881", 
+        "control_symbol": "WOHLGEHAGEN RUDOLF DAVID", 
+        "contents_dates": {
+            "date_str": "1952 - 1959", 
+            "start_date": "1952", 
+            "end_date": "1959"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9228910"
+    }
+]

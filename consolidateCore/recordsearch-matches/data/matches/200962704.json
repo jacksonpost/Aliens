@@ -1,0 +1,287 @@
+[
+    {
+        "digitised_pages": "2", 
+        "title": "OLSEN Harry [Henry Nathaniel] - [Civil Constructional Corps - Victoria] number CV32547 - Year of birth 1915", 
+        "series": "B4218", 
+        "control_symbol": "CV32547", 
+        "contents_dates": {
+            "date_str": "1942 - 1943", 
+            "start_date": "1942", 
+            "end_date": "1943"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6584373"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[OLSEN Harry Stein (Private) : Service Number - 2787890 : Unit - Unallotted List, Australian Military Forces : Date of Court Martial - 18 July 1968]", 
+        "series": "A471", 
+        "control_symbol": "91478", 
+        "contents_dates": {
+            "date_str": "1968 - 1968", 
+            "start_date": "1968", 
+            "end_date": "1968"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9578820"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OLSEN, Harry Edward - Service Number - 53073", 
+        "series": "J26", 
+        "control_symbol": "M33172", 
+        "contents_dates": {
+            "date_str": "1918 - 1994", 
+            "start_date": "1918", 
+            "end_date": "1994"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "32315001"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OLSEN HARRY : Service Number - Q140252 : Date of birth - 28 Apr 1889 : Place of birth - BRISBANE QLD : Place of enlistment - BRISBANE QLD : Next of Kin - OLSEN FLORENCE", 
+        "series": "B884", 
+        "control_symbol": "Q140252", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4453463"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OLSEN HARRY EDWARD : Service Number - Q50746 : Date of birth - 08 Sep 1899 : Place of birth - BRISBANE QLD : Place of enlistment - GAYTHORNE QLD : Next of Kin - OLSEN MAY", 
+        "series": "B884", 
+        "control_symbol": "Q50746", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4462233"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OLSEN HARRY : Service Number - 417226 : Date of birth - 28 Aug 1920 : Place of birth - BALAKLAVA SA : Place of enlistment - ADELAIDE : Next of Kin - OLSEN FREDERICK", 
+        "series": "A9300", 
+        "control_symbol": "OLSEN H", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5261254"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OLSEN WILFRED RAYMOND : Service Number - NX162268 : Date of birth - 27 Aug 1921 : Place of birth - GRANVILLE NSW : Place of enlistment - DARWIN NT : Next of Kin - OLSEN HARRY", 
+        "series": "B883", 
+        "control_symbol": "NX162268", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5553291"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OLSEN MARK JOSEPH : Service Number - V306187 : Date of birth - 05 Apr 1902 : Place of birth - WANDONG VIC : Place of enlistment - MOONEE PONDS VIC : Next of Kin - OLSEN HARRY", 
+        "series": "B884", 
+        "control_symbol": "V306187", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6607167"
+    }, 
+    {
+        "digitised_pages": "20", 
+        "title": "OLSEN Harry Edward : Service Number - 53073 : Place of Birth - Brisbane QLD : Place of Enlistment - Brisbane QLD : Next of Kin - (Father) OLSEN Andrew", 
+        "series": "B2455", 
+        "control_symbol": "OLSEN HARRY EDWARD", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8001539"
+    }, 
+    {
+        "digitised_pages": "17", 
+        "title": "OLSEN Harry Eugene : Service Number - 6376 : Place of Birth - Christinana Norway : Place of Enlistment - Perth WA : Next of Kin - (N/A)  N/A", 
+        "series": "B2455", 
+        "control_symbol": "OLSEN HARRY EUGENE", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8001540"
+    }, 
+    {
+        "digitised_pages": "10", 
+        "title": "Harry Eugene Olsen - Naturalization.", 
+        "series": "A1", 
+        "control_symbol": "1916/8487", 
+        "contents_dates": {
+            "date_str": "1916 - 1916", 
+            "start_date": "1916", 
+            "end_date": "1916"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "34341"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OLSEN Harry Asbiorn - born 11 February 1928 - Norwegian", 
+        "series": "A435", 
+        "control_symbol": "1950/4/6509", 
+        "contents_dates": {
+            "date_str": "1950 - 1951", 
+            "start_date": "1950", 
+            "end_date": "1951"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7030643"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OLSEN Jon Harry (aka John Harry) born 13 February 1897 - Norwegian", 
+        "series": "A446", 
+        "control_symbol": "1954/43542", 
+        "contents_dates": {
+            "date_str": "1923 - 1955", 
+            "start_date": "1923", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7772854"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Olsen Harry", 
+        "series": "A367", 
+        "control_symbol": "C78418", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "769793"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUTHOR Ole Olsen, Chick Johnson and Harry Gnunden : ADDRESS Melbourne : TITLE OF WORK The Whole World's Laughing at Me : TYPE OF WORK Musical : APPLICANT L F Collin Proprietary Limited : DATE OF APPLICATION 13 Oct 1927 : DATE COPYRIGHT REGISTERED 18 Oct 1927 : WORK ENCLOSED? Yes", 
+        "series": "A1336", 
+        "control_symbol": "16744", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3479140"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OLSEN Harry Frank - Nationality: Norwegian - Arrived Geelong per Vilja 18 September 1950 Departed Commonwealth on 22 September 1950", 
+        "series": "B78", 
+        "control_symbol": "NORWEGIAN/OLSEN HARRY FRANK", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5926047"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OLSEN Harry Cornelius Jentoft: Nationality - Norwegian: Date of Birth - 18 December 1885: Arrived per ULMIERA: First Registered at Williamstown - Victoria", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/NORWAY/OLSEN HARRY", 
+        "contents_dates": {
+            "date_str": "1919 - 1919", 
+            "start_date": "1919", 
+            "end_date": "1919"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6544348"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Olsen, Harry Anker (Norwegian) [Box 584]", 
+        "series": "C123", 
+        "control_symbol": "20241", 
+        "contents_dates": {
+            "date_str": "1943 - 1943", 
+            "start_date": "1943", 
+            "end_date": "1943"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9673681"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Olsen, Harry (Norwegian) [Box 590]", 
+        "series": "C123", 
+        "control_symbol": "20625", 
+        "contents_dates": {
+            "date_str": "1942 - 1945", 
+            "start_date": "1942", 
+            "end_date": "1945"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9673978"
+    }
+]

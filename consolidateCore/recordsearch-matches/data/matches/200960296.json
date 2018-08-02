@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Bischoff, Johann - Naturalisation", 
+        "series": "A712", 
+        "identifier": "1809494", 
+        "control_symbol": "1852/2772", 
+        "contents_dates": {
+            "date_str": "1852 - 1852", 
+            "start_date": "1852", 
+            "end_date": "1852"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "BISCHOFF Johann George", 
+        "series": "D2375", 
+        "identifier": "9209112", 
+        "control_symbol": "BISCHOFF JOHANN GEORGE", 
+        "contents_dates": {
+            "date_str": "1914 - 1919", 
+            "start_date": "1914", 
+            "end_date": "1919"
+        }, 
+        "location": "Adelaide"
+    }
+]

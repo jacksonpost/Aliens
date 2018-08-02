@@ -1,0 +1,452 @@
+[
+    {
+        "digitised_pages": "14", 
+        "title": "A.K. Arno Karl Wagner Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1922/18269", 
+        "contents_dates": {
+            "date_str": "1922 - 1922", 
+            "start_date": "1922", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "42544"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Josef born 11 January 1938; Klara Hilaria (nee Kemptner) born 11 August 1942; Karl Heinz born 20 April 1960; Severin born 25 June 1962 - German - travelled under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "WAGNER J", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1226161"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl Heinz born 24 October 1928; Ursula (nee Prange) born 3 April 1929; Dietmar born 6 August 1952 - German - travelled per ship JOHAN VAN BARNEVELT departing in 1955", 
+        "series": "A2478", 
+        "control_symbol": "WAGNER K H", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1451760"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl born 3 April 1922; Berta (nee Riedl) born 1 June 1927; Edeltraud born 21 June 1952 - Austrian - travelled per ship FLAMINIA departing in 1955 under Australian Austrian Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "WAGNER K", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1462709"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl born 22 December 1906", 
+        "series": "A12089", 
+        "control_symbol": "2028", 
+        "contents_dates": {
+            "date_str": "1949 - 1949", 
+            "start_date": "1949", 
+            "end_date": "1949"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4728345"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl born 3 November 1923;Herta born 6 November 1927;Carolin born 78 August 1961;Olaf born 1 November 1963;Torsten born 20 August 1965 - Nationality German - arrived per RHMS \"AUSTRALIS\" departed ex BREMERHAVEN/Germany 12 June 1972.", 
+        "series": "A2559", 
+        "control_symbol": "1972/52/3405-3409", 
+        "contents_dates": {
+            "date_str": "1972 - 1972", 
+            "start_date": "1972", 
+            "end_date": "1972"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5464687"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl Kurt - born 1 September 1919 - Austrian", 
+        "series": "A435", 
+        "control_symbol": "1946/4/5416", 
+        "contents_dates": {
+            "date_str": "1944 - 1947", 
+            "start_date": "1944", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7006284"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl Kurt born 7 September 1919; nationality Austrian; travelled per STRATHNAVER arriving in Sydney on 21 March 1939", 
+        "series": "A12508", 
+        "control_symbol": "5/500", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7113443"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl Josef", 
+        "series": "A12569", 
+        "control_symbol": "WAGNER K J", 
+        "contents_dates": {
+            "date_str": "1964 - 1964", 
+            "start_date": "1964", 
+            "end_date": "1964"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7154995"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl born 28 June 1899; nationality German; travelled per DORTMUND arriving in Adelaide on 17 December 1937", 
+        "series": "A12508", 
+        "control_symbol": "21/4496", 
+        "contents_dates": {
+            "date_str": "1937 - 1937", 
+            "start_date": "1937", 
+            "end_date": "1937"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7226316"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl born 16 August 1913; Martha (nee Stieb) born 7 May 1920; Harald born 9 December 1945 - German - travelled per ANNA SALEN in December 1953", 
+        "series": "A2478", 
+        "control_symbol": "WAGNER K", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7674189"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HERZIG Siegfried born 12 March 1930; Christel (nee Wagner) born 29 January 1934; Karl Heinz born 5 February 1952; Cornelia born 1 November 1956; Udo born 3 March 1958 - German - travelled per CASTEL FELICE in May 1959", 
+        "series": "A2478", 
+        "control_symbol": "HERZIG S", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7702932"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl Heinz born 3 July 1941 - German - travelled per CASTEL FELICE on 24 November 1960", 
+        "series": "A2478", 
+        "control_symbol": "WAGNER K H", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7711481"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLUSSMANN Karl Heinz born 23 July 1922; Margot (nee Wagner) born 16 March 1925; Petra born 18 August 1923 - German -  travelled per AROSA-KULM on 10 December 1955", 
+        "series": "A2478", 
+        "control_symbol": "KLUSSMANN K H", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7793964"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl born 14 November 1923; nationality German; WAGNER (aka VOLLMER) Luise, born 11 March 1926", 
+        "series": "A997", 
+        "control_symbol": "1948/2281", 
+        "contents_dates": {
+            "date_str": "1948 - 1948", 
+            "start_date": "1948", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7853083"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Naturalisation - WAGNER Karl born 14 November 1923", 
+        "series": "A446", 
+        "control_symbol": "1956/52084", 
+        "contents_dates": {
+            "date_str": "1955 - 1956", 
+            "start_date": "1955", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8384583"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Kurt Wagner v  The commonwealth of Australia Edward G Theodore and W Stewart Howard - High court writ to restrain exercise of power under reg 8 of the National Security (Aliens Service) Regulations", 
+        "series": "A472", 
+        "control_symbol": "W10506", 
+        "contents_dates": {
+            "date_str": "1942 - 1943", 
+            "start_date": "1942", 
+            "end_date": "1943"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "101300"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Wagner, Karl Kurt born 1919 - nationality Austrian - arrived in Sydney on STRATHNAVER 21 March 1939", 
+        "series": "BP9/3", 
+        "control_symbol": "AUSTRIAN WAGNER K K", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3421856"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Maximillian Wagner [Includes Photograph of Subject] - Nationality: American - Arrived Melbourne per Thomas H Barry Troopship, 26 February 1942 [1 page; Box 9]", 
+        "series": "SP11/2", 
+        "control_symbol": "AMERICAN/WAGNER K M", 
+        "contents_dates": {
+            "date_str": "1945 - 1945", 
+            "start_date": "1945", 
+            "end_date": "1945"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3538484"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl - Nationality: German - Arrived Sydney per Partizanka 11 January 1949", 
+        "series": "B78", 
+        "control_symbol": "1956/WAGNER K", 
+        "contents_dates": {
+            "date_str": "1949 - 1956", 
+            "start_date": "1949", 
+            "end_date": "1956"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4802649"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl Walter - Nationality: German - Arrived Melbourne per Roma 04 February 1961 Departed Commonwealth on 10 December 1962", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/WAGNER KARL WALTER", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5992307"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Wagner, Karl Arno - Nationality: German - Alien Registration Certificate No 10 issued 24 October 1916 at Avondale", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMAN WAGNER K A", 
+        "contents_dates": {
+            "date_str": "1916 - 1922", 
+            "start_date": "1916", 
+            "end_date": "1922"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6304285"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl Heinz - Nationality: German - Arrived Melbourne per Castel Felice 26 December 1960", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/WAGNER KARL HEINZ", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6590714"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl Anton - Nationality: German Arrived Melbourne per Oceania 19 December 1957", 
+        "series": "D4881", 
+        "control_symbol": "WAGNER KARL ANTON", 
+        "contents_dates": {
+            "date_str": "1957 - 1963", 
+            "start_date": "1957", 
+            "end_date": "1963"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7186258"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Willi Karl Eduard - Nationality: German Arrived Adelaide per Weserstein 18 November 1959 Departed Commonwealth on 1 July 1960", 
+        "series": "D4881", 
+        "control_symbol": "WAGNER WILLI KARL EDUARD", 
+        "contents_dates": {
+            "date_str": "1959 - 1960", 
+            "start_date": "1959", 
+            "end_date": "1960"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7186271"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl Kurt versus The Commonwealth of Australia; Edward Granville THEODORE and W Stewart HOWARD", 
+        "series": "A10072", 
+        "control_symbol": "1942/7", 
+        "contents_dates": {
+            "date_str": "1942 - 1942", 
+            "start_date": "1942", 
+            "end_date": "1942"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7432937"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl Heinz - Nationality: German - Arrived Melbourne per Castel Felice 27 December 1960", 
+        "series": "D4881", 
+        "control_symbol": "WAGNER KARL HEINZ", 
+        "contents_dates": {
+            "date_str": "1960 - 1976", 
+            "start_date": "1960", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8117883"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Robert Karl - Nationality: German - Arrived Melbourne per Oceania 19 December 1957", 
+        "series": "D4881", 
+        "control_symbol": "WAGNER ROBERT KARL", 
+        "contents_dates": {
+            "date_str": "1957 - 1976", 
+            "start_date": "1957", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8117891"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Kurt Karl WAGNER - Nationality: Austrian - Arrived Sydney per STRATHNAVER on 20 Mar 1939 [Box 210]", 
+        "series": "SP11/5", 
+        "control_symbol": "WAGNER, KURT KARL", 
+        "contents_dates": {
+            "date_str": "1939 - 1947", 
+            "start_date": "1939", 
+            "end_date": "1947"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30378981"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Karl - Nationality: Austrian - Arrived Melbourne per Flaminia 14 November 1955", 
+        "series": "B78", 
+        "control_symbol": "AUSTRIAN/WAGNER KARL", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30595176"
+    }
+]

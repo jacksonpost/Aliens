@@ -1,0 +1,17 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Lustig, David [district register W3/29/23/15]", 
+        "series": "A401", 
+        "identifier": "735480", 
+        "control_symbol": "LUSTIG", 
+        "contents_dates": {
+            "date_str": "1914 - 1918", 
+            "start_date": "1914", 
+            "end_date": "1918"
+        }, 
+        "location": "Hobart"
+    }
+]

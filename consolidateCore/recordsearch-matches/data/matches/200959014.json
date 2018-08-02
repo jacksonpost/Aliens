@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "HEIDEMANN AUGUST WILHELM : Service Number - Q144540 : Date of birth - 19 Aug 1907 : Place of birth - GYMPIE QLD : Place of enlistment - LANDSBOROUGH QLD : Next of Kin - HEIDEMANN FLORENCE", 
+        "series": "B884", 
+        "identifier": "4454653", 
+        "control_symbol": "Q144540", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "BRETTHAUER Hans born 28 September 1919; Erika (nee Heidemann) born 11 March 1927; Friedrich Wilhelm born 16 November 1949; Hans born 1 February 1951 - German - travelled per ANNA SALEN in July 1954", 
+        "series": "A2478", 
+        "identifier": "7673945", 
+        "control_symbol": "BRETTHAUER H", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra"
+    }
+]

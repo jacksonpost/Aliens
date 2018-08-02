@@ -1,0 +1,3090 @@
+[
+    {
+        "internName": "Karl JANSEN",
+        "internBarcode": "200959877",
+        "a1title": "Karl Jensen - naturalisation",
+        "a1ctrl": "1904/5374",
+        "a1barcode": "1321",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "John SCHMIDT",
+        "internBarcode": "200959988",
+        "a1title": "John Schmitt - naturalisation",
+        "a1ctrl": "1904/5272",
+        "a1barcode": "1286",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Henry WALDERS",
+        "internBarcode": "200964594",
+        "a1title": "Henry WALTERS - naturalisation",
+        "a1ctrl": "1904/5945",
+        "a1barcode": "1496",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Wilhelm THIELE",
+        "internBarcode": "200960633",
+        "a1title": "Wilhelm Thiede - naturalisation",
+        "a1ctrl": "1904/3058",
+        "a1barcode": "881",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Peter JANSEN",
+        "internBarcode": "200960529",
+        "a1title": "Peter Jensen naturalisation",
+        "a1ctrl": "1904/7956",
+        "a1barcode": "2059",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Charles MILLER",
+        "internBarcode": "200960531",
+        "a1title": "Charles MILLER - Naturalisation",
+        "a1ctrl": "1904/8718",
+        "a1barcode": "2234",
+        "matchScore": 1
+    },
+    {
+        "internName": "Henry SCHNEIDER",
+        "internBarcode": "200964546",
+        "a1title": "Henry SCHNEIDER - naturalisation",
+        "a1ctrl": "1904/9773",
+        "a1barcode": "2429",
+        "matchScore": 1
+    },
+    {
+        "internName": "August SCHULTZ",
+        "internBarcode": "200960831",
+        "a1title": "Auguste Schultz - naturalisation",
+        "a1ctrl": "1905/4206",
+        "a1barcode": "3102",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "William HILLS",
+        "internBarcode": "200959863",
+        "a1title": "William Hill naturalisation",
+        "a1ctrl": "1904/8071",
+        "a1barcode": "2084",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Heinrich PEINE",
+        "internBarcode": "200963561",
+        "a1title": "Heinrich Heine. naturalisation",
+        "a1ctrl": "1909/2593",
+        "a1barcode": "3765",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Frank WACKER",
+        "internBarcode": "200964405",
+        "a1title": "Frank Walker - naturalisation",
+        "a1ctrl": "1905/5425",
+        "a1barcode": "3311",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Charles NEWMAN",
+        "internBarcode": "200964577",
+        "a1title": "Charles Newmann. naturalisation",
+        "a1ctrl": "1909/7583",
+        "a1barcode": "4434",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Gustav BORMANN",
+        "internBarcode": "200962003",
+        "a1title": "Gustave Bormann - naturalisation",
+        "a1ctrl": "1909/11638",
+        "a1barcode": "5267",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Albert STOVER",
+        "internBarcode": "200963515",
+        "a1title": "Albert Stoter. naturalisation",
+        "a1ctrl": "1909/11924",
+        "a1barcode": "5310",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Frank CLEMENS",
+        "internBarcode": "200960535",
+        "a1title": "Frank Clemens. naturalisation",
+        "a1ctrl": "1909/12558",
+        "a1barcode": "5435",
+        "matchScore": 1
+    },
+    {
+        "internName": "August HEINE",
+        "internBarcode": "200959382",
+        "a1title": "Augusta Heine. naturalisation",
+        "a1ctrl": "1909/13675",
+        "a1barcode": "5635",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Karl ULRICH",
+        "internBarcode": "200963988",
+        "a1title": "Carl Ulrich - naturalisation",
+        "a1ctrl": "1909/11439",
+        "a1barcode": "5238",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Reinhold HOFFMANN",
+        "internBarcode": "200963420",
+        "a1title": "Reinhold Hofmann. naturalisation",
+        "a1ctrl": "1909/12339",
+        "a1barcode": "5388",
+        "matchScore": 0.9411764705882353
+    },
+    {
+        "internName": "Hermann SCHMIDT",
+        "internBarcode": "200964133",
+        "a1title": "Hermann Schmidt. naturalisation",
+        "a1ctrl": "1909/7896",
+        "a1barcode": "4513",
+        "matchScore": 1
+    },
+    {
+        "internName": "Johann LEHMANN",
+        "internBarcode": "200961146",
+        "a1title": "Johann Lehmann - naturalisation",
+        "a1ctrl": "1909/8600",
+        "a1barcode": "4647",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl JANSEN",
+        "internBarcode": "200959877",
+        "a1title": "Karl Hansen. naturalisation",
+        "a1ctrl": "1909/8910",
+        "a1barcode": "4724",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Kurt WINKLER",
+        "internBarcode": "200960246",
+        "a1title": "Kurt WINKLER - naturalisation",
+        "a1ctrl": "1905/8119",
+        "a1barcode": "6492",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl ZIMMERMANN",
+        "internBarcode": "200962950",
+        "a1title": "Carl Zimmermann - naturalisation",
+        "a1ctrl": "1909/11427",
+        "a1barcode": "5226",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Charles MILLER",
+        "internBarcode": "200960531",
+        "a1title": "Charles Muller - naturalisation Cert ificate",
+        "a1ctrl": "1909/11515",
+        "a1barcode": "5251",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Friedrich MUELLER",
+        "internBarcode": "200960905",
+        "a1title": "Friedrich Muller. naturalisation",
+        "a1ctrl": "1909/1966",
+        "a1barcode": "3709",
+        "matchScore": 0.9411764705882353
+    },
+    {
+        "internName": "Julius HANSEN",
+        "internBarcode": "200964100",
+        "a1title": "Julius HANSEN - Naturalisation",
+        "a1ctrl": "1906/4122",
+        "a1barcode": "7074",
+        "matchScore": 1
+    },
+    {
+        "internName": "Wilhelm LEHRKE",
+        "internBarcode": "200962492",
+        "a1title": "Wilhelm GEHRKE - naturalisation",
+        "a1ctrl": "1905/4882",
+        "a1barcode": "3210",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Carl MEYER",
+        "internBarcode": "200963582",
+        "a1title": "Carl Meyer - Naturalisation",
+        "a1ctrl": "1907/2752",
+        "a1barcode": "8007",
+        "matchScore": 1
+    },
+    {
+        "internName": "George KRUEGER",
+        "internBarcode": "200963639",
+        "a1title": "George KRUGER - naturalisation",
+        "a1ctrl": "1907/4185",
+        "a1barcode": "8118",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Hugo MUELLER",
+        "internBarcode": "200964420",
+        "a1title": "Hugo Muller - naturalisation",
+        "a1ctrl": "1909/9386",
+        "a1barcode": "4826",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Charles MILLER",
+        "internBarcode": "200960531",
+        "a1title": "Charles Miller - naturalisation",
+        "a1ctrl": "1909/11059",
+        "a1barcode": "5160",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl WEINER",
+        "internBarcode": "200961691",
+        "a1title": "Karl WEIMER - naturalisation",
+        "a1ctrl": "1906/581",
+        "a1barcode": "6585",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Wilhelm MUELLER",
+        "internBarcode": "200962163",
+        "a1title": "Wilhelm MOELLER - naturalisation",
+        "a1ctrl": "1906/8248",
+        "a1barcode": "7609",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Johann RICHARTZ",
+        "internBarcode": "200964506",
+        "a1title": "Johann Richartz - naturalisation",
+        "a1ctrl": "1905/940",
+        "a1barcode": "2681",
+        "matchScore": 1
+    },
+    {
+        "internName": "Paul SCHRAMM",
+        "internBarcode": "200963125",
+        "a1title": "Paul SCHRAMM - Naturalisation",
+        "a1ctrl": "1907/5945",
+        "a1barcode": "8273",
+        "matchScore": 1
+    },
+    {
+        "internName": "Johann SCHULTZ",
+        "internBarcode": "200962564",
+        "a1title": "Johann SCHULTZ - naturalisation",
+        "a1ctrl": "1906/1412",
+        "a1barcode": "6719",
+        "matchScore": 1
+    },
+    {
+        "internName": "John SCHMIDT",
+        "internBarcode": "200959988",
+        "a1title": "John Schmidt - naturalisation",
+        "a1ctrl": "1904/5322",
+        "a1barcode": "1302",
+        "matchScore": 1
+    },
+    {
+        "internName": "Carl FISCHER",
+        "internBarcode": "200964387",
+        "a1title": "Carl FISCHER - Naturalisation",
+        "a1ctrl": "1907/9597",
+        "a1barcode": "8643",
+        "matchScore": 1
+    },
+    {
+        "internName": "Joseph WERNER",
+        "internBarcode": "200961171",
+        "a1title": "Joseph WERNER - naturalisation",
+        "a1ctrl": "1906/5178",
+        "a1barcode": "7221",
+        "matchScore": 1
+    },
+    {
+        "internName": "Max BOSSIAN",
+        "internBarcode": "200963120",
+        "a1title": "Max Bossian. naturalisation",
+        "a1ctrl": "1909/6471",
+        "a1barcode": "4182",
+        "matchScore": 1
+    },
+    {
+        "internName": "Wilhelm MEYER",
+        "internBarcode": "200960836",
+        "a1title": "Wilhelm Meyer naturalisation",
+        "a1ctrl": "1904/6553",
+        "a1barcode": "1653",
+        "matchScore": 1
+    },
+    {
+        "internName": "August MEYER",
+        "internBarcode": "200961530",
+        "a1title": "August Meier-naturalisation",
+        "a1ctrl": "1904/6711",
+        "a1barcode": "1704",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Henry BARTELS",
+        "internBarcode": "200963320",
+        "a1title": "Henry Barels. naturalisation",
+        "a1ctrl": "1909/13905",
+        "a1barcode": "5679",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Paul Max KAUFMANN",
+        "internBarcode": "200964730",
+        "a1title": "Paul Max KAUFMANN - naturalisation",
+        "a1ctrl": "1906/8524",
+        "a1barcode": "7630",
+        "matchScore": 1
+    },
+    {
+        "internName": "Peter JANSEN",
+        "internBarcode": "200960529",
+        "a1title": "Peter Hansen. naturalisation",
+        "a1ctrl": "1909/7436",
+        "a1barcode": "4407",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Max SCHNEIDER",
+        "internBarcode": "200963267",
+        "a1title": "Max SCHNEIDER - naturalisation",
+        "a1ctrl": "1908/2510",
+        "a1barcode": "9096",
+        "matchScore": 1
+    },
+    {
+        "internName": "Gustav MEYER",
+        "internBarcode": "200960648",
+        "a1title": "Gustav Meyer - Naturalisation",
+        "a1ctrl": "1908/4653",
+        "a1barcode": "9267",
+        "matchScore": 1
+    },
+    {
+        "internName": "Ephraim BROWN",
+        "internBarcode": "200963121",
+        "a1title": "Ephraim Brown - naturalisation",
+        "a1ctrl": "1904/10283",
+        "a1barcode": "2506",
+        "matchScore": 1
+    },
+    {
+        "internName": "Hans PETERSEN",
+        "internBarcode": "200959090",
+        "a1title": "Hans PEDERSEN - naturalisation",
+        "a1ctrl": "1905/33",
+        "a1barcode": "2540",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Georg MARTIN",
+        "internBarcode": "200960853",
+        "a1title": "George Martin. naturalisation",
+        "a1ctrl": "1909/8037",
+        "a1barcode": "4539",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Oskar ZIMMERMANN",
+        "internBarcode": "200960560",
+        "a1title": "Oscar Zimmermann. naturalisation",
+        "a1ctrl": "1909/1872",
+        "a1barcode": "3700",
+        "matchScore": 0.9375
+    },
+    {
+        "internName": "Heinrich MUELLER",
+        "internBarcode": "200964121",
+        "a1title": "Heinrich Muller. naturalisation",
+        "a1ctrl": "1911/59",
+        "a1barcode": "6249",
+        "matchScore": 0.9375
+    },
+    {
+        "internName": "Conrad JUNG",
+        "internBarcode": "200959944",
+        "a1title": "Conrad Yung - naturalisation",
+        "a1ctrl": "1911/433",
+        "a1barcode": "6283",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Charley SMITH",
+        "internBarcode": "200961449",
+        "a1title": "Charles Smith - naturalisation",
+        "a1ctrl": "1909/10729",
+        "a1barcode": "5093",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Hermann NILIUS",
+        "internBarcode": "200963203",
+        "a1title": "Hermann NILIUS - naturalisation",
+        "a1ctrl": "1907/10609",
+        "a1barcode": "8734",
+        "matchScore": 1
+    },
+    {
+        "internName": "Ivan MARINOVICH",
+        "internBarcode": "200962978",
+        "a1title": "Ivan MARINOVICH - naturalisation",
+        "a1ctrl": "1905/5491",
+        "a1barcode": "3325",
+        "matchScore": 1
+    },
+    {
+        "internName": "Heinrich SCHMIDT",
+        "internBarcode": "200962010",
+        "a1title": "Heinrich SCHMIDT - naturalisation",
+        "a1ctrl": "1905/5611",
+        "a1barcode": "3342",
+        "matchScore": 1
+    },
+    {
+        "internName": "John SCHMIDT",
+        "internBarcode": "200959988",
+        "a1title": "John Schmidt. naturalisation",
+        "a1ctrl": "1909/7427",
+        "a1barcode": "4400",
+        "matchScore": 1
+    },
+    {
+        "internName": "Carl JEPSEN",
+        "internBarcode": "200963431",
+        "a1title": "Carl JENSEN - Naturalisation",
+        "a1ctrl": "1908/8206",
+        "a1barcode": "9572",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Otto MERTENS",
+        "internBarcode": "200960477",
+        "a1title": "Otto Meartens - naturalisation",
+        "a1ctrl": "1911/17649",
+        "a1barcode": "11953",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Max WOITIZKI",
+        "internBarcode": "200963081",
+        "a1title": "Max Woititzki - naturalisation",
+        "a1ctrl": "1911/438",
+        "a1barcode": "6286",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Karl RITZ",
+        "internBarcode": "200962497",
+        "a1title": "Karl RITZ - naturalisation",
+        "a1ctrl": "1906/1816",
+        "a1barcode": "6779",
+        "matchScore": 1
+    },
+    {
+        "internName": "Albert SCHMIDT",
+        "internBarcode": "200963106",
+        "a1title": "Albert Schmidt - naturalisation",
+        "a1ctrl": "1909/11735",
+        "a1barcode": "5286",
+        "matchScore": 1
+    },
+    {
+        "internName": "Peter JANSEN",
+        "internBarcode": "200960529",
+        "a1title": "Peter Jensen. naturalisation",
+        "a1ctrl": "1909/13852",
+        "a1barcode": "5671",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Richard TREPPE",
+        "internBarcode": "200964204",
+        "a1title": "Richard TRIPPE - naturalisation",
+        "a1ctrl": "1906/6927",
+        "a1barcode": "7454",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "August HARTZIG",
+        "internBarcode": "200963425",
+        "a1title": "August Hartwig Naturalisation",
+        "a1ctrl": "1911/8155",
+        "a1barcode": "10853",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Charles MILLER",
+        "internBarcode": "200960531",
+        "a1title": "Charles Miller - naturalisation",
+        "a1ctrl": "1912/4190",
+        "a1barcode": "12755",
+        "matchScore": 1
+    },
+    {
+        "internName": "Dietrich DIERKS",
+        "internBarcode": "200961518",
+        "a1title": "Dietrich DIERCKS - naturalisation",
+        "a1ctrl": "1906/5568",
+        "a1barcode": "7285",
+        "matchScore": 0.9375
+    },
+    {
+        "internName": "Karl WERNER",
+        "internBarcode": "200959222",
+        "a1title": "Karl Werner - naturalisation",
+        "a1ctrl": "1909/10083",
+        "a1barcode": "4980",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl SCHMIDT",
+        "internBarcode": "200963243",
+        "a1title": "Carl Schmidt - naturalisation",
+        "a1ctrl": "1911/482",
+        "a1barcode": "6290",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "August HARTZIG",
+        "internBarcode": "200963425",
+        "a1title": "August Hartwig. naturalisation",
+        "a1ctrl": "1909/13005",
+        "a1barcode": "5514",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Albert SCHRADER",
+        "internBarcode": "200959710",
+        "a1title": "Albert Schrader - naturalisation",
+        "a1ctrl": "1909/14086",
+        "a1barcode": "5714",
+        "matchScore": 1
+    },
+    {
+        "internName": "Henry MEYER",
+        "internBarcode": "200959669",
+        "a1title": "Henry MEYER - naturalisation",
+        "a1ctrl": "1907/8687",
+        "a1barcode": "8533",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl RUPERT",
+        "internBarcode": "200963501",
+        "a1title": "Karl Rudert Naturalisation",
+        "a1ctrl": "1912/734",
+        "a1barcode": "12425",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Heinrich MALZ",
+        "internBarcode": "200960622",
+        "a1title": "Heinrich WALZ - naturalisation Certificate",
+        "a1ctrl": "1908/3883",
+        "a1barcode": "9212",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Heinrich MEER",
+        "internBarcode": "200960590",
+        "a1title": "Heinrich MEYER - Naturalisation",
+        "a1ctrl": "1908/4565",
+        "a1barcode": "9262",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Richard MEIER",
+        "internBarcode": "200963484",
+        "a1title": "Richard MEYER - naturalisation",
+        "a1ctrl": "1908/6719",
+        "a1barcode": "9444",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Jacob JENSEN",
+        "internBarcode": "200963871",
+        "a1title": "Jacob JENSEN - naturalisation",
+        "a1ctrl": "1907/4578",
+        "a1barcode": "8161",
+        "matchScore": 1
+    },
+    {
+        "internName": "Walter SCHULZ",
+        "internBarcode": "200959748",
+        "a1title": "Walter SCHULTZ - naturalisation",
+        "a1ctrl": "1906/743",
+        "a1barcode": "6618",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "John HAESLOP",
+        "internBarcode": "200963067",
+        "a1title": "John HAESLOOP - Naturalisation",
+        "a1ctrl": "1906/1759",
+        "a1barcode": "6765",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Johann SCHMIDT",
+        "internBarcode": "200959761",
+        "a1title": "Johann Schmitt - naturalisation",
+        "a1ctrl": "1908/2529",
+        "a1barcode": "9097",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Wilhelm SCHULZ",
+        "internBarcode": "200961864",
+        "a1title": "Wilhelm Schulz - naturalisation",
+        "a1ctrl": "1911/17911",
+        "a1barcode": "11978",
+        "matchScore": 1
+    },
+    {
+        "internName": "Otto RADEMACHER",
+        "internBarcode": "200960717",
+        "a1title": "Otto Radermacher Naturalisation",
+        "a1ctrl": "1912/10317",
+        "a1barcode": "13361",
+        "matchScore": 0.9375
+    },
+    {
+        "internName": "Hans PETERSEN",
+        "internBarcode": "200959090",
+        "a1title": "Hans Petersen naturalisation Certificate",
+        "a1ctrl": "1912/10969",
+        "a1barcode": "13443",
+        "matchScore": 1
+    },
+    {
+        "internName": "Charles MILLER",
+        "internBarcode": "200960531",
+        "a1title": "Charles MULLER - naturalisation",
+        "a1ctrl": "1906/8883",
+        "a1barcode": "7667",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Wilhelm LANGE",
+        "internBarcode": "200960353",
+        "a1title": "Wilhelm Lang naturalisation",
+        "a1ctrl": "1911/7188",
+        "a1barcode": "10723",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Hermann KAYSER",
+        "internBarcode": "200963755",
+        "a1title": "Hermann KAISER - naturalisation",
+        "a1ctrl": "1912/13143",
+        "a1barcode": "13675",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Petar ASMUSSEN",
+        "internBarcode": "200962868",
+        "a1title": "Peter Asmussen - naturalisation",
+        "a1ctrl": "1907/6428",
+        "a1barcode": "8305",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Heinrich SCHULZKI",
+        "internBarcode": "200963035",
+        "a1title": "Hainrich Schulzki - naturalisation",
+        "a1ctrl": "1912/17176",
+        "a1barcode": "14147",
+        "matchScore": 0.9411764705882353
+    },
+    {
+        "internName": "August BAYER",
+        "internBarcode": "200959429",
+        "a1title": "August Mayer - naturalisation",
+        "a1ctrl": "1913/8304",
+        "a1barcode": "15561",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Gustav STOREK",
+        "internBarcode": "200962574",
+        "a1title": "Gustav Storek. naturalisation",
+        "a1ctrl": "1908/12976",
+        "a1barcode": "10133",
+        "matchScore": 1
+    },
+    {
+        "internName": "Otto SCHULTZ",
+        "internBarcode": "200959207",
+        "a1title": "Otto SHULTZ - Naturalisation",
+        "a1ctrl": "1907/9732",
+        "a1barcode": "8656",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Carl JEPSEN",
+        "internBarcode": "200963431",
+        "a1title": "Carl JENSEN - naturalisation",
+        "a1ctrl": "1907/10614",
+        "a1barcode": "8739",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "John WILLIAMS",
+        "internBarcode": "200960644",
+        "a1title": "John WILLIAMS - naturalisation",
+        "a1ctrl": "1907/11788",
+        "a1barcode": "8837",
+        "matchScore": 1
+    },
+    {
+        "internName": "Bruno MUELLER",
+        "internBarcode": "200962669",
+        "a1title": "Bruno Muller - naturalisation",
+        "a1ctrl": "1913/333",
+        "a1barcode": "14580",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Otto WILLER",
+        "internBarcode": "200962296",
+        "a1title": "Otto MILLER - Naturalisation",
+        "a1ctrl": "1908/4319",
+        "a1barcode": "9241",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Ernst SCHOLZ",
+        "internBarcode": "200962698",
+        "a1title": "Ernst Scholz naturalisation",
+        "a1ctrl": "1913/8953",
+        "a1barcode": "15627",
+        "matchScore": 1
+    },
+    {
+        "internName": "Albert SCHMIDT",
+        "internBarcode": "200963106",
+        "a1title": "Albert SCHMIDT - naturalisation",
+        "a1ctrl": "1913/11741",
+        "a1barcode": "15972",
+        "matchScore": 1
+    },
+    {
+        "internName": "Charley SMITH",
+        "internBarcode": "200961449",
+        "a1title": "Charles Smith. naturalisation",
+        "a1ctrl": "1908/12530",
+        "a1barcode": "10091",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Peter JANSEN",
+        "internBarcode": "200960529",
+        "a1title": "Peter JENSEN - naturalisation",
+        "a1ctrl": "1911/5339",
+        "a1barcode": "10510",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Hugo MUELLER",
+        "internBarcode": "200964420",
+        "a1title": "Hugo Muller naturalisation",
+        "a1ctrl": "1911/6810",
+        "a1barcode": "10684",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Wilhelm LEHMANN",
+        "internBarcode": "200964242",
+        "a1title": "Wilhelm Lohmann - naturalisation",
+        "a1ctrl": "1913/5816",
+        "a1barcode": "15215",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Peter JANSEN",
+        "internBarcode": "200960529",
+        "a1title": "Peter Jensen. naturalisation",
+        "a1ctrl": "1908/13550",
+        "a1barcode": "10175",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Mick TOMICH",
+        "internBarcode": "200961366",
+        "a1title": "Mick Tomich naturalisation",
+        "a1ctrl": "1913/16454",
+        "a1barcode": "27529",
+        "matchScore": 1
+    },
+    {
+        "internName": "Max SCHULTZ",
+        "internBarcode": "200960014",
+        "a1title": "Max Shultz, Naturalisation",
+        "a1ctrl": "1913/671",
+        "a1barcode": "14618",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "John SCHMIDT",
+        "internBarcode": "200959988",
+        "a1title": "John Schmid, Naturalisation",
+        "a1ctrl": "1913/1549",
+        "a1barcode": "14711",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Hermann LORENZ",
+        "internBarcode": "200964210",
+        "a1title": "Hermann Lorenz - naturalisation.",
+        "a1ctrl": "1913/14151",
+        "a1barcode": "16251",
+        "matchScore": 1
+    },
+    {
+        "internName": "Albert MUELLER",
+        "internBarcode": "200960651",
+        "a1title": "Albert Muller - naturalisation",
+        "a1ctrl": "1911/17729",
+        "a1barcode": "11964",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Alfred MEYER",
+        "internBarcode": "200959145",
+        "a1title": "Alfred Meyner - naturalisation.",
+        "a1ctrl": "1913/13667",
+        "a1barcode": "16190",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Johann SCHNEIDER",
+        "internBarcode": "200963238",
+        "a1title": "Johann Schneider Naturalisation",
+        "a1ctrl": "1912/1214",
+        "a1barcode": "12482",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl SCHULZ",
+        "internBarcode": "200964349",
+        "a1title": "Karl Schulz - Naturalisation",
+        "a1ctrl": "1913/13896",
+        "a1barcode": "16215",
+        "matchScore": 1
+    },
+    {
+        "internName": "Hermann SCHRODER",
+        "internBarcode": "200959148",
+        "a1title": "Hermann Schroter - naturalisation.",
+        "a1ctrl": "1913/14113",
+        "a1barcode": "16245",
+        "matchScore": 0.9375
+    },
+    {
+        "internName": "Mijo PAVLINOVICH",
+        "internBarcode": "200961769",
+        "a1title": "Mijo PAVLINOVICH - naturalisation",
+        "a1ctrl": "1912/14603",
+        "a1barcode": "13860",
+        "matchScore": 1
+    },
+    {
+        "internName": "August LANGE",
+        "internBarcode": "200962382",
+        "a1title": "August Langer Naturalisation",
+        "a1ctrl": "1912/18712",
+        "a1barcode": "14324",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Hermann BEICHELT",
+        "internBarcode": "200960063",
+        "a1title": "Hermann Reichelt Naturalisation",
+        "a1ctrl": "1912/18403",
+        "a1barcode": "14286",
+        "matchScore": 0.9375
+    },
+    {
+        "internName": "Arthur SCHMIDT",
+        "internBarcode": "200961520",
+        "a1title": "Arthur Schmidt, Naturalisation",
+        "a1ctrl": "1913/877",
+        "a1barcode": "14637",
+        "matchScore": 1
+    },
+    {
+        "internName": "Wilhelm SCHROEDER",
+        "internBarcode": "200959228",
+        "a1title": "Wilhelm Schroder - naturalisation",
+        "a1ctrl": "1912/18057",
+        "a1barcode": "14260",
+        "matchScore": 0.9411764705882353
+    },
+    {
+        "internName": "August SCHULTZ",
+        "internBarcode": "200960831",
+        "a1title": "Augusta Schultz naturalisation.",
+        "a1ctrl": "1913/12456",
+        "a1barcode": "16059",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Werner STEINIGER",
+        "internBarcode": "200964004",
+        "a1title": "Werner Steiniger - naturalisation",
+        "a1ctrl": "1913/7715",
+        "a1barcode": "15485",
+        "matchScore": 1
+    },
+    {
+        "internName": "Carl Wilhelm GEORG",
+        "internBarcode": "200963808",
+        "a1title": "Carl Wilhelm Georg. naturalisation",
+        "a1ctrl": "1913/5765",
+        "a1barcode": "15205",
+        "matchScore": 1
+    },
+    {
+        "internName": "Otto BECKER",
+        "internBarcode": "200964191",
+        "a1title": "Otto Becker naturalisation",
+        "a1ctrl": "1913/6175",
+        "a1barcode": "15275",
+        "matchScore": 1
+    },
+    {
+        "internName": "Wilhelm FUPPE",
+        "internBarcode": "200959341",
+        "a1title": "Wilhelm Zuppe - naturalisation",
+        "a1ctrl": "1913/10243",
+        "a1barcode": "15792",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "John WOLTERS",
+        "internBarcode": "200963061",
+        "a1title": "John Walters - naturalisation Certificate",
+        "a1ctrl": "1913/11190",
+        "a1barcode": "15903",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Samuel FREEMAN",
+        "internBarcode": "200959181",
+        "a1title": "Samuel Freedman - naturalisation",
+        "a1ctrl": "1913/9597",
+        "a1barcode": "15714",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Emil MARTIN",
+        "internBarcode": "200959786",
+        "a1title": "Emil Martin - naturalisation.",
+        "a1ctrl": "1913/13673",
+        "a1barcode": "16192",
+        "matchScore": 1
+    },
+    {
+        "internName": "Fritz MUELLER",
+        "internBarcode": "200961194",
+        "a1title": "Fritz Muller naturalisation.",
+        "a1ctrl": "1913/12686",
+        "a1barcode": "16082",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Louis BECKER",
+        "internBarcode": "200961438",
+        "a1title": "Louis Beeker - naturalisation.",
+        "a1ctrl": "1913/13739",
+        "a1barcode": "16200",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Paul ROTHE",
+        "internBarcode": "200964428",
+        "a1title": "Paul Rothe-(naturalisation)",
+        "a1ctrl": "1904/1645",
+        "a1barcode": "647",
+        "matchScore": 1
+    },
+    {
+        "internName": "Oskar NELSON",
+        "internBarcode": "200959803",
+        "a1title": "Oscar Nelson - naturalisation",
+        "a1ctrl": "1904/7548",
+        "a1barcode": "1940",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Peter JANSEN",
+        "internBarcode": "200960529",
+        "a1title": "Peter HANSEN - naturalisation",
+        "a1ctrl": "1904/9278",
+        "a1barcode": "2340",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Richard SCHULZ",
+        "internBarcode": "200960661",
+        "a1title": "Richard SCHULZ - Naturalisation",
+        "a1ctrl": "1905/5763",
+        "a1barcode": "3355",
+        "matchScore": 1
+    },
+    {
+        "internName": "Friedrich SCHULTZ",
+        "internBarcode": "200959865",
+        "a1title": "Friedrich Schulz. naturalisation",
+        "a1ctrl": "1909/1512",
+        "a1barcode": "3669",
+        "matchScore": 0.9411764705882353
+    },
+    {
+        "internName": "John WOLTERS",
+        "internBarcode": "200963061",
+        "a1title": "John Walters. naturalisation",
+        "a1ctrl": "1909/1939",
+        "a1barcode": "3705",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "John WOLTERS",
+        "internBarcode": "200963061",
+        "a1title": "John Walters. naturalisation Certificate",
+        "a1ctrl": "1909/5887",
+        "a1barcode": "4098",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "August LEOFFLER",
+        "internBarcode": "200964040",
+        "a1title": "August Leffler - naturalisation",
+        "a1ctrl": "1909/10967",
+        "a1barcode": "5134",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Charles MILLER",
+        "internBarcode": "200960531",
+        "a1title": "Charles Miller. naturalisation Cert ificate",
+        "a1ctrl": "1909/12083",
+        "a1barcode": "5341",
+        "matchScore": 1
+    },
+    {
+        "internName": "Johann SCHULZ",
+        "internBarcode": "200963510",
+        "a1title": "Johanna Schulz - naturalisation",
+        "a1ctrl": "1911/529",
+        "a1barcode": "6295",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Friedrich MUELLER",
+        "internBarcode": "200960905",
+        "a1title": "Friedrich MULLER - naturalisation",
+        "a1ctrl": "1906/2819",
+        "a1barcode": "6931",
+        "matchScore": 0.9411764705882353
+    },
+    {
+        "internName": "Frank BRAUN",
+        "internBarcode": "200962732",
+        "a1title": "Frank Braun - naturalisation",
+        "a1ctrl": "1907/21",
+        "a1barcode": "7706",
+        "matchScore": 1
+    },
+    {
+        "internName": "Charley SMITH",
+        "internBarcode": "200961449",
+        "a1title": "Charles SMITH - Naturalisation",
+        "a1ctrl": "1908/8149",
+        "a1barcode": "9571",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Hermann SCHMIDT",
+        "internBarcode": "200964133",
+        "a1title": "Hermann Schmidt. naturalisation",
+        "a1ctrl": "1908/9467",
+        "a1barcode": "9728",
+        "matchScore": 1
+    },
+    {
+        "internName": "Hermann BECKER",
+        "internBarcode": "200960833",
+        "a1title": "Hermann Becker Naturalisation",
+        "a1ctrl": "1911/8689",
+        "a1barcode": "10914",
+        "matchScore": 1
+    },
+    {
+        "internName": "August MEYER",
+        "internBarcode": "200961530",
+        "a1title": "August Meier, naturalisation Certificate",
+        "a1ctrl": "1911/15846",
+        "a1barcode": "11711",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Alfred DUDEK",
+        "internBarcode": "200959647",
+        "a1title": "Alfred Dudeck - naturalisation Certificate",
+        "a1ctrl": "1912/14152",
+        "a1barcode": "13815",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Richard HAHN",
+        "internBarcode": "200960901",
+        "a1title": "Richard Hahn - naturalisation.[5 folios]",
+        "a1ctrl": "1913/11865",
+        "a1barcode": "15987",
+        "matchScore": 1
+    },
+    {
+        "internName": "Hermann SCHRODER",
+        "internBarcode": "200959148",
+        "a1title": "Hermann Schoder naturalisation.",
+        "a1ctrl": "1913/12154",
+        "a1barcode": "16023",
+        "matchScore": 0.9375
+    },
+    {
+        "internName": "Albert WILKE",
+        "internBarcode": "200960468",
+        "a1title": "Albert Wilken - naturalisation",
+        "a1ctrl": "1913/17923",
+        "a1barcode": "27711",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Peter JANSEN",
+        "internBarcode": "200960529",
+        "a1title": "Peter Hansen - naturalisation",
+        "a1ctrl": "1914/1283",
+        "a1barcode": "28108",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Bruno MOSLER",
+        "internBarcode": "200962245",
+        "a1title": "Bruno Mosler naturalisation",
+        "a1ctrl": "1914/2526",
+        "a1barcode": "28229",
+        "matchScore": 1
+    },
+    {
+        "internName": "Georg BRUNNER",
+        "internBarcode": "200959417",
+        "a1title": "George Brunner - naturalisation",
+        "a1ctrl": "1913/20876",
+        "a1barcode": "27983",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Christian THOMSEN",
+        "internBarcode": "200960792",
+        "a1title": "Christian Thomsen - naturalisation",
+        "a1ctrl": "1914/3578",
+        "a1barcode": "28346",
+        "matchScore": 1
+    },
+    {
+        "internName": "Wilhelm BOCK",
+        "internBarcode": "200962475",
+        "a1title": "Wilhelm Bock, Naturalisation",
+        "a1ctrl": "1914/7388",
+        "a1barcode": "28804",
+        "matchScore": 1
+    },
+    {
+        "internName": "Wilhelm WEBER",
+        "internBarcode": "200964123",
+        "a1title": "Wilhelm Weber naturalisation",
+        "a1ctrl": "1914/12098",
+        "a1barcode": "29458",
+        "matchScore": 1
+    },
+    {
+        "internName": "Max HEIGOLD",
+        "internBarcode": "200960362",
+        "a1title": "Max Heinold, Naturalisation",
+        "a1ctrl": "1914/13414",
+        "a1barcode": "29849",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Franz DECKER",
+        "internBarcode": "200960658",
+        "a1title": "Franz Decker naturalisation",
+        "a1ctrl": "1914/12911",
+        "a1barcode": "29645",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl SCHNEIDER",
+        "internBarcode": "200962508",
+        "a1title": "Karl Schneider naturalisation",
+        "a1ctrl": "1914/12677",
+        "a1barcode": "29574",
+        "matchScore": 1
+    },
+    {
+        "internName": "Wilhelm LEHMANN",
+        "internBarcode": "200964242",
+        "a1title": "Wilhelm Lehmann, Naturalisation",
+        "a1ctrl": "1914/13652",
+        "a1barcode": "29949",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl SCHILLHAHN",
+        "internBarcode": "200962606",
+        "a1title": "Carl Schillhahn, naturalisation",
+        "a1ctrl": "1914/13817",
+        "a1barcode": "30017",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Paul SCHMOOCK",
+        "internBarcode": "200961408",
+        "a1title": "Paul Schmoock naturalisation",
+        "a1ctrl": "1914/8291",
+        "a1barcode": "28920",
+        "matchScore": 1
+    },
+    {
+        "internName": "Wilhelm HOFFMANN",
+        "internBarcode": "200962466",
+        "a1title": "Wilhelm Hoffman naturalisation",
+        "a1ctrl": "1914/12529",
+        "a1barcode": "29532",
+        "matchScore": 0.9375
+    },
+    {
+        "internName": "Wilhelm SCHNEIDER",
+        "internBarcode": "200962635",
+        "a1title": "Wilhelm Schneider naturalisation",
+        "a1ctrl": "1914/12678",
+        "a1barcode": "29575",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl RICHTER",
+        "internBarcode": "200963508",
+        "a1title": "Karl Richter, Naturalisation",
+        "a1ctrl": "1914/13412",
+        "a1barcode": "29847",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl WEBER",
+        "internBarcode": "200963064",
+        "a1title": "Karl Weber, Naturalisation",
+        "a1ctrl": "1914/13612",
+        "a1barcode": "29928",
+        "matchScore": 1
+    },
+    {
+        "internName": "Charley SMITH",
+        "internBarcode": "200961449",
+        "a1title": "Charles Smith naturalisation",
+        "a1ctrl": "1914/13900",
+        "a1barcode": "30047",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Carl BECKER",
+        "internBarcode": "200964036",
+        "a1title": "Carl Becker Naturalisation",
+        "a1ctrl": "1914/14461",
+        "a1barcode": "30267",
+        "matchScore": 1
+    },
+    {
+        "internName": "Max DOBBERING",
+        "internBarcode": "200960917",
+        "a1title": "Max Dobbering naturalisation",
+        "a1ctrl": "1914/14926",
+        "a1barcode": "30519",
+        "matchScore": 1
+    },
+    {
+        "internName": "Wenzel SCHUSL",
+        "internBarcode": "200959576",
+        "a1title": "Wenzel Schust, Naturalisation",
+        "a1ctrl": "1914/10446",
+        "a1barcode": "29193",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Wilhelm BAADE",
+        "internBarcode": "200962686",
+        "a1title": "Wilhelm Baade naturalisation",
+        "a1ctrl": "1914/13905",
+        "a1barcode": "30050",
+        "matchScore": 1
+    },
+    {
+        "internName": "Harry LOASE",
+        "internBarcode": "200961159",
+        "a1title": "Harry Lohse naturalisation",
+        "a1ctrl": "1914/15126",
+        "a1barcode": "30549",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Karl SCHULZ",
+        "internBarcode": "200964349",
+        "a1title": "Karl Schulz naturalisation",
+        "a1ctrl": "1914/15867",
+        "a1barcode": "30798",
+        "matchScore": 1
+    },
+    {
+        "internName": "Oskar JONAS",
+        "internBarcode": "200960568",
+        "a1title": "Oskar Jonas, Naturalisation",
+        "a1ctrl": "1914/17643",
+        "a1barcode": "31202",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl HAHNENBERGER",
+        "internBarcode": "200964692",
+        "a1title": "Karl Hahnenberger naturalisation",
+        "a1ctrl": "1914/18356",
+        "a1barcode": "31349",
+        "matchScore": 1
+    },
+    {
+        "internName": "Charley SMITH",
+        "internBarcode": "200961449",
+        "a1title": "Charles Smith naturalisation",
+        "a1ctrl": "1914/18501",
+        "a1barcode": "31383",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "August FREG",
+        "internBarcode": "200960843",
+        "a1title": "August Frey, naturalisation",
+        "a1ctrl": "1914/13814",
+        "a1barcode": "30014",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Frank HOBERT",
+        "internBarcode": "200961411",
+        "a1title": "Frank Hobert naturalisation",
+        "a1ctrl": "1914/15493",
+        "a1barcode": "30669",
+        "matchScore": 1
+    },
+    {
+        "internName": "August SCHULZ",
+        "internBarcode": "200960159",
+        "a1title": "August Schulze, Naturalisation",
+        "a1ctrl": "1914/16349",
+        "a1barcode": "30919",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Wilhelm LEHMANN",
+        "internBarcode": "200964242",
+        "a1title": "Wilhelm Lehmann, Naturalisation",
+        "a1ctrl": "1914/16353",
+        "a1barcode": "30921",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl SEIDLER",
+        "internBarcode": "200964584",
+        "a1title": "Carl Seidler naturalisation",
+        "a1ctrl": "1914/12868",
+        "a1barcode": "29638",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Joseph BELLE",
+        "internBarcode": "200960270",
+        "a1title": "Joseph Berle, Naturalisation",
+        "a1ctrl": "1914/14222",
+        "a1barcode": "30461",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Wilhelm WALF",
+        "internBarcode": "200960329",
+        "a1title": "Wilhelm Wall naturalisation",
+        "a1ctrl": "1914/15243",
+        "a1barcode": "30586",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "August STAIBER",
+        "internBarcode": "200960765",
+        "a1title": "August Staiber naturalisation",
+        "a1ctrl": "1914/15423",
+        "a1barcode": "30654",
+        "matchScore": 1
+    },
+    {
+        "internName": "Wilhelm RINGEN",
+        "internBarcode": "200959473",
+        "a1title": "Wilhelm Ringe naturalisation",
+        "a1ctrl": "1914/16068",
+        "a1barcode": "30847",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Fritz KURZ",
+        "internBarcode": "200964370",
+        "a1title": "Fritz Kurz, Naturalisation",
+        "a1ctrl": "1914/16199",
+        "a1barcode": "30879",
+        "matchScore": 1
+    },
+    {
+        "internName": "George MAINZ",
+        "internBarcode": "200961612",
+        "a1title": "George Maina, Naturalisation",
+        "a1ctrl": "1914/16741",
+        "a1barcode": "30997",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Otto WEBER",
+        "internBarcode": "200964471",
+        "a1title": "Otto Wember naturalisation",
+        "a1ctrl": "1914/15899",
+        "a1barcode": "30810",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Heinrich DORN",
+        "internBarcode": "200961469",
+        "a1title": "Heinrich Horn, Naturalisation",
+        "a1ctrl": "1914/16202",
+        "a1barcode": "30880",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Benedetto PEZZEI",
+        "internBarcode": "200964672",
+        "a1title": "Benedetto Pezzei, Naturalisation",
+        "a1ctrl": "1914/16693",
+        "a1barcode": "30978",
+        "matchScore": 1
+    },
+    {
+        "internName": "Friedrich SCHULTZ",
+        "internBarcode": "200959865",
+        "a1title": "Friedrich Schulz naturalisation",
+        "a1ctrl": "1914/15868",
+        "a1barcode": "30799",
+        "matchScore": 0.9411764705882353
+    },
+    {
+        "internName": "Christian SCHLEIERMACHER",
+        "internBarcode": "200961256",
+        "a1title": "Christian Schleiermacher, Naturalisation",
+        "a1ctrl": "1914/16744",
+        "a1barcode": "30999",
+        "matchScore": 1
+    },
+    {
+        "internName": "Waldemar MOW",
+        "internBarcode": "200960398",
+        "a1title": "Waldemar Mou naturalisation",
+        "a1ctrl": "1914/16965",
+        "a1barcode": "31050",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Max SCHNEDER",
+        "internBarcode": "200964407",
+        "a1title": "Max Schueder Naturalisation",
+        "a1ctrl": "1914/14354",
+        "a1barcode": "30223",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Karl SCHNEIDER",
+        "internBarcode": "200962508",
+        "a1title": "Carl Schneider naturalisation",
+        "a1ctrl": "1914/17282",
+        "a1barcode": "31119",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Karl MINTE",
+        "internBarcode": "200959252",
+        "a1title": "Karl Minte, Naturalisation",
+        "a1ctrl": "1914/17303",
+        "a1barcode": "31128",
+        "matchScore": 1
+    },
+    {
+        "internName": "Georg LEITHOLT",
+        "internBarcode": "200964434",
+        "a1title": "George Leitholt, Naturalisation",
+        "a1ctrl": "1914/17397",
+        "a1barcode": "31162",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Paul GRAEFE",
+        "internBarcode": "200963265",
+        "a1title": "Paul Graefe naturalisation",
+        "a1ctrl": "1914/23774",
+        "a1barcode": "32021",
+        "matchScore": 1
+    },
+    {
+        "internName": "Georg WANN",
+        "internBarcode": "200962690",
+        "a1title": "George Wann naturalisation",
+        "a1ctrl": "1914/18117",
+        "a1barcode": "31304",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Otto FRIEDRICH",
+        "internBarcode": "200960920",
+        "a1title": "Otto Friedrich naturalisation",
+        "a1ctrl": "1914/18192",
+        "a1barcode": "31318",
+        "matchScore": 1
+    },
+    {
+        "internName": "Jack MILLER",
+        "internBarcode": "200964595",
+        "a1title": "Jack Miller - naturalisation",
+        "a1ctrl": "1914/18284",
+        "a1barcode": "31333",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl LENZ",
+        "internBarcode": "200959762",
+        "a1title": "Karl Lenz - naturalisation",
+        "a1ctrl": "1914/18357",
+        "a1barcode": "31350",
+        "matchScore": 1
+    },
+    {
+        "internName": "Georg RICH",
+        "internBarcode": "200961932",
+        "a1title": "George Rich naturalisation",
+        "a1ctrl": "1914/19216",
+        "a1barcode": "31486",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Wilhelm ZICK",
+        "internBarcode": "200962502",
+        "a1title": "Wilhelm Zick naturalisation",
+        "a1ctrl": "1914/20253",
+        "a1barcode": "31633",
+        "matchScore": 1
+    },
+    {
+        "internName": "Andre ZAMBERLIN",
+        "internBarcode": "200962619",
+        "a1title": "Andrew Zamberlin naturalisation",
+        "a1ctrl": "1914/20304",
+        "a1barcode": "31650",
+        "matchScore": 0.9375
+    },
+    {
+        "internName": "Bernhard PEGELOW",
+        "internBarcode": "200960055",
+        "a1title": "Bernhard Pegelow naturalisation",
+        "a1ctrl": "1914/21669",
+        "a1barcode": "31804",
+        "matchScore": 1
+    },
+    {
+        "internName": "Johann FRANKE",
+        "internBarcode": "200961397",
+        "a1title": "Johann Franke - naturalisation",
+        "a1ctrl": "1914/22528",
+        "a1barcode": "31890",
+        "matchScore": 1
+    },
+    {
+        "internName": "Kurt IHRKE",
+        "internBarcode": "200959925",
+        "a1title": "Kurt Ihrcke, Naturalisation",
+        "a1ctrl": "1914/19392",
+        "a1barcode": "31521",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Friedrich MUELLER",
+        "internBarcode": "200960905",
+        "a1title": "Friedrich Muller naturalisation",
+        "a1ctrl": "1914/16958",
+        "a1barcode": "31044",
+        "matchScore": 0.9411764705882353
+    },
+    {
+        "internName": "Karl SCHNABEL",
+        "internBarcode": "200960210",
+        "a1title": "Karl Schnabel, Naturalisation",
+        "a1ctrl": "1914/17319",
+        "a1barcode": "31137",
+        "matchScore": 1
+    },
+    {
+        "internName": "Fritz GALLINAT",
+        "internBarcode": "200960892",
+        "a1title": "Fritz Gallinat, Naturalisation",
+        "a1ctrl": "1914/17356",
+        "a1barcode": "31144",
+        "matchScore": 1
+    },
+    {
+        "internName": "Max BERGER",
+        "internBarcode": "200960588",
+        "a1title": "Max Berger naturalisation",
+        "a1ctrl": "1914/15963",
+        "a1barcode": "30823",
+        "matchScore": 1
+    },
+    {
+        "internName": "Robert RASCH",
+        "internBarcode": "200961188",
+        "a1title": "Robert Raasch, naturalisation",
+        "a1ctrl": "1914/16188",
+        "a1barcode": "30874",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Hermann WERNER",
+        "internBarcode": "200959264",
+        "a1title": "Herman Werner - naturalisation",
+        "a1ctrl": "1913/18890",
+        "a1barcode": "27817",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Anton SCHMIDT",
+        "internBarcode": "200962524",
+        "a1title": "Anton Schmidt - naturalisation",
+        "a1ctrl": "1915/4552",
+        "a1barcode": "32503",
+        "matchScore": 1
+    },
+    {
+        "internName": "Adam BARMANN",
+        "internBarcode": "200961279",
+        "a1title": "Adam Baumann, Naturalisation",
+        "a1ctrl": "1914/17558",
+        "a1barcode": "31191",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Albert FISCHER",
+        "internBarcode": "200961516",
+        "a1title": "Albert Fischer naturalisation",
+        "a1ctrl": "1914/18074",
+        "a1barcode": "31292",
+        "matchScore": 1
+    },
+    {
+        "internName": "Hermann MUELLER",
+        "internBarcode": "200964583",
+        "a1title": "Hermann Muller naturalisation",
+        "a1ctrl": "1914/18148",
+        "a1barcode": "31310",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Peter PAPOVICH",
+        "internBarcode": "200961760",
+        "a1title": "Peter Popovich, Naturalisation",
+        "a1ctrl": "1914/19376",
+        "a1barcode": "31510",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "John WOLTERS",
+        "internBarcode": "200963061",
+        "a1title": "John Walters naturalisation",
+        "a1ctrl": "1914/20515",
+        "a1barcode": "31677",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Charley SMITH",
+        "internBarcode": "200961449",
+        "a1title": "Charles Smith - Naturalisation",
+        "a1ctrl": "1915/5556",
+        "a1barcode": "32588",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Abraham PEPYS",
+        "internBarcode": "200962360",
+        "a1title": "Abraham Pepys naturalisation",
+        "a1ctrl": "1914/20299",
+        "a1barcode": "31646",
+        "matchScore": 1
+    },
+    {
+        "internName": "Charley SCHULZ",
+        "internBarcode": "200963326",
+        "a1title": "Charles Schulz - Naturalisation",
+        "a1ctrl": "1915/5566",
+        "a1barcode": "32590",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Henry MEYER",
+        "internBarcode": "200959669",
+        "a1title": "Henry Meyer Naturalisation",
+        "a1ctrl": "1915/12173",
+        "a1barcode": "33155",
+        "matchScore": 1
+    },
+    {
+        "internName": "Angel PETROFF",
+        "internBarcode": "200964567",
+        "a1title": "Angel Petroff - naturalisation",
+        "a1ctrl": "1915/18117",
+        "a1barcode": "33706",
+        "matchScore": 1
+    },
+    {
+        "internName": "Harry HANSEN",
+        "internBarcode": "200962712",
+        "a1title": "Harry Hanson - Naturalisation",
+        "a1ctrl": "1915/5254",
+        "a1barcode": "32568",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "John ROMPALA",
+        "internBarcode": "200960452",
+        "a1title": "John Rompala naturalisation",
+        "a1ctrl": "1914/23475",
+        "a1barcode": "31992",
+        "matchScore": 1
+    },
+    {
+        "internName": "Peter JANSEN",
+        "internBarcode": "200960529",
+        "a1title": "Peter Hansen naturalisation",
+        "a1ctrl": "1914/23513",
+        "a1barcode": "31995",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Eduard SCHARF",
+        "internBarcode": "200964628",
+        "a1title": "Eduard Scharf Naturalisation",
+        "a1ctrl": "1915/11913",
+        "a1barcode": "33137",
+        "matchScore": 1
+    },
+    {
+        "internName": "Otto SCHMITZ",
+        "internBarcode": "200963904",
+        "a1title": "Otto Schmitz Naturalisation",
+        "a1ctrl": "1915/15168",
+        "a1barcode": "33441",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl VOSS",
+        "internBarcode": "200964312",
+        "a1title": "Karl Voss naturalisation",
+        "a1ctrl": "1914/9744",
+        "a1barcode": "29085",
+        "matchScore": 1
+    },
+    {
+        "internName": "Martin GUDELJ",
+        "internBarcode": "200964507",
+        "a1title": "Martin Gudely naturalisation",
+        "a1ctrl": "1914/21319",
+        "a1barcode": "31771",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Wilhelm LANGE",
+        "internBarcode": "200960353",
+        "a1title": "Wilhelm Lange naturalisation",
+        "a1ctrl": "1914/23601",
+        "a1barcode": "32007",
+        "matchScore": 1
+    },
+    {
+        "internName": "Paul STARK",
+        "internBarcode": "200961976",
+        "a1title": "Paul Stark naturalisation Application",
+        "a1ctrl": "1915/6927",
+        "a1barcode": "32696",
+        "matchScore": 1
+    },
+    {
+        "internName": "John LUSK",
+        "internBarcode": "200960146",
+        "a1title": "John Lusk - naturalisation",
+        "a1ctrl": "1915/22328",
+        "a1barcode": "33939",
+        "matchScore": 1
+    },
+    {
+        "internName": "August SCHROEDER",
+        "internBarcode": "200960345",
+        "a1title": "August Schroeder, naturalisation",
+        "a1ctrl": "1914/13852",
+        "a1barcode": "30022",
+        "matchScore": 1
+    },
+    {
+        "internName": "Fred MUELLER",
+        "internBarcode": "200961533",
+        "a1title": "Fred Muller Naturalisation",
+        "a1ctrl": "1916/4197",
+        "a1barcode": "34150",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Kurt FISCHER",
+        "internBarcode": "200961191",
+        "a1title": "Kurt Fischer Naturalisation",
+        "a1ctrl": "1914/14691",
+        "a1barcode": "30371",
+        "matchScore": 1
+    },
+    {
+        "internName": "Heinrich SCHMIDT",
+        "internBarcode": "200962010",
+        "a1title": "Heinrich Schmitt naturalisation",
+        "a1ctrl": "1914/14781",
+        "a1barcode": "30425",
+        "matchScore": 0.9375
+    },
+    {
+        "internName": "Arthur EHRLICH",
+        "internBarcode": "200960973",
+        "a1title": "Arthur Ehrlich naturalisation",
+        "a1ctrl": "1914/14800",
+        "a1barcode": "30439",
+        "matchScore": 1
+    },
+    {
+        "internName": "Franz MUELLER",
+        "internBarcode": "200958971",
+        "a1title": "Franz Muller - naturalisation",
+        "a1ctrl": "1916/14603",
+        "a1barcode": "34625",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Heinrich MEER",
+        "internBarcode": "200960590",
+        "a1title": "Heinrich Meyer - naturalisation",
+        "a1ctrl": "1914/15327",
+        "a1barcode": "30622",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Hermann BREHEM",
+        "internBarcode": "200959475",
+        "a1title": "Hermann Brehm, Naturalisation",
+        "a1ctrl": "1914/16299",
+        "a1barcode": "30907",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Karl KAUFFMANN",
+        "internBarcode": "200962204",
+        "a1title": "Karl Kaufmann, Naturalisation",
+        "a1ctrl": "1914/17382",
+        "a1barcode": "31158",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Hermann SCHMIDT",
+        "internBarcode": "200964133",
+        "a1title": "Herman Schmidt - naturalisation",
+        "a1ctrl": "1915/25718",
+        "a1barcode": "33997",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Bernhard PIEPER",
+        "internBarcode": "200961800",
+        "a1title": "Bernhard Pieper, Naturalisation",
+        "a1ctrl": "1914/17872",
+        "a1barcode": "31257",
+        "matchScore": 1
+    },
+    {
+        "internName": "Heinrich ROGGE",
+        "internBarcode": "200959368",
+        "a1title": "Heinrich Rogge naturalisation",
+        "a1ctrl": "1914/18223",
+        "a1barcode": "31325",
+        "matchScore": 1
+    },
+    {
+        "internName": "August MEYER",
+        "internBarcode": "200961530",
+        "a1title": "August MEYER - naturalisation",
+        "a1ctrl": "1916/10949",
+        "a1barcode": "34465",
+        "matchScore": 1
+    },
+    {
+        "internName": "Wilhelm MARTENS",
+        "internBarcode": "200964395",
+        "a1title": "Wilhelm Martins - naturalisation",
+        "a1ctrl": "1916/14346",
+        "a1barcode": "34606",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Leopold HAUSEN",
+        "internBarcode": "200959007",
+        "a1title": "Leopold Hauser Naturalisation",
+        "a1ctrl": "1915/15247",
+        "a1barcode": "33443",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Otto PFUHL",
+        "internBarcode": "200962661",
+        "a1title": "Otto P'fuhl - naturalisation",
+        "a1ctrl": "1917/4865",
+        "a1barcode": "35647",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Carl HUBER",
+        "internBarcode": "200964334",
+        "a1title": "Carl Huber - naturalisation",
+        "a1ctrl": "1915/17207",
+        "a1barcode": "33643",
+        "matchScore": 1
+    },
+    {
+        "internName": "Josef KOLAR",
+        "internBarcode": "200964593",
+        "a1title": "Josef Kolar - naturalisation",
+        "a1ctrl": "1915/2244",
+        "a1barcode": "32294",
+        "matchScore": 1
+    },
+    {
+        "internName": "Carl JEPSEN",
+        "internBarcode": "200963431",
+        "a1title": "Carl Jensen naturalisation",
+        "a1ctrl": "1917/12427",
+        "a1barcode": "36032",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Ferdinand LEUTTICH",
+        "internBarcode": "200964537",
+        "a1title": "Ferdinand Luttich Naturalisation",
+        "a1ctrl": "1918/4173",
+        "a1barcode": "36698",
+        "matchScore": 0.9444444444444444
+    },
+    {
+        "internName": "Jens JENSEN",
+        "internBarcode": "200963549",
+        "a1title": "Jens Jensen - naturalisation",
+        "a1ctrl": "1915/24059",
+        "a1barcode": "33966",
+        "matchScore": 1
+    },
+    {
+        "internName": "Anton PLOETZ",
+        "internBarcode": "200964602",
+        "a1title": "Anton Plotz naturalisation",
+        "a1ctrl": "1918/16247",
+        "a1barcode": "37284",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "John ERCEG",
+        "internBarcode": "200964517",
+        "a1title": "John Erceg naturalisation",
+        "a1ctrl": "1919/6435",
+        "a1barcode": "37601",
+        "matchScore": 1
+    },
+    {
+        "internName": "Charles NEWMAN",
+        "internBarcode": "200964577",
+        "a1title": "Charles Newman - naturalisation",
+        "a1ctrl": "1919/6108",
+        "a1barcode": "37585",
+        "matchScore": 1
+    },
+    {
+        "internName": "Anton REZNICK",
+        "internBarcode": "200961056",
+        "a1title": "Anton Reznicek - naturalisation",
+        "a1ctrl": "1919/11228",
+        "a1barcode": "37820",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Georg HUBER",
+        "internBarcode": "200959756",
+        "a1title": "George Huber Naturalisation",
+        "a1ctrl": "1919/14366",
+        "a1barcode": "38018",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Heinrich SCHMIDT",
+        "internBarcode": "200962010",
+        "a1title": "Heinrich Schmidt - naturalisation",
+        "a1ctrl": "1917/17480",
+        "a1barcode": "36392",
+        "matchScore": 1
+    },
+    {
+        "internName": "Christian THOMSEN",
+        "internBarcode": "200960792",
+        "a1title": "Christian Thomsen - naturalisation",
+        "a1ctrl": "1919/11535",
+        "a1barcode": "37851",
+        "matchScore": 1
+    },
+    {
+        "internName": "Wilhelm KLUGKIST",
+        "internBarcode": "200963179",
+        "a1title": "Wilhelm Klugkist - naturalisation",
+        "a1ctrl": "1920/1286",
+        "a1barcode": "38336",
+        "matchScore": 1
+    },
+    {
+        "internName": "Alfred SCHNEIDER",
+        "internBarcode": "200961891",
+        "a1title": "Alfred Schneider",
+        "a1ctrl": "1917/13052",
+        "a1barcode": "36099",
+        "matchScore": 1
+    },
+    {
+        "internName": "Hans HERRMANN",
+        "internBarcode": "200961984",
+        "a1title": "Hans Hermann naturalisation",
+        "a1ctrl": "1918/16293",
+        "a1barcode": "37287",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Karl ZOELLER",
+        "internBarcode": "200963182",
+        "a1title": "Carl Zoeller - Naturalisation",
+        "a1ctrl": "1919/5113",
+        "a1barcode": "37537",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Ivan PRANICH",
+        "internBarcode": "200964496",
+        "a1title": "Ivan Franich - naturalisation",
+        "a1ctrl": "1921/7563",
+        "a1barcode": "40025",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Hermann SPLITTHOFF",
+        "internBarcode": "200962699",
+        "a1title": "Herman Splitthoff - naturalisation",
+        "a1ctrl": "1919/9549",
+        "a1barcode": "37748",
+        "matchScore": 0.9444444444444444
+    },
+    {
+        "internName": "Karl BRAUER",
+        "internBarcode": "200961893",
+        "a1title": "Carl Brauer naturalisation",
+        "a1ctrl": "1921/4858",
+        "a1barcode": "39790",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Ante BANOVICH",
+        "internBarcode": "200962822",
+        "a1title": "Ante Banovich - naturalisation",
+        "a1ctrl": "1921/806",
+        "a1barcode": "39493",
+        "matchScore": 1
+    },
+    {
+        "internName": "August ZIMMERMANN",
+        "internBarcode": "200961466",
+        "a1title": "August Zimmermann Naturalisation",
+        "a1ctrl": "1917/03275",
+        "a1barcode": "35548",
+        "matchScore": 1
+    },
+    {
+        "internName": "Anton ALFIROV",
+        "internBarcode": "200962779",
+        "a1title": "Anton Alfirov naturalisation",
+        "a1ctrl": "1922/5147",
+        "a1barcode": "41731",
+        "matchScore": 1
+    },
+    {
+        "internName": "Samuel FREEMAN",
+        "internBarcode": "200959181",
+        "a1title": "Samuel Freedman naturalisation",
+        "a1ctrl": "1922/8587",
+        "a1barcode": "42031",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Bernhard PORT",
+        "internBarcode": "200959928",
+        "a1title": "Bernard Port Naturalisation",
+        "a1ctrl": "1918/3505",
+        "a1barcode": "36670",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "John GOLLERS",
+        "internBarcode": "200963293",
+        "a1title": "John Goller - naturalisation",
+        "a1ctrl": "1920/15580",
+        "a1barcode": "39114",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Karl SCHNEIDER",
+        "internBarcode": "200962508",
+        "a1title": "Karl Schneider naturalisation",
+        "a1ctrl": "1922/653",
+        "a1barcode": "41462",
+        "matchScore": 1
+    },
+    {
+        "internName": "Georg SCHOLL",
+        "internBarcode": "200963044",
+        "a1title": "George Scholl - naturalisation",
+        "a1ctrl": "1919/9557",
+        "a1barcode": "37749",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Fritz WALTHER",
+        "internBarcode": "200964554",
+        "a1title": "Fritz Walter Naturalisation",
+        "a1ctrl": "1919/14290",
+        "a1barcode": "38013",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Carl FISCHER",
+        "internBarcode": "200964387",
+        "a1title": "Carl Fisher naturalisation",
+        "a1ctrl": "1922/10408",
+        "a1barcode": "42144",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "William MUELLER",
+        "internBarcode": "200964568",
+        "a1title": "William Muller naturalisation",
+        "a1ctrl": "1921/11307",
+        "a1barcode": "40267",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Wilhelm WILTS",
+        "internBarcode": "200960371",
+        "a1title": "Wilhelm Wilss - naturalisation",
+        "a1ctrl": "1921/10087",
+        "a1barcode": "40171",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Karl KIESLING",
+        "internBarcode": "200963037",
+        "a1title": "Karl Kiessling - naturalisation",
+        "a1ctrl": "1921/12652",
+        "a1barcode": "40366",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Ivan ERCEG",
+        "internBarcode": "200961370",
+        "a1title": "Ivan Erceg - naturalisation",
+        "a1ctrl": "1921/13550",
+        "a1barcode": "40419",
+        "matchScore": 1
+    },
+    {
+        "internName": "Albert STOVER",
+        "internBarcode": "200963515",
+        "a1title": "Albert Stoter Naturalisation",
+        "a1ctrl": "1921/23271",
+        "a1barcode": "41201",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "CHILLA, Harry",
+        "internBarcode": "200960544",
+        "a1title": "Chilla, Harry naturalisation",
+        "a1ctrl": "1926/11220",
+        "a1barcode": "44085",
+        "matchScore": 1
+    },
+    {
+        "internName": "Carl JEPSEN",
+        "internBarcode": "200963431",
+        "a1title": "Carl Jensen Naturalisation",
+        "a1ctrl": "1921/22977",
+        "a1barcode": "41182",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Joseph PIFF",
+        "internBarcode": "200964514",
+        "a1title": "Joseph Piffl - naturalisation",
+        "a1ctrl": "1914/12046",
+        "a1barcode": "29448",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Carl MUELLER",
+        "internBarcode": "200963795",
+        "a1title": "Carl Muller naturalisation",
+        "a1ctrl": "1914/12658",
+        "a1barcode": "29566",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Heinrich DORN",
+        "internBarcode": "200961469",
+        "a1title": "Heinrich Dorn naturalisation",
+        "a1ctrl": "1914/12763",
+        "a1barcode": "29598",
+        "matchScore": 1
+    },
+    {
+        "internName": "Walter PLAGGEMANN",
+        "internBarcode": "200962717",
+        "a1title": "Walter Plagemann - naturalisation",
+        "a1ctrl": "1914/13786",
+        "a1barcode": "30002",
+        "matchScore": 0.9411764705882353
+    },
+    {
+        "internName": "William KOHN",
+        "internBarcode": "200961660",
+        "a1title": "William Kohl naturalisation",
+        "a1ctrl": "1914/14063",
+        "a1barcode": "30109",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Heinrich WENDT",
+        "internBarcode": "200964351",
+        "a1title": "Heinrich Nendt naturalisation",
+        "a1ctrl": "1914/14756",
+        "a1barcode": "30420",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Ernst HELLER",
+        "internBarcode": "200959449",
+        "a1title": "Ernest Heller naturalisation",
+        "a1ctrl": "1914/15040",
+        "a1barcode": "30534",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Karl BRANDOFSKY",
+        "internBarcode": "200959622",
+        "a1title": "Karl Brandefsky naturalisation",
+        "a1ctrl": "1914/15158",
+        "a1barcode": "30570",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Carl BECKER",
+        "internBarcode": "200964036",
+        "a1title": "Carl Becker naturalisation",
+        "a1ctrl": "1914/15271",
+        "a1barcode": "30602",
+        "matchScore": 1
+    },
+    {
+        "internName": "Hermann EHM",
+        "internBarcode": "200959954",
+        "a1title": "Herman Ehm, Naturalisation",
+        "a1ctrl": "1914/16291",
+        "a1barcode": "30902",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Walter NAROCKI",
+        "internBarcode": "200961161",
+        "a1title": "Walter Narocki, Naturalisation",
+        "a1ctrl": "1914/16351",
+        "a1barcode": "30920",
+        "matchScore": 1
+    },
+    {
+        "internName": "Jacob BOCK",
+        "internBarcode": "200961180",
+        "a1title": "Jacob Bock naturalisation",
+        "a1ctrl": "1914/17283",
+        "a1barcode": "31120",
+        "matchScore": 1
+    },
+    {
+        "internName": "Ivan MANDAKOVICH",
+        "internBarcode": "200963066",
+        "a1title": "Ivan Mandakovich, Naturalisation",
+        "a1ctrl": "1914/17361",
+        "a1barcode": "31145",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl RITTER",
+        "internBarcode": "200959067",
+        "a1title": "Carl Ritter naturalisation",
+        "a1ctrl": "1914/20240",
+        "a1barcode": "31624",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "August SCHULZ",
+        "internBarcode": "200960159",
+        "a1title": "August Scholz naturalisation",
+        "a1ctrl": "1914/20826",
+        "a1barcode": "31713",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Adolf LEGENDECKER",
+        "internBarcode": "200962242",
+        "a1title": "Adolf Legendecker - naturalisation",
+        "a1ctrl": "1915/17149",
+        "a1barcode": "33635",
+        "matchScore": 1
+    },
+    {
+        "internName": "Karl PEDERSEN",
+        "internBarcode": "200959635",
+        "a1title": "Carl Pedersen naturalisation",
+        "a1ctrl": "1915/13926",
+        "a1barcode": "34203",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Paul HORN",
+        "internBarcode": "200962752",
+        "a1title": "Paul Horn - naturalisation",
+        "a1ctrl": "1919/11731",
+        "a1barcode": "37854",
+        "matchScore": 1
+    },
+    {
+        "internName": "Harry RANDOW",
+        "internBarcode": "200963227",
+        "a1title": "Harry Randow naturalisation",
+        "a1ctrl": "1919/17965",
+        "a1barcode": "38215",
+        "matchScore": 1
+    },
+    {
+        "internName": "Charles MILLER",
+        "internBarcode": "200960531",
+        "a1title": "Charles Giller - naturalisation",
+        "a1ctrl": "1920/1270",
+        "a1barcode": "38333",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Hermann GLOZ",
+        "internBarcode": "200964558",
+        "a1title": "Herman Gloz - naturalisation Certificate",
+        "a1ctrl": "1920/10085",
+        "a1barcode": "38833",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Carl POHLER",
+        "internBarcode": "200962338",
+        "a1title": "Carl Bohler naturalisation",
+        "a1ctrl": "1921/6231",
+        "a1barcode": "39919",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Rudolf SCHNEIDER",
+        "internBarcode": "200963023",
+        "a1title": "Rudolf Schneider - naturalisation",
+        "a1ctrl": "1921/13097",
+        "a1barcode": "40398",
+        "matchScore": 1
+    },
+    {
+        "internName": "Ivan STARCEVICH",
+        "internBarcode": "200962785",
+        "a1title": "Ivan Starcevich - naturalisation",
+        "a1ctrl": "1921/18459",
+        "a1barcode": "40816",
+        "matchScore": 1
+    },
+    {
+        "internName": "Ivan ANTUNOVICH",
+        "internBarcode": "200963231",
+        "a1title": "Ivan Antunovich naturalisation",
+        "a1ctrl": "1923/3731",
+        "a1barcode": "42995",
+        "matchScore": 1
+    },
+    {
+        "internName": "August WEHLOW",
+        "internBarcode": "200963119",
+        "a1title": "August Wehlow - Naturalisation",
+        "a1ctrl": "1923/28760",
+        "a1barcode": "246743",
+        "matchScore": 1
+    },
+    {
+        "internName": "Vladimir SPAZIER",
+        "internBarcode": "200964631",
+        "a1title": "Wladimir Spazier - naturalisation",
+        "a1ctrl": "1931/1848",
+        "a1barcode": "246753",
+        "matchScore": 0.9375
+    },
+    {
+        "internName": "Peter PAULSEN",
+        "internBarcode": "200963552",
+        "a1title": "Peter Poulsen - naturalisation Certificate",
+        "a1ctrl": "1929/6830",
+        "a1barcode": "1541455",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Mate PERICH",
+        "internBarcode": "200961571",
+        "a1title": "Mate Porich - naturalisation Certificate",
+        "a1ctrl": "1929/5784",
+        "a1barcode": "1540854",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Ivan BOBANAC",
+        "internBarcode": "200961209",
+        "a1title": "Ivan Bobabac - naturalisation Certificate",
+        "a1ctrl": "1929/6897",
+        "a1barcode": "1541476",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Gustav ARNOLD",
+        "internBarcode": "200962080",
+        "a1title": "Gustav ARNOLD - Naturalisation certificate",
+        "a1ctrl": "1929/9658",
+        "a1barcode": "1546568",
+        "matchScore": 1
+    },
+    {
+        "internName": "August SOETHOFF",
+        "internBarcode": "200962743",
+        "a1title": "August Soethoff - Naturalisation",
+        "a1ctrl": "1937/10580",
+        "a1barcode": "246755",
+        "matchScore": 1
+    },
+    {
+        "internName": "Peter NISSEN",
+        "internBarcode": "200959434",
+        "a1title": "Peter NISSEN - Naturalisation certificate",
+        "a1ctrl": "1929/8751",
+        "a1barcode": "1545233",
+        "matchScore": 1
+    },
+    {
+        "internName": "Petar ETEROVICH",
+        "internBarcode": "200962611",
+        "a1title": "Petar ETEROVICH - Naturalisation certificate",
+        "a1ctrl": "1929/10495",
+        "a1barcode": "1547908",
+        "matchScore": 1
+    },
+    {
+        "internName": "Mate KOSOVICH",
+        "internBarcode": "200964688",
+        "a1title": "Mate KOSOVICH - Naturalisation certificate",
+        "a1ctrl": "1929/8179",
+        "a1barcode": "1544573",
+        "matchScore": 1
+    },
+    {
+        "internName": "Marko RADOLJ",
+        "internBarcode": "200961071",
+        "a1title": "Marko RADALJ - Naturalisation certificate",
+        "a1ctrl": "1929/10047",
+        "a1barcode": "1546996",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Marko RADOLJ",
+        "internBarcode": "200961071",
+        "a1title": "Marko RADALJ - Naturalisation certificate",
+        "a1ctrl": "1929/10280",
+        "a1barcode": "1547328",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Marko RADOLJ",
+        "internBarcode": "200961071",
+        "a1title": "Marko RADALJ - Naturalisation certificate",
+        "a1ctrl": "1929/10284",
+        "a1barcode": "1547813",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Jacob JENSEN",
+        "internBarcode": "200963871",
+        "a1title": "Jacob JENSEN - Naturalisation certificate",
+        "a1ctrl": "1929/9039",
+        "a1barcode": "1545628",
+        "matchScore": 1
+    },
+    {
+        "internName": "Frank RADISICH",
+        "internBarcode": "200960989",
+        "a1title": "Frank RADISICH - Naturalisation certificate",
+        "a1ctrl": "1929/10281",
+        "a1barcode": "1547329",
+        "matchScore": 1
+    },
+    {
+        "internName": "Nikola SEGEDIN",
+        "internBarcode": "200962549",
+        "a1title": "Nikola Segedin - naturalisation Certificate",
+        "a1ctrl": "1929/6486",
+        "a1barcode": "1541168",
+        "matchScore": 1
+    },
+    {
+        "internName": "Ivan ANTUNOVICH",
+        "internBarcode": "200963231",
+        "a1title": "Ivan ANTUNOVIC - Naturalisation certificate",
+        "a1ctrl": "1929/11772",
+        "a1barcode": "1548339",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Marko RADOLJ",
+        "internBarcode": "200961071",
+        "a1title": "Marko RADALJ - Naturalisation certificate",
+        "a1ctrl": "1929/10279",
+        "a1barcode": "1547325",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Ivan KATNICH",
+        "internBarcode": "200961730",
+        "a1title": "Ivan KATNIC - Naturalisation certificate",
+        "a1ctrl": "1929/11616",
+        "a1barcode": "1548395",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Mate SURICH",
+        "internBarcode": "200961052",
+        "a1title": "Mate SUMICH - Naturalisation certificate",
+        "a1ctrl": "1929/11403",
+        "a1barcode": "1548084",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "JANSEN, Karl",
+        "internBarcode": "200959877",
+        "a1title": "Hansen, Karl - Naturalisation certificate",
+        "a1ctrl": "1926/10500",
+        "a1barcode": "1578132",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "BAHR, Chas H",
+        "internBarcode": "200964591",
+        "a1title": "Bahr, Chas J - Naturalisation certificate",
+        "a1ctrl": "1926/18596",
+        "a1barcode": "1581688",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "UKICH, Krste",
+        "internBarcode": "200961729",
+        "a1title": "Ukich, Krste - Naturalisation certificate",
+        "a1ctrl": "1928/1622",
+        "a1barcode": "1609701",
+        "matchScore": 1
+    },
+    {
+        "internName": "SCHNEIDER, K",
+        "internBarcode": "200958952",
+        "a1title": "Schneider, P - Naturalisation certificate",
+        "a1ctrl": "1925/16362",
+        "a1barcode": "1614747",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "JONG, August",
+        "internBarcode": "200959159",
+        "a1title": "Long, August - Naturalisation certificate",
+        "a1ctrl": "1928/11313",
+        "a1barcode": "1612050",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "SAUER, Ernst",
+        "internBarcode": "200959216",
+        "a1title": "Bauer, Ernst - Naturalisation certificate",
+        "a1ctrl": "1925/20572",
+        "a1barcode": "1614695",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "ROGERS, August",
+        "internBarcode": "200963074",
+        "a1title": "Roges, August - Naturalisation [0.25cm]",
+        "a1ctrl": "1924/21694",
+        "a1barcode": "1617348",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "ROKICH, Ante",
+        "internBarcode": "200961029",
+        "a1title": "Rakich, Ante - Naturalisation",
+        "a1ctrl": "1924/18012",
+        "a1barcode": "1617240",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "JANSEN, Peter",
+        "internBarcode": "200960529",
+        "a1title": "Jensen, Peter - Naturalisation",
+        "a1ctrl": "1924/18038",
+        "a1barcode": "1617242",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Ante JOVICH",
+        "internBarcode": "200963070",
+        "a1title": "Ante Jovich - naturalisation Certificate",
+        "a1ctrl": "1929/6901",
+        "a1barcode": "1541478",
+        "matchScore": 1
+    },
+    {
+        "internName": "Nikola KOSOVICH",
+        "internBarcode": "200963236",
+        "a1title": "Nikola KOSOVICH - Naturalisation certificate",
+        "a1ctrl": "1929/9805",
+        "a1barcode": "1546701",
+        "matchScore": 1
+    },
+    {
+        "internName": "Mate RAKICH",
+        "internBarcode": "200961663",
+        "a1title": "Mate RAKICH - Naturalisation certificate",
+        "a1ctrl": "1929/11629",
+        "a1barcode": "1548412",
+        "matchScore": 1
+    },
+    {
+        "internName": "MATCHILLES, August",
+        "internBarcode": "200959820",
+        "a1title": "Matschilles, August - Naturalisation certificate",
+        "a1ctrl": "1925/6469",
+        "a1barcode": "1612963",
+        "matchScore": 0.9473684210526316
+    },
+    {
+        "internName": "VULIN, Bene",
+        "internBarcode": "200963072",
+        "a1title": "Vulin, Bene - Naturalisation [8 pages]",
+        "a1ctrl": "1924/24319",
+        "a1barcode": "1617954",
+        "matchScore": 1
+    },
+    {
+        "internName": "Ante JOVICH",
+        "internBarcode": "200963070",
+        "a1title": "Ante YOVICH - Naturalisation certificate",
+        "a1ctrl": "1930/523",
+        "a1barcode": "1498267",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Ivan SIMUNOVICH",
+        "internBarcode": "200961706",
+        "a1title": "Ivan SIMUNOVIC - Naturalisation certificate",
+        "a1ctrl": "1930/1074",
+        "a1barcode": "1498474",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Peter ERCEG",
+        "internBarcode": "200962302",
+        "a1title": "Peter ERCEG - Naturalisation certificate",
+        "a1ctrl": "1930/7351",
+        "a1barcode": "1498704",
+        "matchScore": 1
+    },
+    {
+        "internName": "Ivan CURACH",
+        "internBarcode": "200961002",
+        "a1title": "Ivan CURAC - Naturalisation certificate",
+        "a1ctrl": "1930/1179",
+        "a1barcode": "1498724",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Mijo OKMAZICH",
+        "internBarcode": "200961746",
+        "a1title": "Mijo OKMAZIC - Naturalisation certificate",
+        "a1ctrl": "1930/666",
+        "a1barcode": "1498363",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "George KOLAK",
+        "internBarcode": "200962795",
+        "a1title": "George KOLAK - Naturalisation certificate",
+        "a1ctrl": "1930/1209",
+        "a1barcode": "1498764",
+        "matchScore": 1
+    },
+    {
+        "internName": "Ante JOVICH",
+        "internBarcode": "200963070",
+        "a1title": "Ante JOVIC - Naturalisation certificate",
+        "a1ctrl": "1930/1916",
+        "a1barcode": "1499282",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Petar ETEROVICH",
+        "internBarcode": "200962611",
+        "a1title": "Petar ETEROVIC - Naturalisation certificate",
+        "a1ctrl": "1930/4065",
+        "a1barcode": "1500358",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Carl BECKER",
+        "internBarcode": "200964036",
+        "a1title": "Carl BECKER - Naturalisation certificate",
+        "a1ctrl": "1930/4463",
+        "a1barcode": "1500428",
+        "matchScore": 1
+    },
+    {
+        "internName": "Cyril SANTICH",
+        "internBarcode": "200961559",
+        "a1title": "Ciril SANTICH - Naturalisation certificate",
+        "a1ctrl": "1930/8096",
+        "a1barcode": "1499120",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Max HERMANN",
+        "internBarcode": "200960514",
+        "a1title": "Max HERRMANN - Naturalisation certificate",
+        "a1ctrl": "1930/11600",
+        "a1barcode": "1501930",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Marko CURACH",
+        "internBarcode": "200960994",
+        "a1title": "Marko CURAC - Naturalisation certificate",
+        "a1ctrl": "1930/5859",
+        "a1barcode": "1501875",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Johannes SCHULTZ",
+        "internBarcode": "200962473",
+        "a1title": "Johannes SCHULTE - Naturalisation certificate",
+        "a1ctrl": "1930/10000",
+        "a1barcode": "1501320",
+        "matchScore": 0.9375
+    },
+    {
+        "internName": "Mate TOLJ",
+        "internBarcode": "200961739",
+        "a1title": "Mate TOLJ - Naturalisation certificate",
+        "a1ctrl": "1930/9670",
+        "a1barcode": "1499886",
+        "matchScore": 1
+    },
+    {
+        "internName": "Hans HERRMANN",
+        "internBarcode": "200961984",
+        "a1title": "Hans HERMANN - Naturalisation certificate",
+        "a1ctrl": "1927/52",
+        "a1barcode": "1506051",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Mate STRIKOMANN",
+        "internBarcode": "200962437",
+        "a1title": "Mate STRIKOMAN - Naturalisation certificate",
+        "a1ctrl": "1930/2911",
+        "a1barcode": "1499704",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "Mate SURICH",
+        "internBarcode": "200961052",
+        "a1title": "Mate SARICH - Naturalisation certificate",
+        "a1ctrl": "1927/16563",
+        "a1barcode": "1506827",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Marin CURACH",
+        "internBarcode": "200961028",
+        "a1title": "Marin CURACH - Naturalisation certificate",
+        "a1ctrl": "1927/14887",
+        "a1barcode": "1506634",
+        "matchScore": 1
+    },
+    {
+        "internName": "Hermann LAMMERS",
+        "internBarcode": "200962322",
+        "a1title": "Hermann LAMMERS - Naturalisation certificate",
+        "a1ctrl": "1927/6546",
+        "a1barcode": "1507271",
+        "matchScore": 1
+    },
+    {
+        "internName": "Stanko POLICH",
+        "internBarcode": "200961363",
+        "a1title": "Stanko POLICH - Naturalisation certificate",
+        "a1ctrl": "1927/21954",
+        "a1barcode": "1507648",
+        "matchScore": 1
+    },
+    {
+        "internName": "ROSENFELD, Otto",
+        "internBarcode": "200959559",
+        "a1title": "Rosenfeld, Otto - Naturalisation",
+        "a1ctrl": "1922/2793",
+        "a1barcode": "3331961",
+        "matchScore": 1
+    },
+    {
+        "internName": "Edward KILIAN",
+        "internBarcode": "200962656",
+        "a1title": "Edward KILIAN - Naturalisation certificate",
+        "a1ctrl": "1927/11753",
+        "a1barcode": "1507867",
+        "matchScore": 1
+    },
+    {
+        "internName": "Ernst GRUNERT",
+        "internBarcode": "200960735",
+        "a1title": "Ernest GRUNERT - Naturalisation certificate",
+        "a1ctrl": "1927/13218",
+        "a1barcode": "1508107",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "Paul KRUEGER",
+        "internBarcode": "200959212",
+        "a1title": "Paul KRUGER - Naturalisation certificate",
+        "a1ctrl": "1927/21943",
+        "a1barcode": "1507641",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Mate GRLJUSICH",
+        "internBarcode": "200961380",
+        "a1title": "Mate GRLJUSICH - Naturalisation certificate",
+        "a1ctrl": "1927/12707",
+        "a1barcode": "1508023",
+        "matchScore": 1
+    },
+    {
+        "internName": "Ivan SAPICH",
+        "internBarcode": "200963076",
+        "a1title": "Ivan SARICH - Naturalisation certificate",
+        "a1ctrl": "1930/1703",
+        "a1barcode": "1499212",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Hans HARTMANN",
+        "internBarcode": "200963270",
+        "a1title": "Hans HARTMANN - Naturalisation certificate",
+        "a1ctrl": "1930/2229",
+        "a1barcode": "1499426",
+        "matchScore": 1
+    },
+    {
+        "internName": "BERICH, Ivan",
+        "internBarcode": "200961049",
+        "a1title": "Berich, Ivan - Naturalisation",
+        "a1ctrl": "1922/2669",
+        "a1barcode": "3332006",
+        "matchScore": 1
+    },
+    {
+        "internName": "SCHULTZ, Heinrich",
+        "internBarcode": "200959195",
+        "a1title": "Schulz, Heinrich - Naturalisation",
+        "a1ctrl": "1921/8210",
+        "a1barcode": "3332701",
+        "matchScore": 0.9411764705882353
+    },
+    {
+        "internName": "Sylvester MICHAELIS",
+        "internBarcode": "200962512",
+        "a1title": "Sylvester Michelis - Denaturalisation",
+        "a1ctrl": "1938/25269",
+        "a1barcode": "837154",
+        "matchScore": 0.9473684210526316
+    },
+    {
+        "internName": "Peter JANSEN",
+        "internBarcode": "200960529",
+        "a1title": "Peter Hansen - naturalisation certificate",
+        "a1ctrl": "1931/3425",
+        "a1barcode": "1165164",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "K SCHNEIDER",
+        "internBarcode": "200958952",
+        "a1title": "M Schneider - Naturalisation certificate",
+        "a1ctrl": "1932/10259",
+        "a1barcode": "1169003",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Peter UHRBAN",
+        "internBarcode": "200961395",
+        "a1title": "Peter Uhrhan - naturalisation",
+        "a1ctrl": "1933/9041",
+        "a1barcode": "1170705",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "CONRAD, Paul",
+        "internBarcode": "200964686",
+        "a1title": "Conrad, Paul - Naturalisation",
+        "a1ctrl": "1920/20445",
+        "a1barcode": "3214450",
+        "matchScore": 1
+    },
+    {
+        "internName": "PFENNIG, Samuel",
+        "internBarcode": "200962374",
+        "a1title": "Pfennig, Samuel - Naturalisation",
+        "a1ctrl": "1923/16415",
+        "a1barcode": "3216950",
+        "matchScore": 1
+    },
+    {
+        "internName": "Peter JANSEN",
+        "internBarcode": "200960529",
+        "a1title": "Peter JENSEN - naturalisation.",
+        "a1ctrl": "1934/3397",
+        "a1barcode": "1021188",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "Albert RANTZ",
+        "internBarcode": "200960795",
+        "a1title": "Albert KRANTZ - naturalisation.",
+        "a1ctrl": "1934/3414",
+        "a1barcode": "1021248",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "BURST, Albert",
+        "internBarcode": "200963133",
+        "a1title": "Burst, Albert naturalisation",
+        "a1ctrl": "1930/3730",
+        "a1barcode": "44908",
+        "matchScore": 1
+    },
+    {
+        "internName": "BITHER, Ernst",
+        "internBarcode": "200963062",
+        "a1title": "Bitter, Ernst naturalisation",
+        "a1ctrl": "1930/5518",
+        "a1barcode": "44928",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Eugen BELLON",
+        "internBarcode": "200959234",
+        "a1title": "Eugene Bellon naturalisation",
+        "a1ctrl": "1914/16104",
+        "a1barcode": "83322",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "Ivan BERICH",
+        "internBarcode": "200961049",
+        "a1title": "Ivan PERICH - naturalisation",
+        "a1ctrl": "1934/7150",
+        "a1barcode": "1075413",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "Karl KRAUS",
+        "internBarcode": "200963223",
+        "a1title": "Karl KRAUS - naturalisation",
+        "a1ctrl": "1934/8513",
+        "a1barcode": "1103230",
+        "matchScore": 1
+    },
+    {
+        "internName": "SCHMITZ, Otto",
+        "internBarcode": "200963904",
+        "a1title": "Schmitz, Otto - Naturalisation [4 pages]",
+        "a1ctrl": "1909/2574",
+        "a1barcode": "3103927",
+        "matchScore": 1
+    }
+]

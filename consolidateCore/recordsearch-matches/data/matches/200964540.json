@@ -1,0 +1,17 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "WEICHBRODT Anton - Nationality: German", 
+        "series": "D2375", 
+        "identifier": "9209210", 
+        "control_symbol": "WEICHBRODT ANTON", 
+        "contents_dates": {
+            "date_str": "20 Oct 1917 - 23 Feb 1918", 
+            "start_date": "1917-10-20", 
+            "end_date": "1918-02-23"
+        }, 
+        "location": "Adelaide"
+    }
+]

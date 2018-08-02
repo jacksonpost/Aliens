@@ -1,0 +1,17 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Wegner Max", 
+        "series": "MP16/1", 
+        "identifier": "319468", 
+        "control_symbol": "1914/1/39", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Melbourne"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "digitised_pages": "6", 
+        "title": "Ernst Wilhelm SCHUBERT - Naturalization", 
+        "series": "A63", 
+        "control_symbol": "A1910/6994", 
+        "contents_dates": {
+            "date_str": "1910 - 1910", 
+            "start_date": "1910", 
+            "end_date": "1910"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "54785"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Schubert, Ernst Gottfried Traugott - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "123", 
+        "contents_dates": {
+            "date_str": "1865 - 1865", 
+            "start_date": "1865", 
+            "end_date": "1865"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3170821"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Schubert, Ernst Heinrich - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "1577", 
+        "contents_dates": {
+            "date_str": "1883 - 1883", 
+            "start_date": "1883", 
+            "end_date": "1883"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3181305"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PAULSEN Uwe Rudolf Ernst born 15 October 1937; Margret (nee Schubert) born 26 October 1942; Olaf born 11 November 1960; Petra born 14 November 1962 - German", 
+        "series": "A2562", 
+        "control_symbol": "1971/9801", 
+        "contents_dates": {
+            "date_str": "1970 - 1971", 
+            "start_date": "1970", 
+            "end_date": "1971"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7737028"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "SCHUBERT Manfred Ernst - Nationality: German - Arrived Sydney per Aircraft 03 August 1962 Departed Commonwealth on 12 October 1963", 
+        "series": "B78", 
+        "identifier": "5815266", 
+        "control_symbol": "GERMAN/SCHUBERT MANFRED ERNST", 
+        "contents_dates": {
+            "date_str": "01 Jan 1939 - 31 Dec 1972", 
+            "start_date": "1939-01-01", 
+            "end_date": "1972-12-31"
+        }, 
+        "location": "Melbourne"
+    }
+]

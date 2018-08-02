@@ -1,0 +1,62 @@
+[
+    {
+        "digitised_pages": "13", 
+        "title": "P.E. Paul Edward Malinowski Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1921/20904", 
+        "contents_dates": {
+            "date_str": "1921 - 1921", 
+            "start_date": "1921", 
+            "end_date": "1921"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "41027"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MALINOWSKI Paul born 10 June 1922; Anna born 18 December 1923", 
+        "series": "A11946", 
+        "control_symbol": "652-653", 
+        "contents_dates": {
+            "date_str": "1949 - 1949", 
+            "start_date": "1949", 
+            "end_date": "1949"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4707921"
+    }, 
+    {
+        "digitised_pages": "10", 
+        "title": "MALINOWSKI, Pawel aka Paul.", 
+        "series": "A6119", 
+        "control_symbol": "1509", 
+        "contents_dates": {
+            "date_str": "1949 - 1961", 
+            "start_date": "1949", 
+            "end_date": "1961"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1172846"
+    }, 
+    {
+        "digitised_pages": "40", 
+        "title": "Paul Edward Malinowski [Polish. Box 1]", 
+        "series": "SP43/2", 
+        "control_symbol": "N59/20/511", 
+        "contents_dates": {
+            "date_str": "1917 - 1921", 
+            "start_date": "1917", 
+            "end_date": "1921"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4304453"
+    }
+]

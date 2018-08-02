@@ -1,0 +1,77 @@
+[
+    {
+        "digitised_pages": "3", 
+        "title": "Hahn, Heinrich - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "2193", 
+        "contents_dates": {
+            "date_str": "1884 - 1884", 
+            "start_date": "1884", 
+            "end_date": "1884"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3183106"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HAHN Heinrich born 22 October 1940 - German - travelled per CASTEL FELICE on 15 September 1959", 
+        "series": "A2478", 
+        "control_symbol": "HAHN H", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7707119"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hahn, Heinrich [German migrant; naturalization file]", 
+        "series": "SP1122/1", 
+        "control_symbol": "N1957/34351", 
+        "contents_dates": {
+            "date_str": "1951 - 1959", 
+            "start_date": "1951", 
+            "end_date": "1959"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "12674685"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HAHN Heinrich - Nationality: German - Arrived Melbourne per Castel Felice 20 October 1959", 
+        "series": "D4881", 
+        "control_symbol": "HAHN HEINRICH", 
+        "contents_dates": {
+            "date_str": "1959 - 1976", 
+            "start_date": "1959", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9190582"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Heinrich Wilhelm Hahn [German - arrived Sydney per STRATHAIRD, 26 June 1952 ] [Box 454]", 
+        "series": "SP1121/1", 
+        "control_symbol": "HAHN, HEINRICH WILHELM", 
+        "contents_dates": {
+            "date_str": "1952 - 1953", 
+            "start_date": "1952", 
+            "end_date": "1953"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "31095764"
+    }
+]

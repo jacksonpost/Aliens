@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "LEIN Hans Felix Klaus born 22 August 1967 - Nationality German - arrived via flight MIQAN 15/688J departed Hamburg/Germany 20 May 1968 under Commonwealth Nominees Scheme", 
+        "series": "A2559", 
+        "identifier": "4743132", 
+        "control_symbol": "1968/116/1116", 
+        "contents_dates": {
+            "date_str": "1968 - 1968", 
+            "start_date": "1968", 
+            "end_date": "1968"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Lein, Hans Felix Klaus - German - arrived 22 May 1968 in Sydney aboard Airflight QF 176", 
+        "series": "BP289/1", 
+        "identifier": "30444164", 
+        "control_symbol": "1205197", 
+        "contents_dates": {
+            "date_str": "1968 - 1969", 
+            "start_date": "1968", 
+            "end_date": "1969"
+        }, 
+        "location": "Brisbane"
+    }
+]

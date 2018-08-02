@@ -1,0 +1,122 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "SCHULZ ERICH REINHOLD : Service Number - Q153902 : Date of birth - 19 Nov 1910 : Place of birth - DUGANDAN QLD : Place of enlistment - VALLEY QLD : Next of Kin - SCHULZ EILEEN", 
+        "series": "B884", 
+        "identifier": "4871981", 
+        "control_symbol": "Q153902", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": "17", 
+        "title": "R.H.R. Reinhold Herman Richard Schulz Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1921/6320", 
+        "contents_dates": {
+            "date_str": "1912 - 1921", 
+            "start_date": "1912", 
+            "end_date": "1921"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "39924"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ Reinhold Ewald born 2 May 1929 - German - travelled per AURELIA in August 1960", 
+        "series": "A2478", 
+        "control_symbol": "SCHULZ R E", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7687818"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ Siegfried Reinhold Hans born 14 May 1937 - German -  travelled per AURELIA in August 1962", 
+        "series": "A2478", 
+        "control_symbol": "SCHULZ S", 
+        "contents_dates": {
+            "date_str": "1962 - 1962", 
+            "start_date": "1962", 
+            "end_date": "1962"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7690602"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - SCHULZ Nathanael Reinhold Robert; Nominee - HAUSKNECHT Louise; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1927/2619", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8165407"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ Gustav Reinhold: Nationality - German: Date of Birth - 24 August 1888: Date of Arrival - 30 June 1913: First Registered at Glenlyon - Victoria", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/GERMANY/SCHULZ GUSTAV", 
+        "contents_dates": {
+            "date_str": "1916 - 1920", 
+            "start_date": "1916", 
+            "end_date": "1920"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5956719"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ, Manfred Herman Reinhold born 8 January 1941 - nationality German", 
+        "series": "P1183", 
+        "control_symbol": "18/617 SCHULZ", 
+        "contents_dates": {
+            "date_str": "1960 - 1963", 
+            "start_date": "1960", 
+            "end_date": "1963"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "30217832"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schulz, Siegfried Reinhold Hans - German - arrived 19 July 1968 in Darwin aboard Airflight BA 716", 
+        "series": "BP289/1", 
+        "control_symbol": "1105369", 
+        "contents_dates": {
+            "date_str": "1968 - 1970", 
+            "start_date": "1968", 
+            "end_date": "1970"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "60172304"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - KROHN Otto Ernest; Nominee - BROCKHAUS Johanna; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1931/186", 
+        "contents_dates": {
+            "date_str": "1931 - 1931", 
+            "start_date": "1931", 
+            "end_date": "1931"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8192849"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KROHN, Otto Ernst [born 1906] - Nationality: German - arrived Port Pirie 23 August 1928 on the Freiburg; [deserter from crew of the vessel Freiburg]", 
+        "series": "BP313/1", 
+        "control_symbol": "KROHN O E", 
+        "contents_dates": {
+            "date_str": "1928 - 1936", 
+            "start_date": "1928", 
+            "end_date": "1936"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30087754"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Otto Ernst Krohn", 
+        "series": "D1901", 
+        "control_symbol": "K310", 
+        "contents_dates": {
+            "date_str": "1942 - 1944", 
+            "start_date": "1942", 
+            "end_date": "1944"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "322764"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Krohn, Otto Ernest - Queensland Internee", 
+        "series": "BP242/1", 
+        "control_symbol": "Q12398 PART 1", 
+        "contents_dates": {
+            "date_str": "1936 - 1944", 
+            "start_date": "1936", 
+            "end_date": "1944"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "3295226"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Krohn, Otto Ernest - Queensland Internee", 
+        "series": "BP242/1", 
+        "control_symbol": "Q12398 PART 2", 
+        "contents_dates": {
+            "date_str": "1939 - 1950", 
+            "start_date": "1939", 
+            "end_date": "1950"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "3295230"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Krohn, Otto Ernest - Nationality: German - Alien Registration Certificate ?not issued [folio states Krohn was naturalised 28 May 1936]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMAN KROHN O E", 
+        "contents_dates": {
+            "date_str": "1936 - 1936", 
+            "start_date": "1936", 
+            "end_date": "1936"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6298547"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Krohn, Otto Ernst; Date of birth - 10 September 1906; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "Q491", 
+        "contents_dates": {
+            "date_str": "1942 - 1944", 
+            "start_date": "1942", 
+            "end_date": "1944"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8613289"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Prisoner of War/Internee; Krohn, Otto Ernst; Year of birth - 1906; Nationality - German nbs", 
+        "series": "MP1103/2", 
+        "control_symbol": "Q491", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9902271"
+    }
+]

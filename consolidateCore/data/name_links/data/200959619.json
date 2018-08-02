@@ -1,0 +1,107 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "BECKER  Johann born 21 April 1913; Christine (nee Nolden) born 24 July 1917; Hans born 22 September 1937; Kurt born 13 March 1943; Margret born 28 February 1946 - German -  travelled per ship NELLY departing in 1953 under  the Australian/German assisted passage scheme", 
+        "series": "A2478", 
+        "control_symbol": "BECKER J", 
+        "contents_dates": {
+            "date_str": "1952 - 1953", 
+            "start_date": "1952", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1419259"
+    }, 
+    {
+        "digitised_pages": "32", 
+        "title": "BARBIE Johann [Jovan] born 17 May 1923; Anna [nee Becker] born 15 October 1902; Anna born 10 September [28 August] 1933; Alexander born 27 December [18 November] 1936; Adolf born 26 [15] August 1941; Boris born 29 March 1946", 
+        "series": "A11919", 
+        "control_symbol": "440-444", 
+        "contents_dates": {
+            "date_str": "1949 - 1949", 
+            "start_date": "1949", 
+            "end_date": "1949"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4006747"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ Johann Hermann Ernst born 1 June 1928; Ingeborg Martha (nee Becker) born 11 November 1925 - German - travelled per AURELIA in November 1960", 
+        "series": "A2478", 
+        "control_symbol": "SCHULZ J H E", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7690087"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECKER Peter born 2 May 1927; Hildegard (nee Schmidt) born 25 August 1927; Erika born 20 October 1951; Johann born 18 December 1952 - Austrian - travelled per AURELIA on 17 December 1955", 
+        "series": "A2478", 
+        "control_symbol": "BECKER P", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7794878"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECKER HANS JOHANN - Application of Naturalisation [Box 45]", 
+        "series": "D400", 
+        "control_symbol": "SA1959/4760", 
+        "contents_dates": {
+            "date_str": "1959 - 1960", 
+            "start_date": "1959", 
+            "end_date": "1960"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "202818314"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECKER Heinz Johann - Nationality: German - Arrived Melbourne per Castel Felice 29 November 1958 Departed Commonwealth on 16 January 1963", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/BECKER HEINZ JOHANN", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5756432"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECKER Hans Johann - Nationality: German - Arrived Melbourne per Nelly 23 February 1953", 
+        "series": "D4881", 
+        "control_symbol": "BECKER HANS JOHANN", 
+        "contents_dates": {
+            "date_str": "1953 - 1976", 
+            "start_date": "1953", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8124918"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "digitised_pages": "39", 
+        "title": "Heinrich Simon BREUER - Naturalisation certificate", 
+        "series": "A1", 
+        "control_symbol": "1927/6430", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1507258"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KUNSMANN Heinrich Gunter born 26 January 1931; Anni (nee Breuer) born 5 October 1932 - German - travelled per CASTEL FELICE in December 1959", 
+        "series": "A2478", 
+        "control_symbol": "KUNSMANN H G", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7707755"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Breuer, Heinrich Simon - Meribah, SA - application for naturalization - German nationality [also internment; allowance for wife; proposed deportation; parole]", 
+        "series": "D1915", 
+        "control_symbol": "SA388", 
+        "contents_dates": {
+            "date_str": "1916 - 1952", 
+            "start_date": "1916", 
+            "end_date": "1952"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "323802"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Heinrich Hubert Adolf Breuer - transfer of property Townsville Qld", 
+        "series": "A12217", 
+        "control_symbol": "L4306", 
+        "contents_dates": {
+            "date_str": "1941 - 1941", 
+            "start_date": "1941", 
+            "end_date": "1941"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5438558"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Heinrich Hubert Adolf Breuer - transfer of property Townsville Qld", 
+        "series": "A12217", 
+        "control_symbol": "L8080", 
+        "contents_dates": {
+            "date_str": "1943 - 1943", 
+            "start_date": "1943", 
+            "end_date": "1943"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5450255"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Heinrich Hubert Adolf Breuer - lease of property Qld", 
+        "series": "A12217", 
+        "control_symbol": "L8887", 
+        "contents_dates": {
+            "date_str": "1944 - 1944", 
+            "start_date": "1944", 
+            "end_date": "1944"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5455620"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Heinrich Herbert and Adolf Breuer - purchase of property Townsville, Qld - vendor Francis Murray", 
+        "series": "A12217", 
+        "control_symbol": "L12159", 
+        "contents_dates": {
+            "date_str": "1944 - 1946", 
+            "start_date": "1944", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5477662"
+    }
+]

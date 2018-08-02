@@ -1,0 +1,62 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Moore Karl Byron : SERN LIEUT : POB Melbourne VIC : POE Melbourne VIC : NOK W Moore Florence Byron", 
+        "series": "B2455", 
+        "identifier": "3006427", 
+        "control_symbol": "MOORE K B", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FLOOD Noel John born 20 December 1937; Dolores Moore born 23 June 1938; Karl born 8 August 1962; Sharon born 11 April 1964 - Irish", 
+        "series": "A2560", 
+        "control_symbol": "FLOOD N J", 
+        "contents_dates": {
+            "date_str": "1965 - 1965", 
+            "start_date": "1965", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7134570"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WOLDT Karl Heinz born 21 July 1946; Pamela  Dawn (nee Moore) born 2 January 1945 - German", 
+        "series": "A2562", 
+        "control_symbol": "1969/1864", 
+        "contents_dates": {
+            "date_str": "1968 - 1968", 
+            "start_date": "1968", 
+            "end_date": "1968"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7613180"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FJERSTAD Willis Karl born 9 May 1937; Eileen E (nee Moore) born 18 August 1941; Michael born 5 November 1961; Barbara born 24 July 1964 - United States Citizen", 
+        "series": "A2562", 
+        "control_symbol": "1972/5237", 
+        "contents_dates": {
+            "date_str": "1971 - 1972", 
+            "start_date": "1971", 
+            "end_date": "1972"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7743895"
+    }
+]

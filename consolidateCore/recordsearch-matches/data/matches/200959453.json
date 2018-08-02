@@ -1,0 +1,167 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ, Frances May beneficiary of SCHULTZ, Christian Henry - Service Number - 3503", 
+        "series": "B73", 
+        "control_symbol": "MB49389", 
+        "contents_dates": {
+            "date_str": "1965 - 1970", 
+            "start_date": "1965", 
+            "end_date": "1970"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "20457101"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ, Frances May beneficiary of SCHULTZ, Christian Henry - Service Number - 3503", 
+        "series": "B73", 
+        "control_symbol": "MB49389", 
+        "contents_dates": {
+            "date_str": "1968 - 1969", 
+            "start_date": "1968", 
+            "end_date": "1969"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "20457102"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ CHRISTIAN ANTHONY : Service Number - VX36753 : Date of birth - 21 Jun 1901 : Place of birth - SANDON VIC : Place of enlistment - ROYAL PARK VIC : Next of Kin - HERON D", 
+        "series": "B883", 
+        "control_symbol": "VX36753", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6126555"
+    }, 
+    {
+        "digitised_pages": "29", 
+        "title": "SCHULTZ Christian Henry : Service Number - 3503 : Place of Birth - Amphitheatre VIC : Place of Enlistment - Melbourne VIC : Next of Kin - (Mother) SCHULTZ Susan Jane", 
+        "series": "B2455", 
+        "control_symbol": "SCHULTZ CHRISTIAN HENRY", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8075699"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schultz, Henry Christian; age 39; born - Amphitheatre Vic", 
+        "series": "MT1486/1", 
+        "control_symbol": "SCHULTZ/HENRY CHRISTIAN", 
+        "contents_dates": {
+            "date_str": "1915 - 1915", 
+            "start_date": "1915", 
+            "end_date": "1915"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9697294"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ Lea Dora born 1895; Lise Ann born 1896; Jan Christian born 1897 - Danish - travelled per ship SKAUBRYN departing Bremerhaven/Germany on 8 January 1957 under General Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "SCHULTZ LD", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1413468"
+    }, 
+    {
+        "digitised_pages": "13", 
+        "title": "Schultz, Carl August; Urbahns, Heinrich; Jurgensen, Christian Friedrich; Kaulbartsch, Johann Gottlob; Kubsch, Gottlob - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1859/J5085", 
+        "contents_dates": {
+            "date_str": "1859 - 1859", 
+            "start_date": "1859", 
+            "end_date": "1859"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1811674"
+    }, 
+    {
+        "digitised_pages": "53", 
+        "title": "Schultz, Johann August; Mudra, Martin; Mibus, Johann Gottfried; Linke, Johann Friedrich; Matuschka, Christian; Mibus, Carl Gottlieb; Linke, Friedrich; Harnath, Christian; Mibus, Ludwig Christian; Krieg, Johann Christoph; Kasch, Peter Ludwig Wilhelm - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1863/D9069", 
+        "contents_dates": {
+            "date_str": "1863 - 1863", 
+            "start_date": "1863", 
+            "end_date": "1863"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1815258"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schultz, John Christian", 
+        "series": "P3", 
+        "control_symbol": "T1976/0833", 
+        "contents_dates": {
+            "date_str": "1976 - 1976", 
+            "start_date": "1976", 
+            "end_date": "1976"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "31621886"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "SCHULTZ [nee ZURRER], Anna Martha born 28 June 1926 - nationality Danish; Johannes Christian Nissen born 3 May 1923; Carmen born 21 July 1950; Rene born 24 December 1953; Ettorre born 30 January 1955; Marcel born 24 December 1955", 
+        "series": "P1183", 
+        "control_symbol": "4/282 SCHULTZ", 
+        "contents_dates": {
+            "date_str": "1965 - 1970", 
+            "start_date": "1965", 
+            "end_date": "1970"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9597424"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "SCHULTZ, Johannes Christian Nissen born 3 May 1923 - nationality Danish; Anna Maria born 28 June 1926; Carmen born 21 July 1950; Rene born 24 December 1953; Ettorre born 30 January 1955; Marcel born 24 December 1955", 
+        "series": "P1183", 
+        "control_symbol": "4/283 SCHULTZ", 
+        "contents_dates": {
+            "date_str": "1965 - 1970", 
+            "start_date": "1965", 
+            "end_date": "1970"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9597425"
+    }
+]

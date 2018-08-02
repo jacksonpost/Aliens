@@ -1,0 +1,415 @@
+[
+    {
+        "internName": "KRAEGER, Christian",
+        "internBarcode": "200961898",
+        "d2375title": "BARGER CHRISTIAN",
+        "d2375barcode": "9209101",
+        "matchScore": 0.7777777777777778
+    },
+    {
+        "internName": "BASTIAN, August",
+        "internBarcode": "200959990",
+        "d2375title": "BASTIEN AUGUST",
+        "d2375barcode": "9209102",
+        "matchScore": 0.8666666666666667
+    },
+    {
+        "internName": "BEHRENS, Ernest",
+        "internBarcode": "200960326",
+        "d2375title": "BEHRENS ERNST",
+        "d2375barcode": "9209107",
+        "matchScore": 0.8666666666666667
+    },
+    {
+        "internName": "BEHRENDT, Ernst",
+        "internBarcode": "200962482",
+        "d2375title": "BEHRNDT ERNST",
+        "d2375barcode": "9209108",
+        "matchScore": 0.8666666666666667
+    },
+    {
+        "internName": "BELENDORF, Ernst",
+        "internBarcode": "200964306",
+        "d2375title": "BELENDORF ERNEST",
+        "d2375barcode": "9209109",
+        "matchScore": 0.875
+    },
+    {
+        "internName": "BAHR, Frank",
+        "internBarcode": "200962724",
+        "d2375title": "BIRD FRANK",
+        "d2375barcode": "9209111",
+        "matchScore": 0.7272727272727273
+    },
+    {
+        "internName": "BOERNER, Hugo",
+        "internBarcode": "200962318",
+        "d2375title": "BOERNER HUGO",
+        "d2375barcode": "9209113",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "BOHL, August",
+        "internBarcode": "200960263",
+        "d2375title": "BOHL AUGUST",
+        "d2375barcode": "9209114",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "BORSTEL, Frank",
+        "internBarcode": "200961453",
+        "d2375title": "BORSTEL FRANK",
+        "d2375barcode": "9209117",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "BROCKMUELLER, Friedrich",
+        "internBarcode": "200960316",
+        "d2375title": "BROCKMULLER FRIEDRICH",
+        "d2375barcode": "9209121",
+        "matchScore": 0.9130434782608696
+    },
+    {
+        "internName": "CHRISTOFFRS, Hermann",
+        "internBarcode": "200960203",
+        "d2375title": "CHRISTOPHERS HERMAN E",
+        "d2375barcode": "9209124",
+        "matchScore": 0.7142857142857143
+    },
+    {
+        "internName": "COLLESELLEI, Luigi",
+        "internBarcode": "200964660",
+        "d2375title": "COLLESELLI LUIGI",
+        "d2375barcode": "12069979",
+        "matchScore": 0.8888888888888888
+    },
+    {
+        "internName": "CORDER, Louis",
+        "internBarcode": "200960340",
+        "d2375title": "CORDIER LOUIS",
+        "d2375barcode": "9209129",
+        "matchScore": 0.8461538461538461
+    },
+    {
+        "internName": "DIRCKS, Wilhelm",
+        "internBarcode": "200960114",
+        "d2375title": "DIERKS WILHELM",
+        "d2375barcode": "9209133",
+        "matchScore": 0.8
+    },
+    {
+        "internName": "DETTMER, Hermann",
+        "internBarcode": "200960197",
+        "d2375title": "DITTMER HERMANN",
+        "d2375barcode": "9209136",
+        "matchScore": 0.875
+    },
+    {
+        "internName": "DORIGO, Leonzio",
+        "internBarcode": "200964664",
+        "d2375title": "DORIGO LEONZIO",
+        "d2375barcode": "9209140",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "DOSE, Fritz",
+        "internBarcode": "200960045",
+        "d2375title": "DOSE FRITZ",
+        "d2375barcode": "9209141",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "EUBER, Leopold",
+        "internBarcode": "200959415",
+        "d2375title": "EBNER LEOPOLD",
+        "d2375barcode": "9209144",
+        "matchScore": 0.7857142857142857
+    },
+    {
+        "internName": "EGLER, Fritz",
+        "internBarcode": "200960116",
+        "d2375title": "ECJLER FRITZ",
+        "d2375barcode": "9209146",
+        "matchScore": 0.75
+    },
+    {
+        "internName": "ECKARDT, Paul",
+        "internBarcode": "200960096",
+        "d2375title": "ECKHARDT PAUL",
+        "d2375barcode": "9209148",
+        "matchScore": 0.8461538461538461
+    },
+    {
+        "internName": "EIDE, Rudolf",
+        "internBarcode": "200960547",
+        "d2375title": "EID RUDOLF",
+        "d2375barcode": "9209155",
+        "matchScore": 0.8333333333333334
+    },
+    {
+        "internName": "MEIER, Friedrich",
+        "internBarcode": "200964088",
+        "d2375title": "EILERS FRIEDRICH",
+        "d2375barcode": "9209151",
+        "matchScore": 0.8125
+    },
+    {
+        "internName": "EFFLERS, Johann",
+        "internBarcode": "200960127",
+        "d2375title": "ELFERS JOHANN",
+        "d2375barcode": "9209153",
+        "matchScore": 0.8
+    },
+    {
+        "internName": "EMDE, Walter",
+        "internBarcode": "200963726",
+        "d2375title": "EMDE WALTER",
+        "d2375barcode": "9209154",
+        "matchScore": 0.9166666666666666
+    },
+    {
+        "internName": "ERBACH, Wilhelm",
+        "internBarcode": "200963107",
+        "d2375title": "ERBACH WILHELM",
+        "d2375barcode": "12152601",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "ERNST, Karl",
+        "internBarcode": "200960182",
+        "d2375title": "ERNST CARL",
+        "d2375barcode": "9209156",
+        "matchScore": 0.8181818181818181
+    },
+    {
+        "internName": "FASSHAUER, Johann",
+        "internBarcode": "200963378",
+        "d2375title": "FASSHAUER JOHANN",
+        "d2375barcode": "9209157",
+        "matchScore": 0.9411764705882353
+    },
+    {
+        "internName": "FEHRENBACHER, Adolf",
+        "internBarcode": "200960337",
+        "d2375title": "FEHRENBACHER ADOLPH",
+        "d2375barcode": "9209158",
+        "matchScore": 0.8421052631578947
+    },
+    {
+        "internName": "FEHRMANN, Otto",
+        "internBarcode": "200960327",
+        "d2375title": "FEHRMANN OTTO",
+        "d2375barcode": "9209159",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "FELLER, Heinrich",
+        "internBarcode": "200960236",
+        "d2375title": "FELLER HEINRICH",
+        "d2375barcode": "9209160",
+        "matchScore": 0.9375
+    },
+    {
+        "internName": "FITZNER, Arthur",
+        "internBarcode": "200960058",
+        "d2375title": "FITZNER ARTHUR",
+        "d2375barcode": "9209164",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "FOSCARINI, Giovanni",
+        "internBarcode": "200964673",
+        "d2375title": "FOSCARINI GIOVANNI",
+        "d2375barcode": "9209165",
+        "matchScore": 0.9473684210526316
+    },
+    {
+        "internName": "FREYGANG, Georg",
+        "internBarcode": "200960306",
+        "d2375title": "FREYGANG GEORGE",
+        "d2375barcode": "9209168",
+        "matchScore": 0.8666666666666667
+    },
+    {
+        "internName": "FRITSCH, Willy",
+        "internBarcode": "200961481",
+        "d2375title": "FRITSCH WILLY",
+        "d2375barcode": "9209169",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "FRAEHLICH, Hans",
+        "internBarcode": "200960102",
+        "d2375title": "FROHLICH HANS",
+        "d2375barcode": "9209170",
+        "matchScore": 0.8
+    },
+    {
+        "internName": "GASCHE, Bruno",
+        "internBarcode": "200960079",
+        "d2375title": "GASCHE BRUNO",
+        "d2375barcode": "9209172",
+        "matchScore": 0.9230769230769231
+    },
+    {
+        "internName": "GEHLE, Johann",
+        "internBarcode": "200960057",
+        "d2375title": "GEHLE JOHANNES",
+        "d2375barcode": "4079565",
+        "matchScore": 0.7857142857142857
+    },
+    {
+        "internName": "GELLBRICH, Heinrich",
+        "internBarcode": "200960167",
+        "d2375title": "GELBRICH HEINRICH",
+        "d2375barcode": "9209181",
+        "matchScore": 0.8947368421052632
+    },
+    {
+        "internName": "GERBROCHT, Bernhard",
+        "internBarcode": "200961463",
+        "d2375title": "GERBRACHT BERNARD",
+        "d2375barcode": "12069981",
+        "matchScore": 0.8421052631578947
+    },
+    {
+        "internName": "GEHLE, Johann",
+        "internBarcode": "200960057",
+        "d2375title": "GERDES JOHANN",
+        "d2375barcode": "9209180",
+        "matchScore": 0.7692307692307692
+    },
+    {
+        "internName": "GLUECKSCHALT, Karl",
+        "internBarcode": "200960934",
+        "d2375title": "GLUSKSCHALD KARL",
+        "d2375barcode": "9209177",
+        "matchScore": 0.7777777777777778
+    },
+    {
+        "internName": "GROTH, Wilhelm",
+        "internBarcode": "200959201",
+        "d2375title": "GRABA WILHELM",
+        "d2375barcode": "9209174",
+        "matchScore": 0.7142857142857143
+    },
+    {
+        "internName": "HEBERT, Hans",
+        "internBarcode": "200964501",
+        "d2375title": "HEBART HANS",
+        "d2375barcode": "9209185",
+        "matchScore": 0.8333333333333334
+    },
+    {
+        "internName": "KARSTEN, Henry",
+        "internBarcode": "200964548",
+        "d2375title": "KARSTEN HENRY",
+        "d2375barcode": "9209188",
+        "matchScore": 0.9285714285714286
+    },
+    {
+        "internName": "LEZOW, Rodolfs",
+        "internBarcode": "200964662",
+        "d2375title": "LEZUO RODOLFO",
+        "d2375barcode": "9209193",
+        "matchScore": 0.7142857142857143
+    },
+    {
+        "internName": "PALUCHOWSKI, Johann",
+        "internBarcode": "200964502",
+        "d2375title": "PALUCHOWSKI JOHANN",
+        "d2375barcode": "9209194",
+        "matchScore": 0.9473684210526316
+    },
+    {
+        "internName": "PEZZEI, Benedetto",
+        "internBarcode": "200964672",
+        "d2375title": "PEZZEI BENEDITTO",
+        "d2375barcode": "9209196",
+        "matchScore": 0.8823529411764706
+    },
+    {
+        "internName": "PLOETZ, Anton",
+        "internBarcode": "200964602",
+        "d2375title": "PLOTZ ANTON",
+        "d2375barcode": "9209198",
+        "matchScore": 0.8461538461538461
+    },
+    {
+        "internName": "QUARG, Otto A",
+        "internBarcode": "200964290",
+        "d2375title": "QUARG OTTO",
+        "d2375barcode": "9209200",
+        "matchScore": 0.7692307692307692
+    },
+    {
+        "internName": "RATZ, Friedrich",
+        "internBarcode": "200964550",
+        "d2375title": "RATZ FRIEDRICH",
+        "d2375barcode": "9209201",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "ROWEDDER, Christian",
+        "internBarcode": "200964403",
+        "d2375title": "ROWEDDER CHRISTIAN",
+        "d2375barcode": "9209202",
+        "matchScore": 0.9473684210526316
+    },
+    {
+        "internName": "SCHNEIDER, Theodor",
+        "internBarcode": "200964547",
+        "d2375title": "SCHNEIDER THEODORE",
+        "d2375barcode": "9209203",
+        "matchScore": 0.8888888888888888
+    },
+    {
+        "internName": "SCHRADER, Gustav A",
+        "internBarcode": "200964294",
+        "d2375title": "SCHRADER GUSTAV AUGUST",
+        "d2375barcode": "12152602",
+        "matchScore": 0.7272727272727273
+    },
+    {
+        "internName": "SMITHSON, Carl",
+        "internBarcode": "200964663",
+        "d2375title": "SMITHSON KARL",
+        "d2375barcode": "9209204",
+        "matchScore": 0.8571428571428572
+    },
+    {
+        "internName": "SPOONER, Albert",
+        "internBarcode": "200964559",
+        "d2375title": "SPOONER ALBERT",
+        "d2375barcode": "9209205",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "VELTEN, Wilhelm",
+        "internBarcode": "200963524",
+        "d2375title": "VELTON WILHELM",
+        "d2375barcode": "9209207",
+        "matchScore": 0.8666666666666667
+    },
+    {
+        "internName": "VOSS, Siegfried",
+        "internBarcode": "200964293",
+        "d2375title": "VOSS SIEGFRIED",
+        "d2375barcode": "9209208",
+        "matchScore": 0.9333333333333333
+    },
+    {
+        "internName": "WACKER, Frank",
+        "internBarcode": "200964405",
+        "d2375title": "WACKER FRANZ",
+        "d2375barcode": "9209209",
+        "matchScore": 0.8461538461538461
+    },
+    {
+        "internName": "WEICHBRODT, Anton",
+        "internBarcode": "200964540",
+        "d2375title": "WEICHBRODT ANTON",
+        "d2375barcode": "9209210",
+        "matchScore": 0.9411764705882353
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "[HERBIG Paul Henry William : Service Number - NX155814 : Unit - 1st Australian Cavalry Commando Training Squadron, Australian Military Forces : Date of Court Martial - 27 April 1944]", 
+        "series": "A471", 
+        "identifier": "8919009", 
+        "control_symbol": "54098", 
+        "contents_dates": {
+            "date_str": "1944 - 1944", 
+            "start_date": "1944", 
+            "end_date": "1944"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HERBIG PAUL HENRY WILLIAM : Service Number - NX155814 : Date of birth - 17 May 1924 : Place of birth - PADDINGTON : Place of enlistment - CANUNGRA QLD : Next of Kin - HERBIG ALICE", 
+        "series": "B883", 
+        "control_symbol": "NX155814", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5556747"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HERBIG PAUL ALFRED : Service Number - V360140 : Date of birth - 27 Nov 1902 : Place of birth - ANGAS VALLEY SA : Place of enlistment - EDENHOPE VIC : Next of Kin - HERBIG LOUISE", 
+        "series": "B884", 
+        "control_symbol": "V360140", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6662321"
+    }, 
+    {
+        "digitised_pages": "34", 
+        "title": "Paul Kurt Martin Herbig [Interned] Mrs Alice Herbig [Application for Naturalisation] [Box 69]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N18804", 
+        "contents_dates": {
+            "date_str": "1915 - 1937", 
+            "start_date": "1915", 
+            "end_date": "1937"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "848185"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "TITLE: Herbig, Paul [Liverpool camp internee at NSW during World War 1] CATEGORY: Photograph FORMAT: b&w print STATUS: preservation material", 
+        "series": "SP421/4", 
+        "control_symbol": "379", 
+        "contents_dates": {
+            "date_str": "1914 - 1924", 
+            "start_date": "1914", 
+            "end_date": "1924"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7530428"
+    }
+]

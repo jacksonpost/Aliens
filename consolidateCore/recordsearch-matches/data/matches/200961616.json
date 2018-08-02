@@ -1,0 +1,122 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "LOEW Johann born 16 March 1935; Maria (nee Scherr and Erder) born 25 August 1922; Manfred (Eder) born 27 October 1942; Werner (Eder) born 22 May 1945 - travelled per ship SYDNEY departing in 1957", 
+        "series": "A2478", 
+        "control_symbol": "LOEW J", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1431993"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "EDER Johann born 30 August 1938 - Austrian - travelled per ship ROMA departing in 1958", 
+        "series": "A2478", 
+        "control_symbol": "EDER J", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1441109"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "EDER Johann born on 16 March 1944 Nationality  Austrian -  arrived per CHARTERFLIGHT \" MIALI 15/736,  departed EX VIENNA/AUSTRIA 20 JANUARY  1969", 
+        "series": "A2559", 
+        "control_symbol": "1969/1/1007", 
+        "contents_dates": {
+            "date_str": "1969 - 1969", 
+            "start_date": "1969", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5317646"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "EDER Johann born 26 September 1926; nationality German; travelled per AORANGI arriving in Sydney on 4 June 1939", 
+        "series": "A12508", 
+        "control_symbol": "21/992", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7128221"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "EDER Johann - Nationality: Austrian - Arrived Fremantle per Neptunia 29 August 1963", 
+        "series": "K1331", 
+        "control_symbol": "1964/1965/EDER J", 
+        "contents_dates": {
+            "date_str": "1958 - 1964", 
+            "start_date": "1958", 
+            "end_date": "1964"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3357809"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "EDER Johann - Nationality: Austrian - Arrived Melbourne per Toscana 29 November 1948", 
+        "series": "B78", 
+        "control_symbol": "1951/EDER J", 
+        "contents_dates": {
+            "date_str": "1948 - 1951", 
+            "start_date": "1948", 
+            "end_date": "1951"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4125698"
+    }, 
+    {
+        "digitised_pages": "96", 
+        "title": "Papers regarding Aliens Classification and Advisory Committee, including transcripts of evidence at hearing in Melbourne 28 to 30 October 1942 by Major Roland S Browne (CIB), Major Edward Hattam (Military Intelligence) and Colonel S F Whittington (Deputy Director of Security, Victoria); correspondence regarding refusal of Director-General of Security (W B Simpson) to allow access by Committee (chaired by Arthur Calwell)  to original security dossiers", 
+        "series": "A373", 
+        "control_symbol": "3075 ATTACHMENT", 
+        "contents_dates": {
+            "date_str": "1942 - 1942", 
+            "start_date": "1942", 
+            "end_date": "1942"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5335160"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "EDER Johann: Nationality - Austrian: Date of Birth - 26 September 1926: Date of Arrival - 12 July 1939: Arrived per MV MANUNDA: Certificate Number - 675: Date of Issue - 29 September 1942: First registered at Fitzroy [Contains 1 black and white photograph]", 
+        "series": "B6531", 
+        "control_symbol": "LEFT COMMONWEALTH/1945 - 1947/EDER JOHANN", 
+        "contents_dates": {
+            "date_str": "1945 - 1947", 
+            "start_date": "1945", 
+            "end_date": "1947"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6555026"
+    }
+]

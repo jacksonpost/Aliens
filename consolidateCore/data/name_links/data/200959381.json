@@ -1,0 +1,92 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "PETZOLD Kurt Joachim born 4 August 1929; Gisela Ruth (nee Guenther) born 13 November 1930; Franz Walter born 9 January 1958 - German - travelled under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "PETZOLD K J", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1225373"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETZOLD Kurt born 15 January 1940 - German - travelled per CASTEL FELICE on 27 May 1961", 
+        "series": "A2478", 
+        "control_symbol": "PETZOLD K", 
+        "contents_dates": {
+            "date_str": "1961 - 1961", 
+            "start_date": "1961", 
+            "end_date": "1961"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7712214"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Petzold Kurt Robert", 
+        "series": "PP14/1", 
+        "control_symbol": "5/2/152", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "750888"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETZOLD Kurt - Nationality: German - Arrived Unknown per Unknown 01 December 1945 Departed Commonwealth on 03 March 1964", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/PETZOLD KURT", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5922956"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETZOLD Joachim Kurt - Nationality: German - Arrived Melbourne per Aurelia 16 December 1959 Departed Commonwealth on 05 March 1962", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/PETZOLD JOACHIM KURT", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5988791"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETZOLD Kurt - Nationality: German - Arrived Melbourne per Castel Felice 29 June 1961", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/PETZOLD KURT", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6591752"
+    }
+]

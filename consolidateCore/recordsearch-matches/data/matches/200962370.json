@@ -1,0 +1,587 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "SCHWARZ Albert Henry : Service Number - 3431 : Place of Birth - Swan Reach SA : Place of Enlistment - Adelaide SA : Next of Kin - (Father) SCHWARZ August Benjiman", 
+        "series": "B2455", 
+        "identifier": "8079402", 
+        "control_symbol": "SCHWARZ ALBERT HENRY", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "SCHWARZ, Gottlieb August Julius", 
+        "series": "A823", 
+        "control_symbol": "21/1864", 
+        "contents_dates": {
+            "date_str": "1864 - 1864", 
+            "start_date": "1864", 
+            "end_date": "1864"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "506642"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Lidwina born 24 August 1940 - Austrian - travelled per MIQAN under Australian Austrian Assisted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "SCHWARZ L", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1204474"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ROZSA Imre born 12 August 1924; Ilona (nee Schwarz) born 30 November 1924 - Hungarian - travelled per MITAI under General Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "ROZSA I", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1209253"
+    }, 
+    {
+        "digitised_pages": "22", 
+        "title": "SCHWARZ Heinrich born 3 February 1924; Anna (nee Kroth) born 26 December 1927; Wolfgang born 24 August 1956 - German - travelled per MITAI under Australian German Assisted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "SCHWARZ H", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1209649"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Alfred born 14 August 1930 - German - travelled per MIKLM", 
+        "series": "A2478", 
+        "control_symbol": "SCHWARZ A", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1235811"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Helmut born 9 August 1933 - German - travelled per MIKLM flight departing in 1960 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "SCHWARZ H", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1237149"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HOELER Gerd born 12 May 1935; Gertrud (nee Schwarz) born 5 June 1935; Bert Franz) born 8 October 1955; Ute born 21 August 1957 - German - travelled per MIQAN flight departing in 1963 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "HOELER G", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1247383"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Horst born 25 May 1930; Babette Erika (nee Geissler) born 27 August 1930; Angela born 1 September 1952 - German - travelled per ship SKAUBRYN departing in 1956", 
+        "series": "A2478", 
+        "control_symbol": "SCHWARZ H", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1438228"
+    }, 
+    {
+        "digitised_pages": "11", 
+        "title": "SCHWARZ Alois born 21 March 1929; Erna (nee Heil) born 31 October 1918; Jurgen born 13 July 1949; Benno born 24 August 1950 - German - travelled under Australian German Assisted Passage Scheme in 1954", 
+        "series": "A2478", 
+        "control_symbol": "SCHWARZ A", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1442736"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WEYDT Guenther born 12 February 1917; Hildegard (nee Schwarz) born 30 August 1925; Sylvia born 13 January 1952 -  German - travelled per ship JOHAN VAN OLDENBARNEVELT departing in 1955", 
+        "series": "A2478", 
+        "control_symbol": "WEYDT G", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1452313"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PICK Irma Johanna (nee Schwarz) born 1 August 1919 - German - travelled per ship FAIRSEA departing in 1956 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "PICK I J", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1461975"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Hans born 20 December 1925; Theresia (nee Mandl and Reicher) born 13 October 1922; Helmuth (Reicher) born 17 June 1946; Manfred (Reicher) born 5 August 1947 - Austrian - travelled per ship FLAMINIA departing in 1957 under Australian Austrian Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "SCHWARZ H", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1465599"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DETROI Emmerich born 18 August 1913; Dora (nee Schwarz) born 21 June 1921; Anna born 10 December 1948 - Hungarian - travelled per ship FAIRSEA departing in 1957 under Hungarian Refugee Assisted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "DETROI E", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1471849"
+    }, 
+    {
+        "digitised_pages": "21", 
+        "title": "SCHWARZ Adolf Hans born 2 September 1918; Johanna (nee Jarsen) born 15 February 1919; Angelika born 21 August 1944; Andreas born 22 July 1949 - German - travelled per ship FAIRSEA departing in 1954 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "SCHWARZ A H", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1472935"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Schwarz, Carl August - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "700", 
+        "contents_dates": {
+            "date_str": "1875 - 1876", 
+            "start_date": "1875", 
+            "end_date": "1876"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3178224"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BRZEZINSKI Roman born 9 August 1915; Charolotte born 15 August 1916; SCHWARZ Karin born 9 December 1941; Barbara born 28 February 1944", 
+        "series": "A12033", 
+        "control_symbol": "19-22", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4732122"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUSLENDER Elisabet born 6 August 1919; SCHWARZ Elisabet born 15 January 1935", 
+        "series": "A11924", 
+        "control_symbol": "227-228", 
+        "contents_dates": {
+            "date_str": "1949 - 1949", 
+            "start_date": "1949", 
+            "end_date": "1949"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4774650"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Alfred born 13 January 1924; Gertrude born 11 August 1926; Lucie born 24 June 1949; Robert born 11 May 1963 - Nationality Austrian -  arrived per Charterflight \"MIQAN 15/617\" departed Ex VIENNA/AUSTRIA 07 February 1967 under  the General Assisted Passage Scheme.", 
+        "series": "A2559", 
+        "control_symbol": "1967/X/2198-2201", 
+        "contents_dates": {
+            "date_str": "1967 - 1967", 
+            "start_date": "1967", 
+            "end_date": "1967"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5271905"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Peter born 22 June 1949 - Nationality Austrian  arrived per CHARTERFLIGHT \"MIQAN 15/811-J\" departed EX VIENNA/AUSTRIA on 19 September 1969 under  the General Assisted Passage Scheme.             ZANGARI [DE MARTE] Concetta born 7 June 1939 -  Nationality  Italian  -  arrived per FLIGHT \"QF 172/652\" departed Ex ROME on 26 August 1972 under  the General Assisted Passage Scheme.", 
+        "series": "A2559", 
+        "control_symbol": "1969/F/1027", 
+        "contents_dates": {
+            "date_str": "1969 - 1969", 
+            "start_date": "1969", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5447425"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Margareta [Margarethe] born 27 August 1905", 
+        "series": "A12154", 
+        "control_symbol": "1319", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5460994"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schwarz, Alois (Army) PWA41814 - Born:  23 April 1910, Heimslach - Captured:  15 April 1941, Greece - Previously interned:  Not known - Arrived Australia:  QUEEN ELIZABETH, 23 August 1941, Sydney, NSW - Interned:  Not known - Departed:  ORONTES, 21 January 1947, for Cuxhaven Germany", 
+        "series": "A7919", 
+        "control_symbol": "98637", 
+        "contents_dates": {
+            "date_str": "1945 - 1947", 
+            "start_date": "1945", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "250938"
+    }, 
+    {
+        "digitised_pages": "11", 
+        "title": "SCHWARZ Martin Paul August - Nationality: German - Arrived: Melbourne per SKAUBRYN June 1951", 
+        "series": "A1870", 
+        "control_symbol": "SCHWARZ M P A", 
+        "contents_dates": {
+            "date_str": "1951 - 1966", 
+            "start_date": "1951", 
+            "end_date": "1966"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4030891"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Erika - Nationality: German - Arrived Sydney per Aircraft VH EBK 28 August 1963", 
+        "series": "D4881", 
+        "control_symbol": "SCHWARZ ERIKA", 
+        "contents_dates": {
+            "date_str": "1963 - 1976", 
+            "start_date": "1963", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5504541"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Herbert - Nationality: German - Arrived Sydney per Aircraft VH EBK 28 August 1963", 
+        "series": "D4881", 
+        "control_symbol": "SCHWARZ HERBERT", 
+        "contents_dates": {
+            "date_str": "1963 - 1976", 
+            "start_date": "1963", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5504545"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DE RINGWALD Estefania - Nationality: Other - Arrived Sydney per Aircraft 03 August 1960 Departed Commonwealth on 01 May 1961 Also known as SCHWARZ", 
+        "series": "B78", 
+        "control_symbol": "OTHER/DE RINGWALD ESTEFANIA", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5710724"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Marie - Nationality: Austrian - Arrived Melbourne per Willem Ruys 30 August 1964 Departed Commonwealth on 17 October 1965 Also known as WOHL", 
+        "series": "B78", 
+        "control_symbol": "AUSTRIAN/SCHWARZ MARIE", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5787521"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ August - Nationality: German - Arrived Melbourne per Castel Felice 06 May 1959 Departed Commonwealth on 18 June 1963", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/SCHWARZ AUGUST", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5815287"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Rudolf Johann - Nationality: Austrian - Arrived Melbourne per Aurelia 05 August 1956 Departed Commonwealth on 31 August 1964", 
+        "series": "B78", 
+        "control_symbol": "AUSTRIAN/SCHWARZ RUDOLF JOHANN", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5927273"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JANOWICZ Eva - Nationality: Yugoslavian - Arrived Sydney per Aircraft GA LAL 13 August 1951 Also known as NEE SCHWARZ", 
+        "series": "D4881", 
+        "control_symbol": "JANOWICZ EVA", 
+        "contents_dates": {
+            "date_str": "1951 - 1976", 
+            "start_date": "1951", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9187857"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Eva - Nationality: Yugoslavian - Arrived Sydney per Aircraft GA LAL 13 August 1951", 
+        "series": "D4881", 
+        "control_symbol": "SCHWARZ EVA", 
+        "contents_dates": {
+            "date_str": "1951 - 1976", 
+            "start_date": "1951", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9223587"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Johann - Nationality: Austrian - Arrived Melbourne per Flaminia 17 August 1957", 
+        "series": "D4881", 
+        "control_symbol": "SCHWARZ JOHANN", 
+        "contents_dates": {
+            "date_str": "1957 - 1976", 
+            "start_date": "1957", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9223594"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Luike Adriann - Nationality: Dutch - Arrived Adelaide per Meliskerk 24 January 1950 Departed Commonwealth on 27 August 1950", 
+        "series": "D4881", 
+        "control_symbol": "SCHWARZ LUIKE ADRIANN", 
+        "contents_dates": {
+            "date_str": "1950 - 1976", 
+            "start_date": "1950", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9223601"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Theresia - Nationality: Austrian - Arrived Melbourne per Flaminia 17 August 1957", 
+        "series": "D4881", 
+        "control_symbol": "SCHWARZ THERESIA", 
+        "contents_dates": {
+            "date_str": "1957 - 1976", 
+            "start_date": "1957", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9223606"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "SCHWARZ [nee KORNEDER] , Caroline born 13 February 1912 - nationality German; Wilhelm born born 18 December 1916; Elisabeth born 25 August 1953; Walter born 31 July 1955", 
+        "series": "P1183", 
+        "control_symbol": "4/294 SCHWARZ", 
+        "contents_dates": {
+            "date_str": "1965 - 1970", 
+            "start_date": "1965", 
+            "end_date": "1970"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9597436"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "SCHWARZ Erika - Nationality: German - Arrived Sydney per Aircraft VH EBK 28 August 1963 Also known as nee FROELICH", 
+        "series": "D4878", 
+        "control_symbol": "GERMAN - SCHWARZ E", 
+        "contents_dates": {
+            "date_str": "1963 - 1963", 
+            "start_date": "1963", 
+            "end_date": "1963"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "30253318"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "SCHWARZ Herbert - Nationality: German - Arrived Sydney per Aircraft VH EBK 28 August 1963", 
+        "series": "D4878", 
+        "control_symbol": "GERMAN - SCHWARZ H", 
+        "contents_dates": {
+            "date_str": "1963 - 1963", 
+            "start_date": "1963", 
+            "end_date": "1963"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "30253322"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Franz - Nationality: Austrian - Arrived Melbourne per Skaugum 23 August 1955", 
+        "series": "B78", 
+        "control_symbol": "AUSTRIAN/SCHWARZ FRANZ", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30581939"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schwarz, Chrissie Sue - American - arrived 12 August 1967 in Brisbane aboard Airflight", 
+        "series": "BP289/1", 
+        "control_symbol": "1105395", 
+        "contents_dates": {
+            "date_str": "1967 - 1971", 
+            "start_date": "1967", 
+            "end_date": "1971"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "60172330"
+    }
+]

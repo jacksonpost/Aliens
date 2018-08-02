@@ -1,0 +1,377 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Meyer, Ernst Walter Hermann", 
+        "series": "MP14/1", 
+        "identifier": "1013192", 
+        "control_symbol": "NN", 
+        "contents_dates": {
+            "date_str": "1943 - 1943", 
+            "start_date": "1943", 
+            "end_date": "1943"
+        }, 
+        "location": "Melbourne"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "MEYER HERMANN ALBERT : Service Number - VX144465 : Date of birth - 22 Sep 1907 : Place of birth - ALBURY NSW : Place of enlistment - IN THE FIELD : Next of Kin - MEYER CARL", 
+        "series": "B883", 
+        "identifier": "6099646", 
+        "control_symbol": "VX144465", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": "8", 
+        "title": "Meyer August Hermann - Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1911/20919", 
+        "contents_dates": {
+            "date_str": "1911 - 1964", 
+            "start_date": "1911", 
+            "end_date": "1964"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "12320"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl August Hermann Meyer - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1933/9038", 
+        "contents_dates": {
+            "date_str": "1933 - 1933", 
+            "start_date": "1933", 
+            "end_date": "1933"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1170704"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Hermann born 13 November 1928 - German - travelled per ship STRATHAIRD departing in 1959", 
+        "series": "A2478", 
+        "control_symbol": "MEYER H", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1408442"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Hermann born 31 August 1922; Else (nee Boser) born 4 July 1927 - German - travelled per ship JOHAN VAN OLDENBARNEVELT departing in 1955", 
+        "series": "A2478", 
+        "control_symbol": "MEYER H", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1451426"
+    }, 
+    {
+        "digitised_pages": "107", 
+        "title": "Gluth, Wilhelm Gustav; Harbech, Hans; Bansch, Johann Friedrich August; Rosenbrock, Friedrich; Rapp, Martin; Beck, Johann Georg; Schroder, Heinrich; Meyer, George; Horn, Johann Nicolaus; Bogel, Carl Wilhelm; Wilkens, Wilhelm; Huesker, Heinrich Engelbert Joseph; Hoefelmeier, Friedrich Gerhard; Beck, Jacob Friedrich; Wilde, Friedrich; Wipken [Wielken], Herman; Medge, Wilhelm; Hahlbohm, Johannes; Gluth, Charles Henry; Ebeling, Claus; Juergens, August; Bevers, Jochim Hinrich; Bevers, Hermann; Wohlbeck, Johann Henry; Everhard, Ernst; Schroeder, Friedrich; Strobel, Heinrich; Fleischer, George; Pfutzner, Carl; Dittmer, Gottlieb; Meyer, Cord; Brakenwagen, John Henry; Kroeger, Theodor; Siegfried, Johann; - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1862/V941", 
+        "contents_dates": {
+            "date_str": "1862 - 1862", 
+            "start_date": "1862", 
+            "end_date": "1862"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1814068"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Ernst Walter Hermann - born 15 November 1901 - German", 
+        "series": "A435", 
+        "control_symbol": "1950/4/8381", 
+        "contents_dates": {
+            "date_str": "1950 - 1951", 
+            "start_date": "1950", 
+            "end_date": "1951"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6979625"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Hermann born 20 April 1918; Irmgard (nee Tews) born 27 August 1914; Irmgard born 10 August 1940; Ernst Dieter born 13 December 1942 - German - travelled per ANNA SALEN in December 1954", 
+        "series": "A2478", 
+        "control_symbol": "MEYER H", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7674720"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Otto Hermann Paul born 11 September 1929; Helga (nee Schmidt) born 15 February 1926; Gerd born 11 September 1951; Eva born 30 December 1952 - German - travelled per CASTEL FELICE in May 1959", 
+        "series": "A2478", 
+        "control_symbol": "MEYER O H P", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7703456"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Hermann born 28 April 1929; Gertrud (nee Meissner) born 5 December 1931 - German - travelled per SKAUBRYN on 10 April 1955", 
+        "series": "A2478", 
+        "control_symbol": "MEYER H", 
+        "contents_dates": {
+            "date_str": "1954 - 1955", 
+            "start_date": "1954", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7791199"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - MEYER Moritz; Nominee - EGER Hermann Walter; EGER Caeci Margot; EGER Helga Marion; EGER Fritz Arthur Michael; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1938/1385", 
+        "contents_dates": {
+            "date_str": "1938 - 1938", 
+            "start_date": "1938", 
+            "end_date": "1938"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8209108"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Hermann", 
+        "series": "P3", 
+        "control_symbol": "T1968/0920", 
+        "contents_dates": {
+            "date_str": "1959 - 1968", 
+            "start_date": "1959", 
+            "end_date": "1968"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9595587"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Hermann [German]", 
+        "series": "PP350/1", 
+        "control_symbol": "W1963/9871", 
+        "contents_dates": {
+            "date_str": "1955 - 1967", 
+            "start_date": "1955", 
+            "end_date": "1967"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "31562778"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "List of Prisoners of War under 17 years and over 50 years of age [Christian VOLLMER, Albert MEYER, Carl Wilhelm KOCH, George Heinrich Johann STAHL, August Max GRUBEL, Heinrich Carl George KUSSIN, Hermann HOENE, Fritz Berthold SCHUMANN, Ferdinand HEIN, Martin MOSBACHER, Karl John MILLER, Felix BARTELS, Franz Joesph Wilhelm CRAMER, Ernest Hermann TSCHIRPIG, James John Albert MILLAR, August Robert RACTKE, Johann Carl HOFFMAN, Ivan JUJNOVICH, Ivan KATNICH, Visko ACALINOVIC, Blaz POLJICAK, Fritz WULFING, Harry BROWN, Andria VLAHOR, Anton RATKE, Carl Heinrich Wilhelm LORENTZ, Julius BLASCHEK, Marko TUNPOR, Ivan ANTULUOV,  Ivan STARCEVIC, Stepan BUDESELICH, Jure RAVLICH, Anton SPLIVALO, Juraj MATKOVICH, Juraj STARCOVIC, Frederick MENZEN, JOseph SKARIFF, Carl MEYER, Henry TAPKEN, Edward SCHMIDT, Ivan BOSICH]", 
+        "series": "PP14/1", 
+        "control_symbol": "16/1/59", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "751599"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Hermann Friedrich Wilhelm", 
+        "series": "D1901", 
+        "control_symbol": "M2239", 
+        "contents_dates": {
+            "date_str": "1943 - 1944", 
+            "start_date": "1943", 
+            "end_date": "1944"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "918072"
+    }, 
+    {
+        "digitised_pages": "13", 
+        "title": "MEYER Werner Gustav Hermann - Nationality: German - Arrived Melbourne per Anna Salen 17 April 1954 Departed Commonwealth on 04 May 1961", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/MEYER WERNER GUSTAV HERMANN", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5721329"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Hermann - Nationality: Stateless - Arrived Sydney per Aircraft 11 March 1948 Departed Commonwealth on 07 March 1951", 
+        "series": "B78", 
+        "control_symbol": "STATELESS/MEYER HERMANN", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5929127"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Gerd Hermann - Nationality: German - Arrived Melbourne per Castel Felice 6 May 1959", 
+        "series": "D4881", 
+        "control_symbol": "MEYER GERD HERMANN", 
+        "contents_dates": {
+            "date_str": "1959 - 1976", 
+            "start_date": "1959", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7073658"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Hermann Otto Paul - Nationality: German - Arrived Melbourne per Castel Felice 6 May 1959 Departed Commonwealth on 1 January 1965", 
+        "series": "D4881", 
+        "control_symbol": "MEYER HERMANN OTTO PAUL", 
+        "contents_dates": {
+            "date_str": "1959 - 1976", 
+            "start_date": "1959", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7073664"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Meyer, Heinrich Hermann; Date of birth - 05 June 1921; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "PWGA42231", 
+        "contents_dates": {
+            "date_str": "1941 - 1947", 
+            "start_date": "1941", 
+            "end_date": "1947"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8619906"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Hermann Friedrich Karl - Nationality: German - Arrived Adelaide per Anna Salen 28 March 1952", 
+        "series": "D4881", 
+        "control_symbol": "MEYER HERMANN FRIEDRICH KARL", 
+        "contents_dates": {
+            "date_str": "1952 - 1976", 
+            "start_date": "1952", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9206917"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "MEYER Ernest Walter Hermann born 1901 - Nationality: German - Arrived Adelaide per Hamburgh 2 February 1927", 
+        "series": "D4878", 
+        "control_symbol": "MEYER E W H", 
+        "contents_dates": {
+            "date_str": "1939 - 1951", 
+            "start_date": "1939", 
+            "end_date": "1951"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9217415"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER, Hermann born 13 November 1928 - nationality German", 
+        "series": "P1183", 
+        "control_symbol": "17/90 MEYER", 
+        "contents_dates": {
+            "date_str": "1959 - 1966", 
+            "start_date": "1959", 
+            "end_date": "1966"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "60155606"
+    }
+]

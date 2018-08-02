@@ -1,0 +1,167 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "WESTE Fritz Mathias Hans Leopold - CAV [Civil Alien Victoria] number 5429 - Year of birth 1925", 
+        "series": "MT8/4", 
+        "control_symbol": "WESTE FRITZ MATHIAS HANS LEOPOLD", 
+        "contents_dates": {
+            "date_str": "1943 - 1945", 
+            "start_date": "1943", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5903779"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Civil Aliens Corps Victorian enlistee Fritz M Hans Leopold Weste CAV 5429, Northern Territory service file", 
+        "series": "MT8/12", 
+        "control_symbol": "WESTE/HANS", 
+        "contents_dates": {
+            "date_str": "1943 - 1945", 
+            "start_date": "1943", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6445524"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Weste, Fritz Matthias Hans Leopold [German migrant; immigration file]", 
+        "series": "SP1122/1", 
+        "control_symbol": "N1961/61310", 
+        "contents_dates": {
+            "date_str": "1941 - 1961", 
+            "start_date": "1941", 
+            "end_date": "1961"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4322099"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WESTE Leopold born 1887 - Nationality: German - Arrived Adelaide per Havel 1 January 1930", 
+        "series": "D4880", 
+        "control_symbol": "GERMAN/WESTE L", 
+        "contents_dates": {
+            "date_str": "1930 - 1930", 
+            "start_date": "1930", 
+            "end_date": "1930"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5510853"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - WESTE Leopold Theodor Victor; Nominee - WESTE Margarethe; WESTE Leopold; WESTE Else; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1931/364", 
+        "contents_dates": {
+            "date_str": "1931 - 1931", 
+            "start_date": "1931", 
+            "end_date": "1931"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8174339"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Weste Leopold [11 pages]", 
+        "series": "MP16/1", 
+        "control_symbol": "1915/3/225", 
+        "contents_dates": {
+            "date_str": "1915 - 1916", 
+            "start_date": "1915", 
+            "end_date": "1916"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "329694"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Weste, Leopold Theodor Victor - Alien control", 
+        "series": "A437", 
+        "control_symbol": "1947/6/22", 
+        "contents_dates": {
+            "date_str": "1946 - 1948", 
+            "start_date": "1946", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "425322"
+    }, 
+    {
+        "digitised_pages": "55", 
+        "title": "WESTE Leopold", 
+        "series": "D1901", 
+        "control_symbol": "W2825", 
+        "contents_dates": {
+            "date_str": "1943 - 1944", 
+            "start_date": "1943", 
+            "end_date": "1944"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "921129"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Weste, Leopold Thedor Viktor; Date of birth - 08 October 1887; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "V2176", 
+        "contents_dates": {
+            "date_str": "1942 - 1946", 
+            "start_date": "1942", 
+            "end_date": "1946"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8614336"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "WESTE Fritz Hans Leopold - Nationality: German Arrived Sydney per Jervis Bay 18 January 1932", 
+        "series": "D4881", 
+        "control_symbol": "WESTE FRITZ HANS LEOPOLD", 
+        "contents_dates": {
+            "date_str": "1932 - 1948", 
+            "start_date": "1932", 
+            "end_date": "1948"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9228102"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Prisoner of War/Internee; Weste, Leopold Theodor Viktor; Year of birth - 1887; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "V2176", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9903243"
+    }
+]

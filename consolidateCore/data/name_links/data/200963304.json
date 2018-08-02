@@ -1,0 +1,107 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "BOEHM KENNETH ARNOLD : Service Number - S26382 : Date of birth - 20 Oct 1919 : Place of birth - NURIOOTPA SA : Place of enlistment - NURIOOTPA SA : Next of Kin - BOEHM PAUL", 
+        "series": "B884", 
+        "control_symbol": "S26382", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6338293"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BOEHM FREDERICK BERTHOLD : Service Number - S26714 : Date of birth - 16 Feb 1918 : Place of birth - LIGHT'S PASS SA : Place of enlistment - NURIOOTPA SA : Next of Kin - BOEHM PAUL", 
+        "series": "B884", 
+        "control_symbol": "S26714", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6409779"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BOEHM Paul born 9 October 1928; Gertrude (nee Hilscher) born 25 November 1934; Franz born 20 April 1953 - Austrian - travelled per ship ROMA departing  in 1958", 
+        "series": "A2478", 
+        "control_symbol": "BOEHM P", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1441044"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Boehm, Paul Reinhold Carl - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1893/W1009", 
+        "contents_dates": {
+            "date_str": "1893 - 1893", 
+            "start_date": "1893", 
+            "end_date": "1893"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1779258"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BOEHM Willi Hans born 22 June 1917; Agnes Wilhelmina (nee Vaz) born 21 January 1923; Willi Max Paul born 7 January 1955; Stephen Gerard Jude born 11 January 1961; Marcus Alexander Conrad born 19 November 1963 - German", 
+        "series": "A8096", 
+        "control_symbol": "63/4/2/437", 
+        "contents_dates": {
+            "date_str": "1972 - 1972", 
+            "start_date": "1972", 
+            "end_date": "1972"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7754329"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schmidt Eduard Karl, Keihn Franz WA, Boehm Paul W, Ruther William, Conrad Paul", 
+        "series": "PP14/1", 
+        "control_symbol": "5/1/233", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "750721"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BOEHM Paul William - Nationality : German - [Application Form for Registration as Alien]", 
+        "series": "PP14/3", 
+        "control_symbol": "GERMAN/BOEHM  P W", 
+        "contents_dates": {
+            "date_str": "circa1916 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5126238"
+    }
+]

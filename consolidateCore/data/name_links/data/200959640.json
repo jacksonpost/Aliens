@@ -1,0 +1,1067 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "McClure-Brown, Samuel NX30178 [Prisoners of War Trust Fund application]", 
+        "series": "B503", 
+        "control_symbol": "N3122", 
+        "contents_dates": {
+            "date_str": "1955 - 1977", 
+            "start_date": "1955", 
+            "end_date": "1977"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "1035446"
+    }, 
+    {
+        "digitised_pages": "10", 
+        "title": "CAMERON, Willilam Morris - (Flight Sergeant); Service Number - 403254; File type - Casualty - Repatriation; Place - Addisababa Aerodrome; Date - 6 October 1943", 
+        "series": "A705", 
+        "control_symbol": "166/7/214", 
+        "contents_dates": {
+            "date_str": "1943 - 1960", 
+            "start_date": "1943", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1064553"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NICKLESS, Harry Samuel - (Pilot Officer); Service Number - 37050; File type - Casualty - Repatriation; Aircraft - Lancaster Mk IPA 158; Place - Elsenpescherweg, Germany; Date - 3 February 1945", 
+        "series": "A705", 
+        "control_symbol": "166/29/196", 
+        "contents_dates": {
+            "date_str": "1945 - 1948", 
+            "start_date": "1945", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1075075"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Roger Samuel Brown and Kathleen Mabel Brown [New Guinea Evacuee Personal file] [3 pages; box 5]", 
+        "series": "SP423/5", 
+        "control_symbol": "BROWN RS", 
+        "contents_dates": {
+            "date_str": "1942 - 1942", 
+            "start_date": "1942", 
+            "end_date": "1942"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1809328"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN Lionel Samuel - Service Number - 3684", 
+        "series": "D2994", 
+        "control_symbol": "BROWN L S", 
+        "contents_dates": {
+            "date_str": "1914 - 1923", 
+            "start_date": "1914", 
+            "end_date": "1923"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4297953"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN Victor Samuel - Service Number - 56051", 
+        "series": "D2994", 
+        "control_symbol": "BROWN V S", 
+        "contents_dates": {
+            "date_str": "1914 - 1923", 
+            "start_date": "1914", 
+            "end_date": "1923"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4297982"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "BROWN Samuel Luke - [Civil Constructional Corps - Victoria] number CV104590 - Year of birth 1890", 
+        "series": "B4218", 
+        "control_symbol": "CV104590", 
+        "contents_dates": {
+            "date_str": "1943 - 1944", 
+            "start_date": "1943", 
+            "end_date": "1944"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6575149"
+    }, 
+    {
+        "digitised_pages": "182", 
+        "title": "[HOGAN, Michael : Service Number - 96 : BROWN, Samuel Jules, 499 : PEARSON, Amos Robert, 521 : RUMNEY, Harold James 281 : Unit - Royal Australian Garrison Artillery : Date of Court Martial - 27 March 1913]", 
+        "series": "A471", 
+        "control_symbol": "65", 
+        "contents_dates": {
+            "date_str": "1913 - 1913", 
+            "start_date": "1913", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6967813"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[BROWN John Samuel : Service Number - N1059 : Unit - 20th Labour Company, Australian Military Forces : Date of Court Martial - 21 September 1942]", 
+        "series": "A471", 
+        "control_symbol": "27820", 
+        "contents_dates": {
+            "date_str": "1942 - 1942", 
+            "start_date": "1942", 
+            "end_date": "1942"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7420537"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[BROWN John Samuel : Service Number - NX128708 : Unit - 12th Australian Armoured Car Regiment, Australian Military Forces : Date of Court Martial - 3, 4 and 8 May 1943]", 
+        "series": "A471", 
+        "control_symbol": "37697", 
+        "contents_dates": {
+            "date_str": "1943 - 1943", 
+            "start_date": "1943", 
+            "end_date": "1943"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8359094"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[WATSON Keith Edward (Corporal) : Service Number - 150014 : DANIELS Thomas Samuel (Leading Aircraftman) 12008 : BROWN Henry Michael (Leading Aircraftman) A21296 : CARROLL Raymond Arthur George (Aircraftman 1st Class) A22493 : BUTLER Raymond John (Corporal) A1680 : Unit - Royal Australian Air Force Station, Darwin : Date of Court Martial - 26 July and 4 August 1950]", 
+        "series": "A471", 
+        "control_symbol": "83323", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9575650"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Brown, Samuel Cromarty - allotment, pay ledger and history cards for Queensland army personnel", 
+        "series": "J1199", 
+        "control_symbol": "QX10779", 
+        "contents_dates": {
+            "date_str": "1939 - 1947", 
+            "start_date": "1939", 
+            "end_date": "1947"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "11989878"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN, John [aka Samuel Wilfred Pitts] - Service Number - 4608", 
+        "series": "B73", 
+        "control_symbol": "R67983", 
+        "contents_dates": {
+            "date_str": "1917 - 1944", 
+            "start_date": "1917", 
+            "end_date": "1944"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "20605138"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN, Samuel - Service Number - 6474", 
+        "series": "J26", 
+        "control_symbol": "M51973 PART 1", 
+        "contents_dates": {
+            "date_str": "1916 - 1958", 
+            "start_date": "1916", 
+            "end_date": "1958"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "32257132"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN, Samuel - Service Number - 6474", 
+        "series": "J26", 
+        "control_symbol": "M51973 PART 2", 
+        "contents_dates": {
+            "date_str": "1959 - 1983", 
+            "start_date": "1959", 
+            "end_date": "1983"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "32257133"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN, Elvy Edna beneficiary of BROWN, Samuel  - Service Number - 6474", 
+        "series": "J34", 
+        "control_symbol": "C51973 PART 1", 
+        "contents_dates": {
+            "date_str": "1916 - 1994", 
+            "start_date": "1916", 
+            "end_date": "1994"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "32302277"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN, Samuel Peter - Service Number - 5304", 
+        "series": "J34", 
+        "control_symbol": "C27506", 
+        "contents_dates": {
+            "date_str": "1919 - 1988", 
+            "start_date": "1919", 
+            "end_date": "1988"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "32302434"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN, Samuel Peter - Service Number - 5309", 
+        "series": "BP709/1", 
+        "control_symbol": "M27509 PART 1", 
+        "contents_dates": {
+            "date_str": "1916 - 1959", 
+            "start_date": "1916", 
+            "end_date": "1959"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "32444800"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN, Samuel Peter - Service Number - 5309", 
+        "series": "BP709/1", 
+        "control_symbol": "M27509 PART 2", 
+        "contents_dates": {
+            "date_str": "1960 - 1966", 
+            "start_date": "1960", 
+            "end_date": "1966"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "32444801"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN, Samuel - Service Number - 3613", 
+        "series": "BP709/1", 
+        "control_symbol": "M22404", 
+        "contents_dates": {
+            "date_str": "1919 - 1973", 
+            "start_date": "1919", 
+            "end_date": "1973"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "32453429"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN KENNETH : Service Number - QX35333 : Date of birth - 02 Dec 1907 : Place of birth - SAMUEL GLEN NEW ZEALAND : Place of enlistment - BRISBANE QLD : Next of Kin - BROWN EVELYN", 
+        "series": "B883", 
+        "control_symbol": "QX35333", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4917407"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN ERNEST SAMUEL : Service Number - QX29261 : Date of birth - 02 Apr 1921 : Place of birth - TOWNSVILLE QLD : Place of enlistment - BRISBANE QLD : Next of Kin - BROWN ERNEST", 
+        "series": "B883", 
+        "control_symbol": "QX29261", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4920186"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN DONALD SAMUEL : Service Number - 89001 : Date of birth - 13 Dec 1925 : Place of birth - HUONVILLE TAS : Place of enlistment - HOBART : Next of Kin - BROWN EDWARD", 
+        "series": "A9301", 
+        "control_symbol": "89001", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4953642"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN SAMUEL JOHN HELLIWELL : Service Number - 161340 : Date of birth - 20 Nov 1925 : Place of birth - MASCOT NSW : Place of enlistment - SYDNEY : Next of Kin - BROWN VIDA", 
+        "series": "A9301", 
+        "control_symbol": "161340", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5200617"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "BROWN THOMAS FREDERICK SAMUEL : Date of birth - 14 Jun 1915 : Place of birth - PORTSMOUTH ENGLAND : Place of enlistment - Unknown : Next of Kin - HILDA", 
+        "series": "A6769", 
+        "control_symbol": "BROWN T F S", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5228875"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN ARCHIBALD SAMUEL : Service Number - 132506 : Date of birth - 28 Aug 1914 : Place of birth - TAILFORD NSW : Place of enlistment - SYDNEY : Next of Kin - BROWN MARGARET", 
+        "series": "A9301", 
+        "control_symbol": "132506", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5357192"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN ROY SAMUEL : Service Number - N165264 : Date of birth - 17 Jan 1913 : Place of birth - GRAFTON NSW : Place of enlistment - GRAFTON NSW : Next of Kin - BROWN SAMUEL", 
+        "series": "B884", 
+        "control_symbol": "N165264", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5553545"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN SAMUEL : Service Number - NX160640 : Date of birth - 17 Nov 1906 : Place of birth - LIONSVILLE NSW : Place of enlistment - ADEL RIVER NT : Next of Kin - BROWN MARY", 
+        "series": "B883", 
+        "control_symbol": "NX160640", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5554344"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN RODGER SAMUEL : Service Number - NX207413 : Date of birth - 10 Nov 1910 : Place of birth - BROKEN HILL NSW : Place of enlistment - PADDINGTON NSW : Next of Kin - BROWN KATHLEEN", 
+        "series": "B883", 
+        "control_symbol": "NX207413", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5594131"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN SAMUEL NELSON ARMSTRONG : Service Number - N22373 : Date of birth - 28 Sep 1917 : Place of birth - GRAFTON NSW : Place of enlistment - GRAFTON NSW : Next of Kin - BROWN O", 
+        "series": "B884", 
+        "control_symbol": "N22373", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5611520"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN JOHN SAMUEL : Service Number - NX128708 : Date of birth - 09 Dec 1920 : Place of birth - INVERELL NSW : Place of enlistment - KEMPSEY NSW : Next of Kin - BROWN MARY", 
+        "series": "B883", 
+        "control_symbol": "NX128708", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5615987"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN DESMOND : Service Number - NX138284 : Date of birth - 11 Mar 1921 : Place of birth - GOULBOURN NSW : Place of enlistment - LARRAKEYAH NT : Next of Kin - BROWN SAMUEL", 
+        "series": "B883", 
+        "control_symbol": "NX138284", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5627668"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN EDWARD THOMAS : Service Number - NX153169 : Date of birth - 11 Mar 1923 : Place of birth - SYDNEY NSW : Place of enlistment - FIELD QLD : Next of Kin - BROWN SAMUEL", 
+        "series": "B883", 
+        "control_symbol": "NX153169", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5640160"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN SAMUEL RAYMOND : Service Number - NX116357 : Date of birth - 25 Dec 1918 : Place of birth - SYDNEY NSW : Place of enlistment - BUSHMEAD WA : Next of Kin - BROWN H", 
+        "series": "B883", 
+        "control_symbol": "NX116357", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5645781"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN MERVYN AINSLIE : Service Number - NX118500 : Date of birth - 21 Jan 1915 : Place of birth - AUCKLAND N Z : Place of enlistment - GRETA NSW : Next of Kin - BROWN SAMUEL", 
+        "series": "B883", 
+        "control_symbol": "NX118500", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5659147"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN SAMUEL WILLIAM MILLAR : Service Number - NX104266 : Date of birth - 14 Feb 1906 : Place of birth - PERTH WA : Place of enlistment - CASTLE HILL NSW : Next of Kin - BROWN JEAN", 
+        "series": "B883", 
+        "control_symbol": "NX104266", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5671323"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN SAMUEL : Service Number - W36697 : Date of birth - 05 Feb 1893 : Place of birth - CHESHIRE ENGLAND : Place of enlistment - CLAREMONT WA : Next of Kin - BROWN HARRIET", 
+        "series": "B884", 
+        "control_symbol": "W36697", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5883588"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN ALBERT SAMUEL JOSEPH : Service Number - W69483 : Date of birth - 09 Feb 1883 : Place of birth - FOOTSCRAY VIC : Place of enlistment - MAYLANDS WA : Next of Kin - BROWN CHARLOTTE", 
+        "series": "B884", 
+        "control_symbol": "W69483", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5893980"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BOWDEN SAMUEL : Service Number - W72336 : Date of birth - 11 Feb 1908 : Place of birth - BROWN HILL WA : Place of enlistment - KALGOORLIE : Next of Kin - BOWDEN VIOLET", 
+        "series": "B884", 
+        "control_symbol": "W72336", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5894103"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN FRANK LAURENCE SAMUEL : Service Number - VX103872 : Date of birth - 04 Apr 1920 : Place of birth - TRAFALGAR VIC : Place of enlistment - PUCKAPUNYAL VIC : Next of Kin - BROWN JEAN", 
+        "series": "B883", 
+        "control_symbol": "VX103872", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6103841"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Samuel Brown ex \"Ormuz\" April 1922 - Re Whereabouts", 
+        "series": "B13", 
+        "control_symbol": "1930/5479", 
+        "contents_dates": {
+            "date_str": "1930 - circa1930", 
+            "start_date": "1930", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "802382"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Samuel BROWN and Clyde TURNBULL - application for passport", 
+        "series": "D596", 
+        "control_symbol": "1934/5141", 
+        "contents_dates": {
+            "date_str": "1934 - 1934", 
+            "start_date": "1934", 
+            "end_date": "1934"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "992086"
+    }, 
+    {
+        "digitised_pages": "8", 
+        "title": "Brown, Charles Samuel - departed Glasgow on SS Empire Brent 22 July 1950 arrived in Brisbane 7 September 1950", 
+        "series": "BP23/1", 
+        "control_symbol": "1764", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5047531"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN Samuel Kenneth born 18 October 1923; nationality French; travelled per SS CHARLES LUMMIS arriving in Hobart on 2 July 1943", 
+        "series": "A12508", 
+        "control_symbol": "2/1068", 
+        "contents_dates": {
+            "date_str": "1943 - 1943", 
+            "start_date": "1943", 
+            "end_date": "1943"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6957965"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN Samuel Rainey born 8 July 1914; Margaret (nee Boomer) born 25 July 1920; travelled per ASTURIAS departing UK on 28 November 1951 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "28/11/1951 ASTURIAS BROWN S R", 
+        "contents_dates": {
+            "date_str": "1951 - 1951", 
+            "start_date": "1951", 
+            "end_date": "1951"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7302875"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ARMSTRONG Samuel Brown born 8 June 1925; Elizabeth (nee Melville) born 12 August 1928; Samuel Brown born 15 December 1947; Charles Robert Martin born 14 December 1949; travelled per CAMERONIA departing Glasgow on 8 August 1951 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "08/08/1951 CAMERONIA ARMSTRONG S B", 
+        "contents_dates": {
+            "date_str": "1951 - 1951", 
+            "start_date": "1951", 
+            "end_date": "1951"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7304631"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HUNTER Samuel Brown born 22 April 1936; June (nee Elliott) born 16 June 1937; Ronald James born 7 September 1956; Shona Christina born 18 November 1960; Jennifer born 26 November 1962; travelled per FAIRSTAR departing Southampton on 1 December 1966 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "01/12/1966 FAIRSTAR HUNTER S B", 
+        "contents_dates": {
+            "date_str": "1966 - 1966", 
+            "start_date": "1966", 
+            "end_date": "1966"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7356532"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN Samuel  Arthur born 16 March 1930; Pauline Florence (nee Woodruff, Beith) born 14 September 1943; Alan Samuel born 4 February 1959; BEITH Gary James born 15 May 1962; Caroline born 1 February 1968; travelled per ACHILLE LAURO departing Southampton on 27 June 1969 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "27/06/1969 ACHILLE LAURO BROWN S   A", 
+        "contents_dates": {
+            "date_str": "1968 - 1969", 
+            "start_date": "1968", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7386472"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN John born 27 April 1937; June (nee Watson) born 26 June 1937; Kimberley born 10 November 1962; Lynne born 29 February 1964; Samuel John Neil born 6 April 1967; travelled per CASTEL FELICE departing Southampton on 22 June 1969 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "22/06/1969 CASTEL FELICE BROWN J", 
+        "contents_dates": {
+            "date_str": "1968 - 1969", 
+            "start_date": "1968", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7388432"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "STEVENSON Samuel born 2 August 1930; Georgia (nee Brown) born 19 March 1931; James born 17 October 1953; Agnes born 19 August 1955; Elizabeth born 26 September 1957; travelled per FAIRSKY departing Southampton on 30 April 1968 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "30/04/1968 FAIRSKY STEVENSON S", 
+        "contents_dates": {
+            "date_str": "1968 - 1968", 
+            "start_date": "1968", 
+            "end_date": "1968"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7394109"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GRANDISON Thomas born 21 December 1921; Margaret Dunsmore (nee Kerr) born 22 January 1922; Samuel Brown born 27 January 1949; Andrew Kerr born 11 April 1960; travelled per aircraft departing UK on 21 June 1965 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "21 JUNE 1965 GRANDISON T", 
+        "contents_dates": {
+            "date_str": "1965 - 1965", 
+            "start_date": "1965", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7408828"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN Samuel born 13 May 1940; travelled per aircraft departing UK on 25 November 1965 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "25 NOVEMBER 1965 BROWN S", 
+        "contents_dates": {
+            "date_str": "1965 - 1965", 
+            "start_date": "1965", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7413826"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PILKINGONT Samuel born 4 February 1931; Dorothy Sylvia (nee Brown) born 30 October 1936; Peter Samuel born 9 July 1960; Sharon born 17 March 1965; travelled per aircraft departing UK on 6 November 1965 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "6 NOVEMBER 1965 PILKINGONT S", 
+        "contents_dates": {
+            "date_str": "1965 - 1965", 
+            "start_date": "1965", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7414443"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[BROWN, Samuel Wilkes (Navy Service No.: LT/JX 550444) born in Edinburgh, Scotland on 20 February 1925; Mother: Ann BROWN - Application dated: Brisbane, 17 October 1945]", 
+        "series": "A12288", 
+        "control_symbol": "5/135", 
+        "contents_dates": {
+            "date_str": "1945 - 1946", 
+            "start_date": "1945", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7870639"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DEAN Samuel John born 15 September 1915; Elsie Joan Maud (nee Brown) born 3 March 1922; travelled per aircraft departing UK on 5 July 1967 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "5 JULY 1967 DEAN S J", 
+        "contents_dates": {
+            "date_str": "1967 - 1967", 
+            "start_date": "1967", 
+            "end_date": "1967"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8040356"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LECKEY Samuel Swain born 28 October 1943; Marion (nee Brown) born 13 July 1941; David born 6 December 1962; Colin Samuel born 13 July 1966; Denise born 4 December 1968; travelled per aircraft departing UK on 18 June 1969 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "18 JUNE 1969 LECKEY S S", 
+        "contents_dates": {
+            "date_str": "1969 - 1969", 
+            "start_date": "1969", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8048869"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWN Samuel Grieve born 21 November 1946; travelled per aircraft departing UK on 14 July 1969 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "14 JULY 1969 BROWN S G", 
+        "contents_dates": {
+            "date_str": "1969 - 1969", 
+            "start_date": "1969", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8052827"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "THOMPSON Malcolm Oliver born 14 August 1935; Elizabeth (nee Brown) born 8 August 1935; David George born 21 December 1959; Jane Elizabeth born 12 July 1961; Michael James Samuel born 30 January 1963; Sara Joanna born 28 July 1964; travelled per aircraft departing UK on 1 August 1968 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "1 AUGUST 1968 THOMPSON M O", 
+        "contents_dates": {
+            "date_str": "1968 - 1968", 
+            "start_date": "1968", 
+            "end_date": "1968"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8058078"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ANDERSON Kevin Samuel born 20 May 1939; Shirley Jacqueline (nee Brown) born 28 June 1938; Neil Anthony born 18 August 1962; Shaun Richard born 27 January 1964; travelled per aircraft departing UK on 4 February 1971 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "4 FEBRUARY 1971 ANDERSON K S", 
+        "contents_dates": {
+            "date_str": "1970 - 1971", 
+            "start_date": "1970", 
+            "end_date": "1971"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8069069"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Brown, Samuel Grieve", 
+        "series": "P3", 
+        "control_symbol": "T1975/3357", 
+        "contents_dates": {
+            "date_str": "1975 - 1978", 
+            "start_date": "1975", 
+            "end_date": "1978"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9753916"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "In the matter of the Estate of BROWN Julia, deceased; Attorney General for Victoria versus Equity Trustees Executors Agency Company Limited; BROWN Samuel Hammett", 
+        "series": "A10074", 
+        "control_symbol": "1914/40", 
+        "contents_dates": {
+            "date_str": "1914 - 1915", 
+            "start_date": "1914", 
+            "end_date": "1915"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3142240"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUTHOR Lady Lever : ADDRESS London : TITLE OF WORK Brown Sugar : TYPE OF WORK Dramatic : APPLICANT Samuel French Limited : DATE OF APPLICATION 10 Feb 1927 : DATE COPYRIGHT REGISTERED Not Registered : WORK ENCLOSED? [Yes]", 
+        "series": "A1336", 
+        "control_symbol": "15891", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3474656"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent  for an invention by  Samuel Brown , titled -  An improved joint for jointing boards when making articles of furniture and when used for other purposes", 
+        "series": "A627", 
+        "control_symbol": "5016/1926", 
+        "contents_dates": {
+            "date_str": "1926 - 1926", 
+            "start_date": "1926", 
+            "end_date": "1926"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4215280"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Trade Mark titled Brown Bro's & Co. NY in respect of electroplated ware - Triple Plate - by Holmes Samuel Chipman", 
+        "series": "A11708", 
+        "control_symbol": "54", 
+        "contents_dates": {
+            "date_str": "1885 - 1885", 
+            "start_date": "1885", 
+            "end_date": "1885"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4993047"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Trade Mark titled Kangaroo Brand in respect of hosiery by Joseph Samuel Finch Brown", 
+        "series": "A11731", 
+        "control_symbol": "5355", 
+        "contents_dates": {
+            "date_str": "1897 - 1897", 
+            "start_date": "1897", 
+            "end_date": "1897"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5003093"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Correspondence with Samuel Croumbie-Brown concerning invention entitled - A combined disinfecting suction filter and syphon", 
+        "series": "A4618", 
+        "control_symbol": "10262", 
+        "contents_dates": {
+            "date_str": "1900 - 1900", 
+            "start_date": "1900", 
+            "end_date": "1900"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5004366"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Trade Mark titled Brown Brothers and Company Tripleplate in respect of electro - plated ware of every description  - by Holmes Samuel Chipman", 
+        "series": "A1566", 
+        "control_symbol": "316", 
+        "contents_dates": {
+            "date_str": "1885 - 1900", 
+            "start_date": "1885", 
+            "end_date": "1900"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5012490"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Trade Mark titled Brown Bro's and Company Tripleplate depicting kangaroo in respect of electroplated ware of every description - by Holmes Samuel Chipman", 
+        "series": "A11731", 
+        "control_symbol": "1167", 
+        "contents_dates": {
+            "date_str": "1885 - 1885", 
+            "start_date": "1885", 
+            "end_date": "1885"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5020112"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Commissioner of Taxation, FITZGERALD L T (Deputy Commissioner of Taxation) and another versus SMORGON George and others", 
+        "series": "A10074", 
+        "control_symbol": "1977/16", 
+        "contents_dates": {
+            "date_str": "1977 - 1979", 
+            "start_date": "1977", 
+            "end_date": "1979"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7810545"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for registration of a design by Samuel Brown for Mascot for motor cars - Class 1", 
+        "series": "A1337", 
+        "control_symbol": "6576", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9600471"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for registration of a design by Samuel Brown for An indicator or sign bracket - Class 1", 
+        "series": "A1337", 
+        "control_symbol": "10493", 
+        "contents_dates": {
+            "date_str": "1933 - 1933", 
+            "start_date": "1933", 
+            "end_date": "1933"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9621387"
+    }
+]

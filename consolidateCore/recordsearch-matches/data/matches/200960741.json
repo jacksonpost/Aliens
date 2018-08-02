@@ -1,0 +1,92 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "WAGNER ARNO GUSTAV : Service Number - QX50830 : Date of birth - 03 Dec 1922 : Place of birth - BUNDABERG QLD : Place of enlistment - Unknown : Next of Kin - SEESINK JOHANNA", 
+        "series": "B883", 
+        "identifier": "4468884", 
+        "control_symbol": "QX50830", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FECHNER Jurgen Gustav Friedrich born 13 October 1941; Maria (nee Wagner) born 17 February 1944 - German - travelled per MIALI departing in 1964 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "FECHNER J G F", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1241998"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Gustav born 5 September 1929; Elisabeth (nee Heckers) born 16 November 1928 - German - travelled per FLAVIA under Australian German Assisted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "WAGNER G", 
+        "contents_dates": {
+            "date_str": "1964 - 1964", 
+            "start_date": "1964", 
+            "end_date": "1964"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1429201"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Gustav born 19 March 1928; Gertrud (nee Henning) born 7 March 1923; Hans Dieter born 1 June 1943 - German - travelled per CASTEL FELICE in January 1957", 
+        "series": "A2478", 
+        "control_symbol": "WAGNER G", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7699677"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Gustav - Nationality: German - Arrived Melbourne per Flavia 11 June 1964", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/WAGNER GUSTAV", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6590705"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WAGNER Gustav Kurt Josef - Nationality: German - Arrived Melbourne per Castel Felice 24 January 1957", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/WAGNER GUSTAV KURT JOSEF", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6590706"
+    }
+]

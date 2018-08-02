@@ -1,0 +1,62 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "EDER Josef born 20 September 1925  - German - travelled under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "EDER J", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1221662"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "EDER Josef born 22 February 1937 - Austrian - travelled per FLAMINIA under Australian Austrian Assisted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "EDER J", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1424412"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WIMMER Josef born 2 May 1925; Theresia (nee Eder) born 4 November 1931; Hans born 16 July 1953; Ulrich born 16 July 1953 - Austrian - travelled per ship FLAMINIA departing in 1956 under Australian Austrian Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "WIMMER J", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1462512"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Josef Eder [also known as Jos] [Austrian - arrived Sydney per AUSTRALIA, 4 October 1952] [Box 307]", 
+        "series": "SP1121/1", 
+        "identifier": "31111433", 
+        "control_symbol": "EDER, JOSEF", 
+        "contents_dates": {
+            "date_str": "1952 - 1954", 
+            "start_date": "1952", 
+            "end_date": "1954"
+        }, 
+        "location": "Sydney"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "KRUEGER CLIFFORD WILHELM : Service Number - SX28047 S64168 : Date of Birth - 03 Jul 1913 : Place of Birth - MURRAY BRIDGE SA : Place of Enlistment - ALICE SPRINGS NT : Next of Kin - KRUEGER MARY", 
+        "series": "B883", 
+        "identifier": "6406312", 
+        "control_symbol": "SX28047", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ADAMS Wilhelm born 26 November 1915; Hanna (nee Krueger) born 13 June 1926; Dieter born 18 October 1945; Marion born 13 March 1947; Inge born 10 March 1948; Monika born 11 March 1952 - German - travelled per ship SKAUBRYN departing in 1956", 
+        "series": "A2478", 
+        "control_symbol": "ADAMS W", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1412776"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ Herbert Richard Wilhelm born 9 November 1909; (nee Krueger) Gerda born 6 June 1911 - German - travelled per ship SKAUBRYN departing in 1958", 
+        "series": "A2478", 
+        "control_symbol": "SCHULZ H R W", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1413666"
+    }, 
+    {
+        "digitised_pages": "44", 
+        "title": "Zschech, Johann; Hartwick, Gottlieb; Krueger, Johann Carl August; Rudolph, Gofffried; Zschech, Peter; Huf, Carl Wilhelm; Krueger, Gustav; Gellert, Johann Friedrich; Zschech, Andreas; - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1857/A6743", 
+        "contents_dates": {
+            "date_str": "1857 - 1857", 
+            "start_date": "1857", 
+            "end_date": "1857"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1810964"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Krueger, Leopold Wilhelm - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1862/V352", 
+        "contents_dates": {
+            "date_str": "1862 - 1862", 
+            "start_date": "1862", 
+            "end_date": "1862"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1813992"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Krueger Wilhelm Paul", 
+        "series": "A367", 
+        "control_symbol": "C74830", 
+        "contents_dates": {
+            "date_str": "1940 - 1944", 
+            "start_date": "1940", 
+            "end_date": "1944"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "771947"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRUEGER Wolfgang Fritz Wilhelm Martin - Nationality: German - Arrived Melbourne per Nelly 23 February 1953", 
+        "series": "B78", 
+        "control_symbol": "1957/KRUEGER W F W M", 
+        "contents_dates": {
+            "date_str": "1953 - 1957", 
+            "start_date": "1953", 
+            "end_date": "1957"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4275196"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRUEGER, Friedrich August Wilhelm born 14 June 1953 - nationality German; Erna Frieda born 28 December 1909", 
+        "series": "P1183", 
+        "control_symbol": "16/158 KRUEGER", 
+        "contents_dates": {
+            "date_str": "1953 - 1959", 
+            "start_date": "1953", 
+            "end_date": "1959"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "30230988"
+    }
+]

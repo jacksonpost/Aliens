@@ -1,0 +1,662 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Anna Helene Regine Bergmann, Heinrich Karl Bergmann, Ernst Otto Bergmann, August Hermann Bergmann, Friedrike Katherine Bergmann and Ulrich Gerhardt Bergmann [5 pages; box 3]", 
+        "series": "SP423/5", 
+        "control_symbol": "BERGMANN AHR", 
+        "contents_dates": {
+            "date_str": "1941 - 1942", 
+            "start_date": "1941", 
+            "end_date": "1942"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3500986"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PAUL Karl Hermann Harry - CAV [Civil Alien Victoria] number 5306 - Year of birth 1911", 
+        "series": "MT8/4", 
+        "control_symbol": "PAUL KARL HERMANN HARRY", 
+        "contents_dates": {
+            "date_str": "1943 - 1945", 
+            "start_date": "1943", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5903298"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHLOITHE KARL HERMANN : Service Number - S730 : Date of birth - 28 Feb 1889 : Place of birth - WAGGA WAGGA NSW : Place of enlistment - KESWICK SA : Next of Kin - SCHLOITHE BERTHA", 
+        "series": "B884", 
+        "control_symbol": "S730", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6338813"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NEHLS HERMANN KARL : Service Number - SX5019 : Date of birth - 19 Apr 1901 : Place of birth - STARLUND GERMANY : Place of enlistment - ADELAIDE SA : Next of Kin - NEHLS HETTIE", 
+        "series": "B883", 
+        "control_symbol": "SX5019", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6657214"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Hermann DANNECKER - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1905/5078", 
+        "contents_dates": {
+            "date_str": "1905 - 1905", 
+            "start_date": "1905", 
+            "end_date": "1905"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3243"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Karl Gerhardt Hermann Penshorn. Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1908/12460", 
+        "contents_dates": {
+            "date_str": "1908 - 1908", 
+            "start_date": "1908", 
+            "end_date": "1908"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "10084"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Application for Certificate of Naturalization Karl Franz Hermann Wachmer.", 
+        "series": "A1", 
+        "control_symbol": "1913/4974", 
+        "contents_dates": {
+            "date_str": "1913 - 1913", 
+            "start_date": "1913", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "15094"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Wilhelm Hermann Karl Westphal, Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1914/6884", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "28730"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "Karl Hermann Walter Krause, Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1914/13464", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "29868"
+    }, 
+    {
+        "digitised_pages": "13", 
+        "title": "Hermann Karl Fiedler - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1920/6123", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "38583"
+    }, 
+    {
+        "digitised_pages": "23", 
+        "title": "H.K.F. Hermann Karl Fridrich Nehls Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1921/3644", 
+        "contents_dates": {
+            "date_str": "1919 - 1921", 
+            "start_date": "1919", 
+            "end_date": "1921"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "39673"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "Karl R.H. Karl Richard Hermann Beutel - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1921/9298", 
+        "contents_dates": {
+            "date_str": "1921 - 1921", 
+            "start_date": "1921", 
+            "end_date": "1921"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "40102"
+    }, 
+    {
+        "digitised_pages": "17", 
+        "title": "K.H. Karl Hermann Matz Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1923/677", 
+        "contents_dates": {
+            "date_str": "1922 - 1923", 
+            "start_date": "1922", 
+            "end_date": "1923"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "42798"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Mader, Paul Karl Hermann - Naturalisation", 
+        "series": "A659", 
+        "control_symbol": "1940/1/2373", 
+        "contents_dates": {
+            "date_str": "1914 - 1940", 
+            "start_date": "1914", 
+            "end_date": "1940"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "246791"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JAKOB Hermann Fritz Karl - Declaration of Intention - [Box 3]", 
+        "series": "D400", 
+        "control_symbol": "SA1953/1327", 
+        "contents_dates": {
+            "date_str": "1953 - 1957", 
+            "start_date": "1953", 
+            "end_date": "1957"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "537756"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hermann CHURALKOWSKI and Karl BINDHAMMER (German) - Deserters \"Witram\" (Sydney) - Deported same vessel June 1935  [3 pp]", 
+        "series": "B13", 
+        "control_symbol": "1935/15350", 
+        "contents_dates": {
+            "date_str": "1935 - 1935", 
+            "start_date": "1935", 
+            "end_date": "1935"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "816359"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl August Hermann Meyer - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1933/9038", 
+        "contents_dates": {
+            "date_str": "1933 - 1933", 
+            "start_date": "1933", 
+            "end_date": "1933"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1170704"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Hermann PAUL - application for naturalization", 
+        "series": "D596", 
+        "control_symbol": "1951/9615", 
+        "contents_dates": {
+            "date_str": "1951 - 1951", 
+            "start_date": "1951", 
+            "end_date": "1951"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "1183079"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FALKNER Hermann Karl born 14 March 1929 - Austrian - travelled per TOSCANELLI under Australian Austrian Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "FALKNER H K", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1195192"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LIPP Richard; wife; Kathrine; Karl Hermann; Cordelia; Julie (medical records only)", 
+        "series": "A2478", 
+        "control_symbol": "LIPP R", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1221184"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LADIGES Karl Albert Hermann born 4 July 1934; Elsbeth (nee Kellermann) born 20 Janaury 1937; Karl born 17 January 1956; Helmut born 7 December 1957 - German", 
+        "series": "A2478", 
+        "control_symbol": "LADIGES K A H", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1225220"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HERMANN Karl Siegfried born 30 march 1943 - German", 
+        "series": "A2478", 
+        "control_symbol": "HERMANN K S", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1225892"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GUETLER Manfred Karl Hermann born 24 October 1941 - German - travelled under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "GUETLER M K H", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1226262"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GIETZ Karl Hermann born 30 July 1921; Waltraut (nee Isermann) born 26 December 1924; Rosemarie (Paap) born 19 September 1946; Rita (Paap) born 30 April 1948; Holger (Paap) born 6 May 1952; Monika (Paap) born 3 September 1955 - German - travelled per MIMET under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "GIETZ K H", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1235185"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Mitzlaff, Gerhard Hermann Karl (Naavy)PWGA 42131 - Born: 19 May 1907, Stettin, Germany - Captured: 25 November 1941, North of Carnarvon, Western Australia - Previously interned: Not known - Arrived Australia: 25 November 1941,  - Interned: Graytown, Victoria - Departed: ORONTES, 21 January 1947 for Cuxhaven, Germany", 
+        "series": "A7919", 
+        "control_symbol": "102397", 
+        "contents_dates": {
+            "date_str": "1943 - 1947", 
+            "start_date": "1943", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "254712"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Vendt, Karl Hermann Bernhardt (Seaman) PWGM 88048 - Born: 4 March 19012, Pommean, Germany - Captured: 28 November, 1942, at sea (HMAS ADELAIDE) - Previously interned: Not known - Arrived Australia: HMAS ADELAIDE, 2 December 1942, Fremantle, Western Australia - Interned: Tatura, Victoria - Departed: ORONTES, 21 January 1947 for Cuxhaven, Germany", 
+        "series": "A7919", 
+        "control_symbol": "102458", 
+        "contents_dates": {
+            "date_str": "1942 - 1947", 
+            "start_date": "1942", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "254774"
+    }, 
+    {
+        "digitised_pages": "32", 
+        "title": "Nehls, Hermann Karl Frietrich [?Fredrich] - Crystal Brook, SA - application for naturalization - German nationality", 
+        "series": "D1915", 
+        "control_symbol": "SA366", 
+        "contents_dates": {
+            "date_str": "1919 - 1945", 
+            "start_date": "1919", 
+            "end_date": "1945"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "323749"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Franz Joseph Hermann - Karl Henry Simon", 
+        "series": "B741", 
+        "control_symbol": "V/4834", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "408570"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hermann Karl Robert Knauf [Interned] [Application for Naturalisation] [Box 7]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N2669", 
+        "contents_dates": {
+            "date_str": "1914 - 1938", 
+            "start_date": "1914", 
+            "end_date": "1938"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "450270"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Ludwig Friedrich Erhard [Frederico Albert Ludwig Erhard] [Application for Land Transfer] Hermann Wilhelm Erhard [Interned] [Applicant] Walther Wiechmann [Nominee] [Correspondence concerning loyalties of family] [Box 72]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N19781", 
+        "contents_dates": {
+            "date_str": "1915 - 1942", 
+            "start_date": "1915", 
+            "end_date": "1942"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "521514"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hermann Friedrich Wilhelm Karl MEIER (Objection 39 of 1940; AC) [Box 19]", 
+        "series": "C329", 
+        "control_symbol": "586", 
+        "contents_dates": {
+            "date_str": "1940 - 1940", 
+            "start_date": "1940", 
+            "end_date": "1940"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "676534"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Muller, Karl Albert Hermann [district register W3/29/208]", 
+        "series": "A401", 
+        "control_symbol": "MULLER KAH", 
+        "contents_dates": {
+            "date_str": "1914 - 1918", 
+            "start_date": "1914", 
+            "end_date": "1918"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "735244"
+    }, 
+    {
+        "digitised_pages": "36", 
+        "title": "Intercepted letters from Rottnest Island Camp - from Hermann Schaper, Karl Rapp, Heinrich Kaerkes, Bernhardt Stindt and George Hoffmann (Internees). Includes a photograph of a group of musicians and a photograph of the players of the Rottnest Island Football Club [Soccer].", 
+        "series": "PP14/1", 
+        "control_symbol": "5/15/3", 
+        "contents_dates": {
+            "date_str": "1915 - 1916", 
+            "start_date": "1915", 
+            "end_date": "1916"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "751511"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "List of Prisoners of War under 17 years and over 50 years of age [Christian VOLLMER, Albert MEYER, Carl Wilhelm KOCH, George Heinrich Johann STAHL, August Max GRUBEL, Heinrich Carl George KUSSIN, Hermann HOENE, Fritz Berthold SCHUMANN, Ferdinand HEIN, Martin MOSBACHER, Karl John MILLER, Felix BARTELS, Franz Joesph Wilhelm CRAMER, Ernest Hermann TSCHIRPIG, James John Albert MILLAR, August Robert RACTKE, Johann Carl HOFFMAN, Ivan JUJNOVICH, Ivan KATNICH, Visko ACALINOVIC, Blaz POLJICAK, Fritz WULFING, Harry BROWN, Andria VLAHOR, Anton RATKE, Carl Heinrich Wilhelm LORENTZ, Julius BLASCHEK, Marko TUNPOR, Ivan ANTULUOV,  Ivan STARCEVIC, Stepan BUDESELICH, Jure RAVLICH, Anton SPLIVALO, Juraj MATKOVICH, Juraj STARCOVIC, Frederick MENZEN, JOseph SKARIFF, Carl MEYER, Henry TAPKEN, Edward SCHMIDT, Ivan BOSICH]", 
+        "series": "PP14/1", 
+        "control_symbol": "16/1/59", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "751599"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Baumgartel karl Hermann Georg", 
+        "series": "A367", 
+        "control_symbol": "C74220", 
+        "contents_dates": {
+            "date_str": "1944 - 1947", 
+            "start_date": "1944", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "772786"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Gerth Karl Otto Hermann", 
+        "series": "A367", 
+        "control_symbol": "C72658", 
+        "contents_dates": {
+            "date_str": "1940 - 1948", 
+            "start_date": "1940", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "775056"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Hermann Harry Paul [Box 107]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N32499", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "854102"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GERTH Karl Otto Hermann - applicant for naturalization", 
+        "series": "D1915", 
+        "control_symbol": "SA14310", 
+        "contents_dates": {
+            "date_str": "1946 - 1948", 
+            "start_date": "1946", 
+            "end_date": "1948"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "890243"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hermann Heinrich Karl Franz Otto ANNOWSKY", 
+        "series": "SP43/3", 
+        "control_symbol": "NN", 
+        "contents_dates": {
+            "date_str": "1917 - 1917", 
+            "start_date": "1917", 
+            "end_date": "1917"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "977366"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Hermann Max NITZSCHE", 
+        "series": "PP302/1", 
+        "control_symbol": "WA1461", 
+        "contents_dates": {
+            "date_str": "1915 - 1922", 
+            "start_date": "1915", 
+            "end_date": "1922"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1593141"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "BIRK Karl Hermann [German]", 
+        "series": "P1184", 
+        "control_symbol": "BIRK KH", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1766085"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PAUL, Carmen [Carmelis] Margaret (nee Carment Cincotta) (wife of Hermann Karl Paul) alias CINNOTTEE, Carmen [Security Service, New South Wales, dossier] [.25cm; box 23]", 
+        "series": "C123", 
+        "control_symbol": "1695", 
+        "contents_dates": {
+            "date_str": "1940 - 1943", 
+            "start_date": "1940", 
+            "end_date": "1943"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1859593"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KUBERT Karl Hermann - Nationality: German - Arrived Melbourne per Anna Salen 20 December 1953", 
+        "series": "K1331", 
+        "control_symbol": "1956/KUBERT K H", 
+        "contents_dates": {
+            "date_str": "1953 - 1954", 
+            "start_date": "1953", 
+            "end_date": "1954"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3230818"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Klaka, Karl Hermann - Queensland investigation case file", 
+        "series": "BP242/1", 
+        "control_symbol": "Q22248", 
+        "contents_dates": {
+            "date_str": "1939 - 1946", 
+            "start_date": "1939", 
+            "end_date": "1946"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "3372308"
+    }
+]

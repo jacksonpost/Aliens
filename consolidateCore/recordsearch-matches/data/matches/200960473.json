@@ -1,0 +1,62 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Hans Bartels, ex crew of \"Magdeburg\" and hospital - On board \"Neckar\" on departure", 
+        "series": "B13", 
+        "control_symbol": "1934/19347", 
+        "contents_dates": {
+            "date_str": "1934 - circa1934", 
+            "start_date": "1934", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "815046"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "BARTELS Hans [Memorial and Certificate of Naturalizations]", 
+        "series": "A821", 
+        "control_symbol": "SET 2/NO 15", 
+        "contents_dates": {
+            "date_str": "1849 - 1849", 
+            "start_date": "1849", 
+            "end_date": "1849"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "825176"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by Hans Bartels now known as Siemens & Halske Aktiengesellschaft titled - Carrier frequency transmission system with phase equalization", 
+        "series": "A627", 
+        "control_symbol": "22583/1929", 
+        "contents_dates": {
+            "date_str": "1929 - 1929", 
+            "start_date": "1929", 
+            "end_date": "1929"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4210512"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BARTELS Hans Joachim - Nationality: German - Arrived Melbourne per Roma 04 February 1961 Departed Commonwealth on 09 May 1965", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/BARTELS HANS JOACHIM", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5763827"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": "4", 
+        "title": "Reimers, Friedrich Wilhelm Christian - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "1881", 
+        "contents_dates": {
+            "date_str": "1884 - 1884", 
+            "start_date": "1884", 
+            "end_date": "1884"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3181955"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Reimers, Gustav Wilhelm - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "3204", 
+        "contents_dates": {
+            "date_str": "1895 - 1895", 
+            "start_date": "1895", 
+            "end_date": "1895"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3185676"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Naturalisations (unenrolled or uncollected) for South Australia. 1862 - Reimers, Johann Heinrich Wilhelm", 
+        "series": "A822", 
+        "control_symbol": "1862/REIMERS J H W", 
+        "contents_dates": {
+            "date_str": "1858 - 1864", 
+            "start_date": "1858", 
+            "end_date": "1864"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3197168"
+    }
+]

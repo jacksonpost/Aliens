@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_pages": "2", 
+        "title": "Applicant - ZOLLSCHAN Arthur and Karla and TAUBERT Margit; Nominee - TAUBER Oskar; nationality Austrian", 
+        "series": "A261", 
+        "control_symbol": "1946/5280", 
+        "contents_dates": {
+            "date_str": "1946 - 1946", 
+            "start_date": "1946", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7892721"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - TAUBERT Max Karl Oskar; Nominee - DUSING Toni; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1927/2920", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8164864"
+    }
+]

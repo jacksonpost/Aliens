@@ -1,0 +1,137 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "SCHOLZ ERNEST ALFRED : Service Number - 63817 : Date of birth - 11 Apr 1916 : Place of birth - TEMORA NSW : Place of enlistment - SYDNEY : Next of Kin - SCHOLZ JOHANN", 
+        "series": "A9301", 
+        "control_symbol": "63817", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4598107"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHOLZ EDWARD ALFRED : Service Number - 157628 : Date of birth - 17 Mar 1913 : Place of birth - NORTHCOTE VIC : Place of enlistment - MELBOURNE : Next of Kin - SCHOLZ VIOLET", 
+        "series": "A9301", 
+        "control_symbol": "157628", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5364116"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHOLZ ROY ALFRED : Service Number - VX125087 : Date of birth - 28 Sep 1923 : Place of birth - WALLA WALLA NSW : Place of enlistment - BENDIGO VIC : Next of Kin - SCHOLZ ALFRED", 
+        "series": "B883", 
+        "control_symbol": "VX125087", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6085520"
+    }, 
+    {
+        "digitised_pages": "38", 
+        "title": "SCHOLZ Max Alfred : Service Number - 2734 : Place of Birth - Berlin Germany : Place of Enlistment - Bundaberg QLD : Next of Kin - (Father) SCHOLZ Christian", 
+        "series": "B2455", 
+        "control_symbol": "SCHOLZ MAX ALFRED", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8079322"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "SCHOLZ Karl Heinz Alfred born 29 June 1931 - German - travelled per ship NELLY departing in 1953 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "identifier": "1450486", 
+        "control_symbol": "SCHOLZ K H A", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Scholz Edward Alfred", 
+        "series": "MP16/1", 
+        "control_symbol": "1917/2088", 
+        "contents_dates": {
+            "date_str": "1917 - 1917", 
+            "start_date": "1917", 
+            "end_date": "1917"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "322142"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Scholz, Alfred", 
+        "series": "A401", 
+        "control_symbol": "SCHOLZ A", 
+        "contents_dates": {
+            "date_str": "1914 - 1918", 
+            "start_date": "1914", 
+            "end_date": "1918"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "736172"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Patents Files, six figure series. Manufacture of new sulphonyl ureas- Specification by  Farbwerke Hoechst Aktiengesellschaft Vormals Meister Lucius & Bruning, Heinrich Rusching, Walter Aumuller, Gerhard Korger, Hans Wagner, Josef Scholz and Alfred Bander", 
+        "series": "A661", 
+        "control_symbol": "217534 PART 1", 
+        "contents_dates": {
+            "date_str": "1956 - 1971", 
+            "start_date": "1956", 
+            "end_date": "1971"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5165516"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Patents Files, six figure series. Manufacture of new sulphonyl ureas- Specification by  Farbwerke Hoechst Aktiengesellschaft Vormals Meister Lucius & Bruning, Heinrich Rusching, Walter Aumuller, Gerhard Korger, Hans Wagner, Josef Scholz and Alfred Bander", 
+        "series": "A661", 
+        "control_symbol": "217534 PART 2", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5165517"
+    }
+]

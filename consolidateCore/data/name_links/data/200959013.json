@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Finke Paul", 
+        "series": "PP14/1", 
+        "control_symbol": "1/2/530", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "746502"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FINKE, Paul [Security Service, New South Wales, dossier] [4 pages] [box 17]", 
+        "series": "C123", 
+        "control_symbol": "1473", 
+        "contents_dates": {
+            "date_str": "1939 - 1940", 
+            "start_date": "1939", 
+            "end_date": "1940"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1555097"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Specifications for registration of patent by Fredrich Carl Linke, Gustav Berthold Finke and Paul Alfred Finke titled - Improvements in stump jumping cultivators - Patent not registered", 
+        "series": "A13128", 
+        "control_symbol": "8632", 
+        "contents_dates": {
+            "date_str": "1903 - 1903", 
+            "start_date": "1903", 
+            "end_date": "1903"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7543562"
+    }
+]

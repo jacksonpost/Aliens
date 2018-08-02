@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Julius Albert Behrendt Naturalization", 
+        "series": "A1", 
+        "identifier": "29351", 
+        "control_symbol": "1914/11512", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Julius Albert Behrendt - transfer of land at Murtho SA", 
+        "series": "A12217", 
+        "control_symbol": "L2386", 
+        "contents_dates": {
+            "date_str": "1941 - 1941", 
+            "start_date": "1941", 
+            "end_date": "1941"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5482464"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Werner Paul Albert Behrendt [German - Arrived Melbourne per CASTEL FELICE 26 January 1960]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/BEHRENDT WERNER PAUL ALBERT", 
+        "contents_dates": {
+            "date_str": "1960 - 1968", 
+            "start_date": "1960", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7236570"
+    }
+]

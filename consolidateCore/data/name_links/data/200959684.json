@@ -1,0 +1,137 @@
+[
+    {
+        "digitised_pages": "44", 
+        "title": "KLEIN Joseph : Service Number - 2133 : Place of Birth - Essex England : Place of Enlistment - Brisbane QLD : Next of Kin - (Father) KLEIN Louis", 
+        "series": "B2455", 
+        "control_symbol": "KLEIN JOSEPH", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7374209"
+    }, 
+    {
+        "digitised_pages": "23", 
+        "title": "KLEIN Louis : Service Number - 2519 : Place of Birth - Port Melbourne VIC : Place of Enlistment - Melbourne VIC : Next of Kin - (Father) KLEIN Harry", 
+        "series": "B2455", 
+        "control_symbol": "KLEIN LOUIS", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7374210"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OWIDE Henry born 11 June 1942; Jacqueline Adele (nee Klein) born 25 October 1943; Ivan Louis born 20 May 1967; travelled per aircraft departing UK on 6 May 1969 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "6 MAY 1969 OWIDE H", 
+        "contents_dates": {
+            "date_str": "1968 - 1969", 
+            "start_date": "1968", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8048743"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Applicant - KLEIN Abraham Louis; Nominee - MILLER Joseph; nationality Latvian", 
+        "series": "A261", 
+        "control_symbol": "1929/548", 
+        "contents_dates": {
+            "date_str": "1929 - 1929", 
+            "start_date": "1929", 
+            "end_date": "1929"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8183586"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Naturalisation - KLEIN Louis born 15 July 1921", 
+        "series": "A446", 
+        "control_symbol": "1955/25906", 
+        "contents_dates": {
+            "date_str": "1954 - 1956", 
+            "start_date": "1954", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8859763"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Ilse Berlla Nordschild, Paul Simon Nordschild, Karl Schiffman, Siegfried De Klein, Fritz Somner, Berta Alfa, Rolf Doctor, Gaetano Anselmi, Izzy Janazza, Louis Farber, Thomas Louis Chester [also known as Tommy Chester], Dominador Ganzon, Ong. Hock Thye, Tan Chian, Man Chan, Due Luong, W. F. Barlett [arrived ex AORANGI in Sydney on 20 November 1937], Rev. Isikeli Hauofa and wife Mele Hauofa [arrived ex AORANGI in Sydney on 20 November 1937] [Tongan passengers for transhipment and enroute to Papua], Dullabh Morar [arrived ex AORANGI in Sydney on 20 November 1937] [Indian passenger for transhipment and enroute to India] and 3 unknown Chinese [arrived ex AORANGI in Sydney on 20 November 1937] [Chinese passengers for transhipment and enroute to China] [box 354]", 
+        "series": "SP42/1", 
+        "control_symbol": "C1937/8336", 
+        "contents_dates": {
+            "date_str": "1937 - 1938", 
+            "start_date": "1937", 
+            "end_date": "1938"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "31099662"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLEIN, Louis Marcel - born 1940 - French - [Special Passage Assistance Programme]", 
+        "series": "A2917", 
+        "control_symbol": "SD1974/1620", 
+        "contents_dates": {
+            "date_str": "1973 - 1973", 
+            "start_date": "1973", 
+            "end_date": "1973"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "60197762"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Klein, Louis [district register W95/7/7]", 
+        "series": "A401", 
+        "control_symbol": "KLEIN", 
+        "contents_dates": {
+            "date_str": "1914 - 1918", 
+            "start_date": "1914", 
+            "end_date": "1918"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "735380"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Abraham Louis Klein - Admission of friends into Australia", 
+        "series": "B741", 
+        "control_symbol": "V/6782", 
+        "contents_dates": {
+            "date_str": "1929 - 1929", 
+            "start_date": "1929", 
+            "end_date": "1929"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1115774"
+    }
+]

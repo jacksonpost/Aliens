@@ -1,0 +1,17 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "KRUG Georg - born 28 November 1906 - German", 
+        "series": "A435", 
+        "identifier": "5276524", 
+        "control_symbol": "1944/4/2136", 
+        "contents_dates": {
+            "date_str": "1942 - 1944", 
+            "start_date": "1942", 
+            "end_date": "1944"
+        }, 
+        "location": "Canberra"
+    }
+]

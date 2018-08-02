@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Paul Graefe Naturalization", 
+        "series": "A1", 
+        "identifier": "32021", 
+        "control_symbol": "1914/23774", 
+        "contents_dates": {
+            "date_str": "1914 - 1915", 
+            "start_date": "1914", 
+            "end_date": "1915"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Hans Paul Graefe [German - Arrived Melbourne per CASTEL FELICE 5 October 1960]", 
+        "series": "SP908/1", 
+        "identifier": "7531453", 
+        "control_symbol": "GERMAN/GRAEFE HANS PAUL", 
+        "contents_dates": {
+            "date_str": "05 Oct 1960 - 31 Dec 1968", 
+            "start_date": "1960-10-05", 
+            "end_date": "1968-12-31"
+        }, 
+        "location": "Sydney"
+    }
+]

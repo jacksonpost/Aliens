@@ -1,0 +1,557 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER OTTO HENRY : Service Number - 263716 : Date of birth - 20 Apr 1916 : Place of birth - Unknown : Place of enlistment - Unknown : Next of Kin - SCHNEIDER NORMA", 
+        "series": "A9300", 
+        "control_symbol": "SCHNEIDER O H", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5255675"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER RICHARD LEWIS : Service Number - VX120365 : Date of birth - 25 Jan 1923 : Place of birth - NHILL VIC : Place of enlistment - GIN GIN WA : Next of Kin - SCHNEIDER OTTO", 
+        "series": "B883", 
+        "control_symbol": "VX120365", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6096242"
+    }, 
+    {
+        "digitised_pages": "14", 
+        "title": "SCHNEIDER FRANK OTTO : Service Number - VX120366 : Date of birth - 08 Mar 1920 : Place of birth - NHILL VIC : Place of enlistment - GIN GIN WA : Next of Kin - SCHNEIDER OTTO", 
+        "series": "B883", 
+        "control_symbol": "VX120366", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6096243"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER OTTO HERMAN : Service Number - V351811 : Date of birth - 31 Dec 1907 : Place of birth - HAMILTON VIC : Place of enlistment - HAMILTON VIC : Next of Kin - SCHNEIDER C", 
+        "series": "B884", 
+        "control_symbol": "V351811", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6638378"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Otto August Henry Schneider - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1913/4519", 
+        "contents_dates": {
+            "date_str": "1913 - 1913", 
+            "start_date": "1913", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "15047"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Otto Herinan Schneider, Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1914/14087", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "30123"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "O. Otto Schneider Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1921/24222", 
+        "contents_dates": {
+            "date_str": "1914 - 1921", 
+            "start_date": "1914", 
+            "end_date": "1921"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "41292"
+    }, 
+    {
+        "digitised_pages": "54", 
+        "title": "L.O. Ludwig Otto Schneider Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1923/10280", 
+        "contents_dates": {
+            "date_str": "1921 - 1923", 
+            "start_date": "1921", 
+            "end_date": "1923"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "43317"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schneider, Henry Otto - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1903/R1836", 
+        "contents_dates": {
+            "date_str": "1903 - 1903", 
+            "start_date": "1903", 
+            "end_date": "1903"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1937440"
+    }, 
+    {
+        "digitised_pages": "22", 
+        "title": "SCHNEIDER Otto born 4 November 1917; Helena born 12 May 1926", 
+        "series": "A12014", 
+        "control_symbol": "576-577", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4440392"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Renata born 9 February 1922; Otto born 7 December 1915", 
+        "series": "A12091", 
+        "control_symbol": "1252-1253", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4728741"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Otto - born 16 July 1896 - Austrian", 
+        "series": "A435", 
+        "control_symbol": "1946/4/4001", 
+        "contents_dates": {
+            "date_str": "1943 - 1947", 
+            "start_date": "1943", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7005363"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Otto born 16 July 1896; nationality Austrian; travelled per ORCADES arriving in Sydney on 19 October 1938", 
+        "series": "A12508", 
+        "control_symbol": "5/380", 
+        "contents_dates": {
+            "date_str": "1938 - 1938", 
+            "start_date": "1938", 
+            "end_date": "1938"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7113323"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Applicant - GRUNOW Otto Christian; Nominee - SCHNEIDER Walter; SCHNEIDER Elise; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1927/1126", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7603878"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Otto born 28 February 1922; Liselotte (nee Werner) born 17 February 1923; Gisela born 28 June 1947; Christa born 20 December 1948 - German - travelled per ANNA SALEN in July 1954", 
+        "series": "A2478", 
+        "control_symbol": "SCHNEIDER O", 
+        "contents_dates": {
+            "date_str": "1953 - 1954", 
+            "start_date": "1953", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7674405"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "STEFFEN Otto born 1 December 1934; Regina (nee Schneider) born 5 February 1936; Roswitha born 26 August 1955 - German - travelled per AURELIA in December 1959", 
+        "series": "A2478", 
+        "control_symbol": "STEFFEN O", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7688208"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Bertram Otto born 20 September 1935; Regina Margarete (nee Thiel) born 23 August 1936; Fritz born 6 December 1955; Mario born 19 November 1956 - German - travelled per CASTEL FELICE in June 1958", 
+        "series": "A2478", 
+        "control_symbol": "SCHNEIDER BO", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7700555"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER German Otto born 14 October 1919; Maria (nee Herzog) born 10 August 1910; Eva born 22 November 1947; Peter born 31 July 1949; Poldi (Trapp) born 31 October 1943 - German - travelled per CASTEL FELICE on 15 September 1959", 
+        "series": "A2478", 
+        "control_symbol": "SCHNEIDER G O", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7707485"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Guenther Otto born 14 October 1940 - German - travelled per CASTEL FELICE on 2 September 1960", 
+        "series": "A2478", 
+        "control_symbol": "SCHNEIDER G O", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7710269"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Otto Charles born 7 December 1915 - Czechoslovakian", 
+        "series": "A446", 
+        "control_symbol": "1954/46472", 
+        "contents_dates": {
+            "date_str": "1949 - 1955", 
+            "start_date": "1949", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7772628"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - SCHNEIDER Otto; Nominee - STEINHART Karl; nationality Hungarian", 
+        "series": "A261", 
+        "control_symbol": "1947/2159", 
+        "contents_dates": {
+            "date_str": "1947 - 1947", 
+            "start_date": "1947", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7886940"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schneider, Otto Fritz Willi", 
+        "series": "P3", 
+        "control_symbol": "T1964/0608", 
+        "contents_dates": {
+            "date_str": "1954 - 1966", 
+            "start_date": "1954", 
+            "end_date": "1966"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8154681"
+    }, 
+    {
+        "digitised_pages": "13", 
+        "title": "Application for Naturalisation - SCHNEIDER Otto born 4 November 1917", 
+        "series": "A446", 
+        "control_symbol": "1955/47929", 
+        "contents_dates": {
+            "date_str": "1955 - 1956", 
+            "start_date": "1955", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8379630"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER, Gerd Otto - born 1945 - German - Sonja Elisabeth born 1949; Christina born 1967 - [Assisted Passage Scheme - Germany office file K/1973/3338]", 
+        "series": "A2917", 
+        "control_symbol": "SD1976/2808", 
+        "contents_dates": {
+            "date_str": "1973 - 1977", 
+            "start_date": "1973", 
+            "end_date": "1977"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "30671424"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schneider Otto Importer Bourke St", 
+        "series": "MP16/1", 
+        "control_symbol": "1914/3/748", 
+        "contents_dates": {
+            "date_str": "1914 - 1918", 
+            "start_date": "1914", 
+            "end_date": "1918"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "328796"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Ludwig Otto Schneider [Interned] [Box 1]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N59/22/127", 
+        "contents_dates": {
+            "date_str": "1916 - 1926", 
+            "start_date": "1916", 
+            "end_date": "1926"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "447908"
+    }, 
+    {
+        "digitised_pages": "25", 
+        "title": "Schneider, Otto (Czech) - Alien Registration File", 
+        "series": "E40", 
+        "control_symbol": "SCHNEIDER, OTTO 162793", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Darwin", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "951094"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Otto - Nationality: Czechoslovakian - Arrived Melbourne per Skaugum 28 March 1950", 
+        "series": "B78", 
+        "control_symbol": "1955/SCHNEIDER O", 
+        "contents_dates": {
+            "date_str": "1950 - 1955", 
+            "start_date": "1950", 
+            "end_date": "1955"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4161475"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Heinrich Otto Freidrich Schneider and Katharine Amalie Emma Schneider - acquisition by gift of property at Bundaberg Qld - donor Wilhelm Schneider", 
+        "series": "A12217", 
+        "control_symbol": "L11373", 
+        "contents_dates": {
+            "date_str": "1945 - 1946", 
+            "start_date": "1945", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5285168"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Otto AH Schneider - execution of mortgage over property at Mundubbera Queensland", 
+        "series": "A12217", 
+        "control_symbol": "L5567", 
+        "contents_dates": {
+            "date_str": "1942 - 1942", 
+            "start_date": "1942", 
+            "end_date": "1942"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5448629"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Otto August Henry Schneider - crown grant of property Mundubbera Qld", 
+        "series": "A12217", 
+        "control_symbol": "L10525", 
+        "contents_dates": {
+            "date_str": "1945 - 1945", 
+            "start_date": "1945", 
+            "end_date": "1945"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5458457"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER German Otto - Nationality: German - Arrived Melbourne per Castel Felice 20 October 1959", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/SCHNEIDER GERMAN OTTO", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6593150"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Otto - Nationality: German - Arrived Melbourne per Roma 31 December 1951", 
+        "series": "D4881", 
+        "control_symbol": "SCHNEIDER OTTO", 
+        "contents_dates": {
+            "date_str": "1951 - 1976", 
+            "start_date": "1951", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9220992"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "SCHNEIDER Otto born 1904 - Nationality: German - Arrived Melbourne per Roma 31 December 1951", 
+        "series": "D4878", 
+        "control_symbol": "SCHNEIDER O", 
+        "contents_dates": {
+            "date_str": "1951 - 1957", 
+            "start_date": "1951", 
+            "end_date": "1957"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9238743"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schneider, Dr Otto Henry (Australian) [Box 514]", 
+        "series": "C123", 
+        "control_symbol": "16877", 
+        "contents_dates": {
+            "date_str": "1941 - 1942", 
+            "start_date": "1941", 
+            "end_date": "1942"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9420364"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Otto SCHNEIDER - Nationality: Austrian - Arrived Sydney per ORCADES on 11 Oct 1938 [Box 176]", 
+        "series": "SP11/5", 
+        "control_symbol": "SCHNEIDER, OTTO", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30379688"
+    }
+]

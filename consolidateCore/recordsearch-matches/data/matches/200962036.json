@@ -1,0 +1,62 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "SCHLESINGER Wilhelm Emil born 5 October 1910; Irmgard (nee Kirchner) born 29 November 1916; Ingrid born 10 July 1940; Renate born 23 September 1950 - German - travelled per ship SEVEN SEAS departing in 1953 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "SCHLESINGER W E", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1444249"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ANSBACHER Wilhelm born 26 June 1898; nationality German; ANSBACHER (aka SCHLESINGER) Mary, age 35", 
+        "series": "A997", 
+        "control_symbol": "1938/18", 
+        "contents_dates": {
+            "date_str": "1938 - 1938", 
+            "start_date": "1938", 
+            "end_date": "1938"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7940031"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Schlesinger, Wilhelm Siegfried; Date of birth - 23 December 1920; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "E40589", 
+        "contents_dates": {
+            "date_str": "1940 - 1942", 
+            "start_date": "1940", 
+            "end_date": "1942"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8618272"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Prisoner of War/Internee; Schlesinger, Wilhelm Siegfried; Year of birth - 1920; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "E40589", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9907093"
+    }
+]

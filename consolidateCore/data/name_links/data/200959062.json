@@ -1,0 +1,407 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "GIRRBACH Karl - (Flying Officer); Service Number - 407712; File type - Casualty - Repatriation; Aircraft - Hotspurii BT 779; Place - Netheravon, Wiltshire United Kingdom; Date - 25 March 1942", 
+        "series": "A705", 
+        "control_symbol": "163/34/166", 
+        "contents_dates": {
+            "date_str": "1929 - 1960", 
+            "start_date": "1929", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1054862"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "EKLUND Karl Hugo - (Sergeant); Service Number - 404887; File type - Casualty - Repatriation; Aircraft - Hampden A.T. 194; Place - Terschelling Island, Holland; Date - 24 February 1942", 
+        "series": "A705", 
+        "control_symbol": "163/107/87", 
+        "contents_dates": {
+            "date_str": "1929 - 1960", 
+            "start_date": "1929", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1056735"
+    }, 
+    {
+        "digitised_pages": "54", 
+        "title": "SOMERS, James Karl - (Pilot Officer); Service Number - 411398; File type - Casualty - Repatriation; Aircraft - Wellington HE924; Place - Target Krefeld, Germany; Date - 22 June 1943", 
+        "series": "A705", 
+        "control_symbol": "166/38/187", 
+        "contents_dates": {
+            "date_str": "1943 - 1960", 
+            "start_date": "1943", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1078570"
+    }, 
+    {
+        "digitised_pages": "15", 
+        "title": "COOMBES KARL GEORGE JOSEPH : Service Number - NX151604 : Date of birth - 24 Jan 1923 : Place of birth - WAUCHOPE NSW : Place of enlistment - PORT MORESBY NEW GUINEA : Next of Kin - COOMBES SYDNEY", 
+        "series": "B883", 
+        "control_symbol": "NX151604", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5639092"
+    }, 
+    {
+        "digitised_pages": "11", 
+        "title": "BRAMBLE WALTER RAYMOND : Service Number - N162128 : Date of birth - 29 Aug 1921 : Place of birth - FORSTER NSW : Place of enlistment - TUNCURRY NSW : Next of Kin - BRAMBLE W", 
+        "series": "B884", 
+        "control_symbol": "N162128", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5699234"
+    }, 
+    {
+        "digitised_pages": "30", 
+        "title": "ZECHEL Karl born 17 July 1927; Edith (nee Lang) born 20 July 1925; Peter born 13 June 1948; Karl born 9 August 1950; Wolfgang born 17 February 1957; Arno born 17 February 1957; Ursula born 23 February 1954 - German - travelled per ship SKAUBRYN departing in 1958", 
+        "series": "A2478", 
+        "control_symbol": "ZECHEL K", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1414061"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANG Karl Heinz born 26 July 1935 - German - travelled per ship FLAMINIA departing in 1960 under General Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "LANG K H", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1459806"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KUEHN Karl Heinrich born 13 June 1923; Erna (nee Lang) born 23 August 1926; Gabriela born 28 April 1945; Angelika born 8 January 1950; Evelyne born 28 September 1951 - German - travelled per ship FAIRSEA departing in 1956 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "KUEHN K H", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1466436"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DUNKEL Josef Franz born 10 April 1921; Anni (nee Lang) born 10 October 1924; Karl Heinz born 11 October 1946; Wolfgang born 4 September 1950 - German - travelled per FAIRSEA ship departing in 1954 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "DUNKEL J F", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1469966"
+    }, 
+    {
+        "digitised_pages": "77", 
+        "title": "Erich Karl Theodor Kaldasch - naturalisation certificate", 
+        "series": "A1", 
+        "control_symbol": "1930/73", 
+        "contents_dates": {
+            "date_str": "1921 - 1931", 
+            "start_date": "1921", 
+            "end_date": "1931"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1498059"
+    }, 
+    {
+        "digitised_pages": "41", 
+        "title": "KEMPLER, Kalman (known as Karl Kempler) - Naturalisation [ and Kempler, Rosa - declaration of acquisition of British nationality] [23pp including Polish passport]", 
+        "series": "A659", 
+        "control_symbol": "1941/1/6516", 
+        "contents_dates": {
+            "date_str": "1941 - 1942", 
+            "start_date": "1941", 
+            "end_date": "1942"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1772773"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DEUTSCH Alfred - Nationality: German - Arrived Sydney per Dunera 26 August 1940 (contains birth and marriage certificate - also a document for DOCKE, Karl [Carl] August)", 
+        "series": "MP56/10", 
+        "control_symbol": "DEUTSCH A", 
+        "contents_dates": {
+            "date_str": "1940 - 1940", 
+            "start_date": "1940", 
+            "end_date": "1940"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4236299"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANG Karl born 11 August 1916", 
+        "series": "A12089", 
+        "control_symbol": "1371", 
+        "contents_dates": {
+            "date_str": "1949 - 1949", 
+            "start_date": "1949", 
+            "end_date": "1949"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4728147"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANG Karl Joseph born 15 January 1952 - Nationality German - arrived per flight MIKL 23/087 Ex Hamburg/Germany departed 21 October 1970 under Assisted Passage Scheme", 
+        "series": "A2559", 
+        "control_symbol": "1970/A/1089", 
+        "contents_dates": {
+            "date_str": "1970 - 1970", 
+            "start_date": "1970", 
+            "end_date": "1970"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5446419"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANG Karl born 19 December 1917; Katharina (nee Elender) born 2 December 1923; Karlheinz born 17 March 1946; Renate born 23 June 1949; Edeltraud born 5 February 1954 - German - travelled per CASTEL FELICE in December 1959", 
+        "series": "A2478", 
+        "control_symbol": "LANG K", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7707763"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SANDAGER Karl William born 8 February 1935; Wivi (nee Klarskov-Frederiksen) born 19 March 1937; Michelle Ilona born 9 December 1959; Jeannette Christel born 16 December 1960 - Danish - travelled per ORCADES on 2 April 1968", 
+        "series": "A2562", 
+        "control_symbol": "1968/2079", 
+        "contents_dates": {
+            "date_str": "1967 - 1968", 
+            "start_date": "1967", 
+            "end_date": "1968"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7717505"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANG Karl born 23 July 1909; Mary born 8 January 1914 - Austrian", 
+        "series": "A446", 
+        "control_symbol": "1958/35084", 
+        "contents_dates": {
+            "date_str": "1958 - 1961", 
+            "start_date": "1958", 
+            "end_date": "1961"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7734870"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANG Alexander Karl born 12 September 1923; Valentina Alexander (nee Roshina) born 8 January 1936; Alexander born 8 August 1961; Karl Victor born 29 August 1963 - Stateless", 
+        "series": "A2495", 
+        "control_symbol": "1968/24584", 
+        "contents_dates": {
+            "date_str": "1968 - 1968", 
+            "start_date": "1968", 
+            "end_date": "1968"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7781523"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FREUDIGMANN Karl born 13 February 1923; Kathe (nee Lang) born 26 March 1927 - German - travelled per SKAUBRYN on 13 January 1955", 
+        "series": "A2478", 
+        "control_symbol": "FREUDIGMANN K", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7790671"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANG Ewald Karl born 25 November 1923; Gisela (nee Kuefner) born 10 November 1924; InaMaria born 2 October 1948 - German -  travelled per CASTEL FELICE on 31 October 1955", 
+        "series": "A2478", 
+        "control_symbol": "LANG E K", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7793878"
+    }, 
+    {
+        "digitised_pages": "471", 
+        "title": "Seamen deserters [includes multiple files for individual deserters - most with photographs] - [Part 1 A&B]", 
+        "series": "P3", 
+        "control_symbol": "T1974/0018 PART 1", 
+        "contents_dates": {
+            "date_str": "1973 - 1974", 
+            "start_date": "1973", 
+            "end_date": "1974"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9751788"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANG Karl Heinz - Nationality: German - Arrived Fremantle per Castel Felice 21 January 1960", 
+        "series": "K1331", 
+        "control_symbol": "1962/1963/LANG K H", 
+        "contents_dates": {
+            "date_str": "1960 - 1968", 
+            "start_date": "1960", 
+            "end_date": "1968"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3341796"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Karl Lang [Austrian - arrived Sydney per M/N AURELIA, 12 Aug 1961. Box 61]", 
+        "series": "SP908/1", 
+        "control_symbol": "AUSTRIAN/LANG  K", 
+        "contents_dates": {
+            "date_str": "1961 - 1961", 
+            "start_date": "1961", 
+            "end_date": "1961"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4989364"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Lange (known as Charles Lang) - exchange of property at Merrylands NSW", 
+        "series": "A12217", 
+        "control_symbol": "L2385", 
+        "contents_dates": {
+            "date_str": "1941 - 1941", 
+            "start_date": "1941", 
+            "end_date": "1941"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5482463"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Heinz Lang [Other nationality: Born in Austria, German - Arrived Melbourne per FLAMINIA 30 May 1960]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/LANG KARL HEINZ", 
+        "contents_dates": {
+            "date_str": "1960 - 1968", 
+            "start_date": "1960", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7535515"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Lang, Karl Joseph - German - arrived 23 October 1970 in Sir Kingsford Smith Airport", 
+        "series": "BP289/1", 
+        "control_symbol": "001101347", 
+        "contents_dates": {
+            "date_str": "1970 - 1970", 
+            "start_date": "1970", 
+            "end_date": "1970"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9583959"
+    }
+]

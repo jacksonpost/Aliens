@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "OZICH-BEBEK [OZICH BEBEK] Ivan [Application for the admission of a friend or relative to Australia]", 
+        "series": "PP105/1", 
+        "control_symbol": "W1956/8778", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7966090"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - OZICH Simun; Nominee - OZICH Ivan; nationality Yugoslavian", 
+        "series": "A261", 
+        "control_symbol": "1927/2126", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8164470"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Ante OZICH, Ivan ERCEG [Admission of friends or relatives to Australia Yura [Yure] Markov ERCEG;", 
+        "series": "PP302/1", 
+        "identifier": "1655724", 
+        "control_symbol": "WA9526", 
+        "contents_dates": {
+            "date_str": "1934 - 1939", 
+            "start_date": "1934", 
+            "end_date": "1939"
+        }, 
+        "location": "Perth"
+    }
+]

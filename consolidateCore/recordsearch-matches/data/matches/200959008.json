@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "VAN HEEREN Franciscus Albertus born 21 October 1923; Henriette M (nee Van Zanten) born 3 October 1927; Rebecca H M born 24 September 1956; Franciscus A born 29 April 1958; Judith born 23 March 1961 - Dutch - travelled per GROOTEBEER under Netherlands Australian Assisted Migration", 
+        "series": "A2478", 
+        "control_symbol": "VAN HEEREN F A", 
+        "contents_dates": {
+            "date_str": "1962 - 1962", 
+            "start_date": "1962", 
+            "end_date": "1962"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1429737"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HEEREN Johannes A. born 09 August 1922; Cornelia C. born 02 November 1923; Catharina H. born 13 December 1951; Helena C. born 24 July 1955 -  Nationality Dutch -  arrived per ship M.S. \"ELLINIS\" departed Ex ROTTERDAM 16 MAY 1969 under  the Australian and Netherlands Migration Agreement.", 
+        "series": "A2559", 
+        "control_symbol": "1969/B/28-31", 
+        "contents_dates": {
+            "date_str": "1969 - 1969", 
+            "start_date": "1969", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5278691"
+    }
+]

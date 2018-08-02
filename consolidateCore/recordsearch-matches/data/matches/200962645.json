@@ -1,0 +1,17 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Schenck Robert", 
+        "series": "MP16/1", 
+        "identifier": "330068", 
+        "control_symbol": "1915/3/453", 
+        "contents_dates": {
+            "date_str": "1915 - 1916", 
+            "start_date": "1915", 
+            "end_date": "1916"
+        }, 
+        "location": "Melbourne"
+    }
+]

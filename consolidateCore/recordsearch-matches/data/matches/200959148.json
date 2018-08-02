@@ -1,0 +1,137 @@
+[
+    {
+        "digitised_pages": "3", 
+        "title": "SCHRODER, Hermann Johann", 
+        "series": "A821", 
+        "control_symbol": "SET 1/NO 33 FOLIO 13", 
+        "contents_dates": {
+            "date_str": "1851 - 1851", 
+            "start_date": "1851", 
+            "end_date": "1851"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "816199"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "SCHRODER Hermann Johann [Memorial and Certificate of Naturalization]", 
+        "series": "A821", 
+        "control_symbol": "SET 2/NO 143", 
+        "contents_dates": {
+            "date_str": "1850 - 1850", 
+            "start_date": "1850", 
+            "end_date": "1850"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "826807"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Fritz Hermann SCHRODER - Naturalization.", 
+        "series": "A1", 
+        "control_symbol": "1934/2438", 
+        "contents_dates": {
+            "date_str": "1920 - 1934", 
+            "start_date": "1920", 
+            "end_date": "1934"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1019264"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Schroder, Hermann - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1896/D633", 
+        "contents_dates": {
+            "date_str": "1896 - 1896", 
+            "start_date": "1896", 
+            "end_date": "1896"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1800756"
+    }, 
+    {
+        "digitised_pages": "107", 
+        "title": "Gluth, Wilhelm Gustav; Harbech, Hans; Bansch, Johann Friedrich August; Rosenbrock, Friedrich; Rapp, Martin; Beck, Johann Georg; Schroder, Heinrich; Meyer, George; Horn, Johann Nicolaus; Bogel, Carl Wilhelm; Wilkens, Wilhelm; Huesker, Heinrich Engelbert Joseph; Hoefelmeier, Friedrich Gerhard; Beck, Jacob Friedrich; Wilde, Friedrich; Wipken [Wielken], Herman; Medge, Wilhelm; Hahlbohm, Johannes; Gluth, Charles Henry; Ebeling, Claus; Juergens, August; Bevers, Jochim Hinrich; Bevers, Hermann; Wohlbeck, Johann Henry; Everhard, Ernst; Schroeder, Friedrich; Strobel, Heinrich; Fleischer, George; Pfutzner, Carl; Dittmer, Gottlieb; Meyer, Cord; Brakenwagen, John Henry; Kroeger, Theodor; Siegfried, Johann; - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1862/V941", 
+        "contents_dates": {
+            "date_str": "1862 - 1862", 
+            "start_date": "1862", 
+            "end_date": "1862"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1814068"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHRODER Hermann Wilhelm - born 14 September 1898 - German", 
+        "series": "A435", 
+        "control_symbol": "1945/4/1610", 
+        "contents_dates": {
+            "date_str": "1944 - 1946", 
+            "start_date": "1944", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6996107"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHRODER Wolfgang Hermann born 14 January 1937 - German", 
+        "series": "A2562", 
+        "control_symbol": "1970/9650", 
+        "contents_dates": {
+            "date_str": "1970 - 1970", 
+            "start_date": "1970", 
+            "end_date": "1970"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7652524"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRUGER Walter born 29 September 1920; Martha (nee Schroder) born 14 December 1919; Klaus Udo born 6 November 1946; Heinz Hermann born 30 March 1949; Hiltrud born 16 January 1948; Nannette born 6 August 1950; Brunhild born 26 October 1951; Sieglinde born 15 October 1953 - German - travelled per CASTEL FELICE in September 1958", 
+        "series": "A2478", 
+        "control_symbol": "KRUGER W", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7701291"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Schroder, Fritz Hermann - Nationality: German - Alien Registration Certificate No 9 issued at Southport", 
+        "series": "BP4/3", 
+        "identifier": "6304043", 
+        "control_symbol": "GERMAN SCHRODER F H", 
+        "contents_dates": {
+            "date_str": "1921 - 1921", 
+            "start_date": "1921", 
+            "end_date": "1921"
+        }, 
+        "location": "Brisbane"
+    }
+]

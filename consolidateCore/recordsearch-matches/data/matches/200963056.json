@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "WENZEL Richard - born 17 August 1914 - Austrian", 
+        "series": "A435", 
+        "identifier": "246766", 
+        "control_symbol": "1950/4/4798", 
+        "contents_dates": {
+            "date_str": "1914 - 1919", 
+            "start_date": "1914", 
+            "end_date": "1919"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "WENZEL Erich Kurt Richard - Nationality: German Arrived Adelaide per Anna Salen 28 March 1952", 
+        "series": "D4881", 
+        "identifier": "7186996", 
+        "control_symbol": "WENZEL ERICH KURT RICHARD", 
+        "contents_dates": {
+            "date_str": "1952 - 1961", 
+            "start_date": "1952", 
+            "end_date": "1961"
+        }, 
+        "location": "Adelaide"
+    }
+]

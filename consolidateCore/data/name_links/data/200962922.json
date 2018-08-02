@@ -1,0 +1,167 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "MULLER [MUELLER] Alfons Ludwig born 9 May 1913; Emma born 28 December 1918; Juliana born 15 March 1937", 
+        "series": "A12031", 
+        "control_symbol": "46-48", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4723661"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "TRUSCHEVICI Alfons-Ludwig born 17 September 1923", 
+        "series": "A12032", 
+        "control_symbol": "R63", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4752951"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GROTE Josef Ludwig Alfons born 8 June 1931 - German - travelled per CASTEL FELICE on 20 June 1959", 
+        "series": "A2478", 
+        "control_symbol": "GROTE J L A", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7706095"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BLOCHLINGER Ludwig Alfons born 22 September 1936; Lucia Johanna (nee Bartsch) born 31 August 1938 - Swiss", 
+        "series": "A446", 
+        "control_symbol": "1961/5005", 
+        "contents_dates": {
+            "date_str": "1961 - 1962", 
+            "start_date": "1961", 
+            "end_date": "1962"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7753973"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - GRUNSPANN Alfons; Nominee - LIEBERGALL Ludwig; LIEBERGALL Anna; LIEBERGALL Hans; nationality Austrian", 
+        "series": "A261", 
+        "control_symbol": "1939/809", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7918242"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Naturalisation - MULLER Alfons Ludwig born 9 May 1913", 
+        "series": "A446", 
+        "control_symbol": "1956/37659", 
+        "contents_dates": {
+            "date_str": "1956 - 1957", 
+            "start_date": "1956", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8359756"
+    }, 
+    {
+        "digitised_pages": "51", 
+        "title": "HENNEBERGER Alfons Ludwig Theodor [German migrant; naturalisation file] [Box 254]", 
+        "series": "SP1122/1", 
+        "control_symbol": "N57/36149", 
+        "contents_dates": {
+            "date_str": "1957 - 1979", 
+            "start_date": "1957", 
+            "end_date": "1979"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "10962805"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by Joseph Ludwig Alfons Hilbrenner, titled - Improved insulating substance and method of manufacturing same", 
+        "series": "A627", 
+        "control_symbol": "13308/1928", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4204479"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Lewis, Alfred (also known as Alfons Sixtus Albert William Ludwig) (Australian) [Box 315]", 
+        "series": "C123", 
+        "control_symbol": "10266", 
+        "contents_dates": {
+            "date_str": "1939 - 1944", 
+            "start_date": "1939", 
+            "end_date": "1944"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7846095"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Alfons Maria Josef Ludwig [German- alien registration form. Box 77]", 
+        "series": "SP43/3", 
+        "control_symbol": "LUDWIG ALFONS MARIA JOSEF", 
+        "contents_dates": {
+            "date_str": "1917 - 1917", 
+            "start_date": "1917", 
+            "end_date": "1917"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "12382773"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GROTE, Josef Ludwig Alfons born 8 June 1931 - nationality German", 
+        "series": "P1183", 
+        "control_symbol": "14/600 GROTE", 
+        "contents_dates": {
+            "date_str": "1959 - 1961", 
+            "start_date": "1959", 
+            "end_date": "1961"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "30162878"
+    }
+]

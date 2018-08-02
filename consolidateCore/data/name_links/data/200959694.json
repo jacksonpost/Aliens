@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "VOLLMER Josef born 9 October 1929", 
+        "series": "A12037", 
+        "identifier": "4739348", 
+        "control_symbol": "R4", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "VOLLMER Josef - Nationality: German Arrived Fremantle per Skaugum 25 September 1950", 
+        "series": "D4881", 
+        "identifier": "7182714", 
+        "control_symbol": "VOLLMER JOSEF", 
+        "contents_dates": {
+            "date_str": "1959 - 1961", 
+            "start_date": "1959", 
+            "end_date": "1961"
+        }, 
+        "location": "Adelaide"
+    }
+]

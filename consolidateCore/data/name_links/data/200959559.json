@@ -1,0 +1,77 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Rosenfeld, Otto - Naturalisation", 
+        "series": "A1", 
+        "identifier": "3331961", 
+        "control_symbol": "1922/2793", 
+        "contents_dates": {
+            "date_str": "1922 - 1922", 
+            "start_date": "1922", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Rosenfeld, Otto [district register W95/2/201]", 
+        "series": "A401", 
+        "control_symbol": "ROSENFELD", 
+        "contents_dates": {
+            "date_str": "1914 - 1918", 
+            "start_date": "1914", 
+            "end_date": "1918"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "736102"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Otto Rosenfeld [Interned] [Application for Naturalisation] [Applicant] Henry and Hermine Siegler and Max Spiegel [Nominees] [Box 78]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N21769", 
+        "contents_dates": {
+            "date_str": "1914 - 1939", 
+            "start_date": "1914", 
+            "end_date": "1939"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "848339"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ROSENFELD Otto: Nationality - Austrian", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/AUSTRIA/ROSENFELD OTTO", 
+        "contents_dates": {
+            "date_str": "1922 - 1922", 
+            "start_date": "1922", 
+            "end_date": "1922"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5955854"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Rosenfeld, Otto - Nationality: Austrian - Alien Registration Certificate No 987 issued 15 December  1916 at German Concentration Camp Liverpool, NSW", 
+        "series": "BP4/3", 
+        "control_symbol": "AUSTRIAN ROSENFELD O", 
+        "contents_dates": {
+            "date_str": "1916 - 1920", 
+            "start_date": "1916", 
+            "end_date": "1920"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6310311"
+    }
+]

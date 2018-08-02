@@ -1,0 +1,182 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "KUFFNER Jozef born 19 June 1911; Katarina born 7 July 1911; Rosi born 7 October 1938; Franz born 16 September 1939; Ivan born 17 June 1945; Josef born 3 April 1947; Jakob born 4 April 1949", 
+        "series": "A12022", 
+        "control_symbol": "233-239", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4440797"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KAIS Paul born 21 February 1903; Maria born 23 January 1910; Paul born 16 January 1937; Jakob born 30 December 1939; Weronika born 13 March 1932; Franz born 30 January 1934", 
+        "series": "A12021", 
+        "control_symbol": "875-880", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5325696"
+    }, 
+    {
+        "digitised_pages": "114", 
+        "title": "LEONHARDT Heinrich - Petition from Germans in Yugoslavia to Migrate to Australia and Application for Landing Permit [Gerhard Alfred, Erna Klara Elfriede, Erika Elfriede, Heide, Gerhard Kalus KIRCHNER, Katharina, Johann, Elizabeth, Frieda, Franz, Therezia LEONHARDT, Johann, Therezia, Jakob, Josephina, Helmut, Siegfried Karl, Walter SCHWIND], Heinrich, Maria, Heinrich, Johanna, Kaspar, Magdalena LASI, Maria, Johann, Elisabeth, Helene SCHRAMM, Balthasar, Katharina, Elisabeth, Maria, Erich GOMMEL", 
+        "series": "PP9/1", 
+        "control_symbol": "1951/63/3763", 
+        "contents_dates": {
+            "date_str": "1946 - 1954", 
+            "start_date": "1946", 
+            "end_date": "1954"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5326732"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Applicant - HARPENG Emil Franz; Nominee - HORCHEMER Margareta; KELLER Johann; KELLER Elizabeth; KELLER Josef; KELLER Johann; KELLER Jakob; KELLER Bernhard; KELLER Ernst; KELLER Clara; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1926/888", 
+        "contents_dates": {
+            "date_str": "1926 - 1926", 
+            "start_date": "1926", 
+            "end_date": "1926"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7525877"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "EMMELHAINZ Franz Jakob born 30 November 1916; Hedwig (nee Schwenk) born 13 February 1936; Ursula born 23 May 1942; Margarete born 2 September 1956; Roland born 18 February 1958; Gerhard born 28 March 1959 - German - travelled per CASTEL FELICE on 13 March 1960", 
+        "series": "A2478", 
+        "control_symbol": "EMMELHAINZ F J", 
+        "contents_dates": {
+            "date_str": "1959 - 1960", 
+            "start_date": "1959", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7706668"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "TERNAY Jakob born 30 April 1930; Jatgaruba (nee Brotschol) born 24 August 1931; Franz Jakob born 29 May 1954 - German -  travelled per CASTEL FELICE on 31 October 1955", 
+        "series": "A2478", 
+        "control_symbol": "TERNAY J", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7793902"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ZIPFINGER Franz DOB 1923, ZIPFINGER Annie DOB 1923, LIEBL Emanuel DOB 1913 and family and LEWKOWICZ Jakob DOB 1930 [Box 52]", 
+        "series": "SP244/3", 
+        "control_symbol": "N1950/3/6761", 
+        "contents_dates": {
+            "date_str": "1947 - 1950", 
+            "start_date": "1947", 
+            "end_date": "1950"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8816465"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Filian, Jullianna  Austrian born 1923 - arrived 2 March 1960 Melbourne Flight MIQAN - Husband; Franz and children Franz and Johann Jakob", 
+        "series": "BP308/1", 
+        "control_symbol": "FILIAN J", 
+        "contents_dates": {
+            "date_str": "1949 - 1963", 
+            "start_date": "1949", 
+            "end_date": "1963"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9093996"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "EMMELHAINZ Franz Jakob [file cover only, top numbered to W1982/28977]", 
+        "series": "PP239/1", 
+        "control_symbol": "W1960/8897", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "31118306"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PISKUNOVIC Jakob [nominated by Franz ALDER]", 
+        "series": "PP239/1", 
+        "control_symbol": "W1960/11665", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "31662988"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Non Dutch Aliens arriving Camp Columbia, Wacol, Qld with Dutch Civilian Internees - [including Grosz, Stephan and Hilda Gesina; Munster, Franz; Bauer, Antonin; Stockl, Vilen and Helena Louise; Sykora, Vaclav; Divin, Antonin; Sanda, Josef; Rajnhard, Garoslav; Kanitz, Bela; Plutzinsky, Elizabeth; Edgar, Golo; Judah, Meeda; Karagancheff, Leonard; Riedel, Karel; Nautner, Jakob and Hedwig", 
+        "series": "BP242/1", 
+        "control_symbol": "Q23349", 
+        "contents_dates": {
+            "date_str": "1945 - 1947", 
+            "start_date": "1945", 
+            "end_date": "1947"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1043188"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Franz Jakob Lengling [German - Arrived Melbourne per CASTEL FELICE 21 March 1961]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/LENGLING FRANZ JAKOB", 
+        "contents_dates": {
+            "date_str": "1961 - 1968", 
+            "start_date": "1961", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7535656"
+    }
+]

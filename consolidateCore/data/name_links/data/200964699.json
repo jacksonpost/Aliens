@@ -1,0 +1,17 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Kleeberg, Frank, Brunswick", 
+        "series": "MP16/1", 
+        "identifier": "321795", 
+        "control_symbol": "1917/2024", 
+        "contents_dates": {
+            "date_str": "1917 - 1919", 
+            "start_date": "1917", 
+            "end_date": "1919"
+        }, 
+        "location": "Melbourne"
+    }
+]

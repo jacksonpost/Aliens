@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "BOHR LEO ANDREW : Service Number - VX130962 : Date of birth - 19 Nov 1916 : Place of birth - ALBURY NSW : Place of enlistment - HOLDSWORTHY NSW : Next of Kin - BOHR ELIZABETH", 
+        "series": "B883", 
+        "identifier": "6078644", 
+        "control_symbol": "VX130962", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Mr J H Charlesworth [Applicant] Herman Muller [Mueller] [Nominee] [Applicant] Leo Bohr [Pieper and McCauley] [Interned] [Nominee] [Box 49]", 
+        "series": "ST1233/1", 
+        "identifier": "847894", 
+        "control_symbol": "N7345", 
+        "contents_dates": {
+            "date_str": "1914 - 1929", 
+            "start_date": "1914", 
+            "end_date": "1929"
+        }, 
+        "location": "Sydney"
+    }
+]

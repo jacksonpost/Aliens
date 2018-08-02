@@ -1,0 +1,242 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "HERRMANN Johannes Georg born 27 February 1910; Johanna (nee Wehfritz) born 15 October 1906; Hans Holger born 21 February 1938; Norbert born 30 April 1939 - German - travelled per ship SKAUBRYN departing in 1957", 
+        "series": "A2478", 
+        "control_symbol": "HERRMANN J G", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1413756"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HERRMANN Hans Holger born 21 February 1938; Johanna (nee Wehfritz) born 15 October 1906; Joahan Georg born 27 February 1910; Norbert born 30 April 1939 - German - travelled per ship SKAUBRYN departing in 1957", 
+        "series": "A2478", 
+        "control_symbol": "HERRMANN H H", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1413767"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BRINKIES Hans Georg born 4 September 1936; Almut (nee Herrmann) born 8 March 1940 - German - travelled per ship FAIRSEA departing in 1962 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "BRINKIES H G", 
+        "contents_dates": {
+            "date_str": "1962 - 1962", 
+            "start_date": "1962", 
+            "end_date": "1962"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1460117"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HERRMANN Hans born 22 November 1940 - Nationality German -  arrived per \"MIQAN 15/554\" Ex HAMBURG/GERMANY departed 11 January 1966 under  the General Assisted Passage Scheme.", 
+        "series": "A2559", 
+        "control_symbol": "1966/O/1106", 
+        "contents_dates": {
+            "date_str": "1966 - 1966", 
+            "start_date": "1966", 
+            "end_date": "1966"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5275469"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HERRMANN Hans G. born 11 April 1939; Renate born 17 June 1940; Andrea born 27 February 1961; Monika born 16 August 1962; Ursula born 11 July 1965 -  Nationality German -  arrived per \"Proflight 6087 (LH 690)\"  Ex FRANKFURT/MAIN/GERMANY departed 05 July 1966.", 
+        "series": "A2559", 
+        "control_symbol": "1966/22A/56-60", 
+        "contents_dates": {
+            "date_str": "1966 - 1966", 
+            "start_date": "1966", 
+            "end_date": "1966"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5838992"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RENZ Hans Herrmann Franz - born 17 January 1897 - German", 
+        "series": "A435", 
+        "control_symbol": "1946/4/5633", 
+        "contents_dates": {
+            "date_str": "1946 - 1948", 
+            "start_date": "1946", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7006333"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HORN Joseph born 16 August 1906; Cilly (nee Herrmann) born 11 August 1911; Werner born 18 July 1946; Hans Peter born 2 April 1940 - German - travelled per ANNA SALEN in December 1954", 
+        "series": "A2478", 
+        "control_symbol": "HORN J", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7674696"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HERRMANN Hans Deitrich Wilhelm born 22 September 1935 - German - travelled per CASTEL FELICE on 20 June 1959", 
+        "series": "A2478", 
+        "control_symbol": "HERRMANN H D W", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7703628"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "STAMER Hans Herrmann born 23 June 1933 -  German - travelled per SKAUBRYN on 10 April 1955", 
+        "series": "A2478", 
+        "control_symbol": "STAMER H H", 
+        "contents_dates": {
+            "date_str": "1954 - 1955", 
+            "start_date": "1954", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7791246"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - FISCHER Hans; Nominee - HERRMANN Nathan Norbert; HERRMANN Margarete; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1939/595", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7918228"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hans Harmon Herrmann [Application for Naturalisation] [Box 35]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N5870", 
+        "contents_dates": {
+            "date_str": "1914 - 1928", 
+            "start_date": "1914", 
+            "end_date": "1928"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "844518"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HERRMANN Hans Guenter - Nationality: German - Arrived Sydney per Aircraft LH 690 7 July 1966", 
+        "series": "D4881", 
+        "control_symbol": "HERRMANN HANS GUENTER", 
+        "contents_dates": {
+            "date_str": "1966 - 1976", 
+            "start_date": "1966", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5496179"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FLACH Hans Willi Herrmann - Nationality: German - Arrived Melbourne per Nelly 5 December 1952", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/FLACH HANS WILLI HERRMANN", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5922646"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Dietrich Wilhelm Hans Herrmann [German - Arrived Melbourne per CASTEL FELICE 27 July 1959]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/HERRMANN DIETRICH WILHELM HANS", 
+        "contents_dates": {
+            "date_str": "1959 - 1968", 
+            "start_date": "1959", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7532309"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Walter Hans Herrmann Borchers [German - arrived Darwin per aircraft TAA VH-AEQ, 27 March 1961] [Box 116]", 
+        "series": "SP1121/1", 
+        "control_symbol": "BORCHERS, WALTER HANS HERRMANN", 
+        "contents_dates": {
+            "date_str": "1961 - 1961", 
+            "start_date": "1961", 
+            "end_date": "1961"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9394736"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hans Peter Herrmann [Swiss - Arrived Sydney per NEPTUNIA 16 December 1956]", 
+        "series": "SP908/1", 
+        "control_symbol": "SWISS/HERRMANN HANS PETER", 
+        "contents_dates": {
+            "date_str": "1956 - 1968", 
+            "start_date": "1956", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9398264"
+    }
+]

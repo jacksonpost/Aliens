@@ -1,0 +1,152 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "KLOSE LESLIE PAUL : Service Number - VX145215 : Date of birth - 14 Dec 1916 : Place of birth - TEMORA NSW : Place of enlistment - NOONAMAH : Next of Kin - KLOSE VALDA", 
+        "series": "B883", 
+        "control_symbol": "VX145215", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6099201"
+    }, 
+    {
+        "digitised_pages": "29", 
+        "title": "KLOSE Oscar Herbert William : Service Number - S15090 : Place of Birth - Lyndoch SA : Place of Enlistment - Adelaide SA : Next of Kin - (Father) KLOSE Paul", 
+        "series": "B2455", 
+        "control_symbol": "KLOSE OSCAR HERBERT WILLIAM", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7372983"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLOSE Paul Gergard born 5 September 1927; (nee Koroz) Elisabeth born 6 July 1931 - German - travelled per ship SKAUBRYN departing in 1955", 
+        "series": "A2478", 
+        "control_symbol": "KLOSE P G", 
+        "contents_dates": {
+            "date_str": "1955 - 1956", 
+            "start_date": "1955", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1408317"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - KLOSE Paul Gotthold Friedrich; Nominee - DANIEL Helmutt; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1931/175", 
+        "contents_dates": {
+            "date_str": "1931 - 1931", 
+            "start_date": "1931", 
+            "end_date": "1931"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8192838"
+    }, 
+    {
+        "digitised_pages": "99", 
+        "title": "Klose, Paul Gotthold Friedrich", 
+        "series": "D1915", 
+        "control_symbol": "SA2793", 
+        "contents_dates": {
+            "date_str": "1916 - 1931", 
+            "start_date": "1916", 
+            "end_date": "1931"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "326989"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by  Paul Gotthold Friedrich Klose, titled -  Air conditioner", 
+        "series": "A627", 
+        "control_symbol": "20186/1934", 
+        "contents_dates": {
+            "date_str": "1934 - 1934", 
+            "start_date": "1934", 
+            "end_date": "1934"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4135889"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by Paul Gotthold Friedrich Klose, titled - Improved advertising device", 
+        "series": "A627", 
+        "control_symbol": "15292/1933", 
+        "contents_dates": {
+            "date_str": "1933 - 1933", 
+            "start_date": "1933", 
+            "end_date": "1933"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5155206"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLOSE Paul Gerhard - Nationality: German - Arrived Melbourne per Skaubryn 26 March 1956", 
+        "series": "B78", 
+        "control_symbol": "1958/KLOSE P", 
+        "contents_dates": {
+            "date_str": "1956 - 1958", 
+            "start_date": "1956", 
+            "end_date": "1958"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6035912"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Specifications for registration of patent by Johann Paul Martin Klose titled - An improved mould and plate for ploughs and other cultivating implements - Patent not registered", 
+        "series": "A13128", 
+        "control_symbol": "7273", 
+        "contents_dates": {
+            "date_str": "1901 - 1901", 
+            "start_date": "1901", 
+            "end_date": "1901"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7550204"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLOSE Paul Gerhard - Nationality: German - Arrived Melbourne per Skaubryn 26 March 1956", 
+        "series": "D4881", 
+        "control_symbol": "KLOSE PAUL GERHARD", 
+        "contents_dates": {
+            "date_str": "1956 - 1976", 
+            "start_date": "1956", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9203060"
+    }
+]

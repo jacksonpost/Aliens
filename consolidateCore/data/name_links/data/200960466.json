@@ -1,0 +1,107 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "ADLER Hans-Jakob born 2 January 1943 - Swiss", 
+        "series": "A2562", 
+        "control_symbol": "1968/3420", 
+        "contents_dates": {
+            "date_str": "1967 - 1967", 
+            "start_date": "1967", 
+            "end_date": "1967"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7719124"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - CHARMATZ Hans; Nominee - ADLER Amy; nationality Czechoslovakian", 
+        "series": "A261", 
+        "control_symbol": "1945/221", 
+        "contents_dates": {
+            "date_str": "1945 - 1945", 
+            "start_date": "1945", 
+            "end_date": "1945"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7881372"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ADLER Hans born 24 February 1901; nationality Czechoslovakian; ADLER Anny, age 30", 
+        "series": "A997", 
+        "control_symbol": "1939/2", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7921497"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Adler Hans", 
+        "series": "MP16/1", 
+        "control_symbol": "1914/3/460", 
+        "contents_dates": {
+            "date_str": "1914 - 1919", 
+            "start_date": "1914", 
+            "end_date": "1919"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "327521"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hans Jurgen Adler [German - Arrived Sydney per JOHAN VAN OLDENBARNEVELT 16 May 1961]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/ADLER HANS JURGEN", 
+        "contents_dates": {
+            "date_str": "1961 - 1968", 
+            "start_date": "1961", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7236252"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Adler, Hans; Date of birth - 30 March 1915; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "E39014", 
+        "contents_dates": {
+            "date_str": "1940 - 1941", 
+            "start_date": "1940", 
+            "end_date": "1941"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8616697"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Prisoner of War/Internee; Adler, Hans; Year of birth - 1915; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "E39014", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9905519"
+    }
+]

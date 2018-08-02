@@ -1,0 +1,57 @@
+<html ng-App="">
+	<head>
+		<title>a1 name matcher</title>
+	</head>
+
+	<style type="text/css">
+		.not-digitised{
+			color:grey;
+		}
+
+	</style>
+	<body ng-controller="matcherControl">
+		<script src="lib/angular.min.js"></script>
+		<script type="text/javascript">
+		 
+		 function matcherControl($scope, $http){
+
+		 	match_threshhold = 0.8;
+
+		 	$scope.names = [];
+		 	$scope.matchcount = 0;
+
+		 	$http.get("data/namesIndex.json").success(function(names){
+
+		 		names.forEach(function(n){ // try to load matches for each one
+		 			$http.get("data/matches/" + n.barcode + ".json").success(function(data){
+		 				n.matches = data;
+		 				$scope.matchcount ++;
+		 			});
+		 		});	
+		 		
+		 		$scope.names = names;
+		 		
+
+
+		 	});
+
+		 }
+
+		</script>
+
+<h3>{{names.length}} intern records | {{matchcount}} with possible matches</h3>
+
+		<ul>
+			<li ng-repeat="n in names">{{n.title}}
+				<ul ng-if="n.matches">
+					<li ng-repeat="m in n.matches" ng-class="{'not-digitised': !m.digitised_status}">
+						{{m.title}} | {{m.series}} | {{m.contents_dates.date_str}} | <a ng-if="m.digitised_status" ng-href="http://recordsearch.naa.gov.au/scripts/AutoSearch.asp?O=I&amp;Number={{m.identifier}}" target="_blank">view</a></li>
+				</ul>
+			 </li>
+		</ul>
+
+	</body>
+</html>
+
+
+

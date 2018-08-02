@@ -1,0 +1,167 @@
+[
+    {
+        "digitised_pages": "96", 
+        "title": "SPOONER Douglas Wilberforce - (Pilot Officer); Service Number - 404553; File type - Casualty - Repatriation; Aircraft - Wellington 1C R1617; Place - Vechta, Germany; Date - 3 July 1942", 
+        "series": "A705", 
+        "control_symbol": "163/163/288", 
+        "contents_dates": {
+            "date_str": "1929 - 1960", 
+            "start_date": "1929", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1059950"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DENLEY, Colin - (Flying Officer); Service Number - 424159; File type - Casualty - Repatriation; Aircraft - Halifax III NA 618; Place - Reisholz, Germany; Date - 20/21 February 1945", 
+        "series": "A705", 
+        "control_symbol": "166/9/533", 
+        "contents_dates": {
+            "date_str": "1929 - 1960", 
+            "start_date": "1929", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1066856"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Clearing Office Claim No. 2671 - J Mayer & Sohn, Offenbach against G & R Wills & Co Ltd, Adelaide", 
+        "series": "D596", 
+        "control_symbol": "1921/2435", 
+        "contents_dates": {
+            "date_str": "1921 - 1921", 
+            "start_date": "1921", 
+            "end_date": "1921"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "982101"
+    }, 
+    {
+        "digitised_pages": "13", 
+        "title": "Mayer, G - Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1924/20565", 
+        "contents_dates": {
+            "date_str": "1924 - 1924", 
+            "start_date": "1924", 
+            "end_date": "1924"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1618663"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Aircraft G-ALAN arrived Sydney 7 October 1950 - Passengers Baron Van Itterson, Eva Mayer, Louis and Maria Bokor, Erika Bokors, Seah Hong Kiang, Paul, Vera, Ivan and Martin Silink and Johan Heyting. For transhipment Gerald, Cynthia, Penelope, Jennifer  and William Seriven [Box 103]", 
+        "series": "SP244/2", 
+        "control_symbol": "N1950/2/11160", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6880415"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "POGOSE Lennie Macar born 12 December 1921; Joyce Constance (nee Mayer) born 24 June 1929; Nicholas G born 13 November 1950; Jennifer M born 17 January 1955; Milton M born 28 March 1963 - Armenian", 
+        "series": "A12557", 
+        "control_symbol": "POGOSE L M", 
+        "contents_dates": {
+            "date_str": "1968 - 1968", 
+            "start_date": "1968", 
+            "end_date": "1968"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7156837"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Levi, Joseph Mayer born 1910 - nationality Egyptian - arrived in Darwin on Flying Boat G-AGJN 25 March 1947", 
+        "series": "BP9/3", 
+        "control_symbol": "EGYPTIAN LEVI J M", 
+        "contents_dates": {
+            "date_str": "1947 - 1947", 
+            "start_date": "1947", 
+            "end_date": "1947"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3431168"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "'Science Prgrammes' - Prof. G Bosson, Russell Warner, Ivan Mayer, Prof. Harry Messel, Prof. George Crunow, Dr Alex Fraser, Prof. T Gold, Prof. S T Butler, Barry Thornton, Prof. J B Speakman, Dr Brian Short, Dr K J Whiteley [includes 4 photographic contact sheets] [Box 11]", 
+        "series": "SP1426/4", 
+        "control_symbol": "194", 
+        "contents_dates": {
+            "date_str": "1963 - 1963", 
+            "start_date": "1963", 
+            "end_date": "1963"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5401155"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MAYER Franciska - Nationality: Yugoslavian - Arrived Sydney per Aircraft G-ANNT 14 September 1956", 
+        "series": "B78", 
+        "control_symbol": "1957/MAYER F", 
+        "contents_dates": {
+            "date_str": "1956 - 1957", 
+            "start_date": "1956", 
+            "end_date": "1957"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6026253"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Thomas G Mayer - Conductor [Box 19]", 
+        "series": "SP173/1", 
+        "control_symbol": "MAYER, THOMAS G", 
+        "contents_dates": {
+            "date_str": "1946 - 1948", 
+            "start_date": "1946", 
+            "end_date": "1948"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8775224"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "QUIGLEY Brian versus Metro Goldwyn Mayer Proprietary Limited;  WILSON W T;  SOMMERVAILLE R D;  MILNE A G", 
+        "series": "A10075", 
+        "control_symbol": "1973/73", 
+        "contents_dates": {
+            "date_str": "1973 - 1973", 
+            "start_date": "1973", 
+            "end_date": "1973"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8853146"
+    }
+]

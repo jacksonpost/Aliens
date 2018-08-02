@@ -1,0 +1,767 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "[PETERSEN Gary Hans (Private) : Service Number - 56450 : Unit - 8th Royal Australian Regiment, Australian Military Forces : Date of Court Martial - 19 September 1972]", 
+        "series": "A471", 
+        "identifier": "9807557", 
+        "control_symbol": "93248", 
+        "contents_dates": {
+            "date_str": "1972 - 1972", 
+            "start_date": "1972", 
+            "end_date": "1972"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "PETERSEN THOMAS ANDREAS : Service Number - Q5328 : Date of birth - 05 Feb 1914 : Place of birth - GYMPIE QLD : Place of enlistment - GYMPIE QLD : Next of Kin - PETERSEN HANS", 
+        "series": "B884", 
+        "control_symbol": "Q5328", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4479615"
+    }, 
+    {
+        "digitised_pages": "12", 
+        "title": "PETERSEN ARCHIBALD HANS : Service Number - QX44666 : Date of birth - 17 Dec 1921 : Place of birth - GYMPIE QLD : Place of enlistment - GYMPIE QLD : Next of Kin - PETERSEN HANS", 
+        "series": "B883", 
+        "control_symbol": "QX44666", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4489414"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN REGINALD WILLIAM VICTOR : Service Number - Q36877 : Date of birth - 18 Aug 1917 : Place of birth - MT MORGAN QLD : Place of enlistment - MT MORGAN QLD : Next of Kin - PETERSEN HANS", 
+        "series": "B884", 
+        "control_symbol": "Q36877", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4916298"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN TERRY WILLIS : Service Number - NX95912 : Date of birth - 26 Sep 1917 : Place of birth - GORDON NSW : Place of enlistment - PADDINGTON NSW : Next of Kin - PETERSEN HANS", 
+        "series": "B883", 
+        "control_symbol": "NX95912", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5660318"
+    }, 
+    {
+        "digitised_pages": "20", 
+        "title": "PETERSEN Hans Christian Wilhelm : Service Number - 3683 : Place of Birth - Lunforland Denmark : Place of Enlistment - Adelaide SA : Next of Kin - (Mother) OSTENFELDT Marie", 
+        "series": "B2455", 
+        "control_symbol": "PETERSEN HANS CHRISTIAN WILHELM", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8015490"
+    }, 
+    {
+        "digitised_pages": "69", 
+        "title": "PETERSEN Hans Victor : Service Number - Lieutenant : Place of Birth - Freestone QLD : Place of Enlistment - Warwick QLD : Next of Kin - (Mother) PETERSEN Elline", 
+        "series": "B2455", 
+        "control_symbol": "PETERSEN HANS VICTOR", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8015492"
+    }, 
+    {
+        "digitised_pages": "22", 
+        "title": "PETERSEN Jens Albert : Service Number - 6828 : Place of Birth - Warwick QLD : Place of Enlistment - Brisbane QLD : Next of Kin - (Father) WILLADSEN Hans", 
+        "series": "B2455", 
+        "control_symbol": "PETERSEN JENS ALBERT", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8015508"
+    }, 
+    {
+        "digitised_pages": "48", 
+        "title": "PETERSEN Albert Broader : Service Number - 373 : Place of Birth - Warwick QLD : Place of Enlistment - Allora QLD : Next of Kin - (Father) PETERSEN Hans", 
+        "series": "B2455", 
+        "control_symbol": "PETERSEN ALBERT BROADER", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8016252"
+    }, 
+    {
+        "digitised_pages": "30", 
+        "title": "PETERSEN Allan James : Service Number - 908 : Place of Birth - Collinsvale TAS : Place of Enlistment - Claremont TAS : Next of Kin - (Father) PETERSEN Hans J", 
+        "series": "B2455", 
+        "control_symbol": "PETERSEN ALLAN JAMES", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8016259"
+    }, 
+    {
+        "digitised_pages": "71", 
+        "title": "PETERSEN Arthur Oswald : Service Number - 3306 : Place of Birth - Lang Lang VIC : Place of Enlistment - Menangle Park NSW : Next of Kin - (Father) PETERSEN Hans", 
+        "series": "B2455", 
+        "control_symbol": "PETERSEN ARTHUR OSWALD", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8016266"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "Hans Peter PETERSEN - Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1907/413", 
+        "contents_dates": {
+            "date_str": "1907 - 1907", 
+            "start_date": "1907", 
+            "end_date": "1907"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7756"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Hans Christian PETERSEN - Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1907/8821", 
+        "contents_dates": {
+            "date_str": "1907 - 1907", 
+            "start_date": "1907", 
+            "end_date": "1907"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8555"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "Hans Petersen Naturalization Certificate", 
+        "series": "A1", 
+        "control_symbol": "1912/10969", 
+        "contents_dates": {
+            "date_str": "1912 - 1912", 
+            "start_date": "1912", 
+            "end_date": "1912"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "13443"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Hans Petersen Holm, Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1914/7343", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "28797"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Hans Peter Petersen Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1914/20540", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "31680"
+    }, 
+    {
+        "digitised_pages": "11", 
+        "title": "Hans Christian Wilhelm Petersen - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1916/23220", 
+        "contents_dates": {
+            "date_str": "1912 - 1916", 
+            "start_date": "1912", 
+            "end_date": "1916"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "34962"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Hans Christian born 27 March 1931 - Danish - travelled per CIRRUS departing Gothenburg/Sweden on 29 August 1962 under General Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "PETERSEN H C", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1212546"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Peter Hans born 3 September 1939 - Danish - travelled per ship TAHITIEN departing Marseilles/France on 8 February 1963 under General Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "PETERSEN P H", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1224703"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Erik born 2 June 1915; Bodil born 21 July 1911; Nanna born 8 January 1943; Peter born 1 March 1940; Hans born 2 February 1944 - Danish - travelled per ship SKAUBRYN departing in 1957", 
+        "series": "A2478", 
+        "control_symbol": "PETERSEN E P S", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1407591"
+    }, 
+    {
+        "digitised_pages": "11", 
+        "title": "Hans Christian Nicoloy PETERSEN - Naturalisation certificate", 
+        "series": "A1", 
+        "control_symbol": "1927/6903", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1507336"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Petersen, Hans Jensen - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1875/G6404", 
+        "contents_dates": {
+            "date_str": "1875 - 1875", 
+            "start_date": "1875", 
+            "end_date": "1875"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1589380"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Petersen, Hans Christian - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1880/S4065", 
+        "contents_dates": {
+            "date_str": "1880 - 1880", 
+            "start_date": "1880", 
+            "end_date": "1880"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1599952"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Appel, Hans Petersen - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1897/F1467", 
+        "contents_dates": {
+            "date_str": "1897 - 1897", 
+            "start_date": "1897", 
+            "end_date": "1897"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1807517"
+    }, 
+    {
+        "digitised_pages": "10", 
+        "title": "Hoeck, Laurens Petersen; Johansen, Asmus Christian; Jensen, Hans Peter - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1861/R499", 
+        "contents_dates": {
+            "date_str": "1861 - 1861", 
+            "start_date": "1861", 
+            "end_date": "1861"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1813939"
+    }, 
+    {
+        "digitised_pages": "37", 
+        "title": "Unmack, Carl Louis; Petersen, Christen Nessen; Bracier, Hans Hinrich; Rathjen, Carl - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1863/D9348", 
+        "contents_dates": {
+            "date_str": "1863 - 1863", 
+            "start_date": "1863", 
+            "end_date": "1863"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1815292"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Petersen, Peter Hans - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "1619", 
+        "contents_dates": {
+            "date_str": "1883 - 1883", 
+            "start_date": "1883", 
+            "end_date": "1883"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3181403"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Hans-Peter born 31 July 1938 -  Nationality German  -  arrived per ship M/S \"ANGELINA LAURO\" Ex BREMERHAVEN/GERMANY departed 18 February 1967.", 
+        "series": "A2559", 
+        "control_symbol": "1967/BF/3139", 
+        "contents_dates": {
+            "date_str": "1967 - 1967", 
+            "start_date": "1967", 
+            "end_date": "1967"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5838679"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Emil Hans Christian - born 22 March 1893 - Danish", 
+        "series": "A435", 
+        "control_symbol": "1949/4/4133", 
+        "contents_dates": {
+            "date_str": "1949 - 1950", 
+            "start_date": "1949", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6998982"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Hans Edward - born 9 January 1883 - Norwegian", 
+        "series": "A435", 
+        "control_symbol": "1948/4/1920", 
+        "contents_dates": {
+            "date_str": "1948 - 1949", 
+            "start_date": "1948", 
+            "end_date": "1949"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7021615"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Peter Hans born 3 September 1939; Karen Nonine (nee Ankersen) born 27 April 1946 - Danish - travelled per CAMBODGE on 5 August 1969", 
+        "series": "A2562", 
+        "control_symbol": "1969/6830", 
+        "contents_dates": {
+            "date_str": "1969 - 1969", 
+            "start_date": "1969", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7616194"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Petersen, Hans [district register W3/29/162]", 
+        "series": "A401", 
+        "control_symbol": "PETERSEN H", 
+        "contents_dates": {
+            "date_str": "1914 - 1918", 
+            "start_date": "1914", 
+            "end_date": "1918"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "735955"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Petersen Hans", 
+        "series": "PP14/2", 
+        "control_symbol": "PF/410", 
+        "contents_dates": {
+            "date_str": "circa1914 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "752704"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hans Christian Nicolay Petersen [Application for Naturalisation] [Box 31]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N5520", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "844078"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Petersen, Hans - Lauensby Nordburg (Alsen), Nord Schleswig [?Denmark] - formerly of Broken Hill, NSW - enquiry as to nationality", 
+        "series": "D1915", 
+        "control_symbol": "SA514", 
+        "contents_dates": {
+            "date_str": "1921 - 1921", 
+            "start_date": "1921", 
+            "end_date": "1921"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "877018"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "PETERSEN Emil Hans Christian [Danish]", 
+        "series": "P1184", 
+        "control_symbol": "PETERSEN EHC", 
+        "contents_dates": {
+            "date_str": "1939 - 1949", 
+            "start_date": "1939", 
+            "end_date": "1949"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1821607"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "In the matter of PETERSEN Hans and the Trading with the Enemy Act 1914-1916", 
+        "series": "A10117", 
+        "control_symbol": "1920/20", 
+        "contents_dates": {
+            "date_str": "1920 - 1920", 
+            "start_date": "1920", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3139994"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "PETERSEN Hans Laurits - Nationality: Danish - Arrived Fremantle per Osterley 24 December 1928", 
+        "series": "K1331", 
+        "control_symbol": "1955/PETERSEN H L", 
+        "contents_dates": {
+            "date_str": "1939 - 1955", 
+            "start_date": "1939", 
+            "end_date": "1955"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3192295"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Hans Lauritz - Nationality: Danish - Arrived Fremantle per Osterley 24 December 1928", 
+        "series": "PP246/4", 
+        "control_symbol": "DANISH/PETERSEN H L", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3305434"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Hans Henrik - Nationality: Danish - Arrived Fremantle per Canberra 14 December 1964", 
+        "series": "K1331", 
+        "control_symbol": "1964/1965/PETERSEN H H", 
+        "contents_dates": {
+            "date_str": "1964 - 1965", 
+            "start_date": "1964", 
+            "end_date": "1965"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3370626"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Hans  - Nationality : Danish - [Application Form for Registration as Alien]", 
+        "series": "PP14/3", 
+        "control_symbol": "DANISH/PETERSEN H", 
+        "contents_dates": {
+            "date_str": "circa1916 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5126138"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Hans Kristian Knud  - Nationality : Danish - [Application Form for Registration as Alien]", 
+        "series": "PP14/3", 
+        "control_symbol": "DANISH/PETERSEN H K K", 
+        "contents_dates": {
+            "date_str": "circa1916 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5126139"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "PETERSEN Hans Theodore Paul Frederick - Nationality : German - [Application Form for Registration as Alien]", 
+        "series": "PP14/3", 
+        "control_symbol": "GERMAN/PETERSEN H T P F", 
+        "contents_dates": {
+            "date_str": "1916 - 1918", 
+            "start_date": "1916", 
+            "end_date": "1918"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5126507"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Hans Christian: Nationality - Danish: Date of Birth - 10 August 1887: Arrived per SS NATAL: First Registered at Melbourne", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/DENMARK/PETERSEN HANS C", 
+        "contents_dates": {
+            "date_str": "1918 - 1918", 
+            "start_date": "1918", 
+            "end_date": "1918"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5969726"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Hans Peter: Nationality - Danish: Date of Birth - 27 August 1882: Arrived per LIBERTY: First Registered at Melbourne", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/DENMARK/PETERSEN HANS P", 
+        "contents_dates": {
+            "date_str": "1920 - 1920", 
+            "start_date": "1920", 
+            "end_date": "1920"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5969727"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Hans Peter: Nationality - Danish: Date of Birth - 8 November 1878: Date of Arrival - 2 December 1911: First Registered at Eildon Weir", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/DENMARK/PETERSEN HANS PETER", 
+        "contents_dates": {
+            "date_str": "1917 - 1918", 
+            "start_date": "1917", 
+            "end_date": "1918"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5969728"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Petersen, Hans Christian - Nationality: Danish - Alien Registration Certificate No 2538 issued 11 June 1920 at Brisbane", 
+        "series": "BP4/3", 
+        "control_symbol": "DANISH PETERSEN H C", 
+        "contents_dates": {
+            "date_str": "1920 - 1920", 
+            "start_date": "1920", 
+            "end_date": "1920"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6314880"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Hans - Nationality: German - Arrived Melbourne per Aurelia 21 July 1959 Departed Commonwealth on 20 November 1964", 
+        "series": "D4881", 
+        "control_symbol": "PETERSEN HANS", 
+        "contents_dates": {
+            "date_str": "1959 - 1976", 
+            "start_date": "1959", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7076217"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Petersen, Hans Peter (Danish [born] - naturalised British subject) [Box 442]", 
+        "series": "C123", 
+        "control_symbol": "14444", 
+        "contents_dates": {
+            "date_str": "1941 - 1941", 
+            "start_date": "1941", 
+            "end_date": "1941"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8813363"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN Hans Evald - Nationality: Danish - Arrived Melbourne per Castel Felice 24 January 1957 Departed Commonwealth on 10 January 1962", 
+        "series": "D4881", 
+        "control_symbol": "PETERSEN HANS EVALD", 
+        "contents_dates": {
+            "date_str": "1957 - 1976", 
+            "start_date": "1957", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9221237"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "PETERSEN Hans - Nationality: German - Arrived Melbourne per Aurelia 21 July 1959", 
+        "series": "D4878", 
+        "control_symbol": "GERMAN - PETERSEN H", 
+        "contents_dates": {
+            "date_str": "1959 - 1965", 
+            "start_date": "1959", 
+            "end_date": "1965"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "30187931"
+    }
+]

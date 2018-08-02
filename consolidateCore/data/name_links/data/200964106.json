@@ -1,0 +1,1202 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "[Inventor/Submitter -]  J A McLean - Use of Von papen's sabotage bomb", 
+        "series": "MP76/1", 
+        "control_symbol": "15760", 
+        "contents_dates": {
+            "date_str": "1944 - 1944", 
+            "start_date": "1944", 
+            "end_date": "1944"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4798977"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[Inventor/Submitter -] F C Von-Nida - Counter to flying bombs", 
+        "series": "MP76/1", 
+        "control_symbol": "17695", 
+        "contents_dates": {
+            "date_str": "1944 - 1944", 
+            "start_date": "1944", 
+            "end_date": "1944"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4783848"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "VON BORSTEL Klaus Heinrich - CAV [Civil Alien Victoria] number 5205 [4205] - Year of birth 1912 [this file is filed under the surname Borstel not Von Borstel]", 
+        "series": "MT8/4", 
+        "control_symbol": "VON BORSTEL KLAUS HEINRICH", 
+        "contents_dates": {
+            "date_str": "1944 - 1944", 
+            "start_date": "1944", 
+            "end_date": "1944"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5902496"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLEMPERER [VON KLEMPERER] Peter - CAS [Civil Alien South Australia] number 13723 - Year of birth 1910", 
+        "series": "MT8/4", 
+        "control_symbol": "KLEMPERER PETER", 
+        "contents_dates": {
+            "date_str": "1943 - 1944", 
+            "start_date": "1943", 
+            "end_date": "1944"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5902984"
+    }, 
+    {
+        "digitised_pages": "27", 
+        "title": "Von Bibra, Charles, Private - Regimental Number 6361, 12th Battalion [Application for War Gratuity]", 
+        "series": "P1868", 
+        "control_symbol": "VON BIBRA C T13928", 
+        "contents_dates": {
+            "date_str": "1917 - 1921", 
+            "start_date": "1917", 
+            "end_date": "1921"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "30163731"
+    }, 
+    {
+        "digitised_pages": "32", 
+        "title": "Von Bibra, Elbert Louis, Sergeant - Regimental Number 2303, 47th Battalion [Application for War Gratuity]", 
+        "series": "P1868", 
+        "control_symbol": "VON BIBRA EL T13929", 
+        "contents_dates": {
+            "date_str": "1915 - 1920", 
+            "start_date": "1915", 
+            "end_date": "1920"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "30163732"
+    }, 
+    {
+        "digitised_pages": "27", 
+        "title": "Von Schill, William Alfred, Private - Regimental Number 7909, 10th Field Ambulance [Application for War Gratuity]", 
+        "series": "P1868", 
+        "control_symbol": "VON SCHILL WA T8510", 
+        "contents_dates": {
+            "date_str": "1918 - 1920", 
+            "start_date": "1918", 
+            "end_date": "1920"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "30163734"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Von Stieglitz, Frederick Lewis, Captain, Connaught Rangers [Application for War Gratuity]", 
+        "series": "P1868", 
+        "control_symbol": "VON STIEGLITZ FL T15302", 
+        "contents_dates": {
+            "date_str": "1920 - 1920", 
+            "start_date": "1920", 
+            "end_date": "1920"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "30163735"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Von Stieglitz, Karl Rawdon, Private - Regimental Number T6099, Australian Army Medical Corps [Application for War Gratuity]", 
+        "series": "P1868", 
+        "control_symbol": "VON STIEGLITZ KR T15303", 
+        "contents_dates": {
+            "date_str": "1920 - 1920", 
+            "start_date": "1920", 
+            "end_date": "1920"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "30163736"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Von Stieglitz, TB, Private - Regimental Number 1025, 2nd Infantry Brigade [Allotment file]", 
+        "series": "P1868", 
+        "control_symbol": "VON STIEGLITZ TB T13930", 
+        "contents_dates": {
+            "date_str": "1914 - 1924", 
+            "start_date": "1914", 
+            "end_date": "1924"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "30163737"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Von Stieglitz, Kevin Charles - TX16383 [WWII Army Pay File]", 
+        "series": "P804", 
+        "control_symbol": "TX16383", 
+        "contents_dates": {
+            "date_str": "1939 - 1947", 
+            "start_date": "1939", 
+            "end_date": "1947"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "31617617"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Von Bibra, Alfred Jack - TX12044  [WWII Army Pay File]", 
+        "series": "P804", 
+        "control_symbol": "TX12044", 
+        "contents_dates": {
+            "date_str": "1939 - 1947", 
+            "start_date": "1939", 
+            "end_date": "1947"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "31621448"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Von Bibra, Ronald Stephen - TX11536 [WWII Army Pay File]", 
+        "series": "P804", 
+        "control_symbol": "TX11536", 
+        "contents_dates": {
+            "date_str": "1939 - 1947", 
+            "start_date": "1939", 
+            "end_date": "1947"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "31630678"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Von Schill, Arthur William Carl - TX10344 [WWII Army Pay File]", 
+        "series": "P804", 
+        "control_symbol": "TX10344", 
+        "contents_dates": {
+            "date_str": "1942 - 1945", 
+            "start_date": "1942", 
+            "end_date": "1945"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "60159972"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "VON ALWYN Stacey Cuthbert - (Flying Officer); Service Number - 2369; File type - Casualty - Repatriation; Place - Hamilton Base Hospital; Date - 9 January 1945", 
+        "series": "A705", 
+        "control_symbol": "163/62/14", 
+        "contents_dates": {
+            "date_str": "1929 - 1960", 
+            "start_date": "1929", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1055610"
+    }, 
+    {
+        "digitised_pages": "26", 
+        "title": "VON DER GROEBEN Richard Arthur - (Sergeant); Service Number - 404793; File type - Casualty - Repatriation; Aircraft - Oxford Mark IV 3874; Place - United Kingdom; Date - 13 July 1942", 
+        "series": "A705", 
+        "control_symbol": "163/175/94", 
+        "contents_dates": {
+            "date_str": "1942 - 1942", 
+            "start_date": "1942", 
+            "end_date": "1942"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1060679"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Von See, Edith Burrows [Citizens Military Forces pay file]", 
+        "series": "P806", 
+        "control_symbol": "TF663", 
+        "contents_dates": {
+            "date_str": "by1940 - by1949", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "3389986"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Von-Stieglitz, Kevin Charles [Citizen Military Force Pay File]", 
+        "series": "P806", 
+        "control_symbol": "T103012", 
+        "contents_dates": {
+            "date_str": "by1940 - 1949", 
+            "start_date": null, 
+            "end_date": "1949"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "3420123"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Von Stieglitz, Aileen Joan [Citizen Military Force Pay File]", 
+        "series": "P806", 
+        "control_symbol": "TF150436", 
+        "contents_dates": {
+            "date_str": "by1940 - 1949", 
+            "start_date": null, 
+            "end_date": "1949"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "3421411"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Von Bibra, Eric Ernest [Citizen Military Force Pay File]", 
+        "series": "P806", 
+        "control_symbol": "T253505", 
+        "contents_dates": {
+            "date_str": "by1940 - 1949", 
+            "start_date": null, 
+            "end_date": "1949"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "3422716"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON STIEGLITZ PETER JOHN VERNON : Service Number - H2805 : Date of birth - 20 Jul 1927 : Place of birth - LAUNCESTON TAS : Place of enlistment - Unknown : Next of Kin - VON STIEGLITZ FREDERICK", 
+        "series": "A6770", 
+        "control_symbol": "VON STIEGLITZ P J V", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521232"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON STIEGLITZ DENNIS HARRY ALFRED : Service Number - H2777 : Date of birth - 25 Sep 1926 : Place of birth - LAUNCESTON : Place of enlistment - Unknown : Next of Kin - JOSEPHINE", 
+        "series": "A6770", 
+        "control_symbol": "VON STIEGLITZ D H A", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521233"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON STEIN JOHN EDUARD : Service Number - R59961 : Date of birth - 09 Sep 1946 : Place of birth - DJAKARTA INDONESIA : Place of enlistment - BRISBANE : Next of Kin - JOHN", 
+        "series": "A6770", 
+        "control_symbol": "VON STEIN J E", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521234"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON SNARSKI FELIX : Service Number - 1769 : Date of birth - 07 Mar 1897 : Place of birth - ISISFORD QLD : Place of enlistment - Unknown : Next of Kin - SPENCE R", 
+        "series": "A6770", 
+        "control_symbol": "VON SNARSKI F", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521235"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON SCHILL OSWALD KEVIN : Service Number - S/10629 : Date of birth - 01 Dec 1927 : Place of birth - DUBBO NSW : Place of enlistment - SYDNEY : Next of Kin - VON SCHILL CARL", 
+        "series": "A6770", 
+        "control_symbol": "VON SCHILL O K", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521236"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON PALESKE KENNETH GEORGE : Service Number - F4844 : Date of birth - 31 Jul 1924 : Place of birth - EAST PERTH : Place of enlistment - FREMANTLE : Next of Kin - RALPH", 
+        "series": "A6770", 
+        "control_symbol": "VON PALESKE K G", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521237"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON NIDA DUDLEY ESSINGTON : Service Number - B/2696 : Date of birth - 28 Jan 1913 : Place of birth - BURWARD NSW : Place of enlistment - BRISBANE : Next of Kin - LESLEY", 
+        "series": "A6770", 
+        "control_symbol": "VON NIDA D E", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521238"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON HOLT LOUIS VINCENT JOSEPH : Service Number - R/47327 : Date of birth - 29 Oct 1933 : Place of birth - MACKAY QLD : Place of enlistment - BRISBANE : Next of Kin - JOHN", 
+        "series": "A6770", 
+        "control_symbol": "VON HOLT L V J", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521239"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON EINEM KENNETH ALEX : Service Number - PA4511 : Date of birth - 31 Dec 1925 : Place of birth - ST PETERS SA : Place of enlistment - PORT ADELAIDE : Next of Kin - VON EINEM VICTOR", 
+        "series": "A6770", 
+        "control_symbol": "VON EINEM K A", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521241"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON DUVE FREDERICK STEPHEN : Service Number - R96302 : Date of birth - 04 Jun 1951 : Place of birth - MOUNT GAMBIER SA : Place of enlistment - ADELAIDE : Next of Kin - FREDERICK", 
+        "series": "A6770", 
+        "control_symbol": "VON DUVE F S", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521242"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON DER BORCH KURT SIEGFRIED CHARLES : Service Number - 3207 : Date of birth - 21 Feb 1892 : Place of birth - CHAIN OF PONDS SA : Place of enlistment - Unknown : Next of Kin - SARAH", 
+        "series": "A6770", 
+        "control_symbol": "VON DER BORCH K S C", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521244"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON BORSTEL BERNHARD PAUL : Service Number - R66283 : Date of birth - 14 Aug 1949 : Place of birth - HAMBURG GERMANY : Place of enlistment - SYDNEY : Next of Kin - GUNTER", 
+        "series": "A6770", 
+        "control_symbol": "VON BORSTEL B P", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521245"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON BLANCKENSEE WALTER JOHN : Service Number - 24547 : Date of birth - 01 Aug 1922 : Place of birth - GYMPIE QLD : Place of enlistment - SYDNEY : Next of Kin - JOAN", 
+        "series": "A6770", 
+        "control_symbol": "VON BLANCKENSEE W J", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521246"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON BERTOUCH COLIN ERNEST : Service Number - PA3310 : Date of birth - 18 Nov 1924 : Place of birth - PETERBOROUGH SA : Place of enlistment - PORT ADELAIDE : Next of Kin - ERNEST", 
+        "series": "A6770", 
+        "control_symbol": "VON BERTOUCH C E", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521247"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "VON SENDEN MARTIN : Service Number - Q129347 : Date of birth - 14 Jan 1923 : Place of birth - GLASSHOUSE MOUNTAIN QLD : Place of enlistment - ANNERLEY QLD : Next of Kin - VON SENDEN", 
+        "series": "B884", 
+        "control_symbol": "Q129347", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4470043"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "VON BARM ANDREW EDWARD : Service Number - 3136 : Date of birth - 04 Oct 1894 : Place of birth - ROZELLE NSW : Place of enlistment - Unknown : Next of Kin - VON BARM ANDREW", 
+        "series": "A6770", 
+        "control_symbol": "VON BARM A E", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4521248"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "VON EINEM LESLIE PERCY : Service Number - 116322 : Date of birth - 12 Aug 1923 : Place of birth - MOUNT GAMBIER SA : Place of enlistment - ADELAIDE : Next of Kin - VON EINEM FREDERICK", 
+        "series": "A9301", 
+        "control_symbol": "116322", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4824993"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "VON DER BORCH RUDOLPH SIEGFRIED ALHARD : Service Number - 140272 : Date of birth - 03 May 1925 : Place of birth - ADELAIDE SA : Place of enlistment - ADELAIDE SA : Next of Kin - VON DER BORCH MARGARET", 
+        "series": "A9301", 
+        "control_symbol": "140272", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5339550"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "VON STIEGLITZ WILLIAM ROBERT : Service Number - 438063 : Date of birth - 22 Jan 1926 : Place of birth - LAUNCESTON TAS : Place of enlistment - HOBART : Next of Kin - VON STIEGLITZ HUGO", 
+        "series": "A9301", 
+        "control_symbol": "438063", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5551512"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "VON NIDA NORMAN GUY : Service Number - NX90847 : Date of birth - 14 Feb 1915 : Place of birth - SYDNEY : Place of enlistment - PADDINGTON NSW : Next of Kin - VON NIDA NORMA", 
+        "series": "B883", 
+        "control_symbol": "NX90847", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5660603"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Carl Johann Ehregott von Stanke Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1904/1311", 
+        "contents_dates": {
+            "date_str": "1904 - 1904", 
+            "start_date": "1904", 
+            "end_date": "1904"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "598"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "(J.J.A. von WALTERSDORFF Application for Certificate of Naturalization)", 
+        "series": "A1", 
+        "control_symbol": "1904/3578", 
+        "contents_dates": {
+            "date_str": "1904 - 1904", 
+            "start_date": "1904", 
+            "end_date": "1904"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "952"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "(M.K.D. von WALTERSDORFF Application for Certificate of Naturalization)", 
+        "series": "A1", 
+        "control_symbol": "1904/3579", 
+        "contents_dates": {
+            "date_str": "1904 - 1904", 
+            "start_date": "1904", 
+            "end_date": "1904"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "953"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "(Johann Heinrich Wilhelm von Krogh - Naturalization)", 
+        "series": "A1", 
+        "control_symbol": "1904/5183", 
+        "contents_dates": {
+            "date_str": "1904 - 1904", 
+            "start_date": "1904", 
+            "end_date": "1904"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1257"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Gustav von TANDRESSE - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1905/3957", 
+        "contents_dates": {
+            "date_str": "1905 - 1905", 
+            "start_date": "1905", 
+            "end_date": "1905"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3073"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "Baron Rudolf Friedrich Louis von HANSTEIN - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1905/7234", 
+        "contents_dates": {
+            "date_str": "1905 - 1906", 
+            "start_date": "1905", 
+            "end_date": "1906"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3527"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Susana Von Ow - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1909/10856", 
+        "contents_dates": {
+            "date_str": "1909 - 1909", 
+            "start_date": "1909", 
+            "end_date": "1909"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5113"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Valentine Albert Von ALLIMAN - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1906/2321", 
+        "contents_dates": {
+            "date_str": "1906 - 1906", 
+            "start_date": "1906", 
+            "end_date": "1906"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6858"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Carl Christian von SCHEELE - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1906/4592", 
+        "contents_dates": {
+            "date_str": "1906 - 1906", 
+            "start_date": "1906", 
+            "end_date": "1906"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7131"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Edward William Hugo Martin VON BOTTICHER - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1907/4547", 
+        "contents_dates": {
+            "date_str": "1907 - 1907", 
+            "start_date": "1907", 
+            "end_date": "1907"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8155"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Wilhelm Otto Friedrick von der BAIL - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1908/3177", 
+        "contents_dates": {
+            "date_str": "1908 - 1908", 
+            "start_date": "1908", 
+            "end_date": "1908"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9162"
+    }, 
+    {
+        "digitised_pages": "8", 
+        "title": "Segelke von BREMEN - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1908/3271", 
+        "contents_dates": {
+            "date_str": "1908 - 1908", 
+            "start_date": "1908", 
+            "end_date": "1908"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9166"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Paul von ALTEN - Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1908/4411", 
+        "contents_dates": {
+            "date_str": "1908 - 1908", 
+            "start_date": "1908", 
+            "end_date": "1908"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9246"
+    }, 
+    {
+        "digitised_pages": "17", 
+        "title": "Albert von HERRMANN - Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1908/7961", 
+        "contents_dates": {
+            "date_str": "1907 - 1908", 
+            "start_date": "1907", 
+            "end_date": "1908"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9558"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Louis Antonio Martin Von Wirndt. Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1909/7019", 
+        "contents_dates": {
+            "date_str": "1909 - 1909", 
+            "start_date": "1909", 
+            "end_date": "1909"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4294"
+    }, 
+    {
+        "digitised_pages": "8", 
+        "title": "W.G.C. Von Brussler. Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1911/1001", 
+        "contents_dates": {
+            "date_str": "1910 - 1911", 
+            "start_date": "1910", 
+            "end_date": "1911"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6350"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "Johan hjalmar Berg Von Lindhe - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1911/5691", 
+        "contents_dates": {
+            "date_str": "1911 - 1911", 
+            "start_date": "1911", 
+            "end_date": "1911"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "10545"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Clemens Siegfried Haino Alfred Von Sanden - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1911/7431", 
+        "contents_dates": {
+            "date_str": "1911 - 1911", 
+            "start_date": "1911", 
+            "end_date": "1911"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "10756"
+    }, 
+    {
+        "digitised_pages": "15", 
+        "title": "Woldemar F. von Kroeber Naturalization Certificate", 
+        "series": "A1", 
+        "control_symbol": "1911/14658", 
+        "contents_dates": {
+            "date_str": "1911 - 1912", 
+            "start_date": "1911", 
+            "end_date": "1912"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "11552"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Naturalization - VON EITZEN, Anna, Maria, Thresa.", 
+        "series": "A1", 
+        "control_symbol": "1911/16472", 
+        "contents_dates": {
+            "date_str": "1911 - 1911", 
+            "start_date": "1911", 
+            "end_date": "1911"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "11801"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Julian Von Karolyi (Klavier), Pianist", 
+        "series": "ST1607/2", 
+        "control_symbol": "KAROLYI VON JULIAN", 
+        "contents_dates": {
+            "date_str": "1950 - 1961", 
+            "start_date": "1950", 
+            "end_date": "1961"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7938894"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Herbert Von Karajan, conductor [box 7]", 
+        "series": "ST2238/1", 
+        "control_symbol": "KARAJAN, HERBERT VON", 
+        "contents_dates": {
+            "date_str": "1948 - 1960", 
+            "start_date": "1948", 
+            "end_date": "1960"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7925148"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Herr Von Brentano - Record of conversation with E A on Middle East", 
+        "series": "A463", 
+        "control_symbol": "1957/1569", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "1951400"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[Overseas and touring artists files] Lorro Von Matacic (Conductor) [box 9]", 
+        "series": "ST2940/1", 
+        "control_symbol": "011/4/40", 
+        "contents_dates": {
+            "date_str": "1964 - 1965", 
+            "start_date": "1964", 
+            "end_date": "1965"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6807529"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[Overseas and touring artists files] Rainer Von Zastrow (Pianist) [box 12]", 
+        "series": "ST2940/1", 
+        "control_symbol": "011/11/16", 
+        "contents_dates": {
+            "date_str": "1963 - 1963", 
+            "start_date": "1963", 
+            "end_date": "1963"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6807679"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "McDONAGH John versus VON STEIGLITZ Randolph", 
+        "series": "A10072", 
+        "control_symbol": "1917/26", 
+        "contents_dates": {
+            "date_str": "1917 - 1917", 
+            "start_date": "1917", 
+            "end_date": "1917"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3135964"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "In the matter of the trusts of the will of ELLIOTT Frederick William, deceased; VON FRANKENBERG-UND-LUDOVICSDORF Jessie Vincent versus the Commonwealth Public Trustee; COWPER William Robert; ELLIOTT Victor George", 
+        "series": "A10071", 
+        "control_symbol": "1921/17", 
+        "contents_dates": {
+            "date_str": "1921 - 1923", 
+            "start_date": "1921", 
+            "end_date": "1923"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3136875"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Petition for extension of term of Letters Patent number 13860/23 and 13861/23 by VON PLATEN Blatzar; MUNTERS Carl Georg; TILLQUIST Olof Sigmund; Platen Munters Refrigerating System Aktiebolag; Aktiebolaget Elektrolux; Electrolux Proprietary Limited versus Hallstroms Proprietary Limited; Electricity Meter Manufacturing Company Proprietary Limited and Dominion Products Limited - File-2", 
+        "series": "A10117", 
+        "control_symbol": "1938/19 PART 2", 
+        "contents_dates": {
+            "date_str": "1938 - 1939", 
+            "start_date": "1938", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8104714"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Petition for extension of term of Lettrs Patent number 13860/23 and 13861/23 by VON PLATEN Blatzar; MUNTERS Carl Georg; TILLQUIST Olof Sigmund; Platen Munters Refrigerating System Aktiebolag; Aktiebolaget Elektrolux; Electrolux Proprietary Limited versus Hallstroms Proprietary Limited; Electricity Meter Manufacturing Company Proprietary Limited and Dominion Products Limited [File-1]", 
+        "series": "A10117", 
+        "control_symbol": "1938/19 PART 1", 
+        "contents_dates": {
+            "date_str": "1938 - 1939", 
+            "start_date": "1938", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8342583"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Petition for extension of term of Lettrs Patent number 13860/23 and 13861/23 by VON PLATEN Blatzar; MUNTERS Carl Georg; TILLQUIST Olof Sigmund; Platen Munters Refrigerating System Aktiebolag; Aktiebolaget Elektrolux; Electrolux Proprietary Limited versus Hallstroms Proprietary Limited; Electricity Meter Manufacturing Company Proprietary Limited and Dominion Products Limited - File-3", 
+        "series": "A10117", 
+        "control_symbol": "1938/19 PART 3", 
+        "contents_dates": {
+            "date_str": "1938 - 1940", 
+            "start_date": "1938", 
+            "end_date": "1940"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8342584"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "On appeal from Commonwealth Taxation Board of Review number 3, Brisbane - VON WALD Opal Vida versus The Commissioner of Taxation", 
+        "series": "A10040", 
+        "control_symbol": "1963/36", 
+        "contents_dates": {
+            "date_str": "1963 - 1969", 
+            "start_date": "1963", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8353365"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HARTMAN Andrew Von versus KIRK Louis Leslie", 
+        "series": "A10075", 
+        "control_symbol": "1957/14", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8354668"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "VON PESTALOZZI Conrad; VON PESTALOZZI Constance and The West Australian Trustee Executor and Agency Company Limited and TATE Margaret Isobel", 
+        "series": "A10078", 
+        "control_symbol": "1949/13", 
+        "contents_dates": {
+            "date_str": "1949 - 1949", 
+            "start_date": "1949", 
+            "end_date": "1949"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8876333"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Trade Mark titled The Electric Soap in respect of perfumed soap by Ernest William von Mylins", 
+        "series": "A11731", 
+        "control_symbol": "1675", 
+        "contents_dates": {
+            "date_str": "1888 - 1901", 
+            "start_date": "1888", 
+            "end_date": "1901"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4987950"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Trade Mark titled Eclipse Brand - in respect of a common soap and candles by Ernest William von Mylius", 
+        "series": "A11731", 
+        "control_symbol": "1741", 
+        "contents_dates": {
+            "date_str": "1888 - 1888", 
+            "start_date": "1888", 
+            "end_date": "1888"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4987986"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Trade Mark titled A. W. Faber in respect of artists colours - by Johann Lothar von Faber trading as A. W. Faber", 
+        "series": "A11708", 
+        "control_symbol": "641", 
+        "contents_dates": {
+            "date_str": "1890 - 1906", 
+            "start_date": "1890", 
+            "end_date": "1906"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4993198"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Trade Mark titled A. W. Faber in respect of pencil cases in gold and silver - by Johann Lothar von Faber trading as A. W. Faber", 
+        "series": "A11708", 
+        "control_symbol": "642", 
+        "contents_dates": {
+            "date_str": "1890 - 1904", 
+            "start_date": "1890", 
+            "end_date": "1904"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4993199"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Trade Mark titled A. W. Faber in respect of lead and coloured pencils, artists materials and stationery good including writing slates - by Johann Lothar von Faber trading as A. W. Faber", 
+        "series": "A11708", 
+        "control_symbol": "643", 
+        "contents_dates": {
+            "date_str": "1890 - 1904", 
+            "start_date": "1890", 
+            "end_date": "1904"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4993200"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Trade Mark titled Gipsy - in respect of class 47 all goods in this class by Charles Henry  von Mylius", 
+        "series": "A11731", 
+        "control_symbol": "4416", 
+        "contents_dates": {
+            "date_str": "1895 - 1898", 
+            "start_date": "1895", 
+            "end_date": "1898"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4997181"
+    }
+]

@@ -1,0 +1,377 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Meyer, Gustav Adolf", 
+        "series": "MP14/1", 
+        "identifier": "1013193", 
+        "control_symbol": "NN", 
+        "contents_dates": {
+            "date_str": "1942 - 1945", 
+            "start_date": "1942", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Gustav Meyer - Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1908/4653", 
+        "contents_dates": {
+            "date_str": "1908 - 1908", 
+            "start_date": "1908", 
+            "end_date": "1908"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9267"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Kurt Meyer to rejoin S.S.\"Gustav\" at Melbourne.", 
+        "series": "B13", 
+        "control_symbol": "1924/26632", 
+        "contents_dates": {
+            "date_str": "1924 - circa1924", 
+            "start_date": "1924", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "788369"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Krick, Georg Friedrich; Meyer, Christian Gustav - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1870/W15693", 
+        "contents_dates": {
+            "date_str": "1870 - 1870", 
+            "start_date": "1870", 
+            "end_date": "1870"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1577227"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "Schroeder, Gustav; Meyer, August - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1875/H13563", 
+        "contents_dates": {
+            "date_str": "1875 - 1875", 
+            "start_date": "1875", 
+            "end_date": "1875"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1589197"
+    }, 
+    {
+        "digitised_pages": "107", 
+        "title": "Gluth, Wilhelm Gustav; Harbech, Hans; Bansch, Johann Friedrich August; Rosenbrock, Friedrich; Rapp, Martin; Beck, Johann Georg; Schroder, Heinrich; Meyer, George; Horn, Johann Nicolaus; Bogel, Carl Wilhelm; Wilkens, Wilhelm; Huesker, Heinrich Engelbert Joseph; Hoefelmeier, Friedrich Gerhard; Beck, Jacob Friedrich; Wilde, Friedrich; Wipken [Wielken], Herman; Medge, Wilhelm; Hahlbohm, Johannes; Gluth, Charles Henry; Ebeling, Claus; Juergens, August; Bevers, Jochim Hinrich; Bevers, Hermann; Wohlbeck, Johann Henry; Everhard, Ernst; Schroeder, Friedrich; Strobel, Heinrich; Fleischer, George; Pfutzner, Carl; Dittmer, Gottlieb; Meyer, Cord; Brakenwagen, John Henry; Kroeger, Theodor; Siegfried, Johann; - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1862/V941", 
+        "contents_dates": {
+            "date_str": "1862 - 1862", 
+            "start_date": "1862", 
+            "end_date": "1862"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1814068"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Meyer, Johann Jacob Gustav - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "816", 
+        "contents_dates": {
+            "date_str": "1877 - 1879", 
+            "start_date": "1877", 
+            "end_date": "1879"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3178603"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Meyer, Gustav Wilhelm Christian - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "1839", 
+        "contents_dates": {
+            "date_str": "1884 - 1884", 
+            "start_date": "1884", 
+            "end_date": "1884"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3181970"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Meyer, Gustav - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "3869", 
+        "contents_dates": {
+            "date_str": "1900 - 1900", 
+            "start_date": "1900", 
+            "end_date": "1900"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3188150"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Gustav Adolf - born 21 April 1903 - German", 
+        "series": "A435", 
+        "control_symbol": "1944/4/1564", 
+        "contents_dates": {
+            "date_str": "1939 - 1946", 
+            "start_date": "1939", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5275960"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Gustav August - born 01 March 1880 - German", 
+        "series": "A435", 
+        "control_symbol": "1948/4/1026", 
+        "contents_dates": {
+            "date_str": "1948 - 1948", 
+            "start_date": "1948", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7014591"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Gustav Wilhelm Christian - letter of naturalization", 
+        "series": "A826", 
+        "control_symbol": "13/1886", 
+        "contents_dates": {
+            "date_str": "1886 - 1886", 
+            "start_date": "1886", 
+            "end_date": "1886"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9217092"
+    }, 
+    {
+        "digitised_pages": "12", 
+        "title": "Meyer, Werner Gustav Herman", 
+        "series": "P3", 
+        "control_symbol": "T1958/0879", 
+        "contents_dates": {
+            "date_str": "1958 - 1959", 
+            "start_date": "1958", 
+            "end_date": "1959"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9770069"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer Gustav", 
+        "series": "MP16/1", 
+        "control_symbol": "1914/1/7", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "319376"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer [Mayer], Gustav [Gustavus Maria],ex Austrian Consul", 
+        "series": "MP16/1", 
+        "control_symbol": "1914/3/146", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "326521"
+    }, 
+    {
+        "digitised_pages": "15", 
+        "title": "List of Aliens [against whom orders have been issued: Paul BAUDITZ, Andrew and Isabel OLSON, John Valentin ENGSTROM, Albert Paul MEYER, Fritz HIRSCH, Johann Heinrich Nicholaus SCHMIDT, Otte R E KLIEMKE, Carl Gustav F WAHL, Gustav WITTIG,  Gustav John Paul HAMANN, Albert Julius SCHERWAT, Robert ROTHKEHL, John Golleb WUTTKEE, Oscar COLLINS, august Bruno KAISER, Michael PAVLINOVICH, Walter Augustus GERLACH, Carl Ernst Erich BIERMANN, Charles H NEUMANN,  Gustav Adophus GERDES, Bernard KLEM, Rosie RAWNER, Hans Christian Frederick RASMUSSEN, William SCHUNKE, Francis Thomas LANGER, Johannes Heinrich Frank LOHFF, Peter GILSDORF, Fanny KNITTL, Giacoma PEDROLI, Gerardo PRANDI, Waldemar GAEBLER, Gustav Anton ULBRICH]", 
+        "series": "PP14/1", 
+        "control_symbol": "1/12/270", 
+        "contents_dates": {
+            "date_str": "1918 - 1920", 
+            "start_date": "1918", 
+            "end_date": "1920"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "747334"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUTHOR Julius Joseph Meyer and Gustav Victor Meyer : ADDRESS Melbourne : TITLE OF WORK Motor Workshop Equipment : TYPE OF WORK Literary : APPLICANT Julius Joseph Meyer and Gustav Victor Meyer : DATE OF APPLICATION 13 Apr 1921 : DATE COPYRIGHT REGISTERED 28 Apr 1921 : WORK ENCLOSED? Yes", 
+        "series": "A1336", 
+        "control_symbol": "9297", 
+        "contents_dates": {
+            "date_str": "1921 - 1921", 
+            "start_date": "1921", 
+            "end_date": "1921"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3452406"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUTHOR Gustav V Meyer : ADDRESS Melbourne : TITLE OF WORK Devices and Money Making Accessories for the Progressive Garage Proprietor : TYPE OF WORK Literary Work : APPLICANT Meyer Bros Proprietary Limited : DATE OF APPLICATION 8 May 1922 : DATE COPYRIGHT REGISTERED 11 May 1922 : WORK ENCLOSED? Yes", 
+        "series": "A1336", 
+        "control_symbol": "10293", 
+        "contents_dates": {
+            "date_str": "1922 - 1922", 
+            "start_date": "1922", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3457470"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "MAYER [or MEYER] Gustav August - Nationality: German - Arrived [destination and vessel indecipherable] 1 May 1926", 
+        "series": "B78", 
+        "control_symbol": "1948/MAYER G A", 
+        "contents_dates": {
+            "date_str": "1948 - 1948", 
+            "start_date": "1948", 
+            "end_date": "1948"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4119900"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Name index cards of aliens entering Australia, Isabelle Mee to Gustav Meyer", 
+        "series": "A372", 
+        "control_symbol": "69", 
+        "contents_dates": {
+            "date_str": "circa1927 - circa1948", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4185318"
+    }, 
+    {
+        "digitised_pages": "13", 
+        "title": "MEYER Werner Gustav Hermann - Nationality: German - Arrived Melbourne per Anna Salen 17 April 1954 Departed Commonwealth on 04 May 1961", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/MEYER WERNER GUSTAV HERMANN", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5721329"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Walter Gustav - Nationality: German - Arrived Melbourne per Skaubryn 26 June 1951", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/MEYER WALTER GUSTAV", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6591482"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Meyer, Erich Gustav Heinrich; Date of birth - 20 June 1919; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "PWGA42130", 
+        "contents_dates": {
+            "date_str": "1941 - 1942", 
+            "start_date": "1941", 
+            "end_date": "1942"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8619806"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Prisoner of War/Internee; Meyer, Erich Gustav Heinrich; Year of birth - 1919; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "PWGA42130", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9908632"
+    }
+]

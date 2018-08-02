@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_pages": "28", 
+        "title": "German revolutionaries allied to Communists, Queensland. ARNOLD, W;  HONUNG, L; KELBE, EWF; KUNZE, EH; LAHRS, (LARZE), Herman; SEAFORTH, Dr Carl Herman; SCHINDLER, Charles; WENDT, Wilhelm Hiendrich", 
+        "series": "A402", 
+        "control_symbol": "W248", 
+        "contents_dates": {
+            "date_str": "1922 - 1924", 
+            "start_date": "1922", 
+            "end_date": "1924"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "989184"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Kelbe, Ernst Wilhelm Friedrich - Nationality: German - Alien Registration Certificate No 52 issued 10 October 1916 at Brisbane", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMAN KELBE E W F", 
+        "contents_dates": {
+            "date_str": "1916 - 1919", 
+            "start_date": "1916", 
+            "end_date": "1919"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6295124"
+    }
+]

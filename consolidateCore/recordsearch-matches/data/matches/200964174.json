@@ -1,0 +1,77 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "WILCKE Willy Henry - born 20 May 1887 - German", 
+        "series": "A435", 
+        "identifier": "6982725", 
+        "control_symbol": "1945/4/4779", 
+        "contents_dates": {
+            "date_str": "1945 - 1946", 
+            "start_date": "1945", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Willy [William] Henry Wilcke [Interned] [Application for Naturalisation] [Box 19]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N3996", 
+        "contents_dates": {
+            "date_str": "1914 - 1948", 
+            "start_date": "1914", 
+            "end_date": "1948"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "843168"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Wilcke, Willy Henri; Date of birth - 25 May 1887; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "PWN1316", 
+        "contents_dates": {
+            "date_str": "1940 - 1944", 
+            "start_date": "1940", 
+            "end_date": "1944"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8613664"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Prisoner of War/Internee; Wilcke, Willy Henri; Year of birth - --87; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "PWN1316", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9902631"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Willy Henry WILCKE - Nationality: German - Arrived Sydney per BENDIGO on 06 Jan 1927 [Box 214]", 
+        "series": "SP11/5", 
+        "control_symbol": "WILCKE, WILLY HENRY", 
+        "contents_dates": {
+            "date_str": "1939 - 1947", 
+            "start_date": "1939", 
+            "end_date": "1947"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30414031"
+    }
+]

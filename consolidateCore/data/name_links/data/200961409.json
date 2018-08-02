@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Naturalisation - LAU Uwe Heinrich born 7 December 1939", 
+        "series": "A446", 
+        "control_symbol": "1956/37047", 
+        "contents_dates": {
+            "date_str": "1956 - 1957", 
+            "start_date": "1956", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8344882"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Whereabouts enquiries [1968]", 
+        "series": "P3", 
+        "control_symbol": "T1968/0013 PART 2", 
+        "contents_dates": {
+            "date_str": "1968 - 1968", 
+            "start_date": "1968", 
+            "end_date": "1968"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9595541"
+    }
+]

@@ -1,0 +1,932 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Schmidt, Albert Lionel CV29890", 
+        "series": "MT8/13", 
+        "control_symbol": "SCHMIDT/AL", 
+        "contents_dates": {
+            "date_str": "1942 - 1945", 
+            "start_date": "1942", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "3450011"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "SCHMIDT Albert Lionel - [Civil Constructional Corps - Victoria] number CV29890 - Year of birth 1916", 
+        "series": "B4218", 
+        "control_symbol": "CV29890", 
+        "contents_dates": {
+            "date_str": "1942 - 1945", 
+            "start_date": "1942", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6602110"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT ALBERT FREDRICK : Service Number - Q144090 : Date of birth - 21 Dec 1923 : Place of birth - INNISFAIL QLD : Place of enlistment - BRISBANE QLD : Next of Kin - SCHMIDT ALBERT", 
+        "series": "B884", 
+        "control_symbol": "Q144090", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4454368"
+    }, 
+    {
+        "digitised_pages": "14", 
+        "title": "SCHMIDT ALBERT FELSBERG : Service Number - QX42508 : Date of birth - 18 May 1912 : Place of birth - BRISBANE QLD : Place of enlistment - ANNERLEY QLD : Next of Kin - SCHMIDT HELEN", 
+        "series": "B883", 
+        "control_symbol": "QX42508", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4478499"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT JOSEPH ALBERT : Service Number - QX23144 : Date of birth - 16 Aug 1909 : Place of birth - ROCKHAMPTON QLD : Place of enlistment - ROCKHAMPTON QLD : Next of Kin - SCHMIDT EDNA", 
+        "series": "B883", 
+        "control_symbol": "QX23144", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4484151"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "SCHMIDT ALBERT JOHN : Service Number - R/33616 : Date of birth - 30 Jun 1915 : Place of birth - ROCKHAMPTON QLD : Place of enlistment - SYDNEY : Next of Kin - SCHMIDT IVY", 
+        "series": "A6770", 
+        "control_symbol": "SCHMIDT A J", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4550244"
+    }, 
+    {
+        "digitised_pages": "10", 
+        "title": "SCHMIDT ALBERT JAMES : Service Number - Q222005 : Date of birth - 31 Jul 1891 : Place of birth - MUTURROO SA : Place of enlistment - EL-ARISH QLD : Next of Kin - SCHMIDT IVY", 
+        "series": "B884", 
+        "control_symbol": "Q222005", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4636881"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT ALBERT EDWARD DELARY : Service Number - Q202667 : Date of birth - 15 Feb 1903 : Place of birth - SUBIACO WA : Place of enlistment - BRISBANE QLD : Next of Kin - SCHMIDT PHILOMENE", 
+        "series": "B884", 
+        "control_symbol": "Q202667", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4651189"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT ALBERT CARL : Service Number - Q203087 : Date of birth - 19 Aug 1902 : Place of birth - LOGAN RESERVE QLD : Place of enlistment - CLEVELAND QLD : Next of Kin - SCHMIDT DAISY", 
+        "series": "B884", 
+        "control_symbol": "Q203087", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4909191"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT EDWARD ALBERT : Service Number - Q203088 : Date of birth - 10 Nov 1902 : Place of birth - REDLAND BAY QLD : Place of enlistment - REDLAND BAY QLD : Next of Kin - SCHMIDT LILIAN", 
+        "series": "B884", 
+        "control_symbol": "Q203088", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4909192"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT HAROLD ALBERT : Service Number - N234723 : Date of birth - 12 May 1915 : Place of birth - SYDNEY NSW : Place of enlistment - MANLY NSW : Next of Kin - SCHMIDT BEATRICE", 
+        "series": "B884", 
+        "control_symbol": "N234723", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5697409"
+    }, 
+    {
+        "digitised_pages": "15", 
+        "title": "SCHMIDT ALBERT CHARLES : Service Number - VX113793 : Date of birth - 17 Jan 1921 : Place of birth - MELBOURNE VIC : Place of enlistment - PUCKAPUNYAL VIC : Next of Kin - SCHMIDT C", 
+        "series": "B883", 
+        "control_symbol": "VX113793", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6082917"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT CHARLES ALBERT : Service Number - VX122693 : Date of birth - 14 Aug 1918 : Place of birth - KYNETON VIC : Place of enlistment - PUCKAPUNYAL VIC : Next of Kin - SCHMIDT KATHLEEN", 
+        "series": "B883", 
+        "control_symbol": "VX122693", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6085566"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT GEOFFREY : Service Number - V14867 : Date of birth - 23 Apr 1922 : Place of birth - STH YARRA VIC : Place of enlistment - ROYAL PARK VIC : Next of Kin - SCHMIDT ALBERT", 
+        "series": "B884", 
+        "control_symbol": "V14867", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6293809"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT ALBERT MARTIN : Service Number - S32729 : Date of birth - 09 Sep 1919 : Place of birth - EUDUNDA SA : Place of enlistment - EUDUNDA SA : Next of Kin - SCHMIDT AUGUST", 
+        "series": "B884", 
+        "control_symbol": "S32729", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6334588"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT MAX ALBERT : Service Number - SX22971 : Date of birth - 07 Jun 1923 : Place of birth - GAWLER SA : Place of enlistment - UNANDERRA NSW : Next of Kin - SCHMIDT JOHN", 
+        "series": "B883", 
+        "control_symbol": "SX22971", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6390512"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT NOEL WILLIAM : Service Number - SX18091 : Date of birth - 11 Feb 1922 : Place of birth - ORROROO SA : Place of enlistment - WAYVILLE SA : Next of Kin - SCHMIDT ALBERT", 
+        "series": "B883", 
+        "control_symbol": "SX18091", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6393036"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT ERNST ALBERT : Service Number - S27094 : Date of birth - 21 May 1920 : Place of birth - LOW BANK SA : Place of enlistment - WAIKERIE SA : Next of Kin - SCHMIDT CARL", 
+        "series": "B884", 
+        "control_symbol": "S27094", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6401410"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT FREDERICK ALBERT : Service Number - VX150741 : Date of birth - 19 Jul 1925 : Place of birth - RAINBOW VIC : Place of enlistment - COWRA NSW : Next of Kin - SCHMIDT OSCAR", 
+        "series": "B883", 
+        "control_symbol": "VX150741", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6612401"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT CHARLES ALBERT : Service Number - V355722 : Date of birth - 24 Jan 1887 : Place of birth - ALLANDALE VIC : Place of enlistment - FOSTER VIC : Next of Kin - FRANCES", 
+        "series": "B884", 
+        "control_symbol": "V355722", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6652189"
+    }, 
+    {
+        "digitised_pages": "13", 
+        "title": "SCHMIDT Charles Albert : Service Number - 2030 : Place of Birth - Allendale VIC : Place of Enlistment - Melbourne VIC : Next of Kin - (Wife) SCHMIDT Francis Eleanor", 
+        "series": "B2455", 
+        "control_symbol": "SCHMIDT CHARLES ALBERT", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8079250"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Schmidt, Albert Charles; Army Number - 97692; Date of birth - 17 January 1921", 
+        "series": "B4747", 
+        "control_symbol": "SCHMIDT/ALBERT CHARLES", 
+        "contents_dates": {
+            "date_str": "1939 - circa1946", 
+            "start_date": "1939", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9313488"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Albert Schmidt - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1909/11735", 
+        "contents_dates": {
+            "date_str": "1909 - 1909", 
+            "start_date": "1909", 
+            "end_date": "1909"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5286"
+    }, 
+    {
+        "digitised_pages": "8", 
+        "title": "Albert SCHMIDT - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1913/11741", 
+        "contents_dates": {
+            "date_str": "1912 - 1913", 
+            "start_date": "1912", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "15972"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schmidt, Charles Frederick - Naturalisation [includes wife, Eveline Estella, and children, Frederick, Wilhelmina, Eveline, Edith and Albert][17pp]", 
+        "series": "A659", 
+        "control_symbol": "1939/1/3167", 
+        "contents_dates": {
+            "date_str": "1937 - 1939", 
+            "start_date": "1937", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "443512"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Albert born 28 August 1910; MANTHEY (nee Wesenberg) Martha born 27 April 1916; MANTHEY Udo born 25 October 1939; MANTHEY Brigitte born 24 September 1941; MANTHEY Erika born 5 January 1947 - German - travelled per ship SKAUBRYN departing in 1958", 
+        "series": "A2478", 
+        "control_symbol": "SCHMIDT A", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1412997"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schmidt Albert born 20 November 1909; Elfriede (nee Claus) born 8 March 1920; Christina born 22 June 1947; Meinhard born 19 April 1935 - German- travelled per ship NELLY departing in 1953 under  the Australian/German assisted passage scheme", 
+        "series": "A2478", 
+        "control_symbol": "SCHMIDT A", 
+        "contents_dates": {
+            "date_str": "1952 - 1954", 
+            "start_date": "1952", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1419483"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Horst Albert born 28 October 1931 - German - travelled per ship SEVEN SEAS departing in 1955 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "SCHMIDT H A", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1444376"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schmidt, Albert Otto - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1902/P8904", 
+        "contents_dates": {
+            "date_str": "1902 - 1902", 
+            "start_date": "1902", 
+            "end_date": "1902"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1941308"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schmidt, Albert [and Maria]", 
+        "series": "P3", 
+        "control_symbol": "T1961/2152", 
+        "contents_dates": {
+            "date_str": "1961 - 1962", 
+            "start_date": "1961", 
+            "end_date": "1962"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4099962"
+    }, 
+    {
+        "digitised_pages": "21", 
+        "title": "FILTNER, Albert born 1 August 1914; Anna born 19 March 1913; SCHMIDT, Anne-Marie born 2 july 1943", 
+        "series": "A12059", 
+        "control_symbol": "M1 - 3", 
+        "contents_dates": {
+            "date_str": "1952 - 1952", 
+            "start_date": "1952", 
+            "end_date": "1952"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4726806"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SMITH Julius Albert Max [aka Schmidt] - born 27 September 1891 - American [naturalised]", 
+        "series": "A435", 
+        "control_symbol": "1945/4/1852", 
+        "contents_dates": {
+            "date_str": "1945 - 1946", 
+            "start_date": "1945", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6996271"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Albert Freidrich William - German", 
+        "series": "A435", 
+        "control_symbol": "1950/4/7137", 
+        "contents_dates": {
+            "date_str": "1950 - 1951", 
+            "start_date": "1950", 
+            "end_date": "1951"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7030775"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - FRANKS Albert; Nominee - GRUNBERG Marta; SCHMIDT Olga; nationality Esthonian", 
+        "series": "A261", 
+        "control_symbol": "1927/916", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7636346"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ROTZ Walter Karl Paul Albert born 2 April 1920; Gerda Roetz (nee Schmidt) born 30 August 1920; Hans-Walter 3 September 1940; Olaf Roetz born 2 November 1947 - German - travelled per ANNA SALEN in December 1953", 
+        "series": "A2478", 
+        "control_symbol": "ROTZ W K P A", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7673573"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Helmut Ernst born 28 February 1928; Elisabeth (nee Thiel) born 6 August 1921; Helmut Ernst Albert born 15 September 1948; Marianne born 30 October 1949; Hans-Joachim born 30 May 1951; Peter Mathias born 19 June 1954; Beatrix Hilde Elisabeth born 26 October 1955; Wolfgang Reinhold born 2 March 1957 - German - travelled per CASTEL FELICE in September 1958", 
+        "series": "A2478", 
+        "control_symbol": "SCHMIDT H E", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7700862"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JUNG Albert Gustav born 6 March 1925; Melitta (nee Schmidt) born 28 December 1919; Elke born 26 July 1943; Monika born 12 October 1946 - German - travelled per CASTEL FELICE on 13 March 1960", 
+        "series": "A2478", 
+        "control_symbol": "JUNG A G", 
+        "contents_dates": {
+            "date_str": "1956 - 1960", 
+            "start_date": "1956", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7704756"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUNCHOW Albert born 2 March 1910; Lieschen (nee Wienke) born 28 May 1916; Sieglinde (Schmidt) born 13 March 1944; Karl-Heinz born 13 November 1952 - German - travelled per CASTEL FELICE on 20 June 1959", 
+        "series": "A2478", 
+        "control_symbol": "MUNCHOW A", 
+        "contents_dates": {
+            "date_str": "1958 - 1959", 
+            "start_date": "1958", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7705211"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Horst Albert Amandus born 6 March 1940 - German - travelled per CASTEL FELICE on 15 September 1959", 
+        "series": "A2478", 
+        "control_symbol": "SCHMIDT H A A", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7707478"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Derrick William Ernest born 8 February 1928; Cynthia Doreen (nee Francis) born 9 August 1934; Denise Maud born 16 May 1957; Karl Christopher born 12 November 1958; Maud Francis born 15 September 1901 (mother); Patrica Helen Freeman born 25 November 1948; Iris Maud Jacobs (nee Francis) born 3 December 1932; Anthony Albert born 27 March 1952; Raphael Peter born 11 July 1953  - South African", 
+        "series": "A446", 
+        "control_symbol": "1969/50043", 
+        "contents_dates": {
+            "date_str": "1968 - 1970", 
+            "start_date": "1968", 
+            "end_date": "1970"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7758075"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - SCHMIDT Bernhard; Nominee - SCHMIDT Albert; LORENZ Charlotte; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1932/373", 
+        "contents_dates": {
+            "date_str": "1932 - 1932", 
+            "start_date": "1932", 
+            "end_date": "1932"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8174574"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - SCHMIDT Bernhard; Nominee - SCHMIDT Albert; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1933/464", 
+        "contents_dates": {
+            "date_str": "1933 - 1933", 
+            "start_date": "1933", 
+            "end_date": "1933"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8174817"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Echhardt, Leon, [also Schmidt] in camp - Wirtheim Sergeant R, Schenk, John Vedder, Thiel, Private Albert William enlisting for service in the AIF [Australian Imperial Force] [0.8 cm]", 
+        "series": "MP16/1", 
+        "control_symbol": "1915/3/883", 
+        "contents_dates": {
+            "date_str": "1915 - 1915", 
+            "start_date": "1915", 
+            "end_date": "1915"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "310105"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Eric Albert", 
+        "series": "D1915", 
+        "control_symbol": "SA3049", 
+        "contents_dates": {
+            "date_str": "1931 - 1954", 
+            "start_date": "1931", 
+            "end_date": "1954"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Closed", 
+        "digitised_status": false, 
+        "identifier": "327010"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Albert Schmidt", 
+        "series": "B741", 
+        "control_symbol": "V/11768", 
+        "contents_dates": {
+            "date_str": "1933 - 1933", 
+            "start_date": "1933", 
+            "end_date": "1933"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "386926"
+    }, 
+    {
+        "digitised_pages": "15", 
+        "title": "List of Aliens [against whom orders have been issued: Paul BAUDITZ, Andrew and Isabel OLSON, John Valentin ENGSTROM, Albert Paul MEYER, Fritz HIRSCH, Johann Heinrich Nicholaus SCHMIDT, Otte R E KLIEMKE, Carl Gustav F WAHL, Gustav WITTIG,  Gustav John Paul HAMANN, Albert Julius SCHERWAT, Robert ROTHKEHL, John Golleb WUTTKEE, Oscar COLLINS, august Bruno KAISER, Michael PAVLINOVICH, Walter Augustus GERLACH, Carl Ernst Erich BIERMANN, Charles H NEUMANN,  Gustav Adophus GERDES, Bernard KLEM, Rosie RAWNER, Hans Christian Frederick RASMUSSEN, William SCHUNKE, Francis Thomas LANGER, Johannes Heinrich Frank LOHFF, Peter GILSDORF, Fanny KNITTL, Giacoma PEDROLI, Gerardo PRANDI, Waldemar GAEBLER, Gustav Anton ULBRICH]", 
+        "series": "PP14/1", 
+        "control_symbol": "1/12/270", 
+        "contents_dates": {
+            "date_str": "1918 - 1920", 
+            "start_date": "1918", 
+            "end_date": "1920"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "747334"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "List of Prisoners of War under 17 years and over 50 years of age [Christian VOLLMER, Albert MEYER, Carl Wilhelm KOCH, George Heinrich Johann STAHL, August Max GRUBEL, Heinrich Carl George KUSSIN, Hermann HOENE, Fritz Berthold SCHUMANN, Ferdinand HEIN, Martin MOSBACHER, Karl John MILLER, Felix BARTELS, Franz Joesph Wilhelm CRAMER, Ernest Hermann TSCHIRPIG, James John Albert MILLAR, August Robert RACTKE, Johann Carl HOFFMAN, Ivan JUJNOVICH, Ivan KATNICH, Visko ACALINOVIC, Blaz POLJICAK, Fritz WULFING, Harry BROWN, Andria VLAHOR, Anton RATKE, Carl Heinrich Wilhelm LORENTZ, Julius BLASCHEK, Marko TUNPOR, Ivan ANTULUOV,  Ivan STARCEVIC, Stepan BUDESELICH, Jure RAVLICH, Anton SPLIVALO, Juraj MATKOVICH, Juraj STARCOVIC, Frederick MENZEN, JOseph SKARIFF, Carl MEYER, Henry TAPKEN, Edward SCHMIDT, Ivan BOSICH]", 
+        "series": "PP14/1", 
+        "control_symbol": "16/1/59", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "751599"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Edward Stephen - [includes application for admission to Australia for SULC Josef, Vera, Jiri, Josef, KOHN Albert, Hans]", 
+        "series": "PP302/1", 
+        "control_symbol": "WA11333", 
+        "contents_dates": {
+            "date_str": "1927 - 1953", 
+            "start_date": "1927", 
+            "end_date": "1953"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1659510"
+    }, 
+    {
+        "digitised_pages": "41", 
+        "title": "TROUNSON Francis William; SCHMIDT Hermann Albert Theodore versus GILLESPIE Martin [includes Transcript Record of Proceedings]", 
+        "series": "A10071", 
+        "control_symbol": "1930/7 PART 1", 
+        "contents_dates": {
+            "date_str": "1930 - 1930", 
+            "start_date": "1930", 
+            "end_date": "1930"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3136320"
+    }, 
+    {
+        "digitised_pages": "186", 
+        "title": "TROUNSON Francis William; SCHMIDT Hermann Albert Theodore versus GILLESPIE Martin - Transcript Record of Proceedings", 
+        "series": "A10071", 
+        "control_symbol": "1930/7 PART 2", 
+        "contents_dates": {
+            "date_str": "1930 - 1930", 
+            "start_date": "1930", 
+            "end_date": "1930"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3136321"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Albert Adolph - Nationality: American - Arrived Fremantle per Oriana 15 April 1962", 
+        "series": "K1331", 
+        "control_symbol": "1962/1963/SCHMIDT A A", 
+        "contents_dates": {
+            "date_str": "1962 - 1962", 
+            "start_date": "1962", 
+            "end_date": "1962"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3343676"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Albert Max: Nationality - German: Date of Birth - 5 March 1849: Date of Arrival - 26 April 1883: First Registered at Collingwood - Victoria", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/GERMANY/SCHMIDT ALBERT", 
+        "contents_dates": {
+            "date_str": "1916 - 1916", 
+            "start_date": "1916", 
+            "end_date": "1916"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5956670"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Adolph John: Nationality - German: Date of Birth - 21 November 1876: First registered at Port Albert", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/CANCELLED/BRITISH BORN/SCHMIDT ADOLPH J", 
+        "contents_dates": {
+            "date_str": "1918 - 1918", 
+            "start_date": "1918", 
+            "end_date": "1918"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5977838"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schmidt, Albert - Nationality: German - Alien Registration Certificate No 10 issued at Enoggera", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMAN SCHMIDT ALBERT", 
+        "contents_dates": {
+            "date_str": "1926 - 1926", 
+            "start_date": "1926", 
+            "end_date": "1926"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6303942"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schmidt, Albert Friedrich Wilhelm - Nationality: German - Alien Registration Certificate No 16 issued 3 March 1919 at Lowood", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMAN SCHMIDT A F W", 
+        "contents_dates": {
+            "date_str": "1919 - 1919", 
+            "start_date": "1919", 
+            "end_date": "1919"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6303944"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "SCHMIDT Erich Albert born 1906 - Nationality: German - Arrived Melbourne per Toscana 9 October 1949", 
+        "series": "D4878", 
+        "control_symbol": "SCHMIDT E A", 
+        "contents_dates": {
+            "date_str": "1949 - 1956", 
+            "start_date": "1949", 
+            "end_date": "1956"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7195985"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Albert Schmidt [German - Arrived Melbourne per SKAUBRYN 22 January 1958]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/SCHMIDT ALBERT", 
+        "contents_dates": {
+            "date_str": "1958 - 1968", 
+            "start_date": "1958", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7845943"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Albert Meinhard - Nationality: German - Arrived Melbourne per Nelly 23 February 1953 Departed Commonwealth on 18 July 1956", 
+        "series": "D4881", 
+        "control_symbol": "SCHMIDT ALBERT MEINHARD", 
+        "contents_dates": {
+            "date_str": "1953 - 1976", 
+            "start_date": "1953", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9220756"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Albert Meinhart - Nationality: German - Arrived Melbourne per Nelly 23 February 1953", 
+        "series": "D4881", 
+        "control_symbol": "SCHMIDT ALBERT MEINHART", 
+        "contents_dates": {
+            "date_str": "1953 - 1976", 
+            "start_date": "1953", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9220757"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Erich Albert - Nationality: German - Arrived Melbourne per Toscana 9 October 1949", 
+        "series": "D4881", 
+        "control_symbol": "SCHMIDT ERICH ALBERT", 
+        "contents_dates": {
+            "date_str": "1949 - 1976", 
+            "start_date": "1949", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9220836"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "SCHMIDT Albert Meinhard born 1935 - Nationality: German - Arrived Melbourne per Nelly 23 February 1953", 
+        "series": "D4878", 
+        "control_symbol": "SCHMIDT A M", 
+        "contents_dates": {
+            "date_str": "1953 - 1956", 
+            "start_date": "1953", 
+            "end_date": "1956"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9238746"
+    }
+]

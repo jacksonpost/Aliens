@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": "60", 
+        "title": "Karl Brauhart [59 pages]", 
+        "series": "MP16/1", 
+        "control_symbol": "1914/1/164", 
+        "contents_dates": {
+            "date_str": "1914 - 1918", 
+            "start_date": "1914", 
+            "end_date": "1918"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "319249"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Karl Brauhart & Joseph Eder [3 pages]", 
+        "series": "MP16/1", 
+        "control_symbol": "1916/13", 
+        "contents_dates": {
+            "date_str": "1916 - 1916", 
+            "start_date": "1916", 
+            "end_date": "1916"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "320872"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "BRAUHART Karl: Nationality - Austrian", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/AUSTRIA/BRAUHART KARL", 
+        "contents_dates": {
+            "date_str": "1919 - 1919", 
+            "start_date": "1919", 
+            "end_date": "1919"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5955721"
+    }
+]

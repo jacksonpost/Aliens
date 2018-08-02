@@ -1,0 +1,1202 @@
+[
+    {
+        "digitised_pages": "26", 
+        "title": "SCHULZ Albert Victor Leske - (Leading Aircraftman); Service Number - 28222; File type - Casualty - Repatriation; Aircraft - Darwin, Northern Territory; Place -Darwin, Northern Territory; Date - 19 February 1942", 
+        "series": "A705", 
+        "control_symbol": "163/160/175", 
+        "contents_dates": {
+            "date_str": "1942 - 1943", 
+            "start_date": "1942", 
+            "end_date": "1943"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1060293"
+    }, 
+    {
+        "digitised_pages": "175", 
+        "title": "Presumption of death - Casualties in Royal Australian Air Force Units - Minutes", 
+        "series": "A705", 
+        "control_symbol": "166/1/319 PART 3", 
+        "contents_dates": {
+            "date_str": "1946 - 1957", 
+            "start_date": "1946", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1060826"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "CLEWORTH, James Reginald - (Warrant Officer); Service Number - 419457; File type - Casualty - Repatriation; Aircraft - Catalina A24-203; Place - China Sea near Formosa; Date - 7 March 1945", 
+        "series": "A705", 
+        "control_symbol": "166/7/886", 
+        "contents_dates": {
+            "date_str": "1945 - 1947", 
+            "start_date": "1945", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1065294"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "CULLEN, Christopher Robert - (Flying Officer); Service Number - 414205; File type - Casualty - Repatriation; Aircraft - Halifax LV 943; Place - Nantes, France; Date - 7 May 1944", 
+        "series": "A705", 
+        "control_symbol": "166/8/445", 
+        "contents_dates": {
+            "date_str": "1929 - 1960", 
+            "start_date": "1929", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1065810"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DOHERTY, James - (Warrant Officer); Service Number - 414863; File type - Casualty - Repatriation; Aircraft - Halifax LV 943; Place - Paris, France; Date - 10 May 1944", 
+        "series": "A705", 
+        "control_symbol": "166/10/226", 
+        "contents_dates": {
+            "date_str": "1944 - 1960", 
+            "start_date": "1944", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1067269"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GARSKE, Lawrence Joseph - (Flight Sergeant); Service Number - 423094; File type - Casualty - Repatriation; Aircraft - Halifax LV943; Place - Nantes, France; Date - 6/7 May 1944", 
+        "series": "A705", 
+        "control_symbol": "166/15/241", 
+        "contents_dates": {
+            "date_str": "1944 - 1960", 
+            "start_date": "1944", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1068774"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JONES, Alfred Russell - (Flight Sergeant); Service Number - 67893; File type - Casualty - Repatriation; Aircraft - Catalina A24-203; Place - Formosa; Date - 7 March 1945", 
+        "series": "A705", 
+        "control_symbol": "166/21/270", 
+        "contents_dates": {
+            "date_str": "1929 - 1960", 
+            "start_date": "1929", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1071259"
+    }, 
+    {
+        "digitised_pages": "46", 
+        "title": "MERRETT, Malcolm Oswald - (Pilot Officer); Service Number - 412995; File type - Casualty - Repatriation; Aircraft - Catalina A24-203; Place - China Sea; Date - 7 March 1945", 
+        "series": "A705", 
+        "control_symbol": "166/27/820", 
+        "contents_dates": {
+            "date_str": "1945 - 1947", 
+            "start_date": "1945", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1074214"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ROWE, William Alan - (Flight Sergeant); Service Number - 68674; File type - Casualty - Repatriation; Aircraft - Catalina A24-203; Place - target Formosa; Date - 7 March 1945", 
+        "series": "A705", 
+        "control_symbol": "166/36/501", 
+        "contents_dates": {
+            "date_str": "1945 - 1955", 
+            "start_date": "1945", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1075971"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ, Ralph William - (Pilot Officer); Service Number - 417318; File type - Casualty - Repatriation; Aircraft - Catalina A24-203; Place - unknown; Date - 7 March 1945", 
+        "series": "A705", 
+        "control_symbol": "166/37/965", 
+        "contents_dates": {
+            "date_str": "1945 - 1947", 
+            "start_date": "1945", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1076625"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCOTT, Walter Douglas - (Sergeant); Service Number - 73252; File type - Casualty - Repatriation; Aircraft - Catalina A24-203; Place - unknown; Date - 7 March 1945", 
+        "series": "A705", 
+        "control_symbol": "166/37/966", 
+        "contents_dates": {
+            "date_str": "1945 - 1966", 
+            "start_date": "1945", 
+            "end_date": "1966"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1076626"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ, Desmond Arthur - (Aircraftman I); Service Number - 171889; File type - Casualty - Repatriation; Place - Esk, Queensland; Date - 14 March 1948", 
+        "series": "A705", 
+        "control_symbol": "166/37/1375", 
+        "contents_dates": {
+            "date_str": "1948 - 1960", 
+            "start_date": "1948", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1078412"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "A4931 Ac Schulz B A H - History File", 
+        "series": "A705", 
+        "control_symbol": "163/160/981", 
+        "contents_dates": {
+            "date_str": "1929 - 1960", 
+            "start_date": "1929", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "1159690"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Allotment Ledger, Pay Ledger and History Cards for Queensland Army personnel - Schulz Graeme George", 
+        "series": "J1199", 
+        "control_symbol": "QX59502", 
+        "contents_dates": {
+            "date_str": "1941 - 1946", 
+            "start_date": "1941", 
+            "end_date": "1946"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1804401"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Allotment Ledger, Pay Ledger and History cards for Queensland Army Personnel - Schulz Harold Adolf", 
+        "series": "J1204", 
+        "control_symbol": "Q46482", 
+        "contents_dates": {
+            "date_str": "1941 - 1941", 
+            "start_date": "1941", 
+            "end_date": "1941"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1807895"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ Frank Edwin [Civil Constructional Corps file]", 
+        "series": "K1291", 
+        "control_symbol": "1329", 
+        "contents_dates": {
+            "date_str": "circa1942 - circa1946", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3124570"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Thomas Louie Schulz", 
+        "series": "D1358", 
+        "control_symbol": "SX8580", 
+        "contents_dates": {
+            "date_str": "1941 - 1946", 
+            "start_date": "1941", 
+            "end_date": "1946"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4070826"
+    }, 
+    {
+        "digitised_pages": "28", 
+        "title": "B V Schulz 1105", 
+        "series": "D2994", 
+        "control_symbol": "SCHULZ, B V 1105", 
+        "contents_dates": {
+            "date_str": "1914 - 1923", 
+            "start_date": "1914", 
+            "end_date": "1923"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4300568"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "SCHULZ Charles Douglas - [Civil Constructional Corps - Victoria] number CV104425 - Year of birth 1918", 
+        "series": "B4218", 
+        "control_symbol": "CV104425", 
+        "contents_dates": {
+            "date_str": "1942 - 1944", 
+            "start_date": "1942", 
+            "end_date": "1944"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6574985"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "SCHULZ John Herbert Ray - [Civil Constructional Corps - Victoria] number CV104528 - Year of birth 1892", 
+        "series": "B4218", 
+        "control_symbol": "CV104528", 
+        "contents_dates": {
+            "date_str": "1943 - 1944", 
+            "start_date": "1943", 
+            "end_date": "1944"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6575087"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ LESLIE FRANK : Service Number - VX3568 : Date of birth - 02 Jan 1916 : Place of birth - WARRACKNABLE VIC : Place of enlistment - MELBOURNE VIC : Next of Kin - SCHULZ SHIRLEY", 
+        "series": "B883", 
+        "control_symbol": "VX3568", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6219590"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ GORDON EDWARD : Service Number - VX144141 : Date of birth - 26 Jan 1915 : Place of birth - MURTOA VIC : Place of enlistment - IN THE FIELD : Next of Kin - SCHULZ VAUTA", 
+        "series": "B883", 
+        "control_symbol": "VX144141", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5722760"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ HERMAN GEORGE : Service Number - Q115750 : Date of birth - 13 Sep 1913 : Place of birth - MOSSMAN QLD : Place of enlistment - MOSSMAN QLD : Next of Kin - SCHULZ CURT", 
+        "series": "B884", 
+        "control_symbol": "Q115750", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4460015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ LESLIE FREDERICK : Service Number - VX74775 : Date of birth - 29 Aug 1911 : Place of birth - JINDARA NSW : Place of enlistment - CAULFIELD VIC : Next of Kin - SCHULZ M", 
+        "series": "B883", 
+        "control_symbol": "VX74775", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6064709"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ WILLIAM THOMAS : Service Number - VX122854 : Date of birth - 16 Sep 1921 : Place of birth - ST ARNAUD VIC : Place of enlistment - IN THE FIELD : Next of Kin - SCHULZ HERBERT", 
+        "series": "B883", 
+        "control_symbol": "VX122854", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6087677"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ LOUIS WALDEMAN : Service Number - S114894 : Date of birth - 27 Jan 1924 : Place of birth - PT WAKEFIELD SA : Place of enlistment - SYDNEY NSW : Next of Kin - SCHULZ NATHANAEL", 
+        "series": "B884", 
+        "control_symbol": "S114894", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6354538"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ COLIN WILLIAM : Service Number - QX25587 : Date of birth - 30 Jan 1920 : Place of birth - BOONAH QLD : Place of enlistment - BRISBANE QLD : Next of Kin - SCHULZ JOHN", 
+        "series": "B883", 
+        "control_symbol": "QX25587", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4492750"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ MILTON BENJAMIN : Service Number - 48613 : Date of birth - 24 Aug 1923 : Place of birth - NURIOOTPA SA : Place of enlistment - ADELAIDE : Next of Kin - SCHULZ ALBERT", 
+        "series": "A9301", 
+        "control_symbol": "48613", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4574605"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ ARTHUR WALTER : Service Number - 123424 : Date of birth - 07 Aug 1904 : Place of birth - BOONAH QLD : Place of enlistment - BRISBANE : Next of Kin - SCHULZ LILLY", 
+        "series": "A9301", 
+        "control_symbol": "123424", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4844723"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ VALDA RITA : Service Number - 96309 : Date of birth - 04 Feb 1924 : Place of birth - HOLBROOK NSW : Place of enlistment - MELBOURNE : Next of Kin - SCHULZ ARTHUR", 
+        "series": "A9301", 
+        "control_symbol": "96309", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4965699"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NELSON SAMUEL JOSEPH : Service Number - NX110553 : Date of birth - 15 Jul 1898 : Place of birth - ST KILDA VIC : Place of enlistment - PORT KEMBLA NSW : Next of Kin - SCHULZ JEAN", 
+        "series": "B883", 
+        "control_symbol": "NX110553", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5668139"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ EDNA GRACE : Service Number - SF83948 : Date of birth - 05 Mar 1899 : Place of birth - MALVERN VIC : Place of enlistment - ADELAIDE SA : Next of Kin - SCHULZ GUSTAV", 
+        "series": "B884", 
+        "control_symbol": "SF83948", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6399049"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ HUGH ROBERT : Service Number - WX15257 : Date of birth - 30 Jun 1920 : Place of birth - INNISFAIL QLD : Place of enlistment - CLAREMONT WA : Next of Kin - SCHULZ JOHN", 
+        "series": "B883", 
+        "control_symbol": "WX15257", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6467510"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Schulz, Macgregor; Army Number - 95682; Date of birth - 10 November 1919", 
+        "series": "B4747", 
+        "control_symbol": "SCHULZ/MACGREGOR", 
+        "contents_dates": {
+            "date_str": "1938 - circa1946", 
+            "start_date": "1938", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9313581"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ MYLES FREDERIC : Service Number - QX36244 : Date of birth - 04 Jul 1923 : Place of birth - WARWICK QLD : Place of enlistment - GATTON QLD : Next of Kin - SCHULZ JOYCE", 
+        "series": "B883", 
+        "control_symbol": "QX36244", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4474309"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ AUDREY DAWSON : Service Number - 107851 : Date of birth - 09 Jun 1920 : Place of birth - COOLAMON NSW : Place of enlistment - WOOLLOOMOOLOO : Next of Kin - SCHULZ BERNARD", 
+        "series": "A9301", 
+        "control_symbol": "107851", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4842726"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ DON WILFRED : Service Number - 437165 : Date of birth - 15 Aug 1923 : Place of birth - LOXTON SA : Place of enlistment - ADELAIDE : Next of Kin - SCHULZ CARL", 
+        "series": "A9300", 
+        "control_symbol": "SCHULZ D W", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5262528"
+    }, 
+    {
+        "digitised_pages": "30", 
+        "title": "SCHULZ BENJAMIN : Service Number - 441176 : Date of birth - 14 Mar 1926 : Place of birth - HUGHENDEN QLD : Place of enlistment - BRISBANE : Next of Kin - SCHULZ WALTER", 
+        "series": "A9301", 
+        "control_symbol": "441176", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5550522"
+    }, 
+    {
+        "digitised_pages": "13", 
+        "title": "SCHULZ CLARENCE MARTIN : Service Number - VX104861 : Date of birth - 15 Feb 1924 : Place of birth - WARRACKNABEAL VIC : Place of enlistment - MOUNT MARTHA VIC : Next of Kin - SCHULZ FRANK", 
+        "series": "B883", 
+        "control_symbol": "VX104861", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6060465"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "D'FERROWES HARRY : Service Number - V10223 : Date of birth - 25 Mar 1892 : Place of birth - PORT LOUIS MAURITIUS : Place of enlistment - ROYAL PARK VIC : Next of Kin - SCHULZ JOHN", 
+        "series": "B884", 
+        "control_symbol": "V10223", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6289395"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Johanne Caroline SCHULZ - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1904/10345", 
+        "contents_dates": {
+            "date_str": "1904 - 1905", 
+            "start_date": "1904", 
+            "end_date": "1905"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "2513"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "John Frederick Schulz - Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1904/4677", 
+        "contents_dates": {
+            "date_str": "1904 - 1904", 
+            "start_date": "1904", 
+            "end_date": "1904"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1152"
+    }, 
+    {
+        "digitised_pages": "8", 
+        "title": "Richard SCHULZ - Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1905/5763", 
+        "contents_dates": {
+            "date_str": "1905 - 1905", 
+            "start_date": "1905", 
+            "end_date": "1905"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3355"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Johann Wilhelm Dienegott Schulz - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1909/11028", 
+        "contents_dates": {
+            "date_str": "1909 - 1909", 
+            "start_date": "1909", 
+            "end_date": "1909"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5155"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Julius Gustav Schulz. Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1909/12023", 
+        "contents_dates": {
+            "date_str": "1909 - 1909", 
+            "start_date": "1909", 
+            "end_date": "1909"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5328"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Johann Carl Theodore Schulz. Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1908/9693", 
+        "contents_dates": {
+            "date_str": "1908 - 1908", 
+            "start_date": "1908", 
+            "end_date": "1908"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9753"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Charlotte Schulz. Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1909/1508", 
+        "contents_dates": {
+            "date_str": "1909 - 1909", 
+            "start_date": "1909", 
+            "end_date": "1909"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3666"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Friedrich Schulz. Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1909/1512", 
+        "contents_dates": {
+            "date_str": "1909 - 1909", 
+            "start_date": "1909", 
+            "end_date": "1909"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3669"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Carl Wilhelm Friedrich Schulz. Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1909/12707", 
+        "contents_dates": {
+            "date_str": "1909 - 1909", 
+            "start_date": "1909", 
+            "end_date": "1909"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5449"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Johanna Schulz - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1911/529", 
+        "contents_dates": {
+            "date_str": "1910 - 1911", 
+            "start_date": "1910", 
+            "end_date": "1911"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6295"
+    }, 
+    {
+        "digitised_pages": "8", 
+        "title": "Naturalisation Certificate - Gustav Adolf Schulz.", 
+        "series": "A1", 
+        "control_symbol": "1911/10095", 
+        "contents_dates": {
+            "date_str": "1911 - 1911", 
+            "start_date": "1911", 
+            "end_date": "1911"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "11039"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Wilhelm Schulz - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1911/17911", 
+        "contents_dates": {
+            "date_str": "1911 - 1911", 
+            "start_date": "1911", 
+            "end_date": "1911"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "11978"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "P.P. Schulz - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1911/19856", 
+        "contents_dates": {
+            "date_str": "1911 - 1912", 
+            "start_date": "1911", 
+            "end_date": "1912"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "12193"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Johann Gottfried Schulz - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1912/12983", 
+        "contents_dates": {
+            "date_str": "1912 - 1912", 
+            "start_date": "1912", 
+            "end_date": "1912"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "13650"
+    }, 
+    {
+        "digitised_pages": "10", 
+        "title": "Johanne Eleonore Schulz Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1912/147", 
+        "contents_dates": {
+            "date_str": "1912 - 1912", 
+            "start_date": "1912", 
+            "end_date": "1912"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "12373"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "K.F. Schulz - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1912/7578", 
+        "contents_dates": {
+            "date_str": "1912 - 1912", 
+            "start_date": "1912", 
+            "end_date": "1912"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "13060"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "Johanna Maria Elizabeth Schulz - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1912/13790", 
+        "contents_dates": {
+            "date_str": "1912 - 1912", 
+            "start_date": "1912", 
+            "end_date": "1912"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "13772"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Johann Wilhelm Schulz - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1912/20676", 
+        "contents_dates": {
+            "date_str": "1912 - 1913", 
+            "start_date": "1912", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "14496"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Karl Gustav Schulz, Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1913/1035", 
+        "contents_dates": {
+            "date_str": "1913 - 1913", 
+            "start_date": "1913", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "14658"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Charles William Bernhard Schulz - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1913/6539", 
+        "contents_dates": {
+            "date_str": "1913 - 1913", 
+            "start_date": "1913", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "15347"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "STEVENSON Florence Clara versus SCHULZ Erna Linda", 
+        "series": "A10075", 
+        "control_symbol": "1957/31", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8354681"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Trade Mark depicting globe in respect of polishing extract, polishing soap, polishing paste, and similar polishing appliances - by Fritz Schulz junior", 
+        "series": "A11731", 
+        "control_symbol": "4582", 
+        "contents_dates": {
+            "date_str": "1896 - 1897", 
+            "start_date": "1896", 
+            "end_date": "1897"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5002386"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Trade Mark titled Bell Brand in respect of leather preservative or dressing by Johann Oscar Schulz", 
+        "series": "A11833", 
+        "control_symbol": "4532", 
+        "contents_dates": {
+            "date_str": "1905 - 1905", 
+            "start_date": "1905", 
+            "end_date": "1905"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5122406"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Ernest Alfred Paul Earl - purchase of property in Woodanilling WA - vendor E D Schulz", 
+        "series": "A12217", 
+        "control_symbol": "L12828", 
+        "contents_dates": {
+            "date_str": "1946 - 1946", 
+            "start_date": "1946", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5266485"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Mrs Lily Elizabeth Charters (formerly Schulz) - purchase of property Newport NSW", 
+        "series": "A12217", 
+        "control_symbol": "L10170", 
+        "contents_dates": {
+            "date_str": "1945 - 1945", 
+            "start_date": "1945", 
+            "end_date": "1945"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5458404"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Kurt Hamberg - purchase of property Surrey Hills, Vic - vendor W Schulz", 
+        "series": "A12217", 
+        "control_symbol": "L13272", 
+        "contents_dates": {
+            "date_str": "1946 - 1946", 
+            "start_date": "1946", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5477773"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Leopold Edwin Schulz - purchase of property Sylvania - Sydney NSW", 
+        "series": "A12217", 
+        "control_symbol": "L3691", 
+        "contents_dates": {
+            "date_str": "1941 - 1941", 
+            "start_date": "1941", 
+            "end_date": "1941"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5438344"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Mrs Maie Schulz - purchase of property Pennant Hills NSW", 
+        "series": "A12217", 
+        "control_symbol": "L5415", 
+        "contents_dates": {
+            "date_str": "1942 - 1942", 
+            "start_date": "1942", 
+            "end_date": "1942"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5449401"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Ernst Johannes Andreas Schulz - purchase of property Rockhampton Qld", 
+        "series": "A12217", 
+        "control_symbol": "L7618", 
+        "contents_dates": {
+            "date_str": "1943 - 1943", 
+            "start_date": "1943", 
+            "end_date": "1943"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5449994"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Otto Karl W Schulz - acquisition of AF1326 near Mundubbera Qld", 
+        "series": "A12217", 
+        "control_symbol": "L5798", 
+        "contents_dates": {
+            "date_str": "1942 - 1942", 
+            "start_date": "1942", 
+            "end_date": "1942"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5453702"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Paul F Schulz - purchase of property Connell's Point near Sydney NSW", 
+        "series": "A12217", 
+        "control_symbol": "L5314", 
+        "contents_dates": {
+            "date_str": "1940 - 1942", 
+            "start_date": "1940", 
+            "end_date": "1942"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5459452"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Ernest Schulz - acquisition of AF1157 near Mundubbera Qld", 
+        "series": "A12217", 
+        "control_symbol": "L5735", 
+        "contents_dates": {
+            "date_str": "1942 - 1943", 
+            "start_date": "1942", 
+            "end_date": "1943"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5459565"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Mrs Maie Schulz - transfer of property at Mascot NSW", 
+        "series": "A12217", 
+        "control_symbol": "L2364", 
+        "contents_dates": {
+            "date_str": "1941 - 1941", 
+            "start_date": "1941", 
+            "end_date": "1941"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5482442"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Paul Franz Schulz - permission to purchase property at Mascot NSW", 
+        "series": "A12217", 
+        "control_symbol": "L1916", 
+        "contents_dates": {
+            "date_str": "1940 - 1940", 
+            "start_date": "1940", 
+            "end_date": "1940"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5482494"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "War precautions Regulation 49DC Schulz, Annie", 
+        "series": "A403", 
+        "control_symbol": "C47/3", 
+        "contents_dates": {
+            "date_str": "1916 - 1916", 
+            "start_date": "1916", 
+            "end_date": "1916"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "65731"
+    }, 
+    {
+        "digitised_pages": "136", 
+        "title": "SCHULZ, Johann Freidrich Wilhelm.", 
+        "series": "A367", 
+        "control_symbol": "C66704", 
+        "contents_dates": {
+            "date_str": "1800 - 1800", 
+            "start_date": "1800", 
+            "end_date": "1800"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "246949"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Schulz, Annie [district register C47/3]", 
+        "series": "A401", 
+        "control_symbol": "SCHULZ", 
+        "contents_dates": {
+            "date_str": "1914 - 1918", 
+            "start_date": "1914", 
+            "end_date": "1918"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "736212"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schulz Gerhard", 
+        "series": "A367", 
+        "control_symbol": "C82087", 
+        "contents_dates": {
+            "date_str": "1941 - 1947", 
+            "start_date": "1941", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "768703"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schulz Gerhard", 
+        "series": "A367", 
+        "control_symbol": "C74401", 
+        "contents_dates": {
+            "date_str": "1943 - 1946", 
+            "start_date": "1943", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "772480"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUTHOR Walter Edward Schulz : ADDRESS Melbourne : TITLE OF WORK Moorabbin and District : TYPE OF WORK Literary : APPLICANT Walter Edward Schulz :  DATE OF APPLICATION 11 Mar 1946 :  DATE COPYRIGHT REGISTERED 30 Mar 1946 : WORK ENCLOSED? Yes", 
+        "series": "A1336", 
+        "control_symbol": "42641", 
+        "contents_dates": {
+            "date_str": "1946 - 1946", 
+            "start_date": "1946", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4009768"
+    }
+]

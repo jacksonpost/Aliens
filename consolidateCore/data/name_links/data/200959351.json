@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "KRAFT Johann Hans Markus born 17 February 1942 - Austrian - travelled per MIQAN departing in 1963 under Australian Austrian Assisted Passage Scheme", 
+        "series": "A2478", 
+        "identifier": "1246183", 
+        "control_symbol": "KRAFT J H M", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "KRAFT Hans Gunter - Nationality: German - Arrived Melbourne per Castel Felice 29 November 1958", 
+        "series": "D4881", 
+        "identifier": "7047044", 
+        "control_symbol": "KRAFT HANS GUNTER", 
+        "contents_dates": {
+            "date_str": "29 Nov 1958 - 31 Dec 1976", 
+            "start_date": "1958-11-29", 
+            "end_date": "1976-12-31"
+        }, 
+        "location": "Adelaide"
+    }
+]

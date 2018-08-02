@@ -1,0 +1,182 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "MACFARLANE ANDREW JAMES : Service Number - NX93024 : Date of birth - 27 Jun 1911 : Place of birth - BRISBANE QLD : Place of enlistment - PADDINGTON NSW : Next of Kin - MACFARLANE LORNA", 
+        "series": "B883", 
+        "control_symbol": "NX93024", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5620154"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MACFARLANE ANDREW ROY : Service Number - VX136018 : Date of birth - 25 Apr 1919 : Place of birth - OUYEN VIC : Place of enlistment - Unknown : Next of Kin - MACFARLANE ROSE", 
+        "series": "B883", 
+        "control_symbol": "VX136018", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5707624"
+    }, 
+    {
+        "digitised_pages": "10", 
+        "title": "MACFARLANE CALLUM ANDREW : Service Number - VX30614 : Date of birth - 17 May 1912 : Place of birth - YARRAM VIC : Place of enlistment - ROYAL PARK VIC : Next of Kin - MCFARLANE N", 
+        "series": "B883", 
+        "control_symbol": "VX30614", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6144583"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Macfarlane, Andrew Roy; Army Number - 341017; Date of birth - 25 April 1919", 
+        "series": "B4747", 
+        "control_symbol": "MACFARLANE/ANDREW ROY", 
+        "contents_dates": {
+            "date_str": "1939 - circa1946", 
+            "start_date": "1939", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9296663"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Malcolm, Andrew MacFarlane; age 45; address - Strathfield NSW", 
+        "series": "MT1486/1", 
+        "control_symbol": "MALCOLM/ANDREW MACFARLANE", 
+        "contents_dates": {
+            "date_str": "1918 - 1919", 
+            "start_date": "1918", 
+            "end_date": "1919"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9702433"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MACFARLANE Dugald born 15 March 1935; Mary Miller (nee Russell) born 27 September 1935; John Russell born 19 August 1958; Andrew Redgrift born 23 January 1960; Douglas born 25 August 1962; travelled per CANBERRA departing UK on 26 January 1964 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "26/01/64 CANBERRA MACFARLANE D", 
+        "contents_dates": {
+            "date_str": "1963 - 1964", 
+            "start_date": "1963", 
+            "end_date": "1964"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7345096"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MACFARLANE Duncan John born 18 August 1928; Blanche Mary (nee Harris) born 1 December 1937; Fiona born 20 June 1967; Andrew born 30 November 1968; travelled per aircraft departing UK on 1 June 1969 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "1 JUNE 1969 MACFARLANE D J", 
+        "contents_dates": {
+            "date_str": "1968 - 1969", 
+            "start_date": "1968", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8051974"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MacFARLANE Charles Bingham, Helen Fraser [nee FORD], Neil Stuart, Charles Hanley, Aline Helen, Andrew James departed QANTAS 16 October 1966 [British - migrant selection documents]", 
+        "series": "PP276/1", 
+        "control_symbol": "MACFARLANE C", 
+        "contents_dates": {
+            "date_str": "1966 - 1966", 
+            "start_date": "1966", 
+            "end_date": "1966"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9872771"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MacFARLANE Seamus, Beatrice [nee SHIELDS] James Raymond, Simon Rory, Christopher, Rosamund, Ian Andrew, Julia departed ELLINIS 29 October 1967 [British migrant selection documents, includes black and white photographs]", 
+        "series": "PP316/3", 
+        "control_symbol": "MACFARLANE-BARRON S", 
+        "contents_dates": {
+            "date_str": "1967 - 1967", 
+            "start_date": "1967", 
+            "end_date": "1967"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "30246103"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "John Watson Laird, Norah MacFarlane Laird, Ian Jack Laird, Alan Stewart Laird, Julie Elizabeth Laird, Elaine Barbara Laird and Andrew Watson Laird arrived Sydney per Aircraft, 6 February 1964", 
+        "series": "SP669/1", 
+        "control_symbol": "462", 
+        "contents_dates": {
+            "date_str": "1963 - 1963", 
+            "start_date": "1963", 
+            "end_date": "1963"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "31083307"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Correspondence with applicant Andrew Guthrie and Robert Fleming Macfarlane concerning invention entitled - Improvements in the treatment of complex metallic ores", 
+        "series": "A4618", 
+        "control_symbol": "4204", 
+        "contents_dates": {
+            "date_str": "1893 - 1893", 
+            "start_date": "1893", 
+            "end_date": "1893"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5160176"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Specification for registration of patent by Andrew Guthrie and Robert Fleming Macfarlane titled - Improvements in the treatment of complex metallic ores - Patent not registered", 
+        "series": "A13128", 
+        "control_symbol": "3029", 
+        "contents_dates": {
+            "date_str": "1893 - 1893", 
+            "start_date": "1893", 
+            "end_date": "1893"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9014525"
+    }
+]

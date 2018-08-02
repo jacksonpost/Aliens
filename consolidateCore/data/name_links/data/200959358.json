@@ -1,0 +1,722 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "CAHILL, Clyde McCartney - (Flight Sergeant); Service Number - 428103; File type - Casualty - Repatriation; Aircraft - Lancaster LM 677; Place - Havixbeck, Germany; Date - 3 March 1945", 
+        "series": "A705", 
+        "control_symbol": "166/7/793", 
+        "contents_dates": {
+            "date_str": "1929 - 1960", 
+            "start_date": "1929", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1065248"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FLY, Charles Paton Eric - (Leading Aircraftman); Service Number - 52396; File type - Casualty - Repatriation; Aircraft - Douglas C-47 A30-16; Place - Archerfield, Queensland; Date - 27 March 1943", 
+        "series": "A705", 
+        "control_symbol": "166/13/29", 
+        "contents_dates": {
+            "date_str": "1929 - 1960", 
+            "start_date": "1929", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1067843"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GRADY, James Joseph Brian - (Flight Sergeant); Service Number - 433554; File type - Casualty - Repatriation; Aircraft - Lancaster LM 677; Place - Dortmund-Ems Canal; Date - 4 March 1945", 
+        "series": "A705", 
+        "control_symbol": "166/16/519", 
+        "contents_dates": {
+            "date_str": "1929 - 1960", 
+            "start_date": "1929", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1069429"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MADDEN, Patrick Joseph - (Flight Sergeant); Service Number - 426633; File type - Casualty - Repatriation; Aircraft - Lancaster LM 677; Place - Nottuin, Germany; Date - 4 March 1945", 
+        "series": "A705", 
+        "control_symbol": "166/27/726", 
+        "contents_dates": {
+            "date_str": "1929 - 1960", 
+            "start_date": "1929", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1074313"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WALKER, Alexander Beck - Flight Sergeant); Service Number - 436305; File type - Casualty - Repatriation; Aircraft - Lancaster LM677; Place - Dortmund, Germany; Date - 4 March 1945", 
+        "series": "A705", 
+        "control_symbol": "166/43/1081", 
+        "contents_dates": {
+            "date_str": "1945 - 1960", 
+            "start_date": "1945", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1083121"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECK Charles Robert - 42274 Royal Army Service Corps", 
+        "series": "PP2/11", 
+        "control_symbol": "BP2813", 
+        "contents_dates": {
+            "date_str": "1921 - 1925", 
+            "start_date": "1921", 
+            "end_date": "1925"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "30809747"
+    }, 
+    {
+        "digitised_pages": "28", 
+        "title": "Beck Alfred William : SERN 4434 : POB Ulverstone TAS : POE Adelaide SA : NOK F Beck Robert", 
+        "series": "B2455", 
+        "control_symbol": "BECK A W", 
+        "contents_dates": {
+            "date_str": "circa1914 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3064575"
+    }, 
+    {
+        "digitised_pages": "29", 
+        "title": "Beck Cedric Roy Arthur : SERN 4435 : POB Ulverstone TAS : POE Adelaide SA : NOK F Beck Robert", 
+        "series": "B2455", 
+        "control_symbol": "BECK C R A", 
+        "contents_dates": {
+            "date_str": "circa1914 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3065018"
+    }, 
+    {
+        "digitised_pages": "10", 
+        "title": "Beck Robert Henry : SERN DEPOT 1007 : POB Sydney NSW : POE Adelaide SA : NOK F Beck R", 
+        "series": "B2455", 
+        "control_symbol": "BECK R H", 
+        "contents_dates": {
+            "date_str": "circa1914 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3065177"
+    }, 
+    {
+        "digitised_pages": "21", 
+        "title": "Beck Edward Apsley : SERN DEPOT 93785 : POB Grenfell NSW : POE Sydney NSW : NOK F Beck Robert William", 
+        "series": "B2455", 
+        "control_symbol": "BECK E A", 
+        "contents_dates": {
+            "date_str": "circa1914 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3072018"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "BECK ROBERT CHARLES : Service Number - Q127880 : Date of birth - 16 Jul 1913 : Place of birth - ROMA QLD : Place of enlistment - ROMA QLD : Next of Kin - BECK ELSIE", 
+        "series": "B884", 
+        "control_symbol": "Q127880", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4451293"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECK ROBERT DESMOND : Service Number - QX43734 : Date of birth - 07 Oct 1922 : Place of birth - BRISBANE QLD : Place of enlistment - GROVELY QLD : Next of Kin - BECK D", 
+        "series": "B883", 
+        "control_symbol": "QX43734", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4918127"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECK CECIL JOSEPH : Service Number - NX116667 : Date of birth - 28 Mar 1919 : Place of birth - GOULBURN NSW : Place of enlistment - INGLEBURN NSW : Next of Kin - BECK ROBERT", 
+        "series": "B883", 
+        "control_symbol": "NX116667", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5646962"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECK ROBERT IAN : Service Number - W97117 : Date of birth - 30 Nov 1917 : Place of birth - YEWFIELD HOLTON-LE-MOOR ENGLAND : Place of enlistment - KARRAKATTA WA : Next of Kin - BECK AUDREY", 
+        "series": "B884", 
+        "control_symbol": "W97117", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5876587"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECK ROBERT DOUGLAS : Service Number - V31143 : Date of birth - 19 Dec 1919 : Place of birth - SYDNEY NSW : Place of enlistment - PRAHRAN : Next of Kin - BECK F", 
+        "series": "B884", 
+        "control_symbol": "V31143", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6256554"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECK ROBERT GEORGE : Service Number - S14755 : Date of birth - 29 Mar 1919 : Place of birth - MONT ALBERT VIC : Place of enlistment - UNLEY SA : Next of Kin - BECK GEORGE", 
+        "series": "B884", 
+        "control_symbol": "S14755", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6339387"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECK ROBERT GEORGE : Service Number - SX18197 : Date of birth - 29 Mar 1919 : Place of birth - MONT ALBERT VIC : Place of enlistment - WAYVILLE SA : Next of Kin - BECK DORA", 
+        "series": "B883", 
+        "control_symbol": "SX18197", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6400052"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SMITH ROBERT COLVIL BECK : Service Number - S70814 : Date of birth - 17 Apr 1900 : Place of birth - GRANGE SA : Place of enlistment - WUDINNA SA : Next of Kin - SMITH MABEL", 
+        "series": "B884", 
+        "control_symbol": "S70814", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6412720"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SMITH ROBERT COLIRL BECK : Service Number - S87593 : Date of birth - 17 Apr 1900 : Place of birth - GRANGE SA : Place of enlistment - WUDINNA SA : Next of Kin - SMITH MABEL", 
+        "series": "B884", 
+        "control_symbol": "S87593", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6452578"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Beck, Robert William; age 19; born - Uralla", 
+        "series": "MT1486/1", 
+        "control_symbol": "BECK/ROBERT WILLIAM", 
+        "contents_dates": {
+            "date_str": "1917 - 1917", 
+            "start_date": "1917", 
+            "end_date": "1917"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6513332"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Beck, Robert Desmond; Army Number - Q3862; Date of birth - 07 October 1921", 
+        "series": "B4747", 
+        "control_symbol": "BECK/ROBERT DESMOND", 
+        "contents_dates": {
+            "date_str": "1940 - circa1946", 
+            "start_date": "1940", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9263322"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Jolly, Robert Beck; age 18; address - Rockdale NSW", 
+        "series": "MT1486/1", 
+        "control_symbol": "JOLLY/ROBERT BECK", 
+        "contents_dates": {
+            "date_str": "1916 - 1917", 
+            "start_date": "1916", 
+            "end_date": "1917"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9537225"
+    }, 
+    {
+        "digitised_pages": "20", 
+        "title": "BECK, Robert Clarence A41271", 
+        "series": "A12372", 
+        "control_symbol": "A41271", 
+        "contents_dates": {
+            "date_str": "1953 - 1954", 
+            "start_date": "1953", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "12694246"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LOOIJESTIJN Petrus Johannes Anthonius born 2 March 1911; Hendrika (nee Heemskerk and Bertrand and Beck) born 10 May 1918; Sylvia M G (Beck) born 16 December 1946; Pierre J G born 5 March 1952; Jacquelina D H born 20 April 1950; Robert J A born 10 March 1954 - Dutch - travelled per ship GROOTE BEER departing in 1960 under Netherlands Australian Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "LOOIJESTIJN P J A", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1452717"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JOHNSON William CookMarjorie Hilda [nee BECK] Pamela Diane, Robert William Gerald [Application by British migrants for assisted passage]", 
+        "series": "PP4/1", 
+        "control_symbol": "5316", 
+        "contents_dates": {
+            "date_str": "1951 - 1951", 
+            "start_date": "1951", 
+            "end_date": "1951"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3319332"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Beck, Robert Dunlop", 
+        "series": "P3", 
+        "control_symbol": "T1958/0283", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "3908607"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JACKSON William Robert James born 18 December 1917; Alma Wilton (nee Beck) born 11 January 1921; Daphne born 21 June 1941; Denise Ann born 29 February 1944; Graham James born 20 July 1947; Susan Elaine born 25 January 1954; travelled per STRATHNAVER departing UK on 7 August 1954 under the Ex-servicemens Free Passage Scheme", 
+        "series": "A1877", 
+        "control_symbol": "07/08/1954 STRATHNAVER JACKSON W R J", 
+        "contents_dates": {
+            "date_str": "1948 - 1954", 
+            "start_date": "1948", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7310333"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "TWEED David Robert born 29 September 1930; Jessie Elizabeth (nee Beck) born 20 June 1934; travelled per CANBERRA departing UK on 24 May 1963 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "24/5/63 CANBERRA TWEED D R", 
+        "contents_dates": {
+            "date_str": "1963 - 1963", 
+            "start_date": "1963", 
+            "end_date": "1963"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7337796"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECK John Robert born 18 August 1923; Alice (nee Wait) born 17 October 1930; Gillian born 11 June 1957; travelled per aircraft departing UK on 5 July 1965 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "5 JULY 1965 BECK J R", 
+        "contents_dates": {
+            "date_str": "1964 - 1965", 
+            "start_date": "1964", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7413327"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECK Robert James born 1 May 1945; ; travelled per aircraft departing UK on 7 January 1966 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "7 JANUARY 1966 BECK R J", 
+        "contents_dates": {
+            "date_str": "1965 - 1966", 
+            "start_date": "1965", 
+            "end_date": "1966"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7418780"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECK Robert Vincent born 15 November 1935; Hiske Jemima (nee Tas) born 16 July 1939; Jemima (Harenberg) born 15 January 1962; Chantal (Harenberg) born 25 January 1966 - American - travelled per ship ANGELINA LAURO departing Southampton/England on 6 September 1970", 
+        "series": "A2562", 
+        "control_symbol": "1970/9661", 
+        "contents_dates": {
+            "date_str": "1970 - 1970", 
+            "start_date": "1970", 
+            "end_date": "1970"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7652535"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECK Robert Douglas born 5 December 1939; Judith Ann (nee Shaffer) born 26 September 1941; Shane Alan born 27 August 1969 - United States Citizen - travelled per flight PA811 departing Honolulu/United States of America on 3 August 1971", 
+        "series": "A2562", 
+        "control_symbol": "1971/12369", 
+        "contents_dates": {
+            "date_str": "1971 - 1971", 
+            "start_date": "1971", 
+            "end_date": "1971"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7729987"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECK Robert born 14 January 1876; nationality Hungarian; BECK Magda, age 51; BECK Maria, age 25", 
+        "series": "A997", 
+        "control_symbol": "1939/16", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7921511"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SOUTHGATE Alfred Robert, Alice Kathleen [nee BECK] departed CANBERRA 16 January 1966 [British - migrant selection documents]", 
+        "series": "PP276/1", 
+        "control_symbol": "SOUTHGATE A", 
+        "contents_dates": {
+            "date_str": "1965 - 1966", 
+            "start_date": "1965", 
+            "end_date": "1966"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9873564"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Giovanni Luciano, Albin Lee Cheong, Ramon Grant, wife Bessie Grant, Oscar Le Roy Wilson, Robert Hill, John Diehl, R Taplyn, J. H. Duff, Kermit Dart and wife Irene, Martha J. Dart, Virginia F. Dart, Monzelle Bruce, Evelyn Elias, Ruth Davis [also known as Ruth Beck], Dorothea Sisson, Marguerite Neal, Mr and Mrs C. Colleano, Harry Hunter, wife Alma and son H. Donald Hunter [arrived ex AORANGI in Sydney on 9 April 1937], Walter Lauterbach and 10 unknown Indians [arrived ex AORANGI in Sydney on 9 April 1937] [German and Indian passengers for transhipment and enroute to Germany and India], 18 unknown Chinese [permitted to land] and Daniel Nielsen [re-entry permit] [box 341]", 
+        "series": "SP42/1", 
+        "control_symbol": "C1937/2755", 
+        "contents_dates": {
+            "date_str": "1937 - 1937", 
+            "start_date": "1937", 
+            "end_date": "1937"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "31103192"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECK, Robert Lingle - born 1929 - American/British - [Special Passage Assistance Programme]", 
+        "series": "A2917", 
+        "control_symbol": "SD1973/7134", 
+        "contents_dates": {
+            "date_str": "1973 - 1973", 
+            "start_date": "1973", 
+            "end_date": "1973"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "60207436"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "Peter Yee Wing and seven children [Edith Clara, George Cyril, William James Beck, Robert Phillip, Thomas Albert,  Peter and Edward Ronald.  Include photographs and left and right thumb prints of each child except Edward Ronald.]  [box 132]", 
+        "series": "SP42/1", 
+        "control_symbol": "C1921/10113", 
+        "contents_dates": {
+            "date_str": "1921 - 1923", 
+            "start_date": "1921", 
+            "end_date": "1923"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "30173070"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - BECK Robert Karoly; Nominee - BECK Robert; BECK Magda; nationality Hungarian", 
+        "series": "A261", 
+        "control_symbol": "1945/91", 
+        "contents_dates": {
+            "date_str": "1945 - 1945", 
+            "start_date": "1945", 
+            "end_date": "1945"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7898688"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECK Robert born 30 October 1911; nationality Hungarian; travelled per ORAMA arriving in Sydney on 14 March 1939", 
+        "series": "A12508", 
+        "control_symbol": "25/41", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7257594"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MALCOMSON William Robert born 5 May 1928; Isabel Marie nee Beck born 3 August 1937; Margaret Louise born 11 July 1962; Heather Elaine born 24 July 1964; Beverly Anne born 3 July 1968 - British - arrived per Flight QF 110 departed Gatwick 20 December 1970 under Second Assistance Scheme", 
+        "series": "A2280", 
+        "control_symbol": "MALCOMSON W R", 
+        "contents_dates": {
+            "date_str": "1969 - 1970", 
+            "start_date": "1969", 
+            "end_date": "1970"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7136180"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DUNLAP Charles Robert born 2 July 1932; Ginger Anne (nee Nance Beck) born 5 May 1943; Lori born 31 December 1961; Nikki born 27 June 1963; Jerry Todd born 16 September 1965 - American", 
+        "series": "A2562", 
+        "control_symbol": "1969/4737", 
+        "contents_dates": {
+            "date_str": "1969 - 1969", 
+            "start_date": "1969", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7608568"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BALDWIN Robert William born 7 July 1922; Susan (nee Beck) born 29 June 1923; Pauline Susan born 11 October 1947; Larry Robert born 26 May 1951; Toby Allan born 5 April 1955; travelled per CASTEL FELICE departing UK on 9 September 1963 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "9/09/63 CASTEL FELICE BALDWIN R W", 
+        "contents_dates": {
+            "date_str": "1963 - 1963", 
+            "start_date": "1963", 
+            "end_date": "1963"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7335594"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Robert Karoly Beck", 
+        "series": "ST1233/1", 
+        "control_symbol": "N25682", 
+        "contents_dates": {
+            "date_str": "1942 - 1949", 
+            "start_date": "1942", 
+            "end_date": "1949"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "848502"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUTHOR Clarence Frederick Robert Beck : ADDRESS Bowden, SA : TITLE OF WORK Becky's Street Directory of Adelaide and Suburbs : TYPE OF WORK Literary Work : APPLICANT Clarence Frederick Robert Beck : DATE OF APPLICATION 29 May 1918 : DATE COPYRIGHT REGISTERED Not Registered : WORK ENCLOSED? No", 
+        "series": "A1336", 
+        "control_symbol": "6666", 
+        "contents_dates": {
+            "date_str": "1918 - 1918", 
+            "start_date": "1918", 
+            "end_date": "1918"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3441240"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Robert Karoly Beck [Hungarian - arrived Sydney per ORAMA, 14 Mar 1939. There is no photograph with this item. Box 14]", 
+        "series": "C413", 
+        "control_symbol": "HUNGARIAN/BECK, ROBERT KAROLY", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6807929"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Beck, Robert Karoly; Date of birth - 30 October 1911; Nationality - Hungarian", 
+        "series": "MP1103/1", 
+        "control_symbol": "N1529", 
+        "contents_dates": {
+            "date_str": "1941 - 1942", 
+            "start_date": "1941", 
+            "end_date": "1942"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8613882"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee; Beck, Robert Karoly; Year of birth - [Not given]; Nationality - Hungarian", 
+        "series": "MP1103/2", 
+        "control_symbol": "N1529", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9902842"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Robert Karoly BECK - Nationality: Hungarian - Arrived Sydney per ORAMA on 14 Mar 1939 [Box 13]", 
+        "series": "SP11/5", 
+        "control_symbol": "BECK, ROBERT KAROLY", 
+        "contents_dates": {
+            "date_str": "1939 - 1944", 
+            "start_date": "1939", 
+            "end_date": "1944"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30377369"
+    }
+]

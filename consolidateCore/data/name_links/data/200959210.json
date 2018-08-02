@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "TRAEGER GUSTAV OTTO : Service Number - 48453 : Date of birth - 24 Jul 1910 : Place of birth - STRATHALBYN SA : Place of enlistment - ADELAIDE : Next of Kin - TRAEGER FREDERICK", 
+        "series": "A9301", 
+        "identifier": "4574227", 
+        "control_symbol": "48453", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "TRAEGER Rudi Otto born 9 February 1929; Sieglinde (nee Bonin) born 26 April 1936; Petra born 21 May 1958; Angelika born 25 November 1960; Wolfgang born 21 December 1962 - German - travelled per MIQAN flight departing in 1963 under Australian German Assisted Scheme", 
+        "series": "A2478", 
+        "identifier": "1247481", 
+        "control_symbol": "TRAEGER R O", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "List of Prisoners of War remaining in Barracks (POW) [as of 4 March 1916 - SCHMIDT, UNGER, ARNDT, REISSNER, GERLAND, VICAROVICH, CLARICH, ZILKO Roko, LUTZE Heinrich, BIGELSKI Otto; and prisoners in Fremantle Public Hospital in 1915 - Paul TRAEGER, Rans FLEISCHER, Steve BUDESERLICH, Mick TUNPOR, Jack AYERYLICZ, C VOLLMER, A HOREJSEK, P BOZANICH, Herman SCHIRR, Heinrich LUTZE, K KAERKES, Otto BIGELSKI, Grgo PEGOMET]", 
+        "series": "PP14/1", 
+        "identifier": "751295", 
+        "control_symbol": "5/7/12", 
+        "contents_dates": {
+            "date_str": "1915 - 1916", 
+            "start_date": "1915", 
+            "end_date": "1916"
+        }, 
+        "location": "Perth"
+    }
+]

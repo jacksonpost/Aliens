@@ -1,0 +1,34 @@
+<html ng-App="">
+	<head>
+		<title>a1 name matcher</title>
+	</head>
+	<body ng-controller="matcherControl">
+		<script src="lib/angular.min.js"></script>
+		<script src="lib/fuzzyset.js"></script>
+		<script type="text/javascript">
+		 
+		 function matcherControl($scope, $http){
+
+		 	match_threshhold = 0.8;
+
+		 	$scope.names = [];
+
+		 	$http.get("data/a1-matches.json").success(function(names){
+		 		$scope.names = names;
+		 	});
+		 }
+
+		</script>
+
+
+
+		<ul>
+			<li ng-repeat="n in names">{{n.internName}} <img width="150px" src="http://recordsearch.naa.gov.au/SearchNRetrieve/NAAMedia/ShowImage.aspx?B={{n.internBarcode}}&amp;S=1&amp;T=P">
+				| <a target="_blank" href="http://recordsearch.naa.gov.au/scripts/AutoSearch.asp?O=I&amp;Number={{n.a1barcode}}">{{n.a1title}} - score: {{n.matchScore}}</a></li>
+		</ul>
+
+	</body>
+</html>
+
+
+

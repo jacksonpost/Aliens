@@ -1,0 +1,407 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "NISSEN, Peter Christian - Service Number - 3065", 
+        "series": "PP866/1", 
+        "control_symbol": "M14577", 
+        "contents_dates": {
+            "date_str": "1916 - 1964", 
+            "start_date": "1916", 
+            "end_date": "1964"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "31839069"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NISSEN, Peter Christian - Service Number - 3065", 
+        "series": "PP866/1", 
+        "control_symbol": "H14577", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "31839070"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NISSEN PETER ALEXANDER : Service Number - Q135927 : Date of birth - 22 Feb 1909 : Place of birth - WARWICK QLD : Place of enlistment - MARYBOROUGH QLD : Next of Kin - NISSEN VIOLET", 
+        "series": "B884", 
+        "control_symbol": "Q135927", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4452474"
+    }, 
+    {
+        "digitised_pages": "44", 
+        "title": "NISSEN PETER HINDLE : Service Number - 426375 : Date of birth - 03 Apr 1921 : Place of birth - GYMPIE QLD : Place of enlistment - BRISBANE : Next of Kin - NISSEN EDWARD", 
+        "series": "A9300", 
+        "control_symbol": "NISSEN P H", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5251667"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NISSEN PETER : Service Number - S74863 : Date of birth - 26 Jul 1903 : Place of birth - TINGLEV DENMARK : Place of enlistment - BERRI SA : Next of Kin - NISSEN VERA", 
+        "series": "B884", 
+        "control_symbol": "S74863", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6345376"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NISSEN WILLIAM PETER : Service Number - WX26331 : Date of birth - 21 Sep 1922 : Place of birth - YORK WA : Place of enlistment - NTH FREMANTLE WA : Next of Kin - NISSEN LESLIE", 
+        "series": "B883", 
+        "control_symbol": "WX26331", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6477622"
+    }, 
+    {
+        "digitised_pages": "32", 
+        "title": "NISSEN Peter Christian : Service Number - 3065 : Place of Birth - Castlemaine VIC : Place of Enlistment - Perth WA : Next of Kin - (Sister) MOLLER Annie", 
+        "series": "B2455", 
+        "control_symbol": "NISSEN PETER CHRISTIAN", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7995392"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Carsten Peter Nissen - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1913/9266", 
+        "contents_dates": {
+            "date_str": "1913 - 1913", 
+            "start_date": "1913", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "15665"
+    }, 
+    {
+        "digitised_pages": "23", 
+        "title": "C.R.N. Christian Peter Nissen Jensen - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1920/15833", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "39123"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Arrival per \"Esperance Bay\" of Joseph Hennesy and Peter Nissen - Query re Passport of P Nissen", 
+        "series": "B13", 
+        "control_symbol": "1928/22200", 
+        "contents_dates": {
+            "date_str": "1928 - circa1928", 
+            "start_date": "1928", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "798378"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LARSON Peter Olaf Nissen born 1 June 1938 - Danish - travelled per KLM flight under Intergovernmental Committee European Migration Scheme", 
+        "series": "A2478", 
+        "control_symbol": "LARSON P O N", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1208333"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NISSEN Lars Peter born 10 October 1942 - German - under Australian German Assisted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "NISSEN L P", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1216471"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DUCHOW Hans Wilhelm born 23 December 1925; Karla (nee Nissen) born 30 April 1929; Hans Peter born 14 May 1951; Monika born 18 April 1954 - German - travelled per ship SKAUBRYN departing in 1955 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "DUCHOW H W", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1443900"
+    }, 
+    {
+        "digitised_pages": "21", 
+        "title": "Peter NISSEN - Naturalisation certificate", 
+        "series": "A1", 
+        "control_symbol": "1929/8751", 
+        "contents_dates": {
+            "date_str": "1929 - 1930", 
+            "start_date": "1929", 
+            "end_date": "1930"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1545233"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Nissen, Carl Peter - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1895/A1439", 
+        "contents_dates": {
+            "date_str": "1895 - 1895", 
+            "start_date": "1895", 
+            "end_date": "1895"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1796015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NISSEN Peter Andreas born 25 February 1932; Jennifer Anne [nee Raw] born 14 January 1932; Diana born 21 January 1955; Sarah born 14 July 1956; Andrew Peter born 16  December 1957; Sheila born 29 January 1962 - British - arrived SK 635/QF 738 departed Copenhagen 28 December 1963 under General Assisted Passage Scheme", 
+        "series": "A2560", 
+        "control_symbol": "NISSEN P A", 
+        "contents_dates": {
+            "date_str": "1963 - 1963", 
+            "start_date": "1963", 
+            "end_date": "1963"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7138084"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - NISSEN Carsen Peter; Nominee - NISSEN Peter; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1928/1059", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8162909"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - NISSEN Carsen Peter; Nominee - PALLE Jensen; nationality Danish", 
+        "series": "A261", 
+        "control_symbol": "1927/2077", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8164421"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NISSEN Peter - Application for admission of relative or friend to Australia - HANSEN Andreas", 
+        "series": "D401", 
+        "control_symbol": "SA1947/3/344", 
+        "contents_dates": {
+            "date_str": "1947 - 1953", 
+            "start_date": "1947", 
+            "end_date": "1953"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "12432751"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NISSEN Peter born 1903 -  Nationality: Danish - Arrived Adelaide per Esperance Bay 14 December 1936", 
+        "series": "D4880", 
+        "control_symbol": "DANISH - NISSEN P", 
+        "contents_dates": {
+            "date_str": "1936 - 1936", 
+            "start_date": "1936", 
+            "end_date": "1936"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30827839"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Nissen Peter C", 
+        "series": "PP14/1", 
+        "control_symbol": "4/7/252", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "749796"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Peter Nissen - Applilcation for naturalization", 
+        "series": "B741", 
+        "control_symbol": "V/6833", 
+        "contents_dates": {
+            "date_str": "1929 - 1930", 
+            "start_date": "1929", 
+            "end_date": "1930"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "1116280"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NISSEN Carl Johan Hjalmer; PALLIN Wilhelm; SHELDON August versus GRUNDEN Kensa Greta Maria; GRUNDEN Peter Eric; GRUNDEN Adolph Knut Oscar; GRUNDEN Christina Dorothy Elizabeth, infants appearing by their next friend GILLBERG Lawrence Magnus", 
+        "series": "A10074", 
+        "control_symbol": "1911/22", 
+        "contents_dates": {
+            "date_str": "1911 - 1913", 
+            "start_date": "1911", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3148648"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by John Peter Nissen jr titled - Marking implement", 
+        "series": "A627", 
+        "control_symbol": "30916/1930", 
+        "contents_dates": {
+            "date_str": "1930 - 1930", 
+            "start_date": "1930", 
+            "end_date": "1930"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4219278"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN Christian Peter Nissen - Nationality : German - [Application Form for Registration as Alien]", 
+        "series": "PP14/3", 
+        "control_symbol": "GERMAN/JENSEN C P N", 
+        "contents_dates": {
+            "date_str": "circa1916 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5126382"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NISSEN Lars Peter - Nationality: German - Arrived Melbourne per Aurelia 9 January 1962", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/NISSEN LARS PETER", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6592869"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NISSEN Laio Peter - Nationality: German - Arrived Fremantle per Orcades 5 November 1965", 
+        "series": "D4881", 
+        "control_symbol": "NISSEN LAIO PETER", 
+        "contents_dates": {
+            "date_str": "1957 - 1976", 
+            "start_date": "1957", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9218530"
+    }
+]

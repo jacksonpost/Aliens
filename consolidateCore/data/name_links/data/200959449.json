@@ -1,0 +1,152 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "HELLER ERNST : Service Number - N437739 : Date of birth - 19 Jan 1898 : Place of birth - VIENNA AUSTRIA : Place of enlistment - MOORE PK NSW : Next of Kin - HELLER GASELA", 
+        "series": "B884", 
+        "identifier": "6186491", 
+        "control_symbol": "N437739", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HELLER Ernst - born 13 June 1895 - Stateless [formerly German]", 
+        "series": "A435", 
+        "control_symbol": "1945/4/2992", 
+        "contents_dates": {
+            "date_str": "1944 - 1946", 
+            "start_date": "1944", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6996896"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HELLER Ernst - born 9 January 1898 - Stateless", 
+        "series": "A435", 
+        "control_symbol": "1944/4/5125", 
+        "contents_dates": {
+            "date_str": "1944 - 1963", 
+            "start_date": "1944", 
+            "end_date": "1963"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7027277"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HELLER Ernst born 19 January 1898; Gisela age 43; Edgar Herbert age 15; nationality German; travelled per MORETON BAY arriving in Sydney on 31 July 1939", 
+        "series": "A12508", 
+        "control_symbol": "21/1846", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7128850"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HELLER Ernst born 13 June 1895; Edith age 29; nationality German; travelled per OTRANTO arriving in Melbourne on 15 August 1939", 
+        "series": "A12508", 
+        "control_symbol": "21/1869", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7128873"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HELLER Ernst born 19 January 1898; nationality German; KLEPNER Gisela, age 44; KLEPNER Edgar Herbert, age 15", 
+        "series": "A997", 
+        "control_symbol": "1938/291", 
+        "contents_dates": {
+            "date_str": "1938 - 1938", 
+            "start_date": "1938", 
+            "end_date": "1938"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7843206"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - HELLER Ernst; Nominee - HELLER Fransiska; nationality Austrian", 
+        "series": "A261", 
+        "control_symbol": "1945/599", 
+        "contents_dates": {
+            "date_str": "1945 - 1945", 
+            "start_date": "1945", 
+            "end_date": "1945"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7881550"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - BECK Charles; Nominee - HELLER Ernst; HELLER Gisela; KLEDNER Edgar Herbert; KLEDNER Hans Klimt; KLEDNER Anny; KLEDNER Peter; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1938/153", 
+        "contents_dates": {
+            "date_str": "1938 - 1938", 
+            "start_date": "1938", 
+            "end_date": "1938"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7916133"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Heller, Ernst (Austrian - naturalised British subject) [11 pp; box 49]", 
+        "series": "C123", 
+        "control_symbol": "2420", 
+        "contents_dates": {
+            "date_str": "1940 - 1945", 
+            "start_date": "1940", 
+            "end_date": "1945"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3490195"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Ernst HELLER - Nationality: Austrian - Arrived Sydney per MORETON BAY on 10 Aug 1939 [Box 80]", 
+        "series": "SP11/5", 
+        "control_symbol": "HELLER, ERNST", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30385425"
+    }
+]

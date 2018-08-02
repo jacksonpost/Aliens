@@ -1,0 +1,62 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "SCHARFF Justus - National status", 
+        "series": "A435", 
+        "identifier": "6951581", 
+        "control_symbol": "1950/4/1953", 
+        "contents_dates": {
+            "date_str": "1946 - 1950", 
+            "start_date": "1946", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Justus Scharff - Question of Nationality", 
+        "series": "B741", 
+        "control_symbol": "V/3004", 
+        "contents_dates": {
+            "date_str": "1926 - 1927", 
+            "start_date": "1926", 
+            "end_date": "1927"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "828563"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Justus Scharff Limited versus HAGEN Nicholas", 
+        "series": "A10071", 
+        "control_symbol": "1922/35", 
+        "contents_dates": {
+            "date_str": "1922 - 1922", 
+            "start_date": "1922", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3136817"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Justus Scharff [Box 6]", 
+        "series": "SP43/2", 
+        "control_symbol": "N59/21/564", 
+        "contents_dates": {
+            "date_str": "1914 - 1947", 
+            "start_date": "1914", 
+            "end_date": "1947"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4989061"
+    }
+]

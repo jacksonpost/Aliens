@@ -1,0 +1,152 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "HUBER Wilhelm Leonhard born 19 February 1939 - German - travelled per MIQAN flight departing in 1961 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "HUBER W L", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1242754"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HUBER Wilhelm born 26 February 1932 - German - travelled per ship SKAUBRYN departing in 1955 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "HUBER W", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1443406"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HUBER Wilhelm born 19 June 1930 - German - travelled per CASTEL VERDE departing in 1953", 
+        "series": "A2478", 
+        "control_symbol": "HUBER W", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1474300"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HUBER Wilhelm born 17 January 1928 - German - travelled per ship CASTEL VERDE departing in 1953", 
+        "series": "A2478", 
+        "control_symbol": "HUBER W", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1474987"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HUBER Wilhelm Walter (aka Willy) born 18 July 1940 - Swiss", 
+        "series": "A446", 
+        "control_symbol": "1962/20358", 
+        "contents_dates": {
+            "date_str": "1961 - 1962", 
+            "start_date": "1961", 
+            "end_date": "1962"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7773465"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Johann Wilhelm Huber [Austrian - arrived Melbourne per MARCONI, 24 Jan 1965. Box 57]", 
+        "series": "SP908/1", 
+        "control_symbol": "AUSTRIAN/HUBER  J W", 
+        "contents_dates": {
+            "date_str": "1965 - 1965", 
+            "start_date": "1965", 
+            "end_date": "1965"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4319954"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HUBER Wilhelm - Nationality: Yugoslavian - Arrived Melbourne per Skaubryn 3 July 1955", 
+        "series": "D4881", 
+        "control_symbol": "HUBER WILHELM", 
+        "contents_dates": {
+            "date_str": "1955 - 1976", 
+            "start_date": "1955", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7509758"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HUBER Wilhelm L - Nationality: German - Arrived Melbourne per Aircraft G ANBE 3 July 1961 Departed Commonwealth on 12-Nov-61", 
+        "series": "D4881", 
+        "control_symbol": "HUBER WILHELM L", 
+        "contents_dates": {
+            "date_str": "1961 - 1976", 
+            "start_date": "1961", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9182402"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Wilhelm Walter Huber [Swiss - Arrived Melbourne per CANBERRA 25 January 1962]", 
+        "series": "SP908/1", 
+        "control_symbol": "SWISS/HUBER WILHELM WALTER", 
+        "contents_dates": {
+            "date_str": "1962 - 1968", 
+            "start_date": "1962", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9398291"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Wilhelm Huber [Other nationality: German, Yugoslavian - Arrived Melbourne per SKAUBRYN 03 July 1955]", 
+        "series": "SP908/1", 
+        "control_symbol": "YUGOSLAVIAN/HUBER WILHELM", 
+        "contents_dates": {
+            "date_str": "1955 - 1968", 
+            "start_date": "1955", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9407414"
+    }
+]

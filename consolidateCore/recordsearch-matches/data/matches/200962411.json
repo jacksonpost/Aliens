@@ -1,0 +1,62 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - KINKELA Frank; Nominee - AFRICH Tony; KINKELA John; nationality Italian", 
+        "series": "A261", 
+        "control_symbol": "1927/1432", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7636462"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - KINKELLA Frank; Nominee - KINKELA Josep; nationality Italian", 
+        "series": "A261", 
+        "control_symbol": "1927/1433", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7636463"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - KINKELA Joseph; Nominee - KINKELLA Frank; nationality Italian", 
+        "series": "A261", 
+        "control_symbol": "1927/1435", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7636465"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - SEPIC Frank; Nominee - KINKELA Ivan; nationality Italian", 
+        "series": "A261", 
+        "control_symbol": "1926/1925", 
+        "contents_dates": {
+            "date_str": "1926 - 1926", 
+            "start_date": "1926", 
+            "end_date": "1926"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7639678"
+    }
+]

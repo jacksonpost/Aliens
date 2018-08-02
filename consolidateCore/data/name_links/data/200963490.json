@@ -1,0 +1,137 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "KLOBUSCHITZ Hans born 25 April 1924; Irmgard (nee Leitgeb and Nagel) born 23 February 1930; Willi (Nagel) born 14 May 1948; Edwin (Nagel) born 18 July 1949 - Austrian - travelled per ship FAIRSEA departing in 1957 under Australian Austrian Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "KLOBUSCHITZ H", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1471514"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "Nagel, Hans - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1861/U8001", 
+        "contents_dates": {
+            "date_str": "1861 - 1861", 
+            "start_date": "1861", 
+            "end_date": "1861"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1815442"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Nagel, Hans and wife and family [wife Liesel - daughter Christel - son Peter]", 
+        "series": "P3", 
+        "control_symbol": "T1958/1592", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4095152"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NAGEL Hans born 4 November 1933 - German - travelled per CASTEL FELICE in February 1959", 
+        "series": "A2478", 
+        "control_symbol": "NAGEL H", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7703136"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WEERS Egon Adolf Meinert born 15 December 1922; Elisabeth Hilda Frieda (nee Nagel) born 17 April 1924; Jens born 29 June 1947; Gunter born 29 May 1951; Hans Jurgen (Sachau) born 25 September 1944 - German - travelled per CASTEL FELICE in May 1959", 
+        "series": "A2478", 
+        "control_symbol": "WEERS E A M", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7703544"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NAGEL Hans Adalbert born 13 July 1938 - Swiss", 
+        "series": "A446", 
+        "control_symbol": "1961/33631", 
+        "contents_dates": {
+            "date_str": "1961 - 1962", 
+            "start_date": "1961", 
+            "end_date": "1962"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7773139"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NAGEL Hans Otto - Nationality: German - Arrived Melbourne per Castel Felice 12 February 1959 Departed Commonwealth on 03 February 1962", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/NAGEL HANS OTTO", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5988658"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NAGEL Hans Erich - Nationality: German - Arrived Adelaide per Nelly 3 May 1952", 
+        "series": "D4881", 
+        "control_symbol": "NAGEL HANS ERICH", 
+        "contents_dates": {
+            "date_str": "1952 - 1976", 
+            "start_date": "1952", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7078018"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NAGEL Hans - Nationality: Swiss - Arrived Melbourne per Johan Van Oldenbarnevelt 21 August 1961", 
+        "series": "B78", 
+        "control_symbol": "SWISS/NAGEL HANS", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30762014"
+    }
+]

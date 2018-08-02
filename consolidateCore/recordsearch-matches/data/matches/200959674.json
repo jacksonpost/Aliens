@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "HABERLAND Axel Rudolf Hans born 18 November 1928 - German - travelled per ship FAIRSEA departing in 1956 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "HABERLAND A R H", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1466248"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HABERLAND Hans Rudolf Axel [German]", 
+        "series": "PP381/1", 
+        "control_symbol": "W1964/5552", 
+        "contents_dates": {
+            "date_str": "1956 - 1966", 
+            "start_date": "1956", 
+            "end_date": "1966"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "31126067"
+    }
+]

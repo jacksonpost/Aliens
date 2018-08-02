@@ -1,0 +1,602 @@
+[
+    {
+        "digitised_pages": "14", 
+        "title": "Werner Wilhelm Wolfgang Janicke,", 
+        "series": "A1", 
+        "control_symbol": "1914/10368", 
+        "contents_dates": {
+            "date_str": "1914 - 1916", 
+            "start_date": "1914", 
+            "end_date": "1916"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "29180"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Re Personal statement of Wilhelm Werner Benglsson (or Benson) crew member \"Astoria\"", 
+        "series": "B13", 
+        "control_symbol": "1932/12252", 
+        "contents_dates": {
+            "date_str": "1932 - 1932", 
+            "start_date": "1932", 
+            "end_date": "1932"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "809211"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "John Hilding SJOBERG, Bernhard BLOM, Werner OLSSON and Gunnar Wilhelm PETTERSSON - Swedish deserters ex s/s \"Nordic\" at Melbourne, February 1936. [file includes two Swedish seaman's books]", 
+        "series": "B13", 
+        "control_symbol": "1936/7342", 
+        "contents_dates": {
+            "date_str": "1936 - 1937", 
+            "start_date": "1936", 
+            "end_date": "1937"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "817725"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "STEPHAN Werner Wilhelm born 27 January 1940; Ina Stephan (nee Balkenhol) born 4 March 1940 - German - travelled per MIQAN flight", 
+        "series": "A2478", 
+        "control_symbol": "STEPHAN W W", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1233530"
+    }, 
+    {
+        "digitised_pages": "43", 
+        "title": "WIND Wilhelm born 16 July 1904; Gertrud (nee Tuemmers) born 6 May 1903; Werner born 5 April 1940; Renate born 13 July 1942; Dieter born 12 September 1945; Karin (Malinowski) born 4 September 1946; Marianne born 27 December 1938 - German - travelled per ship SKAUBRYN departing in 1956", 
+        "series": "A2478", 
+        "control_symbol": "WIND W", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1412778"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WILHELM Werner born 17 March 1935 - German - travelled per ship ORION  departing in 1959 under  the Australian/German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "WILHELM W", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1419512"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WILHELM Werner born 2 August 1924; Theda (nee Bohlen) born 20 July 1930; Angelika born 12 December 1953 - German - travelled per ship SKAUBRYN departing in 1956", 
+        "series": "A2478", 
+        "control_symbol": "WILHELM W", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1432638"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLEIN Werner Paul Arthur Wilhelm born 19 January 1920; Ursula (nee Klein) born 22 March 1922; Knut (Mirbach) born 14 November 1945 - German - travelled per ship SKAUBRYN departing in 1956", 
+        "series": "A2478", 
+        "control_symbol": "KLEIN W P A W", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1438039"
+    }, 
+    {
+        "digitised_pages": "22", 
+        "title": "KORPOK Wilhelm born 11 January 1913; Hilegard (nee Gabrisch) born 23 December 1917; Werner born 7 April 1952; Hubert born 28 August 1953 - German - travelled per ship SKAUBRYN departing in 1955 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "KORPOK W", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1443813"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ZIMMERMANN Manfred Wilhelm Werner born 6 October 1938 - German - travelled per ship FLAVIA departing in 1963 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "ZIMMERMANN M W W", 
+        "contents_dates": {
+            "date_str": "1963 - 1963", 
+            "start_date": "1963", 
+            "end_date": "1963"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1454993"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JANSEN Wilhelm Peter born 24 June 1921; Lotte (nee Werner) born 26 May 1927; Peter born 16 May 1948 - German - travelled per ship FAIRSEA departing in 1962 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "JANSEN W P", 
+        "contents_dates": {
+            "date_str": "1962 - 1962", 
+            "start_date": "1962", 
+            "end_date": "1962"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1463252"
+    }, 
+    {
+        "digitised_pages": "25", 
+        "title": "GOLLA Wilhelm Nikolaus born 5 December 1914; Martha (nee Grosser) born 24 December 1914; Ursula born 9 January 1938; Regina born 11 Augsut 1942; Werner born 15 June 1947 - German - travelled per CASTEL VERDE ship departing in 1953 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "GOLLA W N", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1468772"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HUBERT Werner born 30 July 1923; Maria (nee De Bock) born 10 August 1924; Wilhelm born 22 June 1946; Ingeborg born 8 July 1948; Ronald born 9 November 1951 - German - travelled per ship FAIRSEA departing in 1954 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "HUBERT W", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1468999"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER Karl Wilhelm born 13 August 1918; Gertrud (nee Hofmann) born 13 October 1924; Horst Werner born 24 November 1948 - German - travelled per ship FAIRSEA departing in 1954 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "MUELLER K W", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1470364"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WIELAND Werner Friedrich Wilhelm born 13 June 1929 - German - travelled per ship FAIRSEA departing in 1953 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "WIELAND W F W", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1472405"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WERNER Felix born 15 October 1911; Magdalene born 7 April 1909; Wilhelm born 17 November 1939 - German - travelled per ship FAIRSEA departing in 1953 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "WERNER F", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1472785"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ZAHN Wilhelm Werner born 4 April 1930 - German - travelled per ship FAIRSEA departing in 1953 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "ZAHN W W", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1473249"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HEIN Paul Wilhelm born 9 April 1913; Maria (nee Gurski) born 12 July 1914; Ingelore born 26 May 1938; Hans born 15 May 1939; Werner born 29 May 1940", 
+        "series": "A2478", 
+        "control_symbol": "HEIN P W", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1473590"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Werner, Jacob; Kassebaum, Christoph; Jacobs, Wilhelm; Reid, Adolph - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1868/S9223", 
+        "contents_dates": {
+            "date_str": "1868 - 1868", 
+            "start_date": "1868", 
+            "end_date": "1868"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1574271"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Werner, Karl Wilhelm - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "126", 
+        "contents_dates": {
+            "date_str": "1865 - 1865", 
+            "start_date": "1865", 
+            "end_date": "1865"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3170828"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Menzel, Werner Gustav Wilhelm (Navy) PWGA 42149 - Born: 2 January 1917, Oldenburg, Germany - Captured: 27 November 1941, at sea, Indian Ocean, ex KORMORAN - Previously interned: Not known - Arrived Australia: YANDRA 30 November, 1941, Fremantle, Western Australia - Interned: Graytown Victoria - Departed: ORONTES, 21 January 1947 for Cuxhaven, Germany", 
+        "series": "A7919", 
+        "control_symbol": "102366", 
+        "contents_dates": {
+            "date_str": "1943 - 1947", 
+            "start_date": "1943", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "254681"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Von Stejer, Werner Wilhelm", 
+        "series": "MP16/1", 
+        "control_symbol": "1915/3/948", 
+        "contents_dates": {
+            "date_str": "1915 - 1915", 
+            "start_date": "1915", 
+            "end_date": "1915"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "309932"
+    }, 
+    {
+        "digitised_pages": "19", 
+        "title": "GLOCKEMANN WERNER, Fredolin August Wilhelm [Box 149]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N39061", 
+        "contents_dates": {
+            "date_str": "1944 - 1946", 
+            "start_date": "1944", 
+            "end_date": "1946"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "322399"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Wilhelm Werner Goebel [Box 120]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N35310", 
+        "contents_dates": {
+            "date_str": "1945 - 1948", 
+            "start_date": "1945", 
+            "end_date": "1948"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "854245"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Werner Wilhelm Wolgang Janicke", 
+        "series": "B741", 
+        "control_symbol": "V/10915", 
+        "contents_dates": {
+            "date_str": "1917 - 1939", 
+            "start_date": "1917", 
+            "end_date": "1939"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "1098948"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "KERSCHKE, Werner Wilhelm Walter [German]", 
+        "series": "P1184", 
+        "control_symbol": "KERSCHKE W W W", 
+        "contents_dates": {
+            "date_str": "1951 - 1955", 
+            "start_date": "1951", 
+            "end_date": "1955"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1706515"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SEMMLER Albert Wilhelm Werner - Nationality: German - Arrived: Sydney per Aircraft VH-EBO 6 April 1951", 
+        "series": "A1870", 
+        "control_symbol": "SEMMLER A W W", 
+        "contents_dates": {
+            "date_str": "1951 - 1965", 
+            "start_date": "1951", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4030934"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "CZECH Werner Friedrich Wilhelm - Nationality: German - Arrived Melbourne per Castel Bianco 27 December  1951", 
+        "series": "D4878", 
+        "control_symbol": "CZECH W F W", 
+        "contents_dates": {
+            "date_str": "1951 - 1952", 
+            "start_date": "1951", 
+            "end_date": "1952"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4074070"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HUELSDUNK Horst Werner Wilhelm Ludwig - Nationality: German - Arrived Fremantle per Castel Verde 7 July 1953", 
+        "series": "K1331", 
+        "control_symbol": "GERMAN/HUELSDUNK H W W L", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4091702"
+    }, 
+    {
+        "digitised_pages": "10", 
+        "title": "SCHWARZ, Wilhelm Werner - Nationality: German - arrived Melbourne on Fairsea 29 March 1954 - departed Sydney aboard SYDNEY 19 April 1957", 
+        "series": "BP25/1", 
+        "control_symbol": "SCHWARZ W W - GERMAN", 
+        "contents_dates": {
+            "date_str": "1954 - 1957", 
+            "start_date": "1954", 
+            "end_date": "1957"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4383684"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Wilhelm Werner Goebel [German - arrived Melbourne per DUNERA, 3 Sep 1940.  Box 93]", 
+        "series": "SP11/2", 
+        "control_symbol": "GERMAN/GOEBEL WILHELM W", 
+        "contents_dates": {
+            "date_str": "1947 - 1947", 
+            "start_date": "1947", 
+            "end_date": "1947"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5426458"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRUMM Werner Walter Wilhelm - Nationality: German - Arrived Melbourne per Aurelia 10 August 1960 Departed Commonwealth on 22 March 1964", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/KRUMM WERNER WALTER WILHELM", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5801818"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JESERER Werner Wilhelm - Nationality: German - Arrived Melbourne per Skaubryn 3 July 1955", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/JESERER WERNER WILHELM", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5900930"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "CHRISTL Werner Wilhelm - Nationality: German - Arrived Melbourne per Arkadia 22 November 1963", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/CHRISTL WERNER WILHELM", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5914140"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FRAAYE Werner Wilhelm B - Nationality: Dutch - Arrived Melbourne per Oronsay 18 June 1952 Departed Commonwealth on 29 March 1955", 
+        "series": "B78", 
+        "control_symbol": "DUTCH/FRAAYE WERNER WILHELM B", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5974117"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RICHTER Carl Wilhelm Albert Werner - Nationality: Danish - Arrived Melbourne per Oceania 20 November 1953 Departed Commonwealth on 05 January 1954", 
+        "series": "B78", 
+        "control_symbol": "DANISH/RICHTER CARL WILHELM ALBERT WERNER", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5974685"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Werner, Wilhelm - Nationality: German - Alien Registration Certificate No 33 issued 31 October 1916 at Beenleigh", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMAN WERNER WILHELM", 
+        "contents_dates": {
+            "date_str": "1916 - 1923", 
+            "start_date": "1916", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6304336"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WILHELM Werner Otto Willi - Nationality: German - Arrived Melbourne per Skaubryn 16 November 1956", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/WILHELM WERNER OTTO WILLI", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6590910"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WIEBKING Werner Heinrich Wilhelm - Nationality: German - Arrived Melbourne per Castel Felice 26 January 1960", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/WIEBKING WERNER HEINRICH WILHELM", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6602595"
+    }
+]

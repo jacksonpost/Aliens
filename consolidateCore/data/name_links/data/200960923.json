@@ -1,0 +1,17 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "H.W.M. Heinrich Wilhelm Maj Karolus, Naturalisation", 
+        "series": "A1", 
+        "identifier": "30981", 
+        "control_symbol": "1914/16698", 
+        "contents_dates": {
+            "date_str": "1914 - 1915", 
+            "start_date": "1914", 
+            "end_date": "1915"
+        }, 
+        "location": "Canberra"
+    }
+]

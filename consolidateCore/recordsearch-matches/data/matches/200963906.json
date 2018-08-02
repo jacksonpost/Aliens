@@ -1,0 +1,122 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "KRAMER MARTIN OTTO : Service Number - N224779 : Date of birth - 12 Jun 1898 : Place of birth - PROSSNITZ CHECHOSLOVAKIA : Place of enlistment - RANDWICK NSW : Next of Kin - KRAMER MARY", 
+        "series": "B884", 
+        "control_symbol": "N224779", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5697134"
+    }, 
+    {
+        "digitised_pages": "35", 
+        "title": "KRAMER Henry Martin : Service Number - 2345 : Place of Birth - Inverell NSW : Place of Enlistment - Inverell NSW : Next of Kin - (Mother) KRAMER Mary", 
+        "series": "B2455", 
+        "control_symbol": "KRAMER HENRY MARTIN", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7379171"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRAMER Martin Otto - born 12 June 1898 - Stateless", 
+        "series": "A435", 
+        "control_symbol": "1944/4/6647", 
+        "contents_dates": {
+            "date_str": "1944 - 1945", 
+            "start_date": "1944", 
+            "end_date": "1945"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6997285"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - KRAMER Martin Otto; Nominee - KRAMER Leo; KRAMER Else; nationality Stateless", 
+        "series": "A261", 
+        "control_symbol": "1946/2443", 
+        "contents_dates": {
+            "date_str": "1946 - 1946", 
+            "start_date": "1946", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7900931"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRAMER, Henry Martin - Naturalization", 
+        "series": "A446", 
+        "control_symbol": "1972/61885", 
+        "contents_dates": {
+            "date_str": "1971 - 1977", 
+            "start_date": "1971", 
+            "end_date": "1977"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "12128186"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRAMER, Martin Otto alias KRAEMER (Naturalised British Subject - Austrian ) [Box 33]", 
+        "series": "C123", 
+        "control_symbol": "1990", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "3498467"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRAMER Carl Martin - Nationality:  Norwegian - Arrived Melbourne per Aircraft  ZK BGA  14 March 1957", 
+        "series": "B78", 
+        "control_symbol": "1957/KRAMER C", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6031133"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Martin Otto KRAMER - Nationality: Austrian - Arrived Sydney per ORMONDE on 04 May 1939 [Box 102]", 
+        "series": "SP11/5", 
+        "control_symbol": "KRAMER, MARTIN OTTO", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30407720"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Prince Henry Frederik Baumann - Naturalization", 
+        "series": "A1", 
+        "identifier": "29589", 
+        "control_symbol": "1914/12727", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Tasmanian Letters Patent. An improved method of and matters to be employed in the manufacture of coal briquettes - Specification by Henry Mace, Arthur Geoffrey Eagar and William George Baumann", 
+        "series": "A1565", 
+        "control_symbol": "1046", 
+        "contents_dates": {
+            "date_str": "1892 - 1892", 
+            "start_date": "1892", 
+            "end_date": "1892"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5157602"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by Henry Mace, Arthur Geoffrey Eagar and William George Baumann titled - Improved method of and matters to be employed in the manufacture of coal briquettes", 
+        "series": "A12568", 
+        "control_symbol": "1046", 
+        "contents_dates": {
+            "date_str": "1892 - 1892", 
+            "start_date": "1892", 
+            "end_date": "1892"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7786931"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Specification for registration of patent by Henry Mace, Arthur Geoffrey Kagar and William George Baumann titled - An improved method and matters to be employed in the manufacture of coal briquettes - Patent not registered", 
+        "series": "A13128", 
+        "control_symbol": "2740", 
+        "contents_dates": {
+            "date_str": "1892 - 1892", 
+            "start_date": "1892", 
+            "end_date": "1892"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9014236"
+    }
+]

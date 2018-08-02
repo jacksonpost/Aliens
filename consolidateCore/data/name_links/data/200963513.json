@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Application for registration of patent by Ludwig August Ferdinand Vitzdamm titled - Improvements in spring roller blinds or sun shades", 
+        "series": "A13149", 
+        "control_symbol": "8547", 
+        "contents_dates": {
+            "date_str": "1891 - 1891", 
+            "start_date": "1891", 
+            "end_date": "1891"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7568245"
+    }, 
+    {
+        "digitised_pages": "18", 
+        "title": "Specifications for registration of patent by Ludwig August Ferdinand Vitzdamm titled - Improvements in spring roller blinds or sun shades", 
+        "series": "A13150", 
+        "control_symbol": "8547", 
+        "contents_dates": {
+            "date_str": "1891 - 1891", 
+            "start_date": "1891", 
+            "end_date": "1891"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9051005"
+    }
+]

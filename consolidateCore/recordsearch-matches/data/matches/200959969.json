@@ -1,0 +1,332 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "SCHMIDT GERHARD CARL BERNHARD : Service Number - 65674 : Date of birth - 17 Sep 1913 : Place of birth - NEWTOWN NSW : Place of enlistment - SYDNEY : Next of Kin - SCHMIDT BERTHA", 
+        "series": "A9301", 
+        "identifier": "4981298", 
+        "control_symbol": "65674", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Bernhard Wolfram born 1 June 1929; Franziska (nee Eubler) born 24 January 1928; Gisela born 26 May 1949; Gernot born 18 December 1950; Regina born 9 March 1954 - German - travelled under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "SCHMIDT B W", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1226110"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Van Langendonck, Thomas Joseph; Schmidt, Heinrich Bernhard Theodor - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1857/Y2833", 
+        "contents_dates": {
+            "date_str": "1857 - 1857", 
+            "start_date": "1857", 
+            "end_date": "1857"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1811297"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Bernhard born 5 December 1943 - Nationality German -  arrived per Charterflight MIQAN 15/623 EX ROME/ITALY departed 14 March 1967 under General Assisted Passage Scheme", 
+        "series": "A2559", 
+        "control_symbol": "1967/S/1517", 
+        "contents_dates": {
+            "date_str": "1967 - 1967", 
+            "start_date": "1967", 
+            "end_date": "1967"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5280541"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Hermann Bernhard - born 02 September 1895 - German", 
+        "series": "A435", 
+        "control_symbol": "1949/4/12", 
+        "contents_dates": {
+            "date_str": "1933 - 1957", 
+            "start_date": "1933", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6983955"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WARNKE Bernhard born 7 March 1923; Gertrud (nee Schmidt) born 28 January 1931; Walter born 9 February 1948; Gerhard born 19 January 1950; Ruth born 16 July 1952 - German - travelled per ANNA SALEN in December 1954", 
+        "series": "A2478", 
+        "control_symbol": "WARNKE B", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7674786"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Bernhard born 24 April 1934; Brigitta (nee Braeuer) born 3 January 1936; Angelika born 21 March 1954 - German -  travelled per ARCADIA in December 1954", 
+        "series": "A2478", 
+        "control_symbol": "SCHMIDT B", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7675716"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HOFFMANN Bernhard born 5 May 1926; Ruth (nee Schmidt) born 15 July 1931 - German - travelled per CASTEL FELICE in February 1959", 
+        "series": "A2478", 
+        "control_symbol": "HOFFMANN B", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7703010"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - SCHMIDT Bernhard Hermann; Nominee - ISRAEL Christian; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1927/2605", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8165393"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - SCHMIDT Bernhard; Nominee - SCHMIDT Albert; LORENZ Charlotte; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1932/373", 
+        "contents_dates": {
+            "date_str": "1932 - 1932", 
+            "start_date": "1932", 
+            "end_date": "1932"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8174574"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - SCHMIDT Bernhard; Nominee - SCHMIDT Albert; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1933/464", 
+        "contents_dates": {
+            "date_str": "1933 - 1933", 
+            "start_date": "1933", 
+            "end_date": "1933"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8174817"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Bernhard Ernst [German]", 
+        "series": "PP256/1", 
+        "control_symbol": "W1961/2587", 
+        "contents_dates": {
+            "date_str": "1961 - 1961", 
+            "start_date": "1961", 
+            "end_date": "1961"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "30238825"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schmidt, Bernhard Hermann", 
+        "series": "A367", 
+        "control_symbol": "C74851", 
+        "contents_dates": {
+            "date_str": "1943 - 1946", 
+            "start_date": "1943", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "771931"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "SCHMIDT, Gustav Bernhard [German]", 
+        "series": "P1184", 
+        "control_symbol": "SCHMIDT G B", 
+        "contents_dates": {
+            "date_str": "1954 - 1960", 
+            "start_date": "1954", 
+            "end_date": "1960"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1710645"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schmidt, Hermann Bernhard - Nationality: German - Alien Registration Certificate not issued [folio indicates Schmidt was naturalized 12 July 1934]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMAN SCHMIDT H B", 
+        "contents_dates": {
+            "date_str": "1933 - 1934", 
+            "start_date": "1933", 
+            "end_date": "1934"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6303992"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Bernhard Wolfram - Nationality: German - Arrived Melbourne per Aurelia 9 April 1963", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/SCHMIDT BERNHARD WOLFRAM", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6593064"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Bernhard Konrad - Nationality: German - Arrived Sydney per Aircraft QF EG 176 17 March 1967", 
+        "series": "D4881", 
+        "control_symbol": "SCHMIDT BERNHARD KONRAD", 
+        "contents_dates": {
+            "date_str": "1967 - 1976", 
+            "start_date": "1967", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7275829"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Schmidt, Bernhard; Date of birth - 02 September 1895; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "PWQ131", 
+        "contents_dates": {
+            "date_str": "1940 - 1946", 
+            "start_date": "1940", 
+            "end_date": "1946"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8612927"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Bernhard - Nationality: German - Arrived Melbourne per Skaubryn 30 January 1955 Departed Commonwealth on 13 June 1958", 
+        "series": "D4881", 
+        "control_symbol": "SCHMIDT BERNHARD", 
+        "contents_dates": {
+            "date_str": "1955 - 1976", 
+            "start_date": "1955", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9220767"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "SCHMIDT Bernhard born 1934 - Nationality: German - Arrived Melbourne per Skaubryn 30 December 1955", 
+        "series": "D4878", 
+        "control_symbol": "SCHMIDT B", 
+        "contents_dates": {
+            "date_str": "1955 - 1958", 
+            "start_date": "1955", 
+            "end_date": "1958"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9238739"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "SCHMIDT, Gustav Bernhard born 24 october 1895 - nationality German; Pauline born 14 October 1902", 
+        "series": "P1183", 
+        "control_symbol": "4/250 SCHMIDT", 
+        "contents_dates": {
+            "date_str": "1960 - 1970", 
+            "start_date": "1960", 
+            "end_date": "1970"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9597391"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Prisoner of War/Internee; Schmidt, Bernhard; Year of birth - 1895; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "PWQ131", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9901913"
+    }
+]

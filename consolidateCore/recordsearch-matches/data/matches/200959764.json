@@ -1,0 +1,107 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "NEUMANN HILDA CAVELL : Date of birth - 8 December 1915 : Place of birth - SEMAPHORE SA : Next of kin - NEUMANN ADOLF SAMUEL", 
+        "series": "B884", 
+        "identifier": "6471639", 
+        "control_symbol": "NEUMANN HILDA CAVELL", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": "11", 
+        "title": "G.A. Gustav Adolf Neumann - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1915/3024", 
+        "contents_dates": {
+            "date_str": "1915 - 1915", 
+            "start_date": "1915", 
+            "end_date": "1915"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "32364"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NEUMANN Wilhelm Karl Adolf born 25 May 1919; Ilse (nee Ohrstedt) born 3 September 1920 - German", 
+        "series": "A12514", 
+        "control_symbol": "NEUMANN W K A", 
+        "contents_dates": {
+            "date_str": "1965 - 1965", 
+            "start_date": "1965", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7132567"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NEUMANN Fritz Adolf born 26 May 1921 - German - travelled per AURELIA in November 1960", 
+        "series": "A2478", 
+        "control_symbol": "NEUMANN F A", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7688893"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NEUMANN Adolf born 28 September 1940 - German - travelled per CASTEL FELICE on 9 June 1960", 
+        "series": "A2478", 
+        "control_symbol": "NEUMANN A", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7708595"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NEUMANN Adolf - Nationality: German - Arrived Melbourne per Castel Felice 12 July 1960", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/NEUMANN ADOLF", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5919424"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NEUMANN Fritz Adolf - Nationality: Swedish - Arrived Melbourne per Surriento 14 June 1951 Departed Commonwealth on 18 January 1955", 
+        "series": "B78", 
+        "control_symbol": "SWEDISH/NEUMANN FRITZ ADOLF", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5954791"
+    }
+]

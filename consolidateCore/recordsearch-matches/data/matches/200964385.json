@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Albert Herman Ernst Gustav Weisse - Naturalization", 
+        "series": "A1", 
+        "identifier": "29814", 
+        "control_symbol": "1914/13351", 
+        "contents_dates": {
+            "date_str": "1914 - 1915", 
+            "start_date": "1914", 
+            "end_date": "1915"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Albert Herman Weisse", 
+        "series": "MP16/1", 
+        "control_symbol": "1916/148", 
+        "contents_dates": {
+            "date_str": "1914 - 1918", 
+            "start_date": "1914", 
+            "end_date": "1918"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "311612"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WEISSE Albert Hermann: Nationality - German: First registered at Little Bourke Street, Melbourne", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/GERMANY/WEISSE ALBERT", 
+        "contents_dates": {
+            "date_str": "1916 - 1919", 
+            "start_date": "1916", 
+            "end_date": "1919"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5959974"
+    }
+]

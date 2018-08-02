@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Gustav Ferdinand Dentler [Interned] [Correspondence concerning inquiry from Emma Mueller regarding whereabouts of subject] [Box 52]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N10427", 
+        "contents_dates": {
+            "date_str": "1931 - 1931", 
+            "start_date": "1931", 
+            "end_date": "1931"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "847959"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Dentler, Gustav [1914-1918 internee photograph]", 
+        "series": "SP421/4", 
+        "control_symbol": "3827", 
+        "contents_dates": {
+            "date_str": "1914 - 1918", 
+            "start_date": "1914", 
+            "end_date": "1918"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7530114"
+    }
+]

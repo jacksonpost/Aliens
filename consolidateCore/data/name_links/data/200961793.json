@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Bartels, James Arthur [Citizen Military Forces pay file]", 
+        "series": "P806", 
+        "control_symbol": "T11167", 
+        "contents_dates": {
+            "date_str": "by1940 - 1949", 
+            "start_date": null, 
+            "end_date": "1949"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "3392270"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "BARTELS Arthur William - [Civil Constructional Corps - Victoria] number CV104369 - Year of birth 1895", 
+        "series": "B4218", 
+        "control_symbol": "CV104369", 
+        "contents_dates": {
+            "date_str": "1943 - 1945", 
+            "start_date": "1943", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6574930"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "BARTELS JAMES ARTHUR : Service Number - T11167 : Date of birth - 31 May 1917 : Place of birth - LINDISFARNE TAS : Place of enlistment - HUONVILLE TAS : Next of Kin - BARTELS AUGUST", 
+        "series": "B884", 
+        "identifier": "6381152", 
+        "control_symbol": "T11167", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }
+]

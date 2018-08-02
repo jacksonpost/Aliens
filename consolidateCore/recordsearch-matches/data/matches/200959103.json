@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "RATH Karl born 8 June 1937 - Austrian - travelled per AROSA KULM in February 1956", 
+        "series": "A2478", 
+        "identifier": "7679162", 
+        "control_symbol": "RATH K", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": "13", 
+        "title": "RATH Karl - Nationality: Austrian - Arrived Melbourne per Arosa Kulm 20 February 1956", 
+        "series": "D4878", 
+        "control_symbol": "AUSTRIAN - RATH K", 
+        "contents_dates": {
+            "date_str": "1956 - 1960", 
+            "start_date": "1956", 
+            "end_date": "1960"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7189532"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RATH Karl - Nationality: Austrian - Arrived Melbourne per Arosa Kulm 20 February 1956 Departed Commonwealth on 07 Feb 1963", 
+        "series": "D4881", 
+        "control_symbol": "RATH KARL", 
+        "contents_dates": {
+            "date_str": "1956 - 1976", 
+            "start_date": "1956", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7228400"
+    }
+]

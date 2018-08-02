@@ -1,0 +1,137 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "ESSER Karl Erich born 5 September 1927; Marianne (nee Schmidt) born 1 April 1937 - German - travelled under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "ESSER K E", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1224944"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ESSER Karl Heinz born 4 October 1930 - German - travelled per ship FAIRSEA departing in 1954 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "ESSER K H", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1473000"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ESSER Egon born 22 December 1935; Margot born 1 November 1934; Karl born 22 July 1956; Ulrich born 30 August 1958; Juergen born 10 October 1963  - Nationality German arrived per flight PROFLIGHT 9311 LH 690 departed Frankfurt/Main/Germany 31 July 1969.", 
+        "series": "A2559", 
+        "control_symbol": "1969/173/1-5", 
+        "contents_dates": {
+            "date_str": "1969 - 1969", 
+            "start_date": "1969", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5299951"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - ESSER Karl; Nominee - SCHLOR Wilhelm; nationality Austrian", 
+        "series": "A261", 
+        "control_symbol": "1938/667", 
+        "contents_dates": {
+            "date_str": "1938 - 1938", 
+            "start_date": "1938", 
+            "end_date": "1938"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8219053"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Johansson, Karl Esser,  - Nationality: Swedish - arrived Melbourne on the Ocean Clipper 10 February 1956", 
+        "series": "BP25/1", 
+        "control_symbol": "JOHANSSON KARL", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5132337"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ESSER Karl Erich - Nationality: German - Arrived Fremantle per Fairsea 19 June 1962", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/ESSER KARL ERICH", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5922506"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ESSER Karl Heinz - Nationality: German - Arrived Melbourne per Fairsea 10 January 1954", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/ESSER KARL HEINZ", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5922507"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "ESSER Carl [Karl] Ernst: Nationality - Austrian: Date of Birth - 29 June 1876", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/AUSTRIA/ESSER CARL", 
+        "contents_dates": {
+            "date_str": "1917 - 1919", 
+            "start_date": "1917", 
+            "end_date": "1919"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5955740"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ESSER Karl: Nationality - USA", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/AMERICA/ESSER KARL", 
+        "contents_dates": {
+            "date_str": "1924 - 1924", 
+            "start_date": "1924", 
+            "end_date": "1924"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5968900"
+    }
+]

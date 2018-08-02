@@ -1,0 +1,257 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "[THOMSEN Peter Carl (Sergeant) : Service Number - P58101 : Unit - HMAS KUTTABUL, Royal Australian Navy : Date of Court Martial - 22 April 1980]", 
+        "series": "A471", 
+        "identifier": "9807815", 
+        "control_symbol": "93854", 
+        "contents_dates": {
+            "date_str": "1980 - 1980", 
+            "start_date": "1980", 
+            "end_date": "1980"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERSEN RAYMOND THOMSEN : Service Number - QX51190 : Date of birth - 17 Jan 1923 : Place of birth - NAMBOUR QLD : Place of enlistment - WALLANGARRA QLD : Next of Kin - PETERSEN PETER", 
+        "series": "B883", 
+        "control_symbol": "QX51190", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4465247"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "THOMSEN PETER : Service Number - QX36858 : Date of birth - 03 Feb 1901 : Place of birth - TIARO QLD : Place of enlistment - CAIRNS QLD : Next of Kin - THOMSEN ADA", 
+        "series": "B883", 
+        "control_symbol": "QX36858", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4474683"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "THOMSEN PETER CARL : Service Number - R58101 : Date of birth - 22 Mar 1944 : Place of birth - BRISBANE QLD : Place of enlistment - CANBERRA : Next of Kin - LORRAINE", 
+        "series": "A6770", 
+        "control_symbol": "THOMSEN P C", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4525034"
+    }, 
+    {
+        "digitised_pages": "30", 
+        "title": "THOMSEN Hans Peter : Service Number - 5231 : Place of Birth - Tamworth NSW : Place of Enlistment - Liverpool NSW : Next of Kin - (Mother) THOMSEN Mary", 
+        "series": "B2455", 
+        "control_symbol": "THOMSEN HANS PETER", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8390228"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "Application for Certificate of Naturalization Peter Magnus Thomsen Skov", 
+        "series": "A1", 
+        "control_symbol": "1915/615", 
+        "contents_dates": {
+            "date_str": "1915 - 1915", 
+            "start_date": "1915", 
+            "end_date": "1915"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "32141"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Peter Thomsen - Naturalization", 
+        "series": "A63", 
+        "control_symbol": "A1910/5757", 
+        "contents_dates": {
+            "date_str": "1910 - 1910", 
+            "start_date": "1910", 
+            "end_date": "1910"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "54051"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "THOMSEN Peter Niels born 28 June 1938 - Danish - travelled per flight SK935 departing Copenhagen/Denmark on 16 February 1961 under General Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "THOMSEN P N", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1223115"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NIELSEN Hans Peter Paarup born 28 April 1922; Lilly Falk (nee Thomsen) born 26 March 1922; Ole Bjorn Paarup born 5 January 1947; Villy Falk Paarup born 1 April 1949 - Danish - travelled per ship SKAUBRYN departing Bremerhaven/Germany on 30 March 1957 under General Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "NIELSEN H P P", 
+        "contents_dates": {
+            "date_str": "1956 - 1957", 
+            "start_date": "1956", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1439710"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "THOMSEN Bjarne Peter born 9 August 1940 - Danish - travelled per ship FLAMINIA departing Bremerhaven/Germany on 14 March 1959 under Intergovernmental Committee for European Migration", 
+        "series": "A2478", 
+        "control_symbol": "THOMSEN B P", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1458181"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Thomsen, Peter - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1859/M9984", 
+        "contents_dates": {
+            "date_str": "1859 - 1859", 
+            "start_date": "1859", 
+            "end_date": "1859"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1812962"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Thomsen, Peter - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "1540", 
+        "contents_dates": {
+            "date_str": "1883 - 1883", 
+            "start_date": "1883", 
+            "end_date": "1883"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3181289"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Thomsen, Peter - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "1683", 
+        "contents_dates": {
+            "date_str": "1883 - 1884", 
+            "start_date": "1883", 
+            "end_date": "1884"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3181531"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Thomsen, Peter [district register W3/29/23/3]", 
+        "series": "A401", 
+        "control_symbol": "THOMSEN", 
+        "contents_dates": {
+            "date_str": "1914 - 1918", 
+            "start_date": "1914", 
+            "end_date": "1918"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "736484"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Peter Jacob Thomsen - to trace", 
+        "series": "B741", 
+        "control_symbol": "V/4792", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "1104389"
+    }, 
+    {
+        "digitised_pages": "25", 
+        "title": "THOMSEN, Thomas Peter - Nationality: Danish - arrived Port Maryborough on Waiharra 5 March 1915", 
+        "series": "BP25/1", 
+        "control_symbol": "THOMSEN T P - DANISH", 
+        "contents_dates": {
+            "date_str": "1915 - 1949", 
+            "start_date": "1915", 
+            "end_date": "1949"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4064092"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "THOMSEN Ebbe Peter: Nationality - Danish: Date of Birth - 1899: Arrived per SV BELLHOUSE: First Registered at Port Adelaide", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/DENMARK/THOMSEN EBBE", 
+        "contents_dates": {
+            "date_str": "1918 - 1918", 
+            "start_date": "1918", 
+            "end_date": "1918"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5969838"
+    }
+]

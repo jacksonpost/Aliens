@@ -1,0 +1,92 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "De Witt Claremont Smith[ re-entry permit], Heinrich Karl Fischer and wife Constance Mary Fischer [landing permit], Marie Christine Schober and children Bernhard and Grete, Roland Sandford Thompson [subjects permitted to land] [arrived ex AWATEA in Sydney on 12 December 1936], Yasunobu Banno, Fong Sang [arrived ex AWATEA in Sydney on 12 December 1936] [Japanese and Chinese passengers for transhipment and enroute to New Zealand and China] and Mr J. H. Van Den Berkhof [box 334]", 
+        "series": "SP42/1", 
+        "identifier": "31102895", 
+        "control_symbol": "C1936/8076", 
+        "contents_dates": {
+            "date_str": "1936 - 1937", 
+            "start_date": "1936", 
+            "end_date": "1937"
+        }, 
+        "location": "Sydney"
+    }, 
+    {
+        "digitised_pages": "17", 
+        "title": "STEPHENSON Percy Reginald [other persons noted as associates Cecil Murray and Reginald Hartley Thiele, Hugo Theodor Eime S3119, Carl Heinrch Brixner N1649, Rudolf Voss V2172, Karl Schober R36761, Fred J Xaver Scheyer V2189, Walter Krapkat Q272, Johan Heinrich SchmitzQ285, Robert Neilsen Q276 Karl Jurk Q136, RE Giovanni Q30312, Frank Clune, Alexander Mortimer N1506, Edward Cunningham Quicke W4100, John Thomas Kirtley N1638, Thomas H Gilhooley W4107. A poem Barbwire hallade is quoted]", 
+        "series": "D1901", 
+        "control_symbol": "S3164", 
+        "contents_dates": {
+            "date_str": "1942 - 1945", 
+            "start_date": "1942", 
+            "end_date": "1945"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "920722"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "SCHOBER Karl [nationality unknown]", 
+        "series": "P1184", 
+        "control_symbol": "SCHOBER K", 
+        "contents_dates": {
+            "date_str": "1948 - 1948", 
+            "start_date": "1948", 
+            "end_date": "1948"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1850673"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHOBER Karl - Nationality: Austrian - Arrived Perth per Aircraft 09 August 1964 Departed Commonwealth on 16 September 1964", 
+        "series": "B78", 
+        "control_symbol": "AUSTRIAN/SCHOBER KARL", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5922998"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Schober, Karl; Date of birth - 14 June 1905; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "R36761", 
+        "contents_dates": {
+            "date_str": "1941 - 1946", 
+            "start_date": "1941", 
+            "end_date": "1946"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8616563"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Prisoner of War/Internee; Schober, Karl; Year of birth - --05; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "R36761", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9905385"
+    }
+]

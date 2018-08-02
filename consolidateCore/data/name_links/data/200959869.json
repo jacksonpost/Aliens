@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "PFEIL, Harry William - (Leading Aircraftman); Service Number - 26958; File type - Casualty - Repatriation; Place - South Australia; Date - 27 December 1949", 
+        "series": "A705", 
+        "identifier": "1077213", 
+        "control_symbol": "166/32/1012", 
+        "contents_dates": {
+            "date_str": "1949 - 1960", 
+            "start_date": "1949", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "PFEIL Harry William : Service Number - 415 : Date of Birth - 29/05/1907 : Place of Birth - Rosewater, SA : Conflict - WW2", 
+        "series": "A12372", 
+        "identifier": "30704657", 
+        "control_symbol": "R/415/H", 
+        "contents_dates": {
+            "date_str": "03 Jun 1940 - 08 Dec 1952", 
+            "start_date": "1940-06-03", 
+            "end_date": "1952-12-08"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "Pfeil Ronald William", 
+        "series": "A367", 
+        "identifier": "770001", 
+        "control_symbol": "C77795", 
+        "contents_dates": {
+            "date_str": "1943 - 1943", 
+            "start_date": "1943", 
+            "end_date": "1943"
+        }, 
+        "location": "Canberra"
+    }
+]

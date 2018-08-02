@@ -1,0 +1,422 @@
+[
+    {
+        "digitised_pages": "3", 
+        "title": "MUELLER Friedrich Wilhelm [Memorial and Certificates of Naturalizations]", 
+        "series": "A821", 
+        "control_symbol": "SET 2/NO 179", 
+        "contents_dates": {
+            "date_str": "1851 - 1851", 
+            "start_date": "1851", 
+            "end_date": "1851"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "827154"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "MUELLER Carl Traugott Friedrich [Memorial and Certificates of Naturalizations]", 
+        "series": "A821", 
+        "control_symbol": "SET 2/NO 180", 
+        "contents_dates": {
+            "date_str": "1851 - 1851", 
+            "start_date": "1851", 
+            "end_date": "1851"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "827156"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WOBRING Karl Friedrich born 27 January 1920; Elisabeth (nee Mueller) born 10 October 1923; Fritz Michael born 18 July 1950; Ute Angelika born 10 February 1956 - German - travelled per ship SKAUBRYN departing in 1957", 
+        "series": "A2478", 
+        "control_symbol": "WOBRING K F", 
+        "contents_dates": {
+            "date_str": "1956 - 1957", 
+            "start_date": "1956", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1439496"
+    }, 
+    {
+        "digitised_pages": "48", 
+        "title": "Miller, William; Mueller, [Muller] Jacob; Schmidt, Jacob; Jacobs, Henry [Heinrich]; Plier, Louis; Strahmer, Henry; Plier, Friedrich August - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1865/L11146", 
+        "contents_dates": {
+            "date_str": "1865 - 1865", 
+            "start_date": "1865", 
+            "end_date": "1865"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1568826"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Mueller, Heinrich Friedrich Christian - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "1499", 
+        "contents_dates": {
+            "date_str": "1883 - 1883", 
+            "start_date": "1883", 
+            "end_date": "1883"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3181138"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER Siegfried Arno Friedrich born 22 June 1936; Gisela born 19 October 1935; Simone born 28 November 1954; Sabine born 5 March 1961; Frank born 23 April 1963 - Nationality German  -  arrived per ship RHMS QUEEN FREDEICA departed Brehaven/Germany  12 October 1968 under General Assisted Passage Scheme", 
+        "series": "A2559", 
+        "control_symbol": "1968/220/1268-72", 
+        "contents_dates": {
+            "date_str": "1968 - 1968", 
+            "start_date": "1968", 
+            "end_date": "1968"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5302858"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER Karl Friedrich Helmut born 4 April 1938 - German - travelled per CASTEL FELICE in June 1958", 
+        "series": "A2478", 
+        "control_symbol": "MUELLER KFH", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7700444"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KROHNE Friedrich Ernst born 21 January 1930; Gisela (Mueller - fiance) born 18 January 1939 -  German - travelled per CASTEL FELICE in June 1958", 
+        "series": "A2478", 
+        "control_symbol": "KROHNE F E", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7701005"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER Friedrich born 14 February 1926; Annelore (nee Muller) born 6 November 1925; Wolfgang born 11 November 1952 - German -  travelled per CASTEL FELICE in November 1958", 
+        "series": "A2478", 
+        "control_symbol": "MUELLER F", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7701770"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER Friedrich Wilhelm born 7 September 1922; Marianne (nee Knoedler) born 5 October 1931; Karin born 10 April 1954; Heike born 2 June 1957 - German - travelled per CASTEL FELICE on 2 September 1960", 
+        "series": "A2478", 
+        "control_symbol": "MUELLER F W", 
+        "contents_dates": {
+            "date_str": "1959 - 1960", 
+            "start_date": "1959", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7710202"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - KENT Paul Peter; Nominee - LIFTL Mina; MUELLER Friedrich; MUELLER Herta; MUELLER Christine; nationality Austrian and German", 
+        "series": "A261", 
+        "control_symbol": "1947/1265", 
+        "contents_dates": {
+            "date_str": "1947 - 1947", 
+            "start_date": "1947", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7877841"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Mueller, Friedrich", 
+        "series": "MT1078/1", 
+        "control_symbol": "V1959/31802", 
+        "contents_dates": {
+            "date_str": "1959 - 1966", 
+            "start_date": "1959", 
+            "end_date": "1966"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "10409002"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER Friedrich - born 13 January 1900 - German", 
+        "series": "A435", 
+        "control_symbol": "1948/4/283", 
+        "contents_dates": {
+            "date_str": "1947 - 1948", 
+            "start_date": "1947", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "11315999"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER Friedrich -  Application for permit to enter Australia", 
+        "series": "D401", 
+        "control_symbol": "SA 1947/3/581", 
+        "contents_dates": {
+            "date_str": "1946 - 1948", 
+            "start_date": "1946", 
+            "end_date": "1948"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "12475766"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER CARL FRIEDRICH - Application for Naturalisation [Box 70]", 
+        "series": "D400", 
+        "control_symbol": "SA1959/9950", 
+        "contents_dates": {
+            "date_str": "1959 - 1960", 
+            "start_date": "1959", 
+            "end_date": "1960"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "202819357"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Sustenance Allowances - Application by the controller of Dohnert Mueller Schmidt and Company re Josepha Weissflog, Gustav Adolph Weissflog, Ellen Schmidt, Friedrich Wilhelm Schmidt, Friedrich Karl August Hoffman, Lorna Marjorie Hoffman, Fritz George Muller, Julie Anna Muller", 
+        "series": "A472", 
+        "control_symbol": "W672", 
+        "contents_dates": {
+            "date_str": "1940 - 1951", 
+            "start_date": "1940", 
+            "end_date": "1951"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "100040"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Mueller Friedrich", 
+        "series": "A367", 
+        "control_symbol": "C82045", 
+        "contents_dates": {
+            "date_str": "1943 - 1948", 
+            "start_date": "1943", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "768729"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER Karl Friedrich - Nationality: German - Arrived Melbourne per Castel Felice 26 January 1960 Departed Commonwealth on 01 August 1961", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/MUELLER KARL FRIEDRICH", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5717232"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FRIEDRICH Lydia - Nationality: German - Arrived Melbourne per Castel Felice 27 December 1960 Also known as MUELLER", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/FRIEDRICH LYDIA", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5922740"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Friedrich Heinrich Mueller [Also known as: Muller, German - Arrived Melbourne per AURELIA 1 March 1960]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/MUELLER FRIEDRICH HEINRICH", 
+        "contents_dates": {
+            "date_str": "1960 - 1968", 
+            "start_date": "1960", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7602383"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Mueller, Friedrich Johann Richard; Date of birth - 13 Janaury 1900; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "PWGM88036", 
+        "contents_dates": {
+            "date_str": "1942 - 1946", 
+            "start_date": "1942", 
+            "end_date": "1946"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8620226"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER Carl Friedrich - Nationality: German - Arrived Melbourne per Nelly 23 February 1953", 
+        "series": "D4881", 
+        "control_symbol": "MUELLER CARL FRIEDRICH", 
+        "contents_dates": {
+            "date_str": "1953 - 1976", 
+            "start_date": "1953", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9195084"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER Friedrich - Nationality: German - Arrived Fremantle per Adelaide 2 December 1942", 
+        "series": "D4881", 
+        "control_symbol": "MUELLER FRIEDRICH", 
+        "contents_dates": {
+            "date_str": "1942 - 1976", 
+            "start_date": "1942", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9195089"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER Horst Friedrich - Nationality: German - Arrived Melbourne per Flaminia 23 January 1959 Departed Commonwealth on 31 January 1963", 
+        "series": "D4881", 
+        "control_symbol": "MUELLER HORST FRIEDRICH", 
+        "contents_dates": {
+            "date_str": "1959 - 1976", 
+            "start_date": "1959", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9195108"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "MUELLER, Friedrich born 1800 - Nationality: German - Arrived Fremantle per HMAS Adelaide 2 December 1942", 
+        "series": "D4878", 
+        "control_symbol": "MUELLER F", 
+        "contents_dates": {
+            "date_str": "1942 - 1948", 
+            "start_date": "1942", 
+            "end_date": "1948"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9237271"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Prisoner of War/Internee; Mueller, Friedrich Johann Richard; Year of birth - 1900; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "PWGM88036", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9908948"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER, Friedrich Franz born 27 February 1941 - nationality German", 
+        "series": "P1183", 
+        "control_symbol": "17/246 MUELLER", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "60155762"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUELLER, Friedrich Johannes born 14 February 1926 - nationality German", 
+        "series": "P1183", 
+        "control_symbol": "17/248 MUELLER", 
+        "contents_dates": {
+            "date_str": "1958 - 1963", 
+            "start_date": "1958", 
+            "end_date": "1963"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "60155764"
+    }
+]

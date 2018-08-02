@@ -1,0 +1,77 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Bertram, Carl Julius Hans - Memorial of Naturalisation", 
+        "series": "A711", 
+        "identifier": "3187469", 
+        "control_symbol": "3986", 
+        "contents_dates": {
+            "date_str": "1900 - 1900", 
+            "start_date": "1900", 
+            "end_date": "1900"
+        }, 
+        "location": "Adelaide"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BERTRAM Charles Henry William Julius - application for naturalization", 
+        "series": "D1915", 
+        "control_symbol": "SA1059", 
+        "contents_dates": {
+            "date_str": "1924 - 1924", 
+            "start_date": "1924", 
+            "end_date": "1924"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "882224"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Albrand, William [?Julius William Bertram] - Nationality: German - Alien Registration Certificate No 64 issued 6 January 1917 at Mundubbera", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMAN ALBRAND W", 
+        "contents_dates": {
+            "date_str": "1917 - 1918", 
+            "start_date": "1917", 
+            "end_date": "1918"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6298026"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Bertram Julius SCHADE - Nationality: Swedish - Arrived Sydney per MS FALSFERBO on 05 Sep 1927 [Box 174]", 
+        "series": "SP11/5", 
+        "control_symbol": "SCHADE, BERTRAM JULIUS", 
+        "contents_dates": {
+            "date_str": "1939 - 1940", 
+            "start_date": "1939", 
+            "end_date": "1940"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30379851"
+    }
+]

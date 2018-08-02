@@ -1,0 +1,62 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ HERBERT STANLEY : Service Number - Q225822 : Date of birth - 01 Sep 1914 : Place of birth - TOOWOOMBA QLD : Place of enlistment - MILLMERRAN QLD : Next of Kin - SCHULTZ HERMANN", 
+        "series": "B884", 
+        "control_symbol": "Q225822", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4840651"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "SCHULTZ EMIL HERMANN : Service Number - S80246 : Date of birth - 16 Jul 1894 : Place of birth - NURIOOTPA SA : Place of enlistment - NURIOOTPA SA : Next of Kin - SCHULTZ AMUNDA", 
+        "series": "B884", 
+        "control_symbol": "S80246", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6391583"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ Hermann born 13 July 1934; Anna (nee Kuccra) born 25 December 1932 - Austrian - travelled per ship OCEANIA departing in 1958 under Australian Austrian Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "SCHULTZ H", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1449814"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ Rudolf Hermann Arnold born 26 February 1933 - German - travelled per CASTEL FELICE in May 1959", 
+        "series": "A2478", 
+        "control_symbol": "SCHULTZ R H A", 
+        "contents_dates": {
+            "date_str": "1958 - 1959", 
+            "start_date": "1958", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7702997"
+    }
+]

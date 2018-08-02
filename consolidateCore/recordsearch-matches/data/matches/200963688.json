@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "MARTIN Frank Trojan - [Civil Constructional Corps - Victoria] number CV28290D - Year of birth 1884", 
+        "series": "B4218", 
+        "identifier": "6598132", 
+        "control_symbol": "CV28290", 
+        "contents_dates": {
+            "date_str": "Jun 1942 - Feb 1943", 
+            "start_date": "1942-06", 
+            "end_date": "1943-02"
+        }, 
+        "location": "Melbourne"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Trojan Martin", 
+        "series": "PP14/2", 
+        "identifier": "752238", 
+        "control_symbol": "PF/248", 
+        "contents_dates": {
+            "date_str": "1914 - 1916", 
+            "start_date": "1914", 
+            "end_date": "1916"
+        }, 
+        "location": "Perth"
+    }
+]

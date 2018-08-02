@@ -1,0 +1,902 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "DARGIE, Henry Douglas - (Sergeant); Service Number - 415023; File type - Casualty - Repatriation; Aircraft - Lockheed Ventura A59-61; Place - Coffs Harbour, New South Wales; Date - 6 March 1944", 
+        "series": "A705", 
+        "control_symbol": "166/9/20", 
+        "contents_dates": {
+            "date_str": "1943 - 1944", 
+            "start_date": "1943", 
+            "end_date": "1944"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1066204"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Edward Henry", 
+        "series": "B73", 
+        "control_symbol": "C48582", 
+        "contents_dates": {
+            "date_str": "1919 - 1920", 
+            "start_date": "1919", 
+            "end_date": "1920"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5817339"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER, Edward Henry - Service Number - 4860", 
+        "series": "B73", 
+        "control_symbol": "R84165", 
+        "contents_dates": {
+            "date_str": "1917 - 1919", 
+            "start_date": "1917", 
+            "end_date": "1919"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "20608703"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER GEORGE FRANCIS : Service Number - 38214 : Date of birth - 05 Feb 1922 : Place of birth - VICTORIA PARK WA : Place of enlistment - PERTH WA : Next of Kin - MEYER HENRY", 
+        "series": "A9301", 
+        "control_symbol": "38214", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4433373"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER CLARENCE HENRY : Service Number - Q106842 : Date of birth - 01 Apr 1899 : Place of birth - ST KILDA VIC : Place of enlistment - MARYBOROUGH QLD : Next of Kin - MEYER MARJORIE", 
+        "series": "B884", 
+        "control_symbol": "Q106842", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4458712"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER BRUCE SYDNEY : Service Number - 403758 : Date of birth - 09 May 1918 : Place of birth - NEWTOWN NSW : Place of enlistment - SYDNEY : Next of Kin - MEYER HENRY", 
+        "series": "A9300", 
+        "control_symbol": "MEYER B S", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5247587"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BOHNSACK JOHN HOLLIS MEYER : Service Number - 437375 : Date of birth - 16 Aug 1918 : Place of birth - HAMLEY BRIDGE SA : Place of enlistment - PERTH : Next of Kin - BOHNSACK HENRY", 
+        "series": "A9300", 
+        "control_symbol": "BOHNSACK J H M", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5372708"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BOHNSACK ALAN MEYER : Service Number - 457023 : Date of birth - 04 Nov 1926 : Place of birth - HAMLEY BRIDGE SA : Place of enlistment - ADELAIDE : Next of Kin - BOHNSACK HENRY", 
+        "series": "A9301", 
+        "control_symbol": "457023", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5387835"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER NORMAN HENRY : Service Number - NX130865 : Date of birth - 08 Oct 1923 : Place of birth - EPPING NSW : Place of enlistment - NEWCASTLE NSW : Next of Kin - MEYER HENRY", 
+        "series": "B883", 
+        "control_symbol": "NX130865", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5614710"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER HENRY THOMAS : Service Number - VX100232 : Date of birth - 12 Mar 1895 : Place of birth - ASCOT VALE VIC : Place of enlistment - BROADMEADOWS VIC : Next of Kin - MEYER ELIZABETH", 
+        "series": "B883", 
+        "control_symbol": "VX100232", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6047587"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER FREDERICK HENRY : Service Number - N351174 : Date of birth - 20 Oct 1895 : Place of birth - LUCKNOW NSW : Place of enlistment - ORANGE NSW : Next of Kin - MEYER LUCY", 
+        "series": "B884", 
+        "control_symbol": "N351174", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6139751"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BOHNSACK JOHN HOLLIS MEYER : Service Number - S28934 : Date of birth - 16 Aug 1918 : Place of birth - HAMLEY BRIDGE SA : Place of enlistment - KESWICK SA : Next of Kin - BOHNSACK HENRY", 
+        "series": "B884", 
+        "control_symbol": "S28934", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6349931"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BOHNSACK JOHN HOLLIS MEYER : Service Number - SX12595 : Date of birth - 16 Aug 1918 : Place of birth - HAMLEY BRIDGE SA : Place of enlistment - ADELAIDE SA : Next of Kin - BOHNSACK HENRY", 
+        "series": "B883", 
+        "control_symbol": "SX12595", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6397400"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "POTTER DAVID WILLIAM HENRY : Service Number - SX13716 : Date of birth - 15 Sep 1905 : Place of birth - PROSPECT SA : Place of enlistment - ADELAIDE SA : Next of Kin - MEYER ELIZABETH", 
+        "series": "B883", 
+        "control_symbol": "SX13716", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6401864"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER DAVID HENRY : Service Number - WX14336 : Date of birth - 28 Jan 1909 : Place of birth - SYDNEY NSW : Place of enlistment - CLAREMONT WA : Next of Kin - MEYER ADOLPH", 
+        "series": "B883", 
+        "control_symbol": "WX14336", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6460422"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER HENRY : Service Number - W43402 : Date of birth - 27 Sep 1893 : Place of birth - BENDIGO VIC : Place of enlistment - PERTH WA : Next of Kin - MEYER KATHERINE", 
+        "series": "B884", 
+        "control_symbol": "W43402", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6509046"
+    }, 
+    {
+        "digitised_pages": "13", 
+        "title": "MEYER Albert William : Service Number - 80472 : Place of Birth - Donald VIC : Place of Enlistment - Melbourne VIC : Next of Kin - (Father) MEYER Henry August", 
+        "series": "B2455", 
+        "control_symbol": "MEYER ALBERT WILLIAM", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8012570"
+    }, 
+    {
+        "digitised_pages": "35", 
+        "title": "MEYER Arthur Anthony : Service Number - 16443 : Place of Birth - Nairne SA : Place of Enlistment - Adelaide SA : Next of Kin - (Father) MEYER Henry Francis", 
+        "series": "B2455", 
+        "control_symbol": "MEYER ARTHUR ANTHONY", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8012575"
+    }, 
+    {
+        "digitised_pages": "32", 
+        "title": "MEYER Clarence Henry : Service Number - 7575 : Place of Birth - Melbourne VIC : Place of Enlistment - Maryborough QLD : Next of Kin - (Father) MEYER Heinrich", 
+        "series": "B2455", 
+        "control_symbol": "MEYER CLARENCE HENRY", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8012582"
+    }, 
+    {
+        "digitised_pages": "26", 
+        "title": "MEYER Edward Henry : Service Number - 4860 : Place of Birth - Moonee Ponds VIC : Place of Enlistment - Melbourne VIC : Next of Kin - (Mother) MEYER Kathleen", 
+        "series": "B2455", 
+        "control_symbol": "MEYER EDWARD HENRY", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8012584"
+    }, 
+    {
+        "digitised_pages": "56", 
+        "title": "MEYER Heinrich Carl : Service Number - 85 1467 : Place of Birth - Adelaide SA : Place of Enlistment - Keswick SA : Next of Kin - (Father) MEYER Henry", 
+        "series": "B2455", 
+        "control_symbol": "MEYER HEINRICH CARL", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8012599"
+    }, 
+    {
+        "digitised_pages": "25", 
+        "title": "MEYER Henry Thomas : Service Number - 8197 : Place of Birth - Ascot Vale VIC : Place of Enlistment - Melbourne VIC : Next of Kin - (Father) MEYER Frank", 
+        "series": "B2455", 
+        "control_symbol": "MEYER HENRY THOMAS", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8012600"
+    }, 
+    {
+        "digitised_pages": "24", 
+        "title": "MEYER Thomas Edmund : Service Number - 35277 : Place of Birth - Bendigo VIC : Place of Enlistment - Blackboy Hill WA : Next of Kin - (Father) MEYER Henry", 
+        "series": "B2455", 
+        "control_symbol": "MEYER THOMAS EDMUND", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8012618"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "Henry MEYER - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1907/8687", 
+        "contents_dates": {
+            "date_str": "1905 - 1905", 
+            "start_date": "1905", 
+            "end_date": "1905"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8533"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Henry Magnus Theresius MEYER - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1907/11957", 
+        "contents_dates": {
+            "date_str": "1906 - 1906", 
+            "start_date": "1906", 
+            "end_date": "1906"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8852"
+    }, 
+    {
+        "digitised_pages": "12", 
+        "title": "Henry Meyer Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1915/12173", 
+        "contents_dates": {
+            "date_str": "1915 - 1915", 
+            "start_date": "1915", 
+            "end_date": "1915"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "33155"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BEIJ Hendrikus Cornelis born 10 May 1916; Adriana (nee Meyer and Hijma) born 18 July 1931; Marianne Christine born 3 December 1943; Henry M B born 14 May 1948; Hijma Marianne born 22 October 1950; Hans born 4 September 1954; Annemieke born 26 September 1957; Patricia L born 13 February 1960 - Dutch - travelled per WATERMAN under Netherlands Australian Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "BEIJ H C", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1200274"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Harald Juergen Bernhard born 4 May 1932; Annemarie Hertha (nee Gross) born 12 April 1926; Uwe Bernhard born 15 September 1957; Henry Wilhelm born 15 April 1947 - German - travelled per FLAMINIA under Australian German Assisted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "MEYER H J B", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1426439"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Rolf Henry born 14 April 1931; Liesel (nee Wolff) born 25 September 1932; Michael born 1 May 1952 - German - travelled under Australian German Assisted Passage Scheme in 1954", 
+        "series": "A2478", 
+        "control_symbol": "MEYER R H", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1442787"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Christian Henry Christopher - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1887/J9379", 
+        "contents_dates": {
+            "date_str": "1887 - 1887", 
+            "start_date": "1887", 
+            "end_date": "1887"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1750034"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Anderson, Charles; Meyer, Christian Henry Christopher - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1887/H9114", 
+        "contents_dates": {
+            "date_str": "1887 - 1887", 
+            "start_date": "1887", 
+            "end_date": "1887"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1750040"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Henry - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1889/M414", 
+        "contents_dates": {
+            "date_str": "1889 - 1889", 
+            "start_date": "1889", 
+            "end_date": "1889"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1758521"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Henry - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1895/A2663", 
+        "contents_dates": {
+            "date_str": "1895 - 1895", 
+            "start_date": "1895", 
+            "end_date": "1895"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1797252"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Henry - naturalisation - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1897/F1389", 
+        "contents_dates": {
+            "date_str": "1897 - 1897", 
+            "start_date": "1897", 
+            "end_date": "1897"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1807493"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Moellenbaeck, Augustus George; Fratzscher, Edward; Leddin, Martin; Seymour, Fredrik; Voss, Henry; Meyer, Jurgen Heinrich - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "H1854/8877", 
+        "contents_dates": {
+            "date_str": "1854 - 1854", 
+            "start_date": "1854", 
+            "end_date": "1854"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1810873"
+    }, 
+    {
+        "digitised_pages": "107", 
+        "title": "Gluth, Wilhelm Gustav; Harbech, Hans; Bansch, Johann Friedrich August; Rosenbrock, Friedrich; Rapp, Martin; Beck, Johann Georg; Schroder, Heinrich; Meyer, George; Horn, Johann Nicolaus; Bogel, Carl Wilhelm; Wilkens, Wilhelm; Huesker, Heinrich Engelbert Joseph; Hoefelmeier, Friedrich Gerhard; Beck, Jacob Friedrich; Wilde, Friedrich; Wipken [Wielken], Herman; Medge, Wilhelm; Hahlbohm, Johannes; Gluth, Charles Henry; Ebeling, Claus; Juergens, August; Bevers, Jochim Hinrich; Bevers, Hermann; Wohlbeck, Johann Henry; Everhard, Ernst; Schroeder, Friedrich; Strobel, Heinrich; Fleischer, George; Pfutzner, Carl; Dittmer, Gottlieb; Meyer, Cord; Brakenwagen, John Henry; Kroeger, Theodor; Siegfried, Johann; - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1862/V941", 
+        "contents_dates": {
+            "date_str": "1862 - 1862", 
+            "start_date": "1862", 
+            "end_date": "1862"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1814068"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Meyer, [aka Meier], Henry - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1861/U6968", 
+        "contents_dates": {
+            "date_str": "1861 - 1861", 
+            "start_date": "1861", 
+            "end_date": "1861"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1815316"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Henry - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1897/E1871", 
+        "contents_dates": {
+            "date_str": "1897 - 1897", 
+            "start_date": "1897", 
+            "end_date": "1897"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1833992"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Henry - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1900/M2600", 
+        "contents_dates": {
+            "date_str": "1900 - 1900", 
+            "start_date": "1900", 
+            "end_date": "1900"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1907766"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Henry - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1900/M10264", 
+        "contents_dates": {
+            "date_str": "1900 - 1900", 
+            "start_date": "1900", 
+            "end_date": "1900"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1909254"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Meyer, Henry - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1902/P5168", 
+        "contents_dates": {
+            "date_str": "1902 - 1902", 
+            "start_date": "1902", 
+            "end_date": "1902"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1940715"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Meyer, Henry - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "2690", 
+        "contents_dates": {
+            "date_str": "1891 - 1891", 
+            "start_date": "1891", 
+            "end_date": "1891"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3184234"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER John Israel born 12 March 1883; Henry aged 52; nationality German; travelled per CATHAY arriving in Sydney on 2 May 1939", 
+        "series": "A12508", 
+        "control_symbol": "21/3009", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7120675"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Claus Henry Christin", 
+        "series": "MP16/1", 
+        "control_symbol": "1915/3/1178", 
+        "contents_dates": {
+            "date_str": "1915 - 1920", 
+            "start_date": "1915", 
+            "end_date": "1920"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "309155"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "List of Prisoners of War under 17 years and over 50 years of age [Christian VOLLMER, Albert MEYER, Carl Wilhelm KOCH, George Heinrich Johann STAHL, August Max GRUBEL, Heinrich Carl George KUSSIN, Hermann HOENE, Fritz Berthold SCHUMANN, Ferdinand HEIN, Martin MOSBACHER, Karl John MILLER, Felix BARTELS, Franz Joesph Wilhelm CRAMER, Ernest Hermann TSCHIRPIG, James John Albert MILLAR, August Robert RACTKE, Johann Carl HOFFMAN, Ivan JUJNOVICH, Ivan KATNICH, Visko ACALINOVIC, Blaz POLJICAK, Fritz WULFING, Harry BROWN, Andria VLAHOR, Anton RATKE, Carl Heinrich Wilhelm LORENTZ, Julius BLASCHEK, Marko TUNPOR, Ivan ANTULUOV,  Ivan STARCEVIC, Stepan BUDESELICH, Jure RAVLICH, Anton SPLIVALO, Juraj MATKOVICH, Juraj STARCOVIC, Frederick MENZEN, JOseph SKARIFF, Carl MEYER, Henry TAPKEN, Edward SCHMIDT, Ivan BOSICH]", 
+        "series": "PP14/1", 
+        "control_symbol": "16/1/59", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "751599"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Henry Edward", 
+        "series": "A367", 
+        "control_symbol": "C65306", 
+        "contents_dates": {
+            "date_str": "1941 - 1947", 
+            "start_date": "1941", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "781713"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Henry Edward", 
+        "series": "D1901", 
+        "control_symbol": "M543", 
+        "contents_dates": {
+            "date_str": "1942 - 1944", 
+            "start_date": "1942", 
+            "end_date": "1944"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "917795"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Henry Magnus Thersius (German born - naturalised British subject) [0.25 cm; box 44]", 
+        "series": "C123", 
+        "control_symbol": "2287", 
+        "contents_dates": {
+            "date_str": "1940 - 1940", 
+            "start_date": "1940", 
+            "end_date": "1940"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3433174"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Henry (German - naturalised British subject) [Box 82]", 
+        "series": "C123", 
+        "control_symbol": "3199", 
+        "contents_dates": {
+            "date_str": "1940 - 1946", 
+            "start_date": "1940", 
+            "end_date": "1946"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4042027"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Tasmanian Letters Patent . Improvements in Tamping Plugs - Richard Henry Vesey, George Scott Sanderson, Walter Scott Sanderson, William Frederick Meyer, Albert Howard Low, Charles Flanders Dodge and Charles Samuel Haughwout", 
+        "series": "A1565", 
+        "control_symbol": "3077", 
+        "contents_dates": {
+            "date_str": "1901 - 1901", 
+            "start_date": "1901", 
+            "end_date": "1901"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5034286"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Trade Mark titled S Paull's Insect Powder Dragon Brand in respect of insect destroying powder - by John Henry Meyer trading as John H. Meyer  and Company", 
+        "series": "A11731", 
+        "control_symbol": "3779", 
+        "contents_dates": {
+            "date_str": "1894 - 1894", 
+            "start_date": "1894", 
+            "end_date": "1894"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5039091"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Henry Wolfgang - Nationality: American - Arrived Melbourne per Aircraft 21 June 1956 Departed Commonwealth on 02 July 1956", 
+        "series": "B78", 
+        "control_symbol": "AMERICAN/MEYER HENRY WOLFGANG", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5749768"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Henry Adolph (Australian born of German born father) [Box 273]", 
+        "series": "C123", 
+        "control_symbol": "9111", 
+        "contents_dates": {
+            "date_str": "1939 - 1940", 
+            "start_date": "1939", 
+            "end_date": "1940"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7298588"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Henry Meyer [German - Arrived Sydney per OCEANIA 2 March 1952]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/MEYER HENRY", 
+        "contents_dates": {
+            "date_str": "1952 - 1968", 
+            "start_date": "1952", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7602201"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BROWNETT Charles Alfred; MULLINS Henry Michael; HAINS George Meyer; SHELLEY Edwin Percy; DUNBAR John Stuart versus NEWTON Stanley Lipscombe [on appeal from the New South Wales Supreme Court]", 
+        "series": "A10071", 
+        "control_symbol": "1940/55", 
+        "contents_dates": {
+            "date_str": "1940 - 1941", 
+            "start_date": "1940", 
+            "end_date": "1941"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8351201"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Meyer, Henry Edward; Date of birth - 23 February 1906; Nationality - British", 
+        "series": "MP1103/1", 
+        "control_symbol": "W4085", 
+        "contents_dates": {
+            "date_str": "1941 - 1944", 
+            "start_date": "1941", 
+            "end_date": "1944"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8614731"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Meyer, Henry Carl Martin; Date of birth - 25 May 1901; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "PWGA42134", 
+        "contents_dates": {
+            "date_str": "1941 - 1947", 
+            "start_date": "1941", 
+            "end_date": "1947"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8619810"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Prisoner of War/Internee; Meyer, Henry Edward; Year of birth - 1906; Nationality - British subject", 
+        "series": "MP1103/2", 
+        "control_symbol": "W4085", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9903603"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Prisoner of War/Internee; Meyer, Henry Carl Martin; Year of birth - 1901; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "PWGA42134", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9908636"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Applicant - DOROTICH Jakov; Nominee - ZITKO Nicholas; ILICH Nicholas; nationality Yugoslavian", 
+        "series": "A261", 
+        "identifier": "7612400", 
+        "control_symbol": "1925/163", 
+        "contents_dates": {
+            "date_str": "1925 - 1925", 
+            "start_date": "1925", 
+            "end_date": "1925"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Ilich Ivan and Jakov", 
+        "series": "PP14/1", 
+        "control_symbol": "5/1/236", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "750738"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Batistich Marin, Feuerstein GFE, Ilich Jakov", 
+        "series": "PP14/1", 
+        "control_symbol": "5/2/63", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "750812"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Ilich Jakov", 
+        "series": "PP14/1", 
+        "control_symbol": "5/3/60", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "751075"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "ILICH Jakov and BOZIN Ivan", 
+        "series": "PP14/1", 
+        "control_symbol": "5/12/143", 
+        "contents_dates": {
+            "date_str": "1918 - 1918", 
+            "start_date": "1918", 
+            "end_date": "1918"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "751453"
+    }, 
+    {
+        "digitised_pages": "56", 
+        "title": "VIDAKOVICH Ivan [Alien registration, application for naturalisation, application for admission of Marija RUIJANCIC, Mate ILICH [Matij ILIC], Toni VLOSTALICK, Jakov IVICEVICA, Nikola DOROTIC,  Mate SIKIRIC, Andrija BATISTIC  to Australia, Ivan and Ana VIDAKOVICH, Pavel ILICH, Nilola RADISIC]", 
+        "series": "PP302/1", 
+        "control_symbol": "WA3128", 
+        "contents_dates": {
+            "date_str": "1916 - 1939", 
+            "start_date": "1916", 
+            "end_date": "1939"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1596981"
+    }
+]

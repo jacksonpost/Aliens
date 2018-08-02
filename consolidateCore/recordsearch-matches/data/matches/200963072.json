@@ -1,0 +1,62 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Vulin, Bene - Naturalisation [8 pages]", 
+        "series": "A1", 
+        "identifier": "1617954", 
+        "control_symbol": "1924/24319", 
+        "contents_dates": {
+            "date_str": "1914 - 1924", 
+            "start_date": "1914", 
+            "end_date": "1924"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Vulin Bene", 
+        "series": "PP14/1", 
+        "control_symbol": "2/1/21", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "747871"
+    }, 
+    {
+        "digitised_pages": "29", 
+        "title": "Complaints Prisoners of War Rottnest [Paul KUKULAS, Bene VULIN, Wictor ROCA, Victor TERCIN, Petar ZAFRANOVICH, Dragi KUNPARE, Ljubica LJUBOMOROVICH", 
+        "series": "PP14/2", 
+        "control_symbol": "PF/640", 
+        "contents_dates": {
+            "date_str": "1915 - 1915", 
+            "start_date": "1915", 
+            "end_date": "1915"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "752820"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "VULIN Bene - Nationality : Austrian - [Application Form for Registration as Alien]", 
+        "series": "PP14/3", 
+        "control_symbol": "AUSTRIAN/VULIN B", 
+        "contents_dates": {
+            "date_str": "circa1916 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4303285"
+    }
+]

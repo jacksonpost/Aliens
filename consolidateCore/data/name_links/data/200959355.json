@@ -1,0 +1,107 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Carl William Theodor HOFFMANN - Naturalisation", 
+        "series": "A1", 
+        "identifier": "7748", 
+        "control_symbol": "1907/373", 
+        "contents_dates": {
+            "date_str": "1907 - 1907", 
+            "start_date": "1907", 
+            "end_date": "1907"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Theodor Samuel Hoffmann [German - arrived Sydney per QUEEN ELIZABETH, 15 Aug 1941.  Box 94]", 
+        "series": "SP11/2", 
+        "control_symbol": "GERMAN/HOFFMANN T S", 
+        "contents_dates": {
+            "date_str": "1941 - 1947", 
+            "start_date": "1941", 
+            "end_date": "1947"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5426543"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Theodor Samuel Hoffmann [German - arrived Sydney per QUEEN ELIZABETH, 15 Aug 1941. Box 318]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/HOFFMANN THEODOR SAMUEL", 
+        "contents_dates": {
+            "date_str": "1941 - 1948", 
+            "start_date": "1941", 
+            "end_date": "1948"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7532189"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Hoffmann, Theodor Sam; Date of birth - 27 Janaury 1893; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "P35851", 
+        "contents_dates": {
+            "date_str": "1941 - 1945", 
+            "start_date": "1941", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8615744"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Hoffmann, Paul Theodor; Date of birth - 02 October 1931; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "P35860", 
+        "contents_dates": {
+            "date_str": "1941 - 1946", 
+            "start_date": "1941", 
+            "end_date": "1946"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8615753"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Prisoner of War/Internee; Hoffmann, Theodor Sam; Year of birth - --93; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "35851", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9904594"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Prisoner of War/Internee; Hoffmann, Paul Theodor; Year of birth - --31; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "35860", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9904603"
+    }
+]

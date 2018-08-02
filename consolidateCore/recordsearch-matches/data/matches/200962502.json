@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Wilhelm Zick Naturalization", 
+        "series": "A1", 
+        "identifier": "31633", 
+        "control_symbol": "1914/20253", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "William [Wilhelm] Zick [Interned] [Box 48]", 
+        "series": "ST1233/1", 
+        "identifier": "847887", 
+        "control_symbol": "N7151", 
+        "contents_dates": {
+            "date_str": "1915 - 1929", 
+            "start_date": "1915", 
+            "end_date": "1929"
+        }, 
+        "location": "Sydney"
+    }
+]

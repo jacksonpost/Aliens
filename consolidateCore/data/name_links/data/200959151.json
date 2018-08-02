@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Trading with Enemy Act 1939 - J S Corden & Co (Vic) Pty Ltd with Johann Heinrich Poppe - Hamburg, Germany", 
+        "series": "B13", 
+        "control_symbol": "1939/50863", 
+        "contents_dates": {
+            "date_str": "1939 - circa1939", 
+            "start_date": "1939", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "824908"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Poppe, Diedrich Ludwig Heinrich - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1896/D9726", 
+        "contents_dates": {
+            "date_str": "1896 - 1896", 
+            "start_date": "1896", 
+            "end_date": "1896"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1801335"
+    }
+]

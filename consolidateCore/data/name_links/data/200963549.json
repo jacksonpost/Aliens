@@ -1,0 +1,917 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "KRUSE, Jens  Chrastuf Jensen  [3 pp]", 
+        "series": "B4228", 
+        "control_symbol": "CQ18275", 
+        "contents_dates": {
+            "date_str": "1944 - 1945", 
+            "start_date": "1944", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3410943"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OLSEN, Jens Jensen - Service Number - 1472", 
+        "series": "PP865/1", 
+        "control_symbol": "M1131", 
+        "contents_dates": {
+            "date_str": "1916 - 1960", 
+            "start_date": "1916", 
+            "end_date": "1960"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "31846501"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OLSEN, Jens Jensen - Service Number - 1472", 
+        "series": "PP865/1", 
+        "control_symbol": "H1131", 
+        "contents_dates": {
+            "date_str": "1957 - 1961", 
+            "start_date": "1957", 
+            "end_date": "1961"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "31846502"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN KEITH JOHN : Service Number - QX36413 : Date of birth - 10 May 1919 : Place of birth - GATTON QLD : Place of enlistment - KINGAROY QLD : Next of Kin - JENSEN JENS", 
+        "series": "B883", 
+        "control_symbol": "QX36413", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4474018"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN JENS PETER : Service Number - QX39359 : Date of birth - 19 Jul 1917 : Place of birth - KINGAROY QLD : Place of enlistment - YARRAMAN QLD : Next of Kin - JENSEN M", 
+        "series": "B883", 
+        "control_symbol": "QX39359", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4476690"
+    }, 
+    {
+        "digitised_pages": "14", 
+        "title": "JENSEN ANDREW : Service Number - QX44665 : Date of birth - 15 Jun 1922 : Place of birth - KINGAROY QLD : Place of enlistment - GYMPIE QLD : Next of Kin - JENSEN JENS", 
+        "series": "B883", 
+        "control_symbol": "QX44665", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4489413"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN JENS RASMUS : Service Number - NX54074 : Date of birth - 11 Sep 1914 : Place of birth - MITCHELL QLD : Place of enlistment - PADDINGTON NSW : Next of Kin - JENSEN SOFIE", 
+        "series": "B883", 
+        "control_symbol": "NX54074", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4623706"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN JENS CHRISTIAN : Service Number - QX5773 : Date of birth - 03 May 1910 : Place of birth - TANNEYMOREL QLD : Place of enlistment - TOOWOOMBA QLD : Next of Kin - JENSEN NIELSINE", 
+        "series": "B883", 
+        "control_symbol": "QX5773", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4838568"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN JOYCE MARION : Service Number - Q142238 : Date of birth - 12 Sep 1919 : Place of birth - BRISBANE QLD : Place of enlistment - BRISBANE QLD : Next of Kin - JENSEN JENS", 
+        "series": "B884", 
+        "control_symbol": "Q142238", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4928063"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN JENS PETER : Service Number - W73995 : Date of birth - 20 Sep 1886 : Place of birth - MOENS HERRED DENMARK : Place of enlistment - KULIN WA : Next of Kin - JENSEN RACHEL", 
+        "series": "B884", 
+        "control_symbol": "W73995", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5884930"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN GEORGE EDWARD : Service Number - W73982 : Date of birth - 24 Apr 1923 : Place of birth - WICKEPIN WA : Place of enlistment - KULIN WA : Next of Kin - JENSEN JENS", 
+        "series": "B884", 
+        "control_symbol": "W73982", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5884955"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN DORIS MAIDA : Service Number - N389378 : Date of birth - 22 Jul 1915 : Place of birth - ALLORA QLD : Place of enlistment - PADDINGTON NSW : Next of Kin - JENSEN JENS", 
+        "series": "B884", 
+        "control_symbol": "N389378", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6192372"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN JOY AUGUSTA : Service Number - WX33974 : Date of birth - 19 Sep 1914 : Place of birth - MARVEL LOCH WA : Place of enlistment - PERTH WA : Next of Kin - JENSEN JENS", 
+        "series": "B883", 
+        "control_symbol": "WX33974", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6384679"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN WALTER THEODORE : Service Number - WX9354 : Date of birth - 22 May 1919 : Place of birth - NARROGIN WA : Place of enlistment - CLAREMONT WA : Next of Kin - JENSEN JENS", 
+        "series": "B883", 
+        "control_symbol": "WX9354", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6459804"
+    }, 
+    {
+        "digitised_pages": "53", 
+        "title": "JENSEN Frederick Charles Jens : Service Number - 1887 : Place of Birth - Brisbane QLD : Place of Enlistment - Brisbane QLD : Next of Kin - (Brother) JENSEN L", 
+        "series": "B2455", 
+        "control_symbol": "JENSEN FREDERICK CHARLES JENS", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7360653"
+    }, 
+    {
+        "digitised_pages": "41", 
+        "title": "JENSEN Hans Peter : Service Number - 2924a : Place of Birth - Magenstrup Denmark : Place of Enlistment - Toowoomba QLD : Next of Kin - (Brother) JENSEN Jens", 
+        "series": "B2455", 
+        "control_symbol": "JENSEN HANS PETER", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7360660"
+    }, 
+    {
+        "digitised_pages": "18", 
+        "title": "JENSEN Jens : Service Number - 461 : Place of Birth - Eshildstrup Denmark : Place of Enlistment - Narrabri NSW : Next of Kin - (Father) JENSEN Christian", 
+        "series": "B2455", 
+        "control_symbol": "JENSEN JENS", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7360671"
+    }, 
+    {
+        "digitised_pages": "14", 
+        "title": "JENSEN Jens Peter : Service Number - 2723 : Place of Birth - Cowra NSW : Place of Enlistment - Warwick Farm NSW : Next of Kin - (Father) JENSEN Kresten Estrup", 
+        "series": "B2455", 
+        "control_symbol": "JENSEN JENS PETER", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7360672"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Jensen, Jens Peter; age 39; born - Denmark; address - Cowra NSW", 
+        "series": "MT1486/1", 
+        "control_symbol": "JENSEN/JENS PETER", 
+        "contents_dates": {
+            "date_str": "1920 - 1921", 
+            "start_date": "1920", 
+            "end_date": "1921"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9539854"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Jensen, Jens Peter; age 29; address - East Narrogin WA", 
+        "series": "MT1486/1", 
+        "control_symbol": "JENSEN/JENS PETER", 
+        "contents_dates": {
+            "date_str": "1916 - 1916", 
+            "start_date": "1916", 
+            "end_date": "1916"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9539867"
+    }, 
+    {
+        "digitised_pages": "43", 
+        "title": "JENSEN Gunerius Oscar : [AKA JENSEN Guneains] : Service Number - 1675 : Place of Birth - Laplandland Norway : Place of Enlistment - Goulburn NSW : Next of Kin - (Father) GUNDERSEN Jens", 
+        "series": "B2455", 
+        "control_symbol": "JENSEN GUNERIUS OSCAR", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "12006004"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Jens Peter Jensen-Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1904/1410", 
+        "contents_dates": {
+            "date_str": "1904 - 1904", 
+            "start_date": "1904", 
+            "end_date": "1904"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "616"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Jens Laurits JENSEN - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1905/3717", 
+        "contents_dates": {
+            "date_str": "1905 - 1905", 
+            "start_date": "1905", 
+            "end_date": "1905"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3045"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "Jens Christian JENSEN - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1905/7184", 
+        "contents_dates": {
+            "date_str": "1905 - 1906", 
+            "start_date": "1905", 
+            "end_date": "1906"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3523"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "Jens Virgo Jorgen Marinus JENSEN - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1908/2135", 
+        "contents_dates": {
+            "date_str": "1908 - 1908", 
+            "start_date": "1908", 
+            "end_date": "1908"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9059"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "Jens Peter Frederick JENSEN - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1908/2362", 
+        "contents_dates": {
+            "date_str": "1908 - 1908", 
+            "start_date": "1908", 
+            "end_date": "1908"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9079"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Jens Eiler JENSEN - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1911/5645", 
+        "contents_dates": {
+            "date_str": "1911 - 1911", 
+            "start_date": "1911", 
+            "end_date": "1911"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "10540"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "(Jens Peter Jensen - Naturalization)", 
+        "series": "A1", 
+        "control_symbol": "1912/9114", 
+        "contents_dates": {
+            "date_str": "1912 - 1912", 
+            "start_date": "1912", 
+            "end_date": "1912"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "13222"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Jens Christian Jensen - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1913/5760", 
+        "contents_dates": {
+            "date_str": "1913 - 1913", 
+            "start_date": "1913", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "15202"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Jens Jensen Veldt Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1913/16656", 
+        "contents_dates": {
+            "date_str": "1913 - 1913", 
+            "start_date": "1913", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "27547"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Application for Certificate of Naturalization. Jens Peter Jensen", 
+        "series": "A1", 
+        "control_symbol": "1915/973", 
+        "contents_dates": {
+            "date_str": "1915 - 1915", 
+            "start_date": "1915", 
+            "end_date": "1915"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "32183"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Jens C. Jensen - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1915/10679", 
+        "contents_dates": {
+            "date_str": "1915 - 1915", 
+            "start_date": "1915", 
+            "end_date": "1915"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "33040"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Jens Jensen Kjar Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1915/15950", 
+        "contents_dates": {
+            "date_str": "1915 - 1915", 
+            "start_date": "1915", 
+            "end_date": "1915"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "33510"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Jens Jensen - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1915/24059", 
+        "contents_dates": {
+            "date_str": "1915 - 1916", 
+            "start_date": "1915", 
+            "end_date": "1916"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "33966"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Jens Jensen Byriel - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1916/7798", 
+        "contents_dates": {
+            "date_str": "1916 - 1916", 
+            "start_date": "1916", 
+            "end_date": "1916"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "34309"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Jens Christian Jensen - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1916/24176", 
+        "contents_dates": {
+            "date_str": "1916 - 1916", 
+            "start_date": "1916", 
+            "end_date": "1916"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "35000"
+    }, 
+    {
+        "digitised_pages": "13", 
+        "title": "Jens Karl Emil F. (Fredrik) Jensen Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1921/19516", 
+        "contents_dates": {
+            "date_str": "1921 - 1922", 
+            "start_date": "1921", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "40908"
+    }, 
+    {
+        "digitised_pages": "22", 
+        "title": "Jens O Otto Jensen - Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1922/2200", 
+        "contents_dates": {
+            "date_str": "1918 - 1922", 
+            "start_date": "1918", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "41574"
+    }, 
+    {
+        "digitised_pages": "15", 
+        "title": "J.J.H. Jens Jacob Henrik Jensen Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1923/2710", 
+        "contents_dates": {
+            "date_str": "1922 - 1923", 
+            "start_date": "1922", 
+            "end_date": "1923"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "42923"
+    }, 
+    {
+        "digitised_pages": "8", 
+        "title": "Jens RASMUS JENSEN - Naturalization", 
+        "series": "A63", 
+        "control_symbol": "A1910/4877", 
+        "contents_dates": {
+            "date_str": "1910 - 1910", 
+            "start_date": "1910", 
+            "end_date": "1910"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "53839"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Jens Peter JENSEN - Naturalization", 
+        "series": "A63", 
+        "control_symbol": "A1910/6351", 
+        "contents_dates": {
+            "date_str": "1910 - 1910", 
+            "start_date": "1910", 
+            "end_date": "1910"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "54379"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Jensen, Jens Carl Emel Fedrick, also (wife) Jensen, Ingebong Amelia Kristune Avoca to Underbool", 
+        "series": "MP16/1", 
+        "control_symbol": "1917/2020", 
+        "contents_dates": {
+            "date_str": "1917 - 1917", 
+            "start_date": "1917", 
+            "end_date": "1917"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "321771"
+    }, 
+    {
+        "digitised_pages": "9", 
+        "title": "Mrs Ruby Mason Applicant-Jens Johannes Jensen Nominee", 
+        "series": "B741", 
+        "control_symbol": "V/11755", 
+        "contents_dates": {
+            "date_str": "1933 - 1933", 
+            "start_date": "1933", 
+            "end_date": "1933"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "386855"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Jens Peter Jensen [Application for Naturalisation] [Box 24]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N4621", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "843439"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LUND Jens Jensen", 
+        "series": "D1901", 
+        "control_symbol": "L2464", 
+        "contents_dates": {
+            "date_str": "1942 - 1944", 
+            "start_date": "1942", 
+            "end_date": "1944"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "917251"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "JENSEN Jens Carl Vilhelm - Nationality: Danish - Arrived unknown per Stensby 5 July 1950", 
+        "series": "K1331", 
+        "control_symbol": "1950/JENSEN J C V", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3100131"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN Jens Charles; JENSEN Mary versus SHANNON Robert", 
+        "series": "A10071", 
+        "control_symbol": "1924/54", 
+        "contents_dates": {
+            "date_str": "1924 - 1924", 
+            "start_date": "1924", 
+            "end_date": "1924"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3136717"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "JENSEN Jens Christian - Nationality: Danish - Arrived Fremantle per Hobnsons Bay 29 November 1928", 
+        "series": "PP246/4", 
+        "control_symbol": "DANISH/JENSEN J C", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3304255"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN Jens - Nationality: Danish - Arrived Fremantle per Aurelia 6 August 1960", 
+        "series": "K1331", 
+        "control_symbol": "1962/1963/JENSEN J", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3340829"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN Jens Edward - Nationality: Danish - Arrived Darwin per Aircraft 29 May 1962", 
+        "series": "K1331", 
+        "control_symbol": "1962/1963/JENSEN J E", 
+        "contents_dates": {
+            "date_str": "1962 - 1962", 
+            "start_date": "1962", 
+            "end_date": "1962"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3340830"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Jens Thorvald Jensen-Bratbjerg  [Danish - arrived Port Pirie, SA per MV SIAM, Nov 1927.  Box 53]", 
+        "series": "SP11/2", 
+        "control_symbol": "DANISH/JENSEN-BRATBJERG J T", 
+        "contents_dates": {
+            "date_str": "1939 - 1942", 
+            "start_date": "1939", 
+            "end_date": "1942"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3905194"
+    }, 
+    {
+        "digitised_pages": "37", 
+        "title": "LUND, Jens Jensen - Nationality: Danish - arrived Brisbane on VH-EBM 18 February 1953", 
+        "series": "BP25/1", 
+        "control_symbol": "LUND J J - DANISH", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4061934"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "JENSEN, Inger Sonja - Nationality: Danish - Arrived Sydney on M/S Skaubryn 15 February 1957 - departed Sydney aboard SYDNEY 12 November 1959 - spouse Jens Christian and child Ulla", 
+        "series": "BP25/1", 
+        "control_symbol": "JENSEN I S - DANISH", 
+        "contents_dates": {
+            "date_str": "1957 - 1959", 
+            "start_date": "1957", 
+            "end_date": "1959"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4065201"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "JENSEN, Jens Christian - Nationality: Danish - arrived Sydney on M/S Skaubryn 15 February 1957 - departed Brisbane aboard SYDNEY 12 November 1959 - spouse Inger Sonja and child Ulla", 
+        "series": "BP25/1", 
+        "control_symbol": "JENSEN J C - DANISH", 
+        "contents_dates": {
+            "date_str": "1957 - 1959", 
+            "start_date": "1957", 
+            "end_date": "1959"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4065232"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "JENSEN Jens Anton - Nationality: Danish - Arrived Adelaide per Mirrabooka 4 May 1957", 
+        "series": "D4878", 
+        "control_symbol": "JENSEN J A", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4078020"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN Jens Kristian - Nationality : Norwegian - [Application Form for Registration as Alien]", 
+        "series": "PP14/3", 
+        "control_symbol": "NORWEGIAN/JENSEN J K", 
+        "contents_dates": {
+            "date_str": "circa1916 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4278538"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "JENSEN Jens - Nationality : Danish - [Application Form for Registration as Alien]", 
+        "series": "PP14/3", 
+        "control_symbol": "DANISH/JENSEN J", 
+        "contents_dates": {
+            "date_str": "circa1916 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4317953"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN Jens Kristian - Nationality : Danish - [Application Form for Registration as Alien]", 
+        "series": "PP14/3", 
+        "control_symbol": "DANISH/JENSEN J K", 
+        "contents_dates": {
+            "date_str": "circa1916 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4317954"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN Jens Madsen - Nationality : Danish - [Application Form for Registration as Alien]", 
+        "series": "PP14/3", 
+        "control_symbol": "DANISH/JENSEN J M", 
+        "contents_dates": {
+            "date_str": "circa1916 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4317955"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN Jens Castberg - Nationality: Norwegian - Arrived Melbourne per Stanglen 05 September 1947 Departed Commonwealth on 09 June 1949", 
+        "series": "B78", 
+        "control_symbol": "NORWEGIAN/JENSEN JENS CASTBERG", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5926645"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JENSEN Jens Johannes - Nationality: Danish - Arrived Geelong per Trienza 23 July 1948 Departed Commonwealth on 23 September 1948", 
+        "series": "B78", 
+        "control_symbol": "DANISH/JENSEN JENS JOHANNES", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5927699"
+    }
+]

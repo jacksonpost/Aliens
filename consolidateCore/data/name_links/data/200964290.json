@@ -1,0 +1,17 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "QUARG Otto - Nationality: German", 
+        "series": "D2375", 
+        "identifier": "9209200", 
+        "control_symbol": "QUARG OTTO", 
+        "contents_dates": {
+            "date_str": "11 Feb 1917 - 29 May 1917", 
+            "start_date": "1917-02-11", 
+            "end_date": "1917-05-29"
+        }, 
+        "location": "Adelaide"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": "4", 
+        "title": "Mick Tomich Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1913/16454", 
+        "contents_dates": {
+            "date_str": "1913 - 1913", 
+            "start_date": "1913", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "27529"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - TOMICH Mick; Nominee - TOMICH Anton; nationality Yugoslavian", 
+        "series": "A261", 
+        "control_symbol": "1926/2145", 
+        "contents_dates": {
+            "date_str": "1926 - 1926", 
+            "start_date": "1926", 
+            "end_date": "1926"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7639798"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Serious Disturbance - Austrians fighting Slavs at Boulder [BOSNICH Mick, Mary, TOMICH J. , STRIKA, PIVAC Mate, KATICH Toni, ANTONOVICH, GLAMUZINA Joe, SIMONOVICH Ivan, KUSCEVICH Jure, Stepe KUSECVICH, MARTONOVICH Mat, SANTICH Nikola, LAVORICH Franc, PECAR, KULJIS Jakov, SORICH Sime, BAKOTTICH Franc, URICH Toni, JAKSICH Mate, MARINICH Joe, EVIS Toni] [Croatian Slavonic Society]", 
+        "series": "PP14/1", 
+        "identifier": "748936", 
+        "control_symbol": "4/3/127", 
+        "contents_dates": {
+            "date_str": "28 Dec 1915 - 1920", 
+            "start_date": "1915-12-28", 
+            "end_date": "1920"
+        }, 
+        "location": "Perth"
+    }
+]

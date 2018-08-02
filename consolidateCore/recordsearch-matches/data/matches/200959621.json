@@ -1,0 +1,137 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "SCHUSTER Paul Julius - born 23 September 1877 - Stateless", 
+        "series": "A435", 
+        "control_symbol": "1946/4/1223", 
+        "contents_dates": {
+            "date_str": "1944 - 1946", 
+            "start_date": "1944", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6939703"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHUSTER Paul Julius born 23 September 1877; Elizabeth Marie aged 33; Libylle aged 8; Bernhard aged 5; nationality German; travelled per NIEUW HOLLAND arriving in Sydney on 5 October 1939", 
+        "series": "A12508", 
+        "control_symbol": "21/3924", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6987875"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHUSTER Hans Paul born 17 January 1936 - German - travelled per AURELIA in August 1960", 
+        "series": "A2478", 
+        "control_symbol": "SCHUSTER H P", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7687825"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "SCHUSTER, Helmut Paul [German]", 
+        "series": "P1184", 
+        "control_symbol": "SCHUSTER H P", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1710729"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by Paul Butterworth Schuster now known as The Magnetic Gauge Company, titled -  Improvements in or relating to thickness measuring instruments", 
+        "series": "A627", 
+        "control_symbol": "12295/1928", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4204363"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schuster, Paul Julius (German [born] - naturalised British subject) [Box 171]", 
+        "series": "C123", 
+        "control_symbol": "5924", 
+        "contents_dates": {
+            "date_str": "1940 - 1946", 
+            "start_date": "1940", 
+            "end_date": "1946"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4357851"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHUSTER, Helmut Paul born 17 January 1936 - nationality German", 
+        "series": "P1183", 
+        "control_symbol": "18/631 SCHUSTER", 
+        "contents_dates": {
+            "date_str": "1960 - 1964", 
+            "start_date": "1960", 
+            "end_date": "1964"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "30217846"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Paul Julius SCHUSTER - Nationality: German - Embarked Sourabaya per NIEUW HOLLAND [Box 178]", 
+        "series": "SP11/5", 
+        "control_symbol": "SCHUSTER, PAUL JULIUS", 
+        "contents_dates": {
+            "date_str": "1939 - 1946", 
+            "start_date": "1939", 
+            "end_date": "1946"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30391136"
+    }
+]

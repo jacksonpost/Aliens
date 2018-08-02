@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - KINKELA Nikola; Nominee - KINKELLA Ivan; nationality Yugoslavian", 
+        "series": "A261", 
+        "control_symbol": "1927/1436", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7636466"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - SEPIC Frank; Nominee - KINKELA Ivan; nationality Italian", 
+        "series": "A261", 
+        "control_symbol": "1926/1925", 
+        "contents_dates": {
+            "date_str": "1926 - 1926", 
+            "start_date": "1926", 
+            "end_date": "1926"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7639678"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - SUSANJ Andy; Nominee - KINKELA Ivan; nationality Latvian", 
+        "series": "A261", 
+        "control_symbol": "1927/2888", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8165576"
+    }
+]

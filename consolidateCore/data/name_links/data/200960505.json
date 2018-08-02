@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open with exception", 
+        "digitised_pages": "0", 
+        "title": "MORTENSEN Hans Kurt born 6 March 1937; Jytte Eleonora (nee Kristian) born 13 June 1942; Merethe Lykke born 2 March 1959; Anne Lykke born 13 November 1960; Aase Lykke born 13 October 1963 - Danish - travelled per flight BE741/QF732 on 30 December 1969", 
+        "series": "A2562", 
+        "identifier": "7628548", 
+        "control_symbol": "1970/236", 
+        "contents_dates": {
+            "date_str": "1969 - 1969", 
+            "start_date": "1969", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "Douglas-Mortensen, Karl Hans Howard James Alexander [New Zealander] [Box 558]", 
+        "series": "C123", 
+        "identifier": "9648276", 
+        "control_symbol": "18916", 
+        "contents_dates": {
+            "date_str": "1942 - 1942", 
+            "start_date": "1942", 
+            "end_date": "1942"
+        }, 
+        "location": "Sydney"
+    }
+]

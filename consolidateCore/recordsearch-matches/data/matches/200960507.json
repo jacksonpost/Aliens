@@ -1,0 +1,602 @@
+[
+    {
+        "digitised_pages": "7", 
+        "title": "Naturalization - LANGE, Fritz, Wilhelm, Georg", 
+        "series": "A1", 
+        "control_symbol": "1911/16583", 
+        "contents_dates": {
+            "date_str": "1911 - 1911", 
+            "start_date": "1911", 
+            "end_date": "1911"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "11821"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Fritz Wilhelm Waldemar Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1914/2845", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "28268"
+    }, 
+    {
+        "digitised_pages": "12", 
+        "title": "Fritz Wilhelm Lessmann, Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1914/10479", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "29196"
+    }, 
+    {
+        "digitised_pages": "11", 
+        "title": "F.W. Fritz Wilhelm Tauber - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1919/11253", 
+        "contents_dates": {
+            "date_str": "1914 - 1919", 
+            "start_date": "1914", 
+            "end_date": "1919"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "37834"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Fritz Gassan, Wilhelm Freudenberg & OTTO SUESSMILGH Deportation to Germany", 
+        "series": "A1", 
+        "control_symbol": "1921/7601", 
+        "contents_dates": {
+            "date_str": "1921 - 1921", 
+            "start_date": "1921", 
+            "end_date": "1921"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "40037"
+    }, 
+    {
+        "digitised_pages": "19", 
+        "title": "F.W.C. Fritz Wilhelm Carl Hagan - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1921/18117", 
+        "contents_dates": {
+            "date_str": "1915 - 1921", 
+            "start_date": "1915", 
+            "end_date": "1921"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "40778"
+    }, 
+    {
+        "digitised_pages": "20", 
+        "title": "F.(Friedrich (Fritz) Wilhelm) Noetling Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1921/19982", 
+        "contents_dates": {
+            "date_str": "1908 - 1921", 
+            "start_date": "1908", 
+            "end_date": "1921"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "40942"
+    }, 
+    {
+        "digitised_pages": "17", 
+        "title": "F Fritz Wilhelm Carl W C Steinmann Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1922/16960", 
+        "contents_dates": {
+            "date_str": "1922 - 1922", 
+            "start_date": "1922", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "42471"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHOENFIELD Fritz August Wilhelm born 16 December 1917; Rosa (nee Lenz) born 3 August 1921; Gerda born 19 January 1941; Ursula born 5 February 1943 - Austrian - travelled per TOSCONELLI under Australian Austrian Assisted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "SCHOENFIELD F", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1195592"
+    }, 
+    {
+        "digitised_pages": "24", 
+        "title": "HAERTEL Fritz Wilhelm born 6 January 1929; Hannelore Johanna (nee Krause) born 15 December 1933; Edgar Armin born 11 November 1955; Ingo Dietmar born 31 January 1958; Ralf Udo born 25 January 1959 - German - travelled per PROFLIGHT under General Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "HAERTEL F W", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1221898"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMIDT Jurgen Fritz Wilhelm born 14 March 1940 - German - travelled under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "SCHMIDT J F W", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1225553"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KOGLER Fritz Wilhelm Karl born 19 June 1930; Christel (nee Jung) born 23 July 1930; Ralph Armin born 17 March 1954 - German - travelled per MIFLY departing in 1957 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "KOGLER F W K", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1239405"
+    }, 
+    {
+        "digitised_pages": "21", 
+        "title": "FRITZ Wilhelm Tadeus born 3 September 1923; Martha (nee Riedl) born 30 June 1931; Rudolf born 8 February 1956 - German - travelled per MICON Flight departing in 1957 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "FRITZ W T", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1241096"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLIE, Fritz Wilhelm - Passport and or travel documents", 
+        "series": "PP9/4", 
+        "control_symbol": "KLIE, FRITZ WILHELM", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1332070"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "VERTER Heinz Fritz Wilhelm born 1 March 1920; (nee Linke) Dorothee born 1 April 1922; Karin born 14 March 1942; Michael born 10 May 1943; Gabriele born 15 September 1950 - German - travelled per ship SKAUBRYN departing in 1955", 
+        "series": "A2478", 
+        "control_symbol": "VERTER H F W", 
+        "contents_dates": {
+            "date_str": "1955 - 1956", 
+            "start_date": "1955", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1408326"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HEILERS Albert Wilhelm born 27 January 1916; (nee Fischbach) Irmgard born 7 March 1921; Fritz born 13 February 1944; Rosita born 30 November 1948 - travelled per ship SKAUBRYN departing in 1953", 
+        "series": "A2478", 
+        "control_symbol": "HEILERS A W", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1412871"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ARLT Manfred Wilhelm Fritz born 28 June 1936 - German - travelled per FLAMINIA under Australian German Assisted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "ARLT M W F", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1426610"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KELLERMANN Fritz Wilhelm Erich born 27 November 1934 - German - travelled per ship FLAMINIA departing in 1959 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "KELLERMANN F W E", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1458771"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RAMHOLDT Gerhard Fritz Wilhelm born 24 May 1925; Ursula (nee Jaeschke) born 7 October 1923; Joerg (Dasler) born 4 March 1945; Peter born 18 March 1950 - German - travelled per ship FAIRSEA departing in 1954 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "RAMHOLDT G F W", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1468993"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HOLZ Fritz Wilhelm Rudolf born 21 July 1916; Ilse (nee Kube) born 13 May 1909; Anneliese (Drechsel) born 7 October 1943; Lothar born 17 February 1944 - German - travelled per ship FAIRSEA departing in 1954 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "HOLZ F W R", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1470342"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Sustenance Allowances - Application by the controller of Dohnert Mueller Schmidt and Company re Josepha Weissflog, Gustav Adolph Weissflog, Ellen Schmidt, Friedrich Wilhelm Schmidt, Friedrich Karl August Hoffman, Lorna Marjorie Hoffman, Fritz George Muller, Julie Anna Muller", 
+        "series": "A472", 
+        "control_symbol": "W672", 
+        "contents_dates": {
+            "date_str": "1940 - 1951", 
+            "start_date": "1940", 
+            "end_date": "1951"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "100040"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Wilhelm Fritz", 
+        "series": "MP16/1", 
+        "control_symbol": "1914/1/97", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "319534"
+    }, 
+    {
+        "digitised_pages": "26", 
+        "title": "Hagen, Fritz Wilhelm Carl - Paruna, SA - application for naturalzation - German (or Swedish) nationality [also prisoner of war (internee) on parole]", 
+        "series": "D1915", 
+        "control_symbol": "SA448", 
+        "contents_dates": {
+            "date_str": "1916 - 1921", 
+            "start_date": "1916", 
+            "end_date": "1921"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "323918"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Wilhelm Eigenbrodt Fritz Gorlt", 
+        "series": "B741", 
+        "control_symbol": "V/11469", 
+        "contents_dates": {
+            "date_str": "1915 - 1933", 
+            "start_date": "1915", 
+            "end_date": "1933"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "406150"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Objection No.6 - Fritz Alfred BAHLSEN - Aliens Tribunal No.2 and Objection by Wilhelm Sebastian ACHT", 
+        "series": "A367", 
+        "control_symbol": "C18000/415", 
+        "contents_dates": {
+            "date_str": "1941 - 1941", 
+            "start_date": "1941", 
+            "end_date": "1941"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "439999"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "List of Prisoners of War under 17 years and over 50 years of age [Christian VOLLMER, Albert MEYER, Carl Wilhelm KOCH, George Heinrich Johann STAHL, August Max GRUBEL, Heinrich Carl George KUSSIN, Hermann HOENE, Fritz Berthold SCHUMANN, Ferdinand HEIN, Martin MOSBACHER, Karl John MILLER, Felix BARTELS, Franz Joesph Wilhelm CRAMER, Ernest Hermann TSCHIRPIG, James John Albert MILLAR, August Robert RACTKE, Johann Carl HOFFMAN, Ivan JUJNOVICH, Ivan KATNICH, Visko ACALINOVIC, Blaz POLJICAK, Fritz WULFING, Harry BROWN, Andria VLAHOR, Anton RATKE, Carl Heinrich Wilhelm LORENTZ, Julius BLASCHEK, Marko TUNPOR, Ivan ANTULUOV,  Ivan STARCEVIC, Stepan BUDESELICH, Jure RAVLICH, Anton SPLIVALO, Juraj MATKOVICH, Juraj STARCOVIC, Frederick MENZEN, JOseph SKARIFF, Carl MEYER, Henry TAPKEN, Edward SCHMIDT, Ivan BOSICH]", 
+        "series": "PP14/1", 
+        "control_symbol": "16/1/59", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "751599"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Frederick Gustav Molter,Wilhelm Schulz, Wilhelm Sumpf, Frederick Wilhelm Gallinat (AKA Fritz), Tom Elman", 
+        "series": "PP14/2", 
+        "control_symbol": "PF/21", 
+        "contents_dates": {
+            "date_str": "1915 - 1919", 
+            "start_date": "1915", 
+            "end_date": "1919"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "751987"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Roedde Wilhelm John Fritz", 
+        "series": "A367", 
+        "control_symbol": "C75093", 
+        "contents_dates": {
+            "date_str": "1944 - 1948", 
+            "start_date": "1944", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "771839"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Objection No.38 of 1940 - Koller Fritz Wilhelm. Advisory Committee", 
+        "series": "A367", 
+        "control_symbol": "C18000/504", 
+        "contents_dates": {
+            "date_str": "1940 - 1940", 
+            "start_date": "1940", 
+            "end_date": "1940"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "776958"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Ericsson Bror Wilhelm and Petterson Erik Fritz", 
+        "series": "A367", 
+        "control_symbol": "C69714", 
+        "contents_dates": {
+            "date_str": "1942 - 1942", 
+            "start_date": "1942", 
+            "end_date": "1942"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "782958"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Fritz Wilhelm KOLLER (Objection 38 of 1940: AT2)[Aliens Tribunal] [1.0cm; box 16]", 
+        "series": "C329", 
+        "control_symbol": "495", 
+        "contents_dates": {
+            "date_str": "1940 - 1940", 
+            "start_date": "1940", 
+            "end_date": "1940"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1163368"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ARLT Manfred Wilhelm Fritz [alien registration Melbourne 1959]", 
+        "series": "E1129", 
+        "control_symbol": "ARLT M W F", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Darwin", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "1745510"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FREIDANK Harry Wilhelm Fritz Otto - Nationality: German - Arrived: Melbourne per CASTEL FELICE 21 Mar 1961", 
+        "series": "A1870", 
+        "control_symbol": "FREIDANK H W F O", 
+        "contents_dates": {
+            "date_str": "1961 - 1964", 
+            "start_date": "1961", 
+            "end_date": "1964"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4031330"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Arnheim, Wilhelm Fritz (German) [Box 83]", 
+        "series": "C123", 
+        "control_symbol": "3244", 
+        "contents_dates": {
+            "date_str": "1939 - 1940", 
+            "start_date": "1939", 
+            "end_date": "1940"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4042094"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "BERGMANN Erich Fritz Wilhelm - Nationality: German - Arrived Melbourne per Castel Bianco 27 December 1951", 
+        "series": "D4878", 
+        "control_symbol": "BERGMANN E F W", 
+        "contents_dates": {
+            "date_str": "1951 - 1957", 
+            "start_date": "1951", 
+            "end_date": "1957"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4072258"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRUEGER Wolfgang Fritz Wilhelm Martin - Nationality: German - Arrived Melbourne per Nelly 23 February 1953", 
+        "series": "B78", 
+        "control_symbol": "1957/KRUEGER W F W M", 
+        "contents_dates": {
+            "date_str": "1953 - 1957", 
+            "start_date": "1953", 
+            "end_date": "1957"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4275196"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "ROEDDE Wilhelm John Fritz born 1895 - Nationality: German - Arrived Adelaide per Rangitiki 19 November 1941", 
+        "series": "D4878", 
+        "control_symbol": "ROEDDE, W J F", 
+        "contents_dates": {
+            "date_str": "1941 - 1949", 
+            "start_date": "1941", 
+            "end_date": "1949"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4298435"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "STEINDORF Fritz Wilhelm - Nationality: German - Arrived Sydney per Australia 20 August 1951", 
+        "series": "B78", 
+        "control_symbol": "1957/STEINDORF F", 
+        "contents_dates": {
+            "date_str": "1951 - 1957", 
+            "start_date": "1951", 
+            "end_date": "1957"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4347489"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Fritz Wilhelm Pieper - transfer of property Marangarro NSW", 
+        "series": "A12217", 
+        "control_symbol": "L7661", 
+        "contents_dates": {
+            "date_str": "1943 - 1943", 
+            "start_date": "1943", 
+            "end_date": "1943"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5450037"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PEETZ Heinz Fritz Wilhelm - Nationality: German - Arrived Perth per Aircraft 09 January 1961 Departed Commonwealth on 09 March 1961", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/PEETZ HEINZ FRITZ WILHELM", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5717563"
+    }
+]

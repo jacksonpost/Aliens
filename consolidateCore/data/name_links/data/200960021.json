@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "BINA Sylvester born 2 October 1935; Ingeborg (nee Sirch) born 21 August 1938; Robert born 13 March 1957; Roland born 20 June 1958 - Austrian - travelled per MIQAN under Australian Austrian Assisted Scheme", 
+        "series": "A2478", 
+        "identifier": "1203751", 
+        "control_symbol": "BINA S", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "SIRCH Sylvester - Nationality : German - [Application Form for Registration as Alien]", 
+        "series": "PP14/3", 
+        "identifier": "5126597", 
+        "control_symbol": "GERMAN/SIRCH S", 
+        "contents_dates": {
+            "date_str": "1916 - 1920", 
+            "start_date": "1916", 
+            "end_date": "1920"
+        }, 
+        "location": "Perth"
+    }
+]

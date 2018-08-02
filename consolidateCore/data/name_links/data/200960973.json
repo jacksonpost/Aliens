@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_pages": "15", 
+        "title": "Arthur Ehrlich Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1914/14800", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "30439"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Ehrlich, Rudolf Arthur - Naturalisation [10 pages]", 
+        "series": "A446", 
+        "control_symbol": "1954/13272", 
+        "contents_dates": {
+            "date_str": "1953 - 1955", 
+            "start_date": "1953", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1789364"
+    }
+]

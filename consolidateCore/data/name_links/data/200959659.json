@@ -1,0 +1,77 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "BECKER Walter Fritz born 23 March 1927; Edeltraut Elisabeth (nee Klein) born 6 March 1933 - German - travelled per ship FAIRSEA departing in 1956 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "BECKER W F", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1466274"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECKER Fritz born 19 February 1937; Margarete born 28 June 1941; Bernd born 22 November 1959; Christiane born 18 April 1962 -  Nationality German -  arrived per ship M/S \"ANGELINA LAURO\" departed Ex BREMERHAVEN/GERMANY 15 May 1966.", 
+        "series": "A2559", 
+        "control_symbol": "1966/H/1502-1505", 
+        "contents_dates": {
+            "date_str": "1966 - 1966", 
+            "start_date": "1966", 
+            "end_date": "1966"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5269692"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECKER Fritz - Nationality: German - Arrived Melbourne per Chitral 23 April 1928", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/BECKER FRITZ", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5900737"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECKER Walter Fritz - Nationality: German - Arrived Melbourne per Fairsea 15 June 1956", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/BECKER WALTER FRITZ", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5913955"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Fritz Becker [German - arrived Sydney per aircraft KLM PH-LKX, 20 March 1957] [Box 70]", 
+        "series": "SP1121/1", 
+        "control_symbol": "BECKER, FRITZ", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8784871"
+    }
+]

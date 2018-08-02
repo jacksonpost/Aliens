@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Fritzsche, Frederich Berhhard Hugo - naturalisation", 
+        "series": "A712", 
+        "identifier": "1936937", 
+        "control_symbol": "1903/R348", 
+        "contents_dates": {
+            "date_str": "1903 - 1903", 
+            "start_date": "1903", 
+            "end_date": "1903"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Fritzsche, Hugo Proebst W Bernhardt", 
+        "series": "MP16/1", 
+        "identifier": "320404", 
+        "control_symbol": "1917/2133", 
+        "contents_dates": {
+            "date_str": "1917 - 1921", 
+            "start_date": "1917", 
+            "end_date": "1921"
+        }, 
+        "location": "Melbourne"
+    }
+]

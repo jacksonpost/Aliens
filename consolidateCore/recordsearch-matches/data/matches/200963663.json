@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "FCIC [Federal Catholic Immigration Committee] special sponsorship scheme - Belgium - individual advices", 
+        "series": "A446", 
+        "identifier": "1961827", 
+        "control_symbol": "1962/65707", 
+        "contents_dates": {
+            "date_str": "Jan 1959 - Apr 1963", 
+            "start_date": "1959-01", 
+            "end_date": "1963-04"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MACEK Franz - Nationality: Austrian - Arrived: Melbourne per FLAMINIA 17 January 1956", 
+        "series": "A1870", 
+        "control_symbol": "MACEK F", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4018875"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MACEK Franz - Nationality: Austrian - Arrived Melbourne per Flaminia 17 January 1956", 
+        "series": "D4881", 
+        "control_symbol": "MACEK FRANZ", 
+        "contents_dates": {
+            "date_str": "1956 - 1976", 
+            "start_date": "1956", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9205114"
+    }
+]

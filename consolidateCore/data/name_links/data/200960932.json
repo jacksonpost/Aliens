@@ -1,0 +1,62 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "NAUMANN WILHELM AUGUST : Service Number - Q128538 : Date of birth - 01 Feb 1917 : Place of birth - GATTON QLD : Place of enlistment - GATTON QLD : Next of Kin - NAUMANN FRIEDRICH", 
+        "series": "B884", 
+        "identifier": "4447738", 
+        "control_symbol": "Q128538", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Naumann, Wilhelm Julius - Memorial of Naturalisation", 
+        "series": "A711", 
+        "identifier": "3178325", 
+        "control_symbol": "764", 
+        "contents_dates": {
+            "date_str": "1876 - 1876", 
+            "start_date": "1876", 
+            "end_date": "1876"
+        }, 
+        "location": "Adelaide"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Naumann, Wilhelm", 
+        "series": "PP14/2", 
+        "control_symbol": "PF/485", 
+        "contents_dates": {
+            "date_str": "1918 - 1918", 
+            "start_date": "1918", 
+            "end_date": "1918"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "328715"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Eberhard Naumann - purchase of property Carlton Qld - vendor Wilhelm Reinke", 
+        "series": "A12217", 
+        "control_symbol": "L11679", 
+        "contents_dates": {
+            "date_str": "1946 - 1946", 
+            "start_date": "1946", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5285273"
+    }
+]

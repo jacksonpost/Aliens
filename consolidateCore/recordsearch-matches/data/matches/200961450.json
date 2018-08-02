@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": "5", 
+        "title": "Friedrich Wilhelm August KLOSKE - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1907/10524", 
+        "contents_dates": {
+            "date_str": "1907 - 1908", 
+            "start_date": "1907", 
+            "end_date": "1908"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8724"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "August Fridrick Wilhelm Kloske, Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1914/19512", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "31539"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Kloske, Joan Marguerite - Nationality: German - Alien Registration Certificate No 28 issued 15 August 1917 at West End", 
+        "series": "BP4/3", 
+        "identifier": "6298494", 
+        "control_symbol": "GERMAN KLOSKE J M", 
+        "contents_dates": {
+            "date_str": "1917 - 1921", 
+            "start_date": "1917", 
+            "end_date": "1921"
+        }, 
+        "location": "Brisbane"
+    }
+]

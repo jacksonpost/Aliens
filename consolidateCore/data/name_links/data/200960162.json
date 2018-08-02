@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "RABE Hans-Helmut - travelled per CASTEL FELICE in September 1958", 
+        "series": "A2478", 
+        "control_symbol": "RABE H", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7700825"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RABE Hans Helmut [Arrived Fremantle 8 September 1958 per Castel Felice]", 
+        "series": "PP181/1", 
+        "control_symbol": "W1958/5794", 
+        "contents_dates": {
+            "date_str": "1958 - 1961", 
+            "start_date": "1958", 
+            "end_date": "1961"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "31663746"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "RABE Helmut Hans - Nationality: German - Arrived Fremantle per Castel Felice 8 September 1958", 
+        "series": "K1331", 
+        "identifier": "3343393", 
+        "control_symbol": "1962/1963/RABE H H", 
+        "contents_dates": {
+            "date_str": "1958 - 1962", 
+            "start_date": "1958", 
+            "end_date": "1962"
+        }, 
+        "location": "Perth"
+    }
+]

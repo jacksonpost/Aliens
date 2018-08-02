@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "COHRS Harald Ernst Heinrich - Nationality: German - Arrived Melbourne per Anna Salen 13 March 1955 Departed Commonwealth on 27 January 1960", 
+        "series": "D4881", 
+        "control_symbol": "COHRS HARALD ERNST HEINRICH", 
+        "contents_dates": {
+            "date_str": "1955 - 1976", 
+            "start_date": "1955", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7196803"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "COHRS Harald Ernst Heinrich born 1932 - Nationality: German - Arrived Melbourne per Anna Salen 13 March 1955", 
+        "series": "D4878", 
+        "control_symbol": "COHRS H", 
+        "contents_dates": {
+            "date_str": "1955 - 1960", 
+            "start_date": "1955", 
+            "end_date": "1960"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30827517"
+    }
+]

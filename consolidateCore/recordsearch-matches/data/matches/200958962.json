@@ -1,0 +1,107 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "HOFFMANN, Owen Ernest Currell - (Flight Sergeant); Service Number - 409920; File type - Casualty - Repatriation; Aircraft - Wellington HE 141; Place - Bay of Biscay; Date - 6 December 1943", 
+        "series": "A705", 
+        "identifier": "1070560", 
+        "control_symbol": "166/18/234", 
+        "contents_dates": {
+            "date_str": "1929 - 1960", 
+            "start_date": "1929", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "HOFFMANN LEO RONALD : Service Number - W/1377 : Date of birth - 21 Mar 1921 : Place of birth - DIMBOOLA VIC : Place of enlistment - WILLIAMSTOWN VIC : Next of Kin - JOYCE", 
+        "series": "A6770", 
+        "control_symbol": "HOFFMANN L R", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4553741"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HOFFMANN REGINALD ADOLPH : Service Number - VX28294 : Date of birth - 07 Mar 1915 : Place of birth - HORSHAM VIC : Place of enlistment - CAULFIELD VIC : Next of Kin - BOLWELL W", 
+        "series": "B883", 
+        "control_symbol": "VX28294", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6160828"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Hoffmann, C W", 
+        "series": "A441", 
+        "identifier": "1882981", 
+        "control_symbol": "1952/13/3676", 
+        "contents_dates": {
+            "date_str": "1945 - 1947", 
+            "start_date": "1945", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": "137", 
+        "title": "[German missionaries - ex New Guinea restriction orders]", 
+        "series": "A373", 
+        "control_symbol": "4895D", 
+        "contents_dates": {
+            "date_str": "1940 - 1944", 
+            "start_date": "1940", 
+            "end_date": "1944"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "65451"
+    }, 
+    {
+        "digitised_pages": "8", 
+        "title": "Hoffmann W", 
+        "series": "MP16/1", 
+        "control_symbol": "1915/3/416", 
+        "contents_dates": {
+            "date_str": "1914 - 1923", 
+            "start_date": "1914", 
+            "end_date": "1923"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "329900"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "K W Hoffmann - Honour", 
+        "series": "A463", 
+        "control_symbol": "1969/1010", 
+        "contents_dates": {
+            "date_str": "1969 - 1969", 
+            "start_date": "1969", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5507991"
+    }
+]

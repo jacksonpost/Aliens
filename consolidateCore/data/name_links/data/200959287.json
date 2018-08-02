@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "MIELENHAUSEN Hermann born 15 May 1928 - German -  travelled per CASTEL FELICE on 24 November 1960", 
+        "series": "A2478", 
+        "identifier": "7710438", 
+        "control_symbol": "MIELENHAUSEN H", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "MIELENHAUSEN Hermann Wilhelm - Nationality: German - Arrived Melbourne per Castel Felice 27 December 1960", 
+        "series": "B78", 
+        "identifier": "6591498", 
+        "control_symbol": "GERMAN/MIELENHAUSEN HERMANN WILHELM", 
+        "contents_dates": {
+            "date_str": "01 Jan 1939 - 31 Dec 1972", 
+            "start_date": "1939-01-01", 
+            "end_date": "1972-12-31"
+        }, 
+        "location": "Melbourne"
+    }
+]

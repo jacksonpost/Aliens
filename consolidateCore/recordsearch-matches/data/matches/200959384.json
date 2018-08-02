@@ -1,0 +1,107 @@
+[
+    {
+        "digitised_pages": "3", 
+        "title": "RICHTER Georg Heinrich Friedrich Wilhelm [Memorial and Certificate of Naturalizations]", 
+        "series": "A821", 
+        "control_symbol": "SET 1/SC NO 88 FOLIO 2", 
+        "contents_dates": {
+            "date_str": "1854 - 1854", 
+            "start_date": "1854", 
+            "end_date": "1854"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "828825"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RICHTER Georg born 11 February 1928 - German - travelled per FAIRSEA under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "RICHTER G", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1218749"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MACH Arnold born 11 February 1928; Anita (nee Richter) brorn 30 September 1912; Georg born 2 February 1947; Waltraud born 15 February 1951; Peter born 7 September 192l; Gerhard (Riede) born 23 February 1937 - German - travelled per ship SKAUBRYN departing in 1953", 
+        "series": "A2478", 
+        "control_symbol": "MACH A", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1435209"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SEITZER Wilhelm Georg born 24 July 1928; Amalie Christina (nee Richter) born 16 January 1933 - German - travelled per ship FAIRSEA departing in 1956 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "SEITZER W G", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1462719"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RICHTER Werner Georg born 8 July 1922 - German - travelled per ship FAIRSEA departing in 1954 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "RICHTER W G", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1469696"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEHRENS Fritz Ernst Georg born 14 November 1919; Elfriede Bernadine Luise Walli (nee Richter) born 22 January 1924; Rolf Fritz born 14 October 1942; Ursula Elfriede born 26 October 1946 - German - travelled per CASTEL FELICE on 27 May 1961", 
+        "series": "A2478", 
+        "control_symbol": "MEHRENS F E G", 
+        "contents_dates": {
+            "date_str": "1961 - 1961", 
+            "start_date": "1961", 
+            "end_date": "1961"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7711831"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "RICHTER Horst Georg - Nationality: German - Arrived Fremantle per Fairsea 24 March 1954", 
+        "series": "D4881", 
+        "identifier": "9230655", 
+        "control_symbol": "RICHTER HORST GEORG", 
+        "contents_dates": {
+            "date_str": "24 Mar 1954 - 31 Dec 1976", 
+            "start_date": "1954-03-24", 
+            "end_date": "1976-12-31"
+        }, 
+        "location": "Adelaide"
+    }
+]

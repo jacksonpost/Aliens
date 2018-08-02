@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": "4", 
+        "title": "Garbelini, Pietro; Heinemann, Freidrick George Charles; Berkefeld, Edmund; Donchi, Battista; Mast, Carl August; Engeler, John Heinrich Carl; George, Alfred Francois; Lachmund, Heinrich Friedrich [aka Sachmund]; Eggers, Christoph Heinrich; Ahrens, Christoph; Gambetta, Celestino; Probst, Heinrich; Banna, James; Miehe, Christian; Martin, Freidrich; Schwarze, Johann Heinrich; Meyer, Heinrich Christoph; Crameri, Benedetto; D'Alberti, Giovanni - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1868/S8390", 
+        "contents_dates": {
+            "date_str": "1868 - 1868", 
+            "start_date": "1868", 
+            "end_date": "1868"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1574241"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Probst, Heinrich [aka Henry] - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1868/R10447", 
+        "contents_dates": {
+            "date_str": "1868 - 1868", 
+            "start_date": "1868", 
+            "end_date": "1868"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1574362"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Heinrich Friedrich Probst - purchase of property Mundubbera, Qld", 
+        "series": "A12217", 
+        "identifier": "5451753", 
+        "control_symbol": "L9848", 
+        "contents_dates": {
+            "date_str": "16 Jan 1945 - 06 Jun 1945", 
+            "start_date": "1945-01-16", 
+            "end_date": "1945-06-06"
+        }, 
+        "location": "Canberra"
+    }
+]

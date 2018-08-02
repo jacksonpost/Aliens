@@ -1,0 +1,287 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "MOLLER Alfred August Franz Konrad born 10 June 1946; Anne (nee Gronemeier) born 18 August 1926; Monika born 14 February 1949 - German - travelled per AIR under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "MOLLER A A F K", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1234212"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ECKMANN Alfred Konrad born 29 February 1924; Helga Vera (nee Schlicht) born 7 March 1925; Petra born 26 November 1953; Christine Maria Agnes born 8 March 1955 - German - travelled per ship SKAUBRYN departing in 1956", 
+        "series": "A2478", 
+        "control_symbol": "ECKMANN A K", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1437307"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RITSCH Konrad born 8 October 1921; Maria (nee Waldegger) born 2 October 1924; Alfred born 6 August 1943; Gertrude born 30 July 1946 - Austrian - travelled per ship SKAUBRYN departing in 1955", 
+        "series": "A2478", 
+        "control_symbol": "RITSCH K", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1437902"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMERLEIB Konrad born 23 January 1941; Sussanna (nee Lechner) born 11 August 1947; Alfred born 10 May 1966; Siegfried born 16 June 1968 - Austrian", 
+        "series": "A2562", 
+        "control_symbol": "1971/3450", 
+        "contents_dates": {
+            "date_str": "1970 - 1970", 
+            "start_date": "1970", 
+            "end_date": "1970"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7722936"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Naturalisation - SEIDEL Alfred Erich born 12 March 1900; Felix Konrad born 22 February 1940; Friederike Ruth born 5 August 1941", 
+        "series": "A446", 
+        "control_symbol": "1955/45266", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8822280"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Moldehn, Alfred Konrad", 
+        "series": "P3", 
+        "control_symbol": "T1973/2215", 
+        "contents_dates": {
+            "date_str": "1959 - 1974", 
+            "start_date": "1959", 
+            "end_date": "1974"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9751617"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETEREIT Alfred Konrad Karl born 18 August 1926; Monique born 15 December 1941 - German - under General Assisted Passage Scheme", 
+        "series": "A2560", 
+        "control_symbol": "PETEREIT A K K", 
+        "contents_dates": {
+            "date_str": "1964 - 1964", 
+            "start_date": "1964", 
+            "end_date": "1964"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4758435"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LUNDQUIST Elis Konrad Alfred", 
+        "series": "D1915", 
+        "control_symbol": "SA14480", 
+        "contents_dates": {
+            "date_str": "1942 - 1949", 
+            "start_date": "1942", 
+            "end_date": "1949"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "890277"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Lundqvist, Eles Konrad Alfred - Queensland investigation case file", 
+        "series": "BP242/1", 
+        "control_symbol": "Q24061", 
+        "contents_dates": {
+            "date_str": "1942 - 1948", 
+            "start_date": "1942", 
+            "end_date": "1948"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1113818"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHAUER Alfred Konrad - Nationality: German - Arrived Melbourne per Anna Salen 02 July 1954 Departed Commonwealth on 10 August 1961", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/SCHAUER ALFRED KONRAD", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5715697"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Lundqvist, Eles Konrad Alfred; Date of birth - 07 February 1898; Nationality - Finn", 
+        "series": "MP1103/1", 
+        "control_symbol": "Q393", 
+        "contents_dates": {
+            "date_str": "1942 - 1942", 
+            "start_date": "1942", 
+            "end_date": "1942"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8613192"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LUNDQVIST Elis Konrad Alfred - Nationality: Finnish - Arrived Melbourne per Barque Savhill 1 January 1923", 
+        "series": "D4881", 
+        "control_symbol": "LUNDQVIST ELIS KONRAD ALFRED", 
+        "contents_dates": {
+            "date_str": "1923 - 1976", 
+            "start_date": "1923", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9184844"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee; Lundqvist, Eles Konrad Alfred; Year of birth - [Not given]; Nationality - Finn", 
+        "series": "MP1103/2", 
+        "control_symbol": "Q393", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9902173"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Prisoner of War/Internee; Lundqvist, Eles Konrad Alfred; Year of birth - 1898; Nationality - Finn", 
+        "series": "MP1103/2", 
+        "control_symbol": "Q393", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9901577"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "MOLDEHN, Alfred Konrad born 17 May 1934 - nationality German", 
+        "series": "P1183", 
+        "control_symbol": "3/364 MOLDEHN", 
+        "contents_dates": {
+            "date_str": "1959 - 1970", 
+            "start_date": "1959", 
+            "end_date": "1970"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8851975"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Elis Konrad Alfred Lundqvist [Finnish - arrived Melbourne per BARQUE LARHILL, 1 Jan 1923. Box 249]", 
+        "series": "SP908/1", 
+        "control_symbol": "FINNISH/LUNDQVIST ELIS KONRAD ALFRED", 
+        "contents_dates": {
+            "date_str": "1948 - 1948", 
+            "start_date": "1948", 
+            "end_date": "1948"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7263645"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LUNDQUIST Ellis Konrad Alfred  - Nationality: Finnish  - Arrived Melbourne per Barque Larhill 1 January 1923", 
+        "series": "K1331", 
+        "control_symbol": "FINNISH/LUNDQUIST E K A", 
+        "contents_dates": {
+            "date_str": "1923 - 1952", 
+            "start_date": "1923", 
+            "end_date": "1952"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4091318"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Lundqvist Elis Konrad Alfred", 
+        "series": "A367", 
+        "control_symbol": "C69814", 
+        "contents_dates": {
+            "date_str": "1942 - 1946", 
+            "start_date": "1942", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "782991"
+    }
+]

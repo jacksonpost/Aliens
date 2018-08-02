@@ -1,0 +1,16 @@
+[
+    {
+        "internName": "SCHMIDT, Karl",
+        "internBarcode": "200963243",
+        "mp16title": "Schmidt, Karl",
+        "mp16barcode": "327370",
+        "matchScore": 1
+    },
+    {
+        "internName": "TUMMEL, Georg",
+        "internBarcode": "200963153",
+        "mp16title": "TUMMEL George",
+        "mp16barcode": "443830",
+        "matchScore": 0.8461538461538461
+    }
+]

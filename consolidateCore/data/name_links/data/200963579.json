@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "TROOST Johannes Cornelis born 15 November 1918; Cornelia (nee Martens) born 14 March 1924; Ineke born 4 October 1943; Johannes C born 21 March 1946; Robert born 22 October 1954 - Dutch - under Netherlands Australian Governments Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "TROOST J C", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1218466"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ERKENS Eduard born 20 October 1931; Agnes Maria (nee Martens) born 2 May 1930; Henri Johannes born 2 April 1953; Eduard born 15 August 1954; Robert born 20 April 1962 - Dutch - travelled per ship ORANJE departing in 1964 under Netherlands Australian Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "ERKENS E", 
+        "contents_dates": {
+            "date_str": "1964 - 1964", 
+            "start_date": "1964", 
+            "end_date": "1964"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1449718"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MARTENS Gerd Karl Robert born 5 August 1938- German - travelled per AURELIA in November 1960", 
+        "series": "A2478", 
+        "control_symbol": "MARTENS G K R", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7690025"
+    }
+]

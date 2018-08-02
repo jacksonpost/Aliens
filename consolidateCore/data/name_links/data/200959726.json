@@ -1,0 +1,242 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Allotment Ledger, Pay Ledger and History cards for Queensland Army Personnel - Schulz Harold Adolf", 
+        "series": "J1204", 
+        "identifier": "1807895", 
+        "control_symbol": "Q46482", 
+        "contents_dates": {
+            "date_str": "1941 - 1941", 
+            "start_date": "1941", 
+            "end_date": "1941"
+        }, 
+        "location": "Brisbane"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "SCHULZ MARTIN ADOLF WILLIAM : Service Number - SX12249 : Date of birth - 27 Feb 1907 : Place of birth - MILLICENT SA : Place of enlistment - WAYVILLE SA : Next of Kin - SCHULZ SARAH", 
+        "series": "B883", 
+        "identifier": "6389228", 
+        "control_symbol": "SX12249", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": "8", 
+        "title": "Naturalisation Certificate - Gustav Adolf Schulz.", 
+        "series": "A1", 
+        "control_symbol": "1911/10095", 
+        "contents_dates": {
+            "date_str": "1911 - 1911", 
+            "start_date": "1911", 
+            "end_date": "1911"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "11039"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LAHMER Adolf born 4 May 1936; Edith (nee Schulz) born 12 September 1939; Harry born 26 February 1961 - German - travelled per MIQAN flight departing in 1962 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "LAHMER A", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1245031"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FOTH Guenther Adolf born 11 January 1919; Liesbeth Johanna (nee Schulz) born 9 January 1924; Joachim born 12 November 1949 - German - travelled per AROSA KULM on 10 December 1955", 
+        "series": "A2478", 
+        "control_symbol": "FOTH G A", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7794800"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Naturalisation - SCHULZ Werner Gustav Adolf born 1 April 1928", 
+        "series": "A446", 
+        "control_symbol": "1956/48653", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8355386"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ KARL-HEINZ FRIEDRICH ADOLF - Application for Naturalisation [Box 48]", 
+        "series": "D400", 
+        "control_symbol": "SA1956/7996", 
+        "contents_dates": {
+            "date_str": "1956 - 1957", 
+            "start_date": "1956", 
+            "end_date": "1957"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "202813242"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schulz, Hans Gustav Adolf - Deportation", 
+        "series": "A437", 
+        "control_symbol": "1947/6/178", 
+        "contents_dates": {
+            "date_str": "1946 - 1947", 
+            "start_date": "1946", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "75013"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schulz Adolf [ 27 pages ]", 
+        "series": "MP16/1", 
+        "control_symbol": "1914/1/145", 
+        "contents_dates": {
+            "date_str": "1915 - 1917", 
+            "start_date": "1915", 
+            "end_date": "1917"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "319676"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schulz Adolf K", 
+        "series": "PP14/1", 
+        "control_symbol": "4/3/267", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "749048"
+    }, 
+    {
+        "digitised_pages": "11", 
+        "title": "SCHULZ, Friedman Adolf Kurt - Nationality: German - arrived Melbourne on Skaubryn 3 July 1955 - departed Brisbane aboard SYDNEY 24 November 1958", 
+        "series": "BP25/1", 
+        "control_symbol": "SCHULZ F A K - GERMAN", 
+        "contents_dates": {
+            "date_str": "1955 - 1958", 
+            "start_date": "1955", 
+            "end_date": "1958"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4383655"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Gerhard Adolf Friedrich Schulz [German - Arrived Melbourne per FLAMINIA 21 April 1959]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/SCHULZ GERHARD ADOLF FRIEDRICH", 
+        "contents_dates": {
+            "date_str": "1959 - 1968", 
+            "start_date": "1959", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7847276"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ Adolf - Nationality: German - Arrived Melbourne per Neptunia 9 September 1952", 
+        "series": "D4881", 
+        "control_symbol": "SCHULZ ADOLF", 
+        "contents_dates": {
+            "date_str": "1952 - 1976", 
+            "start_date": "1952", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9223395"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ Kurt Theodor Heinrich Adolf - Nationality: German - Arrived Melbourne per Neptunia 9 September 1952", 
+        "series": "D4881", 
+        "control_symbol": "SCHULZ KURT THEODOR HEINRICH ADOLF", 
+        "contents_dates": {
+            "date_str": "1952 - 1976", 
+            "start_date": "1952", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9223442"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "SCHULZ Werner Gustav Adolf born 1928 - Nationality: German - Arrived Fremantle per Cyrenia 23 October 1951", 
+        "series": "D4878", 
+        "control_symbol": "SCHULZ W G A", 
+        "contents_dates": {
+            "date_str": "1951 - 1957", 
+            "start_date": "1951", 
+            "end_date": "1957"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9238812"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schulz, Bernd Adolf - German - arrived 21 November 1967 in Perth aboard Airflight BA 712", 
+        "series": "BP289/1", 
+        "control_symbol": "1304434", 
+        "contents_dates": {
+            "date_str": "1967 - 1968", 
+            "start_date": "1967", 
+            "end_date": "1968"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30840761"
+    }
+]

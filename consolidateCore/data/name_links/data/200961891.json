@@ -1,0 +1,497 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "SCHNEIDER Vernon Alfred - [Civil Constructional Corps - Victoria] number CV123106 - Year of birth 1908", 
+        "series": "B4218", 
+        "identifier": "6576783", 
+        "control_symbol": "CV123106", 
+        "contents_dates": {
+            "date_str": "Mar 1944 - May 1945", 
+            "start_date": "1944-03", 
+            "end_date": "1945-05"
+        }, 
+        "location": "Melbourne"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER RONALD ALFRED : Service Number - QX54039 : Date of birth - 17 Nov 1915 : Place of birth - BOONAH QLD : Place of enlistment - Unknown : Next of Kin - SCHNEIDER GWENDOLINE", 
+        "series": "B883", 
+        "control_symbol": "QX54039", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4480900"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER HERBERT ALFRED WILTON : Service Number - Q145695 : Date of birth - 01 Mar 1905 : Place of birth - BRISBANE QLD : Place of enlistment - QLD : Next of Kin - SCHNEIDER JOHN", 
+        "series": "B884", 
+        "control_symbol": "Q145695", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4649293"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER HERBERT ALFRED WILTON : Service Number - Q200642 : Date of birth - 01 Mar 1905 : Place of birth - BRISBANE QLD : Place of enlistment - BRISBANE QLD : Next of Kin - SCHNEIDER MARY", 
+        "series": "B884", 
+        "control_symbol": "Q200642", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4857910"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER RUTH MARY : Service Number - QF272520 : Date of birth - 23 Oct 1925 : Place of birth - MACKAY QLD : Place of enlistment - QLD : Next of Kin - SCHNEIDER ALFRED", 
+        "series": "B884", 
+        "control_symbol": "QF272520", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4863524"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER ALFRED : Service Number - N425499 : Date of birth - 31 Jan 1902 : Place of birth - CASINO NSW : Place of enlistment - GRAFTON NSW : Next of Kin - SCHNEIDER ELIZABETH", 
+        "series": "B884", 
+        "control_symbol": "N425499", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5739462"
+    }, 
+    {
+        "digitised_pages": "22", 
+        "title": "SCHNEIDER Alfred Benjamin : Service Number - 2983 : Place of Birth - Boonah QLD : Place of Enlistment - Brisbane QLD : Next of Kin - (Father) SCHNEIDER John", 
+        "series": "B2455", 
+        "control_symbol": "SCHNEIDER ALFRED BENJAMIN", 
+        "contents_dates": {
+            "date_str": "1914 - 1920", 
+            "start_date": "1914", 
+            "end_date": "1920"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8076401"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "Alfred Schneider", 
+        "series": "A1", 
+        "control_symbol": "1917/13052", 
+        "contents_dates": {
+            "date_str": "1917 - 1917", 
+            "start_date": "1917", 
+            "end_date": "1917"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "36099"
+    }, 
+    {
+        "digitised_pages": "37", 
+        "title": "SCHNEIDER Alfred Alois born 15 March 1922; (nee Traeger) Elisabeth born 29 April 1926; Gisela born 14 January 1953; Heinz born 26 February 1954; Peter born 26 February 1954; Josef born 23 September 1955; Hedwig born 17 December 1956; Alfred Trager born 19 February 1949 - travelled per ship SKAUBRYN departing in 1958", 
+        "series": "A2478", 
+        "control_symbol": "SCHNEIDER A A", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1412996"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HOLZINGER Robert Alfred born 5 August 1921; Gertrude (nee Schafer and Schneider and Podborsek) born 6 February 1921; Ilse (Schneider) born 10 December 1941; Werner (Podborsek) born 27 March 1947; Michael Robert born 16 May 1951 - Austrian - travelled per ship ROMA departing in 1958 under Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "HOLZINGER R A", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1441099"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MOLLER Alfred born 5 November 1923; Marta (nee Mueller and Schneider) born 22 July 1923; Karl Heinz (Schneider) born 21 June 1947 - Austrian - travelled per ship FLAMINIA departing in 1956 under Australian Austrian Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "MOLLER A", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1461990"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WERNET Alfred born 27 July 1902; Jeanne (nee Schneider) born 30 March 1908; Richard born 27 August 1942; Helmut born 2 October 1943; Elisabeth born 19 April 1945; Anita born 13 June 1949 - German - travelled per ship FAIRSEA departing in 1954 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "WERNET A", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1469677"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Alfred - National Status", 
+        "series": "PP66/1", 
+        "control_symbol": "1954/65/2568", 
+        "contents_dates": {
+            "date_str": "1954 - 1956", 
+            "start_date": "1954", 
+            "end_date": "1956"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5292363"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Harold Alfred born 13 November 1932; Gladys Leona [McDAniel] born 24 August 1924 - American - arrived per ship SS CANBERRA departed San Francisco 13 November 1965 under General Assisted Passage Scheme", 
+        "series": "A2560", 
+        "control_symbol": "SCHNEIDER H A", 
+        "contents_dates": {
+            "date_str": "1965 - 1965", 
+            "start_date": "1965", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7138375"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Kurt William Alfred born 7 March 1920; Herta (nee Winkelmann) born 13 January 1922; Michaela born 26 January 1951; Dietmar born 25 May 1953 - German - travelled per AROSA STAR in February 1956", 
+        "series": "A2478", 
+        "control_symbol": "SCHNEIDER K W A", 
+        "contents_dates": {
+            "date_str": "1955 - 1956", 
+            "start_date": "1955", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7677699"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Alfred born 17 July 1934 - German - travelled per AURELIA in November 1960", 
+        "series": "A2478", 
+        "control_symbol": "SCHNEIDER A", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7688970"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Alfred born 16 August 1941 - German - travelled per CASTEL FELICE on 24 November 1960", 
+        "series": "A2478", 
+        "control_symbol": "SCHNEIDER A", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7709440"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Alfred born 16 May 1887 - Argentinean", 
+        "series": "A446", 
+        "control_symbol": "1954/42277", 
+        "contents_dates": {
+            "date_str": "1928 - 1954", 
+            "start_date": "1928", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7772341"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ANTENEN-SCHNEIDER, Alfred - born 1927 - Swiss", 
+        "series": "A2917", 
+        "control_symbol": "SD1974/5164", 
+        "contents_dates": {
+            "date_str": "1974 - 1974", 
+            "start_date": "1974", 
+            "end_date": "1974"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8135857"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Alfred [migrant selection documents]", 
+        "series": "PP50/4", 
+        "control_symbol": "1634", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9253634"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schneider, Alfred Alois - application for naturalisation", 
+        "series": "D400", 
+        "control_symbol": "SA1962/9386", 
+        "contents_dates": {
+            "date_str": "1961 - 1962", 
+            "start_date": "1961", 
+            "end_date": "1962"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "12133738"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER, Bodo Alfred - born 1941 - German - [Assisted Passage Scheme - Germany office file K/1972/5415]", 
+        "series": "A2917", 
+        "control_symbol": "SD1974/2550", 
+        "contents_dates": {
+            "date_str": "1972 - 1974", 
+            "start_date": "1972", 
+            "end_date": "1974"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "30048516"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER, Alfred Ernst - born 1929 - German - [Special Passage Assistance Programme - Cologne Office File - K1977/975]", 
+        "series": "A2917", 
+        "control_symbol": "SD1977/1305", 
+        "contents_dates": {
+            "date_str": "1976 - 1977", 
+            "start_date": "1976", 
+            "end_date": "1977"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "30328351"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Finck, Paul and Schneider, Alfred.E.", 
+        "series": "PP14/2", 
+        "control_symbol": "PF/115", 
+        "contents_dates": {
+            "date_str": "circa1914 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "752076"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Alfred - Nationality: Swiss - Arrived Fremantle per Orontes 7 September 1954", 
+        "series": "K1331", 
+        "control_symbol": "1956/SCHNEIDER A", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3265191"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Alfred Georg - Nationality: German - Arrived Melbourne per Aircraft 4 March 1960", 
+        "series": "K1331", 
+        "control_symbol": "1960/1961/SCHNEIDER A G", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3329193"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Alfred Karl Klaus - Nationality: German - Arrived Melbourne per Anna Salen 30 March 1952 Departed Commonwealth on 04 September 1962", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/SCHNEIDER ALFRED KARL KLAUS", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5989065"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Alfred - Nationality: German - Arrived Melbourne per Castel Felice 27 December 1960", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/SCHNEIDER ALFRED", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6593141"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Alfred Alois - Nationality: German - Arrived Melbourne per Skaubryn 22 January 1958", 
+        "series": "D4881", 
+        "control_symbol": "SCHNEIDER ALFRED ALOIS", 
+        "contents_dates": {
+            "date_str": "1958 - 1965", 
+            "start_date": "1958", 
+            "end_date": "1965"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7066950"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Arthur Alfred versus WITCOMBE Alfred Francis [on appeal from the New South Wales and Australian Capital Territory Bankruptcy Court - Estate of SIMPSON Alexander Frederick]", 
+        "series": "A10071", 
+        "control_symbol": "1944/23", 
+        "contents_dates": {
+            "date_str": "1944 - 1944", 
+            "start_date": "1944", 
+            "end_date": "1944"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8351423"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Alfred Alois - Nationality: German - Arrived Melbourne per Skaubryn 22 January 1958", 
+        "series": "D4878", 
+        "control_symbol": "GERMAN - SCHNEIDER A", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "12133736"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schneider, Alfred - German - arrived 8 November 1960 in Melbourne aboard AURELIA", 
+        "series": "BP289/1", 
+        "control_symbol": "1301415", 
+        "contents_dates": {
+            "date_str": "1960 - 1969", 
+            "start_date": "1960", 
+            "end_date": "1969"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30856475"
+    }
+]

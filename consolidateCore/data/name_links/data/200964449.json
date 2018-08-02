@@ -1,0 +1,152 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "RICHTER RAYMOND MAX : Service Number - VX146021 : Date of birth - 28 Jan 1925 : Place of birth - STAWELL VIC : Place of enlistment - 12 L OF C NSW : Next of Kin - RICHTER KATHLEEN", 
+        "series": "B883", 
+        "identifier": "6667766", 
+        "control_symbol": "VX146021", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "RICHTER Peter Max Heinrich born 28 June 1938 - German - travelled per ship SKAUBRYN departing in 1958", 
+        "series": "A2478", 
+        "identifier": "1413013", 
+        "control_symbol": "RICHTER P M H", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Richter Max", 
+        "series": "A367", 
+        "control_symbol": "C86328", 
+        "contents_dates": {
+            "date_str": "1941 - 1947", 
+            "start_date": "1941", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "767300"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application of Letter Patent for an invention by: Rudolf  Hans Richter, Max Hugo Wetzel and Max Wetzel - Titled - Improvements relating to arrangements for indicating the presence of conducting bodies", 
+        "series": "A627", 
+        "control_symbol": "16824/1924", 
+        "contents_dates": {
+            "date_str": "1924 - 1924", 
+            "start_date": "1924", 
+            "end_date": "1924"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4150210"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application of Letter Patent for an invention by: Rudolf Herman Heinrich Geffcken, Rudolf  Hans Richter, Max Hugo Wetzel and Max Kurt Wetzel - Titled - Improvements relating to arrangements for indicating the presence of conducting bodies", 
+        "series": "A627", 
+        "control_symbol": "16825/1924", 
+        "contents_dates": {
+            "date_str": "1924 - 1924", 
+            "start_date": "1924", 
+            "end_date": "1924"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4150211"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RICHTER Peter Max Heinrich - Nationality: German - Arrived Melbourne per Skaubryn 22 January 1958 Departed Commonwealth on 05 May 1964", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/RICHTER PETER MAX HEINRICH", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5813761"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Richter, Max; Date of birth - 29 July 1909; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "PWG41702", 
+        "contents_dates": {
+            "date_str": "1941 - 1946", 
+            "start_date": "1941", 
+            "end_date": "1946"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8619379"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Specifications for registration of patent by Max Richter titled - Richter's universal cooler for beer or draught", 
+        "series": "A13150", 
+        "control_symbol": "3136", 
+        "contents_dates": {
+            "date_str": "1881 - 1881", 
+            "start_date": "1881", 
+            "end_date": "1881"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9039900"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RICHTER, Peter Max Heinrich born 28 June 1938 - nationality German", 
+        "series": "P1183", 
+        "control_symbol": "8/51 RICHTER", 
+        "contents_dates": {
+            "date_str": "1968 - 1969", 
+            "start_date": "1968", 
+            "end_date": "1969"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9772763"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Prisoner of War/Internee; Richter, Max; Year of birth - --09; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "PWG41702", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9908205"
+    }
+]

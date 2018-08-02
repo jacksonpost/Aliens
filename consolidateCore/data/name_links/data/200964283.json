@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "SEARFOSS Jesse R Jr born 16 May 1931; Marianne (nee Mueller) born 15 July 1935; Kurt Adam born 19 October 1964 - United States Citizen", 
+        "series": "A2562", 
+        "identifier": "7650260", 
+        "control_symbol": "1970/7623", 
+        "contents_dates": {
+            "date_str": "1969 - 1970", 
+            "start_date": "1969", 
+            "end_date": "1970"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "[Photograph] W Runo, G Blum, FE Mueller, HWE Warnke, 4387 not identified, J I Scholz, B Altmeppen, M Adam, GPJ Aldorf", 
+        "series": "SP421/4", 
+        "identifier": "700788", 
+        "control_symbol": "4383 TO 4391", 
+        "contents_dates": {
+            "date_str": "1918 - 1918", 
+            "start_date": "1918", 
+            "end_date": "1918"
+        }, 
+        "location": "Sydney"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "EGGER Robert Karl born 15 June 1948 - Swiss", 
+        "series": "A2562", 
+        "control_symbol": "1970/1613", 
+        "contents_dates": {
+            "date_str": "1969 - 1969", 
+            "start_date": "1969", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7628979"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "EGGER Karl born 19 December 1934 - Austrian - travelled per AURELIA in May 1955", 
+        "series": "A2478", 
+        "control_symbol": "EGGER K", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7679340"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Egger, Eugen Karl", 
+        "series": "P3", 
+        "control_symbol": "T1966/2226", 
+        "contents_dates": {
+            "date_str": "1959 - 1968", 
+            "start_date": "1959", 
+            "end_date": "1968"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9594981"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Egger, Eugen Karl", 
+        "series": "P3", 
+        "control_symbol": "T1979/0542", 
+        "contents_dates": {
+            "date_str": "1979 - 1979", 
+            "start_date": "1979", 
+            "end_date": "1979"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "32314159"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "EGGER, Eugen Karl born 20 February 1937 - nationality Swiss; Christine Anne born 20 February 1946; Andrew Paul born 26 March 1965", 
+        "series": "P1183", 
+        "control_symbol": "6/109 EGGER", 
+        "contents_dates": {
+            "date_str": "1959 - 1968", 
+            "start_date": "1959", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8146517"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "EGGER Karl - Nationality: Austrian - Arrived Melbourne per Arosa Kulm 16 May 1956", 
+        "series": "B78", 
+        "control_symbol": "AUSTRIAN/EGGER KARL", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30305787"
+    }
+]

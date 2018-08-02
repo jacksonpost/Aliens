@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Buhrmann, Johann", 
+        "series": "B44", 
+        "control_symbol": "V1973/5338", 
+        "contents_dates": {
+            "date_str": "1973 - 1976", 
+            "start_date": "1973", 
+            "end_date": "1976"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4058238"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BUHRMANN Johann born 25 February 1910; Maria (nee Blothe) born 24 March 1905 - German", 
+        "series": "A12514", 
+        "control_symbol": "BUHRMANN J", 
+        "contents_dates": {
+            "date_str": "1961 - 1961", 
+            "start_date": "1961", 
+            "end_date": "1961"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7151573"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "BUHRMANN Johann - Nationality: German - Arrived Melbourne per Aurelia 10 April 1962", 
+        "series": "B78", 
+        "identifier": "5922287", 
+        "control_symbol": "GERMAN/BUHRMANN JOHANN", 
+        "contents_dates": {
+            "date_str": "01 Jan 1939 - 31 Dec 1972", 
+            "start_date": "1939-01-01", 
+            "end_date": "1972-12-31"
+        }, 
+        "location": "Melbourne"
+    }
+]

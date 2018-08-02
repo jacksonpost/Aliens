@@ -1,0 +1,17 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "W.W. William Waldemar Taenzer Naturalisation", 
+        "series": "A1", 
+        "identifier": "30906", 
+        "control_symbol": "1914/16296", 
+        "contents_dates": {
+            "date_str": "1914 - 1915", 
+            "start_date": "1914", 
+            "end_date": "1915"
+        }, 
+        "location": "Canberra"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "FIEDLER Eberhard Alfred born 3 June 1932 - German - travelled per ship SKAUBRYN departing in 1953 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "FIEDLER E A", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1443197"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FIEDLER [HORTENHUBER] Walter Alfred [Austrian] [arrived Fremantle 9 November 1955 per Flaminia] [Naturalisation file]", 
+        "series": "PP381/1", 
+        "control_symbol": "W1964/3831", 
+        "contents_dates": {
+            "date_str": "1964 - 1964", 
+            "start_date": "1964", 
+            "end_date": "1964"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "31117550"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "FIEDLER Erich Alfred Paul - Nationality: German - Arrived Melbourne per Aurelia 15 August 1963 Departed Commonwealth on 26 October 1963", 
+        "series": "B78", 
+        "identifier": "5746426", 
+        "control_symbol": "GERMAN/FIEDLER ERICH ALFRED PAUL", 
+        "contents_dates": {
+            "date_str": "01 Jan 1939 - 31 Dec 1972", 
+            "start_date": "1939-01-01", 
+            "end_date": "1972-12-31"
+        }, 
+        "location": "Melbourne"
+    }
+]

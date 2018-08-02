@@ -1,0 +1,137 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "RITTER Karl born 26 June 1923; Johanna born 30 October 1923; Raimund born 21 January 1926", 
+        "series": "A12052", 
+        "control_symbol": "1512-1514", 
+        "contents_dates": {
+            "date_str": "1950 - 1951", 
+            "start_date": "1950", 
+            "end_date": "1951"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4763939"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RITTER Karl Heinrich born 22 Septmeber 1928; Barbara (nee Oestreicher) born 22 June 1930; Rosemarie born 14 November 1952; Brigitte Paula born 21 October 1954 - German -  travelled per CASTEL FELICE in September 1958", 
+        "series": "A2478", 
+        "control_symbol": "RITTER K", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7701412"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RITTER Karl born 21 June 1936 - Austrian - travelled per FLAMINIA on 9 June 1957", 
+        "series": "A2478", 
+        "control_symbol": "RITTER K", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7796509"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Naturalisation - RITTER Karl born 26 June 1923", 
+        "series": "A446", 
+        "control_symbol": "1956/46992", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8360421"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RITTER Helmut Max Karl [Nationality: German]", 
+        "series": "PP262/1", 
+        "control_symbol": "W1962/2696", 
+        "contents_dates": {
+            "date_str": "1954 - 1962", 
+            "start_date": "1954", 
+            "end_date": "1962"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "30233169"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RITTER HARRY KARL WALTER - Application for Naturalisation - [Box 86]", 
+        "series": "D400", 
+        "control_symbol": "SA1958/5561", 
+        "contents_dates": {
+            "date_str": "1958 - 1959", 
+            "start_date": "1958", 
+            "end_date": "1959"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "202814619"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "RITTER Karl born 1923 - Nationality: Czechoslovakian - Arrived Melbourne per Fairsea 22 January 1951", 
+        "series": "D4878", 
+        "control_symbol": "RITTER, K", 
+        "contents_dates": {
+            "date_str": "1951 - 1957", 
+            "start_date": "1951", 
+            "end_date": "1957"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4298398"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RITTER Karl - Nationality: Czechoslovakian - Arrived Melbourne per Fairsea 22 January 1951", 
+        "series": "D4881", 
+        "control_symbol": "RITTER KARL", 
+        "contents_dates": {
+            "date_str": "1951 - 1976", 
+            "start_date": "1951", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7185898"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RITTER Gerd Karl - Nationality: German - Arrived Melbourne per Skaubryn 4 May 1957", 
+        "series": "D4881", 
+        "control_symbol": "RITTER GERD KARL", 
+        "contents_dates": {
+            "date_str": "1957 - 1976", 
+            "start_date": "1957", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9219048"
+    }
+]

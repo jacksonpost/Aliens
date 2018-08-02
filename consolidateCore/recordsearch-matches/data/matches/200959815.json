@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "SCHNEIDER Willy born 5 February 1942 - Swiss", 
+        "series": "A2562", 
+        "control_symbol": "1968/3016", 
+        "contents_dates": {
+            "date_str": "1967 - 1967", 
+            "start_date": "1967", 
+            "end_date": "1967"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7716741"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NIEDERMAYER Josef born 29 January 1931; Theresia (nee Schneider) born 27 January 1934; Willy born 8 August 1951 - German - travelled per ship FAIRSEA departing in 1954 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "NIEDERMAYER J", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7770071"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Schneider, Willy - Swiss - arrived 16 June 1968 in Sydney aboard TAHITIEN", 
+        "series": "BP289/1", 
+        "identifier": "30856484", 
+        "control_symbol": "1301424", 
+        "contents_dates": {
+            "date_str": "1968 - 1970", 
+            "start_date": "1968", 
+            "end_date": "1970"
+        }, 
+        "location": "Brisbane"
+    }
+]

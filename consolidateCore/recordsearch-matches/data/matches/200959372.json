@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Fritz Wilhelm Pieper - transfer of property Marangarro NSW", 
+        "series": "A12217", 
+        "control_symbol": "L7661", 
+        "contents_dates": {
+            "date_str": "1943 - 1943", 
+            "start_date": "1943", 
+            "end_date": "1943"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5450037"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Fritz Wilhelm PIEPER - Nationality: German - Arrived Sydney per ZEITEN on 14 Jun 1914 [Box 150]", 
+        "series": "SP11/5", 
+        "control_symbol": "PIEPER, KARL FRITZ WILHELM", 
+        "contents_dates": {
+            "date_str": "1939 - 1941", 
+            "start_date": "1939", 
+            "end_date": "1941"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30384538"
+    }
+]

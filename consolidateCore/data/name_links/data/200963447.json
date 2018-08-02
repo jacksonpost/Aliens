@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "KOEHLER GERHARD JOHANN", 
+        "series": "D400", 
+        "identifier": "32114852", 
+        "control_symbol": "SA1958/1904", 
+        "contents_dates": {
+            "date_str": "24 Mar 1958 - 03 Nov 1958", 
+            "start_date": "1958-03-24", 
+            "end_date": "1958-11-03"
+        }, 
+        "location": "Adelaide"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KOEHLER Gerhard Johann - Nationality: German - Arrived Melbourne per Nelly 5 December 1952", 
+        "series": "D4881", 
+        "control_symbol": "KOEHLER GERHARD JOHANN", 
+        "contents_dates": {
+            "date_str": "1952 - 1976", 
+            "start_date": "1952", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9203617"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KOEHLER Johann Damian - Nationality: German - Arrived Melbourne per Skaubryn 3 July 1955", 
+        "series": "D4881", 
+        "control_symbol": "KOEHLER JOHANN DAMIAN", 
+        "contents_dates": {
+            "date_str": "1955 - 1976", 
+            "start_date": "1955", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9203620"
+    }
+]

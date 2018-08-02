@@ -1,0 +1,152 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "WOLF KURT : Service Number - N211801 : Date of birth - 13 Sep 1920 : Place of birth - COLOGNE GERMANY : Place of enlistment - SYDNEY NSW : Next of Kin - LIFFMANN OTTO", 
+        "series": "B884", 
+        "identifier": "5694377", 
+        "control_symbol": "N211801", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FRANCE. Otto WOLF: Production of synthetic Fuel", 
+        "series": "A1068", 
+        "control_symbol": "E47/13/6/4", 
+        "contents_dates": {
+            "date_str": "1947 - 1947", 
+            "start_date": "1947", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "194560"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WOLF Maria (aka Marja) born 3 June 1930; Rudiger Otto born 5 July 1956 - Austrian - travelled per MIQAN flight under Assisted Passage Scheme - Nominated Dependant", 
+        "series": "A2478", 
+        "control_symbol": "WOLF M", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1232920"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WOLF Otto born 28 May 1928; Annelies (nee Faltermeier) born 3 December 1927; Angela born 15 July 1951 - German - travelled per ship SKAUBRYN departing in 1958", 
+        "series": "A2478", 
+        "control_symbol": "WOLF O", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1414065"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "von Trotha, Wolf Otto Woldemar - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "344", 
+        "contents_dates": {
+            "date_str": "1867 - 1868", 
+            "start_date": "1867", 
+            "end_date": "1868"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3175017"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FRYDMANN Moshe born 28 June 1918; Erika-Lore born 29 September 1923; KORBER Wolf-Dieter-Otto born 14 May 1941", 
+        "series": "A12050", 
+        "control_symbol": "994-996", 
+        "contents_dates": {
+            "date_str": "1950 - 1951", 
+            "start_date": "1950", 
+            "end_date": "1951"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5443460"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WEISS Werner Otto born 12 April 1928; Ruth (nee Wolf) born 20 may 1927 - German - travelled per CASTEL FELICE on 24 November 1960", 
+        "series": "A2478", 
+        "control_symbol": "WEISS W O", 
+        "contents_dates": {
+            "date_str": "1959 - 1960", 
+            "start_date": "1959", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7711491"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ZAUSS Karl Heinz Adolf Otto born 14 April 1929; Sigrid (nee Gundlach) born 14 November 1935; Wolf born 23 December 1957; Peer born 23 January 1960 - German - travelled per CASTEL FELICE on 27 May 1961", 
+        "series": "A2478", 
+        "control_symbol": "ZAUSS K H A O", 
+        "contents_dates": {
+            "date_str": "1961 - 1961", 
+            "start_date": "1961", 
+            "end_date": "1961"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7713046"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WOLF Otto - Nationality: German - Arrived Melbourne per Skaubryn 22 January 1958 Departed Commonwealth on 10 June 1962", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/WOLF OTTO", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5992348"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WOLF Gunter Fred Otto - Nationality: German Arrived Melbourne per Anna Salen 16 October 1954", 
+        "series": "D4881", 
+        "control_symbol": "WOLF GUNTER FRED OTTO", 
+        "contents_dates": {
+            "date_str": "1954 - 1961", 
+            "start_date": "1954", 
+            "end_date": "1961"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7191061"
+    }
+]

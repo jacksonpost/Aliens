@@ -1,0 +1,1202 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Grove, Joseph Benjamin QX15540 [Prisoners of War Trust Fund application]", 
+        "series": "B503", 
+        "control_symbol": "Q750", 
+        "contents_dates": {
+            "date_str": "1955 - 1977", 
+            "start_date": "1955", 
+            "end_date": "1977"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "1030887"
+    }, 
+    {
+        "digitised_pages": "57", 
+        "title": "BLANCHARD, Roger Joseph - (Flight Lieutenant); Service Number - 260776; File type - Casualty - Repatriation; Aircraft - Hudson; Place - Timor; Date - 23 April 1942", 
+        "series": "A705", 
+        "control_symbol": "163/24/239", 
+        "contents_dates": {
+            "date_str": "1942 - 1952", 
+            "start_date": "1942", 
+            "end_date": "1952"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1054368"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GRAY Oberlin Benjamin Plester - (Sergeant); Service Number - 408225; File type - Casualty - Repatriation; Aircraft - Hudson W16-182; Place - South West Africa; Date - 23 April 1942", 
+        "series": "A705", 
+        "control_symbol": "163/118/327", 
+        "contents_dates": {
+            "date_str": "1942 - 1950", 
+            "start_date": "1942", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1057357"
+    }, 
+    {
+        "digitised_pages": "34", 
+        "title": "WOODS David Vynne - (Sergeant); Service Number - 416294; File type - Casualty - Repatriation; Aircraft - Hudson W16-182; Place - Koepang, N.E.1.; Date - 23 April 1942", 
+        "series": "A705", 
+        "control_symbol": "163/179/161", 
+        "contents_dates": {
+            "date_str": "1942 - 1957", 
+            "start_date": "1942", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1060722"
+    }, 
+    {
+        "digitised_pages": "62", 
+        "title": "LADE, Donald Stephen - (Flying Officer); Service Number - 418130; File type - Casualty - Repatriation; Aircraft - Lancaster PB535; Place - Kerchallen, Germany; Date - 12 September 1944", 
+        "series": "A705", 
+        "control_symbol": "166/24/537", 
+        "contents_dates": {
+            "date_str": "1944 - 1953", 
+            "start_date": "1944", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1072225"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OGLE, Joseph Benjamin - Service Number - 9130", 
+        "series": "B73", 
+        "control_symbol": "M70504", 
+        "contents_dates": {
+            "date_str": "1915 - 1959", 
+            "start_date": "1915", 
+            "end_date": "1959"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Closed", 
+        "digitised_status": false, 
+        "identifier": "1770290"
+    }, 
+    {
+        "digitised_pages": "15", 
+        "title": "Hewitt, Benjamin Joseph, Driver, Regimental number 5737, 3rd Field Artillery [Application for War Gratuity]", 
+        "series": "P1868", 
+        "control_symbol": "T12949", 
+        "contents_dates": {
+            "date_str": "1915 - 1920", 
+            "start_date": "1915", 
+            "end_date": "1920"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1817002"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FIRKIN Joseph Benjamin [Civil Constructional Corps file]", 
+        "series": "K1291", 
+        "control_symbol": "130", 
+        "contents_dates": {
+            "date_str": "circa1942 - circa1946", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3090753"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Smith, Benjamin Joseph [Citizen Military Force Pay File]", 
+        "series": "P806", 
+        "control_symbol": "T102393", 
+        "contents_dates": {
+            "date_str": "by1940 - 1949", 
+            "start_date": null, 
+            "end_date": "1949"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "3418816"
+    }, 
+    {
+        "digitised_pages": "19", 
+        "title": "Bacon, Joseph Henry, Munition Worker, Regimental Number 962, [Application for War Gratuity]     Alexander, Benjamin Disraeli, Sergeant, 3rd Light Horse  [Application for War Gratuity]", 
+        "series": "P1868", 
+        "control_symbol": "12329", 
+        "contents_dates": {
+            "date_str": "1917 - 1919", 
+            "start_date": "1917", 
+            "end_date": "1919"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3908757"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[MATTHEWS Joseph Benjamin Jackson : Service Number - 2479 : Unit - 3rd Battalion, Australian Imperial Force : Date of Court Martial - 14 May 1918]", 
+        "series": "A471", 
+        "control_symbol": "4164", 
+        "contents_dates": {
+            "date_str": "1918 - 1918", 
+            "start_date": "1918", 
+            "end_date": "1918"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7239369"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[MYERS Benjamin Joseph  (Staff Sergeant) [aka Benson - Beb-zion] : Service Number - NX14794 : Unit - 1st Australian Depot Battalion, Australian Military Forces : Date of Court Martial - 21 July 1943]", 
+        "series": "A471", 
+        "control_symbol": "73632", 
+        "contents_dates": {
+            "date_str": "1943 - 1943", 
+            "start_date": "1943", 
+            "end_date": "1943"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7554110"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[PICKERING Joseph Benjamin (Sergeant) : Service Number - NX40348 : Unit - General Details Depot, Australian Military Forces : Date of Court Martial - 11 September 1945]", 
+        "series": "A471", 
+        "control_symbol": "74247", 
+        "contents_dates": {
+            "date_str": "1945 - 1945", 
+            "start_date": "1945", 
+            "end_date": "1945"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7554295"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[BENJAMIN Edward Joseph (Private) : Service Number - 3238 : Unit - 4th Division Headquarters (now No 4 Command Depot, Murdoch : Date of Court Martial 24 April 1918]", 
+        "series": "A471", 
+        "control_symbol": "17787", 
+        "contents_dates": {
+            "date_str": "1918 - 1918", 
+            "start_date": "1918", 
+            "end_date": "1918"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7910379"
+    }, 
+    {
+        "digitised_pages": "60", 
+        "title": "[CROMBIE William : Service Number - NX65548 : PICKERING Joseph Benjamin, NX40348 : CLARKE Robert James, NX30682 : Unit - 24th Australian Field Park Company, Australian Military Forces : Date of Court Martial - 10 January 1942]", 
+        "series": "A471", 
+        "control_symbol": "36794", 
+        "contents_dates": {
+            "date_str": "1942 - 1942", 
+            "start_date": "1942", 
+            "end_date": "1942"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8328670"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[CANNON Joseph Benjamin (Private) : Service Number - NX7055 : Unit - 2/33rd Australian Infantry Battalion, Australian Imperial Force : Date of Court Martial - 18 August 1943]", 
+        "series": "A471", 
+        "control_symbol": "39684", 
+        "contents_dates": {
+            "date_str": "1943 - 1943", 
+            "start_date": "1943", 
+            "end_date": "1943"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8384574"
+    }, 
+    {
+        "digitised_pages": "302", 
+        "title": "[BATHERSBY Kenneth : Service Number - 137111 (all Leading Aircraftman) : HARPER Arthur Francis, 164204 : BOWDELL Leo Benjamin, 165142 : RYAN Graham Hewitt, 158837 : DOBSON Raymond George, 132731 : MARTIN Keith Lindsay, 133390 : MACKRILL Lawrence George, 140068 : GILBERT Douglas William, 141848 : BRANCH Keith Charles, 59418 : ALMOND John Kenneth, 163457 : BRADY Leonard James, 138250 : COPPERTHWAITE Arthur Valantine, 148321 : DOYLE Joseph John, 136258 : HOOPER Percival Ronald, 122343 : PARKER Hugh Douglas, 161689 : SINCLAIR Donald Arthur, 149269 : DRAKE Jack Edward, 164095 : LAURITZEN William John Richard, 132309 : BENJAMIN Ronald Abraham, 164547 : BAXTER Alexander Paterson, 156444 : PALETHORPE Arthur Thomas, 170294 : Unit - 381st (Base) Squadron, Royal Australian Air Force : Date of Court Martial - 25 November 1946 - 19 December 1946 - 14 January 1947]", 
+        "series": "A471", 
+        "control_symbol": "80277", 
+        "contents_dates": {
+            "date_str": "1947 - 1947", 
+            "start_date": "1947", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9050925"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SLATER Arthur Benjamin Joseph - Service Number: SX1266", 
+        "series": "D1358", 
+        "control_symbol": "SX1266", 
+        "contents_dates": {
+            "date_str": "1939 - 1947", 
+            "start_date": "1939", 
+            "end_date": "1947"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9229407"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SLATER Arthur Benjamin Joseph - Service Number: SX1268", 
+        "series": "D1358", 
+        "control_symbol": "SX1268", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9229408"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[TOGO Benjamin Joseph : Service Number - 1202452 : Unit - Unallotted List, Australian Military Forces : Date of Court Martial - 13 January 1970]", 
+        "series": "A471", 
+        "control_symbol": "92177", 
+        "contents_dates": {
+            "date_str": "1970 - 1970", 
+            "start_date": "1970", 
+            "end_date": "1970"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9806273"
+    }, 
+    {
+        "digitised_pages": "13", 
+        "title": "Benjamin Alfred Joseph : SERN 65950 : POB Sydney NSW : POE Sydney NSW : NOK W Benjamin Leah", 
+        "series": "B2455", 
+        "control_symbol": "BENJAMIN A J", 
+        "contents_dates": {
+            "date_str": "circa1914 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3071991"
+    }, 
+    {
+        "digitised_pages": "34", 
+        "title": "Benjamin Edward Joseph : SERN 3238 : POB Sydney NSW : POE Liverpool NSW : NOK M Benjamin Mary Louise", 
+        "series": "B2455", 
+        "control_symbol": "BENJAMIN E J", 
+        "contents_dates": {
+            "date_str": "circa1914 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3072040"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WINSLAND BENJAMIN JOSEPH : Service Number - QX4241 : Date of birth - 03 Jul 1905 : Place of birth - COLCHESTER ENGLAND : Place of enlistment - BRISBANE QLD : Next of Kin - GOOD LAVINIA", 
+        "series": "B883", 
+        "control_symbol": "QX4241", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4248609"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BINGHAM BENJAMIN JOSEPH : Service Number - QX2116 : Date of birth - 28 Feb 1905 : Place of birth - WARRIGAL VIC : Place of enlistment - TOWNSVILLE QLD : Next of Kin - BINGHAM A", 
+        "series": "B883", 
+        "control_symbol": "QX2116", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4258052"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LYTHALL JOSEPH BENJAMIN : Service Number - QX2808 : Date of birth - 10 Sep 1905 : Place of birth - TOOGOOLAWAH QLD : Place of enlistment - ROCKHAMPTON QLD : Next of Kin - WYUNE J", 
+        "series": "B883", 
+        "control_symbol": "QX2808", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4258682"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BANHAM LESLIE JOSEPH : Service Number - 30085 : Date of birth - 27 Sep 1920 : Place of birth - PENGUIN TAS : Place of enlistment - HOBART : Next of Kin - BANHAM BENJAMIN", 
+        "series": "A9301", 
+        "control_symbol": "30085", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4426967"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "TIMM BENJAMIN JOSEPH : Service Number - Q113922 : Date of birth - 05 Jun 1892 : Place of birth - LAIDLEY QLD : Place of enlistment - ROCKHAMPTON QLD : Next of Kin - TIMM OTTIELIE", 
+        "series": "B884", 
+        "control_symbol": "Q113922", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4449065"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KIAPBEL : Service Number - R778 : Date of birth - Unknown : Place of birth - Unknown : Place of enlistment - Unknown : Next of Kin - BENJAMIN JOSEPH", 
+        "series": "B884", 
+        "control_symbol": "R778", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4467230"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "COLEMAN KEVIN JOSEPH : Service Number - QX52768 : Date of birth - 16 Dec 1922 : Place of birth - TWEED HEADS NSW : Place of enlistment - Unknown : Next of Kin - COLEMAN BENJAMIN", 
+        "series": "B883", 
+        "control_symbol": "QX52768", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4480449"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "BARTON JOSEPH ERNEST : Service Number - QX14466 : Date of birth - 10 Jun 1912 : Place of birth - ASPATRIA ENGLAND : Place of enlistment - KELVIN GROVE QLD : Next of Kin - BARTON BENJAMIN", 
+        "series": "B883", 
+        "control_symbol": "QX14466", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4493077"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "BRODIE COLIN GEORGE JOSEPH : Service Number - QX19485 : Date of birth - 17 Mar 1920 : Place of birth - BRISBANE QLD : Place of enlistment - BRISBANE QLD : Next of Kin - BRODIE BENJAMIN", 
+        "series": "B883", 
+        "control_symbol": "QX19485", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4495592"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GROVE JOSEPH BENJAMIN : Service Number - QX15540 : Date of birth - 06 Dec 1909 : Place of birth - MOSSMAN QLD : Place of enlistment - CAIRNS QLD : Next of Kin - GROVE ELIZABETH", 
+        "series": "B883", 
+        "control_symbol": "QX15540", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4496543"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ZELLER JOHN JOSEPH : Service Number - QX20512 : Date of birth - 26 Feb 1914 : Place of birth - CHINCHILLA QLD : Place of enlistment - ROCKHAMPTON QLD : Next of Kin - ZELLER BENJAMIN", 
+        "series": "B883", 
+        "control_symbol": "QX20512", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4497815"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BACKHOUSE BENJAMIN JOSEPH : Service Number - 32647 : Date of birth - 30 Apr 1920 : Place of birth - PADDINGTON NSW : Place of enlistment - SYDNEY : Next of Kin - BACKHOUSE DAPHNE", 
+        "series": "A9301", 
+        "control_symbol": "32647", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4566185"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PETERS JOSEPH BENJAMIN : Service Number - 48790 : Date of birth - 09 Apr 1909 : Place of birth - FREELING SA : Place of enlistment - ADELAIDE : Next of Kin - PETERS GLADYS", 
+        "series": "A9301", 
+        "control_symbol": "48790", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4574870"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "CRONING JAMES FRANCIS JOSEPH : Service Number - 44051 : Date of birth - 23 Nov 1922 : Place of birth - SANDGATE QLD : Place of enlistment - BRISBANE : Next of Kin - CRONING BENJAMIN", 
+        "series": "A9301", 
+        "control_symbol": "44051", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4588145"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OLLIFFE JOSEPH BENJAMIN : Service Number - NX74137 : Date of birth - 05 Jun 1912 : Place of birth - PADDINGTON NSW : Place of enlistment - PADDINGTON NSW : Next of Kin - OLLIFFE VERA", 
+        "series": "B883", 
+        "control_symbol": "NX74137", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4621848"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ROBINSON BENJAMIN JOSEPH : Service Number - NX80497 : Date of birth - 06 Oct 1912 : Place of birth - WATSON BAY NSW : Place of enlistment - PADDINGTON NSW : Next of Kin - ROBINSON IRENE", 
+        "series": "B883", 
+        "control_symbol": "NX80497", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4632686"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MURPHY JOHN JOSEPH : Service Number - Q273686 : Date of birth - 27 Feb 1927 : Place of birth - AYR QLD : Place of enlistment - QLD : Next of Kin - MURPHY BENJAMIN", 
+        "series": "B884", 
+        "control_symbol": "Q273686", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4637356"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "TINKER JOSEPH ROBERT BENJAMIN : Service Number - NX72291 : Date of birth - 20 Apr 1896 : Place of birth - WYALONG NSW : Place of enlistment - PADDINGTON NSW : Next of Kin - TINKER VERA", 
+        "series": "B883", 
+        "control_symbol": "NX72291", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4660386"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Joseph Spivak & Benjamin Rosenberg - Permission to come to Australia", 
+        "series": "B13", 
+        "control_symbol": "1926/11626", 
+        "contents_dates": {
+            "date_str": "1926 - circa1926", 
+            "start_date": "1926", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "791087"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OOSTERMAN Egidius Joseph Antoon born 29 May 1928; Fenna (nee Drent) born 13 September 1927; Jean P born 21 September 1952; Claudia F C born 2 April 1955; Egidius J A born 1 July 1956; Benjamin R born 4 June 1958 - Dutch - travelled per KLM flight under Netherlands Australian Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "OOSTERMAN E J A", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1229949"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "CINI Saviour born 17 April 1927; Rose born 2 June 1923; Georgia born 26 December 1948; John born 4 January 1950; Benjamin born 10 December 1950; Joseph born 17 June 1952; Carmel born 28 August 1954; Mary born 7 November 1956; Anna born 20 December 1959 - Maltese - travelled per ship SYDNEY departing in 1965", 
+        "series": "A2478", 
+        "control_symbol": "CINI S", 
+        "contents_dates": {
+            "date_str": "1965 - 1965", 
+            "start_date": "1965", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1407269"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "VELLA Joseph born 2 June 1918; Domenica born 28 January 1924; Angela born 21 November 1946; Maria born 7 August 1948; Antonia born 11 October 1949; Rita born 22 January 1951; Paul born 15 May 1953; Lucia born 30 December 1954; Benjamin born 18 June 1957; Carmen born 12 July 1958; Puis born 8 November 1959; Eve born 17 July 1961 - travelled per ship ROMA departing in 1964 under Australian Maltese Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "VELLA J", 
+        "contents_dates": {
+            "date_str": "1964 - 1964", 
+            "start_date": "1964", 
+            "end_date": "1964"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1445081"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHIAVONE Joseph born 25 January 1923; Lucy born 16 June 1930; John born 12 July 1946; Angelo born 29 July 1947; Benjamin born 12 October 1948; Joseph born 25 October 1949; Catherine born 4 January 1951; Mary born 28 November 1955; Carmel born 14 October 1956; Emanuela born 2 July 1960 - British Maltese - travelled per ship ROMA departing in 1965 under Australian Maltese Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "SCHIAVONE J", 
+        "contents_dates": {
+            "date_str": "1965 - 1965", 
+            "start_date": "1965", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1445517"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "YEAMANS Joseph Benjamin Jr born 3 March 1897; nationality American; travelled per GLENSTRAE arriving in Melbourne on 2 November 1944", 
+        "series": "A12508", 
+        "control_symbol": "2/9890", 
+        "contents_dates": {
+            "date_str": "1944 - 1944", 
+            "start_date": "1944", 
+            "end_date": "1944"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7119529"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Aircraft VH-EAC arrived Sydney 06 Dec 1950 - Passengers Zaiden Moses [photograph attached], Nematol Lah Malkoun [photograph attached], Romainois Malkoun [photograph attached], Joseph Salami [photograph attached], Hanna Kaisor [photograph attached], Toufick Merhi and family [photograph attached], Sami and Rachel Abuav [photograph attached], Karin Vogt, Pilar Ferrando and family, Benjamin Roos Van Raad Shooven, Friedrich Wilhelm Kruger and Mr and Mrs J. H. Houben [Box 126]", 
+        "series": "SP244/2", 
+        "control_symbol": "N1950/2/13203", 
+        "contents_dates": {
+            "date_str": "1950 - 1952", 
+            "start_date": "1950", 
+            "end_date": "1952"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7296292"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BEECH Joseph Benjamin born 10 September 1915; Joan Patricia born 17 August 1927; travelled per RANCHI departing UK on 11 October 1950 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "11/10/1950 RANCHI BEECH J B", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7302095"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DICKERSON Benjamin Charles Joseph born 7 December 1920; Anne Maria (nee Cowan) born 11 November 1925; Patricia Anne born 11 October 1948; Pauline Margaret born 18 January 1951; Robert Benjamin born 9 July 1953; travelled per GEORGIC departing Liverpool on 23 August 1955 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "23/08/1955 GEORGIC DICKERSON B C J", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7309844"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DIEGAN Joseph Benjamin born 5 January 1917; Winnifred Rose (nee Lloyd) born 27 December 1918; Ronald born 5 September 1937; Micheal Richard born 14 December 1942; Paul James born 29 March 1947; Pauline Mary born 31 January 1939; Ina Kathleen born 12 December 1941; travelled per OTRANTO departing UK on 7 September 1954 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "07/09/1954 OTRANTO DIEGAN J B", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7310448"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PRIESTLEY Joseph Benjamin born 27 February 1917; Doris Emily (nee Smith, Haden) born 15 March 1915; HADEN Barbara Valerie born 20 February 1938; HADEN Marlene Vera born 21 September 1940; Josephine Elizabeth born 5 January 1950; travelled per OTRANTO departing UK on 4 October 1955 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "04/10/1955 OTRANTO PRIESTLEY J B", 
+        "contents_dates": {
+            "date_str": "1954 - 1955", 
+            "start_date": "1954", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7310870"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WILLIS Evan Joseph born 17 November 1927; Sylvia (nee Denton) born 28 February 1927; David Joseph born 15 February 1950; Ian Norman born 10 December 1951; Neal Benjamin born 11 July 1956; travelled per STRATHAIRD departing UK on 24 May 1957 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "24/05/1957 STRATHAIRD WILLIS E J", 
+        "contents_dates": {
+            "date_str": "1956 - 1957", 
+            "start_date": "1956", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7312145"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FLAHERTY Joseph Benjamin born 13 October 1925; Constance (nee Oliver) born 27 April 1930; Joseph Anthony born 5 June 1949; Constance Norma born 24 August 1950; Shaun Patrick born 19 April 1955; travelled per FAIRSKY departing UK on 21 January 1959 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "21/01/1959 FAIRSKY FLAHERTY J B", 
+        "contents_dates": {
+            "date_str": "1958 - 1959", 
+            "start_date": "1958", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7313993"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SAWBRIDGE Joseph Benjamin born 23 November 1911; Norah (nee Mitchinson) born 2 May 1917; John Malcolm born 15 March 1941; Peter born 1 July 1944; Jacqueline Mary born 1 December 1947; Ian born 13 October 1950; travelled per ORIANA departing UK on 6 August 1961 under the Assisted Passage Migration Scheme", 
+        "series": "A1877", 
+        "control_symbol": "6/08/61 ORIANA SAWBRIDGE J B", 
+        "contents_dates": {
+            "date_str": "1960 - 1961", 
+            "start_date": "1960", 
+            "end_date": "1961"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7318668"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DE MAIO Leopold born 30 May 1925; Flora (nee Di Giovanni) born 17 October 1931; Joseph Benjamin born 13 August 1960; Cynthia Vincenzina Grace born 15 January 1963 - Italian - travelled per GALILEO on 15 January 1970", 
+        "series": "A2562", 
+        "control_symbol": "1970/1129", 
+        "contents_dates": {
+            "date_str": "1969 - 1970", 
+            "start_date": "1969", 
+            "end_date": "1970"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7634054"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "COHEN Benjamin Joseph born 13 June 1925 - American - travelled per flight BA391 departing Los Angeles/America on 10 September 1970", 
+        "series": "A2562", 
+        "control_symbol": "1970/9382", 
+        "contents_dates": {
+            "date_str": "1970 - 1970", 
+            "start_date": "1970", 
+            "end_date": "1970"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7650891"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BENJAMIN Esha Joseph (aka Eshoo Yousif Biniamin) born 1925; Zubaida Nikoula born 1929; David", 
+        "series": "A446", 
+        "control_symbol": "1964/441", 
+        "contents_dates": {
+            "date_str": "1964 - 1966", 
+            "start_date": "1964", 
+            "end_date": "1966"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7661113"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SMITH May (nee Madley) born 25 March 1909; Paul born 4 April 1949; Joseph Benjamin born 30 September 1916 (husband) - British", 
+        "series": "A446", 
+        "control_symbol": "1966/32947", 
+        "contents_dates": {
+            "date_str": "1965 - 1966", 
+            "start_date": "1965", 
+            "end_date": "1966"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7746407"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AVICE Marie Joseph Henri born 7 June 1919; Anne Marie Madeleine Jacqueline (nee Nayna) born 25 July 1926; Noel Jacques Henri born 1 January 1947; Marie Claire Giliane born 19 December 1949; Joseph Robert born 28 March 1951; Guy Benjamin Gervais born 7 August 1954 - British", 
+        "series": "A446", 
+        "control_symbol": "1966/8812", 
+        "contents_dates": {
+            "date_str": "1966 - 1968", 
+            "start_date": "1966", 
+            "end_date": "1968"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7747128"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LEGEOIS VALLES Charles Patrick born 29 March 1922; June Amelia (nee Greenford) born 7 June 1928; Charles Benjamin born 10 July 1948; Glenville Peter born 25 September 1950; Cheryl Mary born 16 July 1952; Arlene Teresa born 21 October 1955; Tyrone Bernard born 16 April 1957; Ricardo Joseph born 12 May 1959; Sabrina Ann born 3 January 1961; Andre Mark born 17 June 1967 - Burmese", 
+        "series": "A9678", 
+        "control_symbol": "64/2/4 PART283", 
+        "contents_dates": {
+            "date_str": "1968 - 1969", 
+            "start_date": "1968", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7761116"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Heinrich Joseph Benjamin Buchber and wife Annie Elizabeth", 
+        "series": "B741", 
+        "control_symbol": "V/2084", 
+        "contents_dates": {
+            "date_str": "1916 - 1925", 
+            "start_date": "1916", 
+            "end_date": "1925"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "791012"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "In the matter of the trusts of the will of KRONHEIMER Joseph, deceased; ROCHE Joseph Francis; BENJAMIN Louis Stanley; ENGLANDER Jacob; the Equity Trestees Executors and Agency Company Limited (as executors and trustees of the will of KRONHEIMER Joseph, deceased) versus KRONHEIMER Max; OAKLEY Robert McKeeman, acting Deputy Controller General; the Public Trustee under the 'Trading with the Enemy Act 1914-1916'", 
+        "series": "A10074", 
+        "control_symbol": "1920/45", 
+        "contents_dates": {
+            "date_str": "1920 - 1921", 
+            "start_date": "1920", 
+            "end_date": "1921"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3141966"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUTHOR Joseph Benjamin Olliffe : ADDRESS Sydney : TITLE OF WORK Handicaps for the Carrington Stakes 28 December 1907 : TYPE OF WORK Book : APPLICANT Joseph Benjamin Olliffe : DATE OF APPLICATION 4 Dec 1907 : DATE COPYRIGHT REGISTERED Not Registered : WORK ENCLOSED? Yes", 
+        "series": "A1336", 
+        "control_symbol": "346", 
+        "contents_dates": {
+            "date_str": "1907 - 1907", 
+            "start_date": "1907", 
+            "end_date": "1907"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3391782"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUTHOR Joseph Benjamin Olliffe : ADDRESS Sydney : TITLE OF WORK Tattersalls Club Handicaps for May Meeting 16th May 1908 : TYPE OF WORK Book : APPLICANT Joseph Benjamin Olliffe : DATE OF APPLICATION 11 May 1908 : DATE COPYRIGHT REGISTERED Not Registered : WORK ENCLOSED? Yes", 
+        "series": "A1336", 
+        "control_symbol": "511", 
+        "contents_dates": {
+            "date_str": "1908 - 1908", 
+            "start_date": "1908", 
+            "end_date": "1908"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3392991"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUTHOR Joseph Benjamin Olliffe : ADDRESS Sydney : TITLE OF WORK Horses Names and Weights Tattersall's Club Races Carrington Stakes Wednesday 29th December 1915 and Tattersall's Club Cup Saturday 1st January 1916 : TYPE OF WORK Book : APPLICANT Joseph Benjamin Olliffe : DATE OF APPLICATION 6 Dec 1915 : DATE COPYRIGHT REGISTERED 10 Dec 1915 : WORK ENCLOSED? Yes", 
+        "series": "A1336", 
+        "control_symbol": "4637", 
+        "contents_dates": {
+            "date_str": "1915 - 1915", 
+            "start_date": "1915", 
+            "end_date": "1915"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3429294"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUTHOR Joseph Benjamin Olliffe : ADDRESS Sydney : TITLE OF WORK Horses Names and Weights Tattersalls Club Races Wednesday 29th December 1915 : TYPE OF WORK Book : APPLICANT Joseph Benjamin Olliffe : DATE OF APPLICATION 27 Dec 1915 : DATE COPYRIGHT REGISTERED 30 Dec 1915 : WORK ENCLOSED? Yes", 
+        "series": "A1336", 
+        "control_symbol": "4678", 
+        "contents_dates": {
+            "date_str": "1915 - 1915", 
+            "start_date": "1915", 
+            "end_date": "1915"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3429535"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUTHOR Joseph Benjamin Olliffe : ADDRESS Sydney : TITLE OF WORK Horses Names and Weights Tattersalls Club Races Saturday 1st January 1916 : TYPE OF WORK Book : APPLICANT Joseph Benjamin Olliffe : DATE OF APPLICATION 30 Dec 1915 : DATE COPYRIGHT REGISTERED 4 Jan 1916 : WORK ENCLOSED? Yes", 
+        "series": "A1336", 
+        "control_symbol": "4683", 
+        "contents_dates": {
+            "date_str": "1915 - 1916", 
+            "start_date": "1915", 
+            "end_date": "1916"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3429558"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "BIRDSELL Joseph Benjamin - Nationality: American - Arrived Sydney per Mirrabroka 3 October 1952", 
+        "series": "D4878", 
+        "control_symbol": "BIRDSELL J B", 
+        "contents_dates": {
+            "date_str": "1952 - 1954", 
+            "start_date": "1952", 
+            "end_date": "1954"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4072458"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUTHOR Michael Victor Benjamin and Joseph Halford : TITLE Sydney : TITLE OF WORK The Great Master Builder : TYPE OF WORK Musical : APPLICANT Michael Victor Benjamin and Joseph Halford : DATE OF APPLICATION 2 Jan 1957 : DATE COPYRIGHT REGISTERED 4 Feb 1957 : WORK ENCLOSED? Yes", 
+        "series": "A1336", 
+        "control_symbol": "57068", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4183396"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUTHOR Michael Victor Benjamin and Joseph Adam Halford : ADDRESS Croydon : TITLE OF WORK  \"Sea of Eternity\" : TYPE OF WORK Literary : APPLICANT Michael Victor Benjamin and Joseph Adam Halford : DATE OF APPLICATION 29 Jan 1958 : DATE COPYRIGHT REGISTERED 19 Mar 1959 : WORK ENCLOSED? Yes", 
+        "series": "A1336", 
+        "control_symbol": "58285", 
+        "contents_dates": {
+            "date_str": "1958 - 1959", 
+            "start_date": "1958", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4191993"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "New South Wales Letters Patent. Machine for dressing fur - Specification by Benjamin Dunturley and Joseph Davenport Kain", 
+        "series": "A4617", 
+        "control_symbol": "4691", 
+        "contents_dates": {
+            "date_str": "1893 - 1893", 
+            "start_date": "1893", 
+            "end_date": "1893"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4196449"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by Joseph Benjamin Allen titled, Improvements in paper trimming devices[Cognate 11698/1928]", 
+        "series": "A627", 
+        "control_symbol": "11474/1928", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4205251"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by Joseph Benjamin Allen titled, Improvements in paper trimming devices [Cognate 11474/1928]", 
+        "series": "A627", 
+        "control_symbol": "11698/1928", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4205297"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by  Clarence Joseph Bernard Ward, Walter Earnest Findlater and Benjamin Downes, titled - An improved number plate for vehicles", 
+        "series": "A627", 
+        "control_symbol": "17055/1924", 
+        "contents_dates": {
+            "date_str": "1924 - 1924", 
+            "start_date": "1924", 
+            "end_date": "1924"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4212905"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by Joseph Benjamin Fisher, titled - Toy gun", 
+        "series": "A627", 
+        "control_symbol": "25207/1930", 
+        "contents_dates": {
+            "date_str": "1930 - 1930", 
+            "start_date": "1930", 
+            "end_date": "1930"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4223166"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Tasmanian Letters Patent.  An improved method of tarring and delivering wood blocks suitable for paving roadways - Specification by Benjamin Miller Gibson and Joseph Horatio Amora", 
+        "series": "A1565", 
+        "control_symbol": "1686", 
+        "contents_dates": {
+            "date_str": "1896 - 1896", 
+            "start_date": "1896", 
+            "end_date": "1896"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4288570"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WATERWORTH Benjamin Joseph - Nationality : American - [Application Form for Registration as Alien]", 
+        "series": "PP14/3", 
+        "control_symbol": "AMERICAN/WATERWORTH B J", 
+        "contents_dates": {
+            "date_str": "circa1916 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4315461"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by Benjamin Miller Gibson and Joseph Horatio Amora titled an improved method of tarring and delivering wood blocks suitable for paving roadways", 
+        "series": "A11848", 
+        "control_symbol": "1248", 
+        "contents_dates": {
+            "date_str": "1896 - 1896", 
+            "start_date": "1896", 
+            "end_date": "1896"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5107916"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Correspondence with applicants Benjamin Dunkerley and Joseph Davenport Main invention entitled - Machine for dressing fur", 
+        "series": "A4618", 
+        "control_symbol": "4691", 
+        "contents_dates": {
+            "date_str": "1893 - 1893", 
+            "start_date": "1893", 
+            "end_date": "1893"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5149345"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Correspondence with Benjamin Miller Gibson and Joseph Horatio Amora concerning invention entitled - A new mode of tarring and delivering wood blocks suitable for wood-blocking roadways", 
+        "series": "A4618", 
+        "control_symbol": "6549", 
+        "contents_dates": {
+            "date_str": "1896 - 1897", 
+            "start_date": "1896", 
+            "end_date": "1897"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5160886"
+    }
+]

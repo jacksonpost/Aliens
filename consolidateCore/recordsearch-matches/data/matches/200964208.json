@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "GRUNDMANN Karl Heinz born 1 July 1929; Margret (nee Kleinewegen) born 2 August 1934 - German - travelled under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "identifier": "1226046", 
+        "control_symbol": "GRUNDMANN K H", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "GRUNDMANN Karl Heinz - Nationality: German - Arrived Melbourne per Arosa Star 1 March 1956", 
+        "series": "B78", 
+        "identifier": "5901896", 
+        "control_symbol": "GERMAN/GRUNDMANN KARL HEINZ", 
+        "contents_dates": {
+            "date_str": "01 Jan 1939 - 31 Dec 1972", 
+            "start_date": "1939-01-01", 
+            "end_date": "1972-12-31"
+        }, 
+        "location": "Melbourne"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Carl Langbecker [Applicant] Otto Starck [Interned] [Nominee] [Box 6]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N2560", 
+        "contents_dates": {
+            "date_str": "1915 - 1925", 
+            "start_date": "1915", 
+            "end_date": "1925"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "450219"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "STARCK Wilhelm Otto: Nationality - Finn [Russian]: Date of Birth - 1854: Arrived per PORT STANLEY: First registered at Melbourne", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/RUSSIA/STARCK WILHELM", 
+        "contents_dates": {
+            "date_str": "1920 - 1920", 
+            "start_date": "1920", 
+            "end_date": "1920"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6556010"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "HOFFMANN LESLIE RICHARD : Service Number - B4413 : Date of birth - 12 May 1925 : Place of birth - BRISBANE : Place of enlistment - BRISBANE QLD : Next of Kin - NORMA", 
+        "series": "A6770", 
+        "identifier": "4553739", 
+        "control_symbol": "HOFFMANN L R", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HOFFMANN Irmfried Willy Richard born 28 March 1931 - German - travelled per ship FAIRSEA departing in 1953 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "HOFFMANN I W R", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1472988"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Hoffmann, Richard Carl - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "1557", 
+        "contents_dates": {
+            "date_str": "1883 - 1883", 
+            "start_date": "1883", 
+            "end_date": "1883"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3181231"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Hoffmann, Richard - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "3828", 
+        "contents_dates": {
+            "date_str": "1899 - 1899", 
+            "start_date": "1899", 
+            "end_date": "1899"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3187281"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Hoffmann, Carl Herrmann Richard - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "4076", 
+        "contents_dates": {
+            "date_str": "1901 - 1901", 
+            "start_date": "1901", 
+            "end_date": "1901"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3188525"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NIEMZ Richard Manfred born 4 September 1930; Mathilde (nee Hoffmann) born 26 April 1931; Detlef born 5 March 1959 - German - travelled per CASTEL FELICE in December 1959", 
+        "series": "A2478", 
+        "control_symbol": "NIEMZ R M", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7707835"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Fink, Karl and Hausenberg, Adolf", 
+        "series": "PP14/2", 
+        "identifier": "752226", 
+        "control_symbol": "PF/239", 
+        "contents_dates": {
+            "date_str": "1915 - 1917", 
+            "start_date": "1915", 
+            "end_date": "1917"
+        }, 
+        "location": "Perth"
+    }
+]

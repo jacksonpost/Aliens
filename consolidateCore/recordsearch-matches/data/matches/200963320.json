@@ -1,0 +1,152 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Bartels, Ernest Henry - allotment, pay ledger and history cards for Queensland army personnel", 
+        "series": "J1199", 
+        "identifier": "12003969", 
+        "control_symbol": "QX18179", 
+        "contents_dates": {
+            "date_str": "1941 - 1947", 
+            "start_date": "1941", 
+            "end_date": "1947"
+        }, 
+        "location": "Brisbane"
+    }, 
+    {
+        "digitised_pages": "16", 
+        "title": "Bartels Henry Albert : SERN 2329 : POB Townsville QLD : POE Brisbane QLD : NOK Bartels A M", 
+        "series": "B2455", 
+        "control_symbol": "BARTELS H A", 
+        "contents_dates": {
+            "date_str": "circa1914 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3053634"
+    }, 
+    {
+        "digitised_pages": "16", 
+        "title": "BARTELS ERNEST HENRY : Service Number - QX18179 : Date of birth - 11 Oct 1901 : Place of birth - BRISBANE QLD : Place of enlistment - WARWICK QLD : Next of Kin - BARTELS CAROLINE", 
+        "series": "B883", 
+        "control_symbol": "QX18179", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4494259"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BARTELS PERCIVAL JOHN HENRY : Service Number - 119352 : Date of birth - 14 Nov 1902 : Place of birth - MALDON VIC : Place of enlistment - MELBOURNE : Next of Kin - BARTELS JOHN", 
+        "series": "A9301", 
+        "control_symbol": "119352", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4844457"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BARTELS FRANCIS HENRY FREDERICK : Service Number - Q303430 : Date of birth - 25 Mar 1897 : Place of birth - BRISBANE QLD : Place of enlistment - KELVIN GROVE QLD : Next of Kin - BARTELS ETHEL", 
+        "series": "B884", 
+        "control_symbol": "Q303430", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4853397"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BARTELS FRANCIS HENRY FREDERICK : Service Number - Q66053 : Date of birth - 25 Mar 1897 : Place of birth - BRISBANE QLD : Place of enlistment - LYTTON QLD : Next of Kin - BARTELS ETHEL", 
+        "series": "B884", 
+        "control_symbol": "Q66053", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4899466"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Bartels, Henry; age 35; address - Leichhardt", 
+        "series": "MT1486/1", 
+        "control_symbol": "BARTELS/HENRY", 
+        "contents_dates": {
+            "date_str": "1916 - 1916", 
+            "start_date": "1916", 
+            "end_date": "1916"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6526603"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Bartels, Frank Henry; Army Number - 401120; Date of birth - 26 August 1901", 
+        "series": "B4747", 
+        "control_symbol": "BARTELS/FRANK HENRY", 
+        "contents_dates": {
+            "date_str": "1934 - circa1946", 
+            "start_date": "1934", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9262719"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Stevens, Mark; Bartels, Henry - Naturalisation", 
+        "series": "A712", 
+        "identifier": "1813734", 
+        "control_symbol": "1860/Q5984", 
+        "contents_dates": {
+            "date_str": "1860 - 1860", 
+            "start_date": "1860", 
+            "end_date": "1860"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "List of Prisoners of War under 17 years and over 50 years of age [Christian VOLLMER, Albert MEYER, Carl Wilhelm KOCH, George Heinrich Johann STAHL, August Max GRUBEL, Heinrich Carl George KUSSIN, Hermann HOENE, Fritz Berthold SCHUMANN, Ferdinand HEIN, Martin MOSBACHER, Karl John MILLER, Felix BARTELS, Franz Joesph Wilhelm CRAMER, Ernest Hermann TSCHIRPIG, James John Albert MILLAR, August Robert RACTKE, Johann Carl HOFFMAN, Ivan JUJNOVICH, Ivan KATNICH, Visko ACALINOVIC, Blaz POLJICAK, Fritz WULFING, Harry BROWN, Andria VLAHOR, Anton RATKE, Carl Heinrich Wilhelm LORENTZ, Julius BLASCHEK, Marko TUNPOR, Ivan ANTULUOV,  Ivan STARCEVIC, Stepan BUDESELICH, Jure RAVLICH, Anton SPLIVALO, Juraj MATKOVICH, Juraj STARCOVIC, Frederick MENZEN, JOseph SKARIFF, Carl MEYER, Henry TAPKEN, Edward SCHMIDT, Ivan BOSICH]", 
+        "series": "PP14/1", 
+        "identifier": "751599", 
+        "control_symbol": "16/1/59", 
+        "contents_dates": {
+            "date_str": "1915 - 1920", 
+            "start_date": "1915", 
+            "end_date": "1920"
+        }, 
+        "location": "Perth"
+    }
+]

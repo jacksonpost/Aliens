@@ -1,0 +1,107 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "SEIFERT Karl Heinz born 29 July 1937 - German -  travelled per CASTEL FELICE in November 1958", 
+        "series": "A2478", 
+        "control_symbol": "SEIFERT K H", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7701804"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SEIFERT Harold Goodwin born 12 September 1917; Nancy Day (nee Standhardt) born 30 May 1936; Lynetta Helen born 2 April 1947; Donald Ivan born 12 June 1949; Sheldon Karl born 22 March 1952; Bertelle Julie born 10 July 1955; Paul Frank born 11 February 1957 - American", 
+        "series": "A446", 
+        "control_symbol": "1960/53749", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7747655"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SEIFERT ANTON KARL", 
+        "series": "D400", 
+        "control_symbol": "SA1957/2001", 
+        "contents_dates": {
+            "date_str": "1957 - 1958", 
+            "start_date": "1957", 
+            "end_date": "1958"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "32087616"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SEIFERT Helmut Karl - Nationality: German - Arrived Brisbane per Aircraft flight 907 15 August 1969", 
+        "series": "D4881", 
+        "control_symbol": "SEIFERT HELMUT KARL", 
+        "contents_dates": {
+            "date_str": "1969 - 1976", 
+            "start_date": "1969", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5504729"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SEIFERT Dieter Karl - Nationality: German - Arrived Melbourne per Skaubryn 30 December 1955", 
+        "series": "D4881", 
+        "control_symbol": "SEIFERT DIETER KARL", 
+        "contents_dates": {
+            "date_str": "1955 - 1976", 
+            "start_date": "1955", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7057453"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SEIFERT Helmut Karl - Nationality: German - Arrived Sydney per Aircraft VHEBC 18 November 1964 Departed Commonwealth on 26 May 1966", 
+        "series": "D4881", 
+        "control_symbol": "SEIFERT HELMUT KARL", 
+        "contents_dates": {
+            "date_str": "1964 - 1976", 
+            "start_date": "1964", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7057454"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Heinz Max Seifert [German - Arrived Melbourne per CASTEL FELICE 29 November 1958]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/SEIFERT KARL HEINZ MAX", 
+        "contents_dates": {
+            "date_str": "1958 - 1968", 
+            "start_date": "1958", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7847470"
+    }
+]

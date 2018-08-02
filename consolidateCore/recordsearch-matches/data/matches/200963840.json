@@ -1,0 +1,737 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Presumption of death - Casualties in Royal Australian Air Force Units - Minutes", 
+        "series": "A705", 
+        "identifier": "1060826", 
+        "control_symbol": "166/1/319 PART 3", 
+        "contents_dates": {
+            "date_str": "1946 - 1957", 
+            "start_date": "1946", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "CRAIG JOHN PAUL : Service Number - 19736 : Date of birth - 08 Jul 1908 : Place of birth - GLASGOW SCOTLAND : Place of enlistment - MELBOURNE : Next of Kin - CRAIG ROSE", 
+        "series": "A9301", 
+        "control_symbol": "19736", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4582373"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PAUL BETTY MAY : Service Number - 105969 : Date of birth - 24 Sep 1923 : Place of birth - ROSE BAY NSW : Place of enlistment - SYDNEY : Next of Kin - PAUL WILLIAM", 
+        "series": "A9301", 
+        "control_symbol": "105969", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4837781"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GALLAS SYDNEY ROBERT : Service Number - 115315 : Date of birth - 22 May 1924 : Place of birth - ROSE PARK SA : Place of enlistment - ADELAIDE : Next of Kin - GALLAS PAUL", 
+        "series": "A9301", 
+        "control_symbol": "115315", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4860928"
+    }, 
+    {
+        "digitised_pages": "13", 
+        "title": "POULSEN GEOFFREY PAUL : Service Number - QX55722 : Date of birth - 19 Nov 1924 : Place of birth - BRISBANE QLD : Place of enlistment - GRETA NSW : Next of Kin - POULSEN ROSE", 
+        "series": "B883", 
+        "control_symbol": "QX55722", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4930353"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "THOM PAUL JAMES : Service Number - 122045 : Date of birth - 04 Jan 1925 : Place of birth - ROSE PARK SA : Place of enlistment - ADELAIDE SA : Next of Kin - LEWIS JOSEPHINE", 
+        "series": "A9301", 
+        "control_symbol": "122045", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5305827"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HENRY PAUL RAYMOND : Service Number - 135682 : Date of birth - 21 Mar 1923 : Place of birth - PORT MACQUARIE NSW : Place of enlistment - SYDNEY : Next of Kin - HENRY ROSE", 
+        "series": "A9301", 
+        "control_symbol": "135682", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5351554"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PAUL ALEX HENRY : Service Number - 153028 : Date of birth - 10 Dec 1925 : Place of birth - ROSE PARK SA : Place of enlistment - ADELAIDE : Next of Kin - PAUL CHARLES", 
+        "series": "A9301", 
+        "control_symbol": "153028", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5358584"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BIRD PAUL CLEVELAND : Service Number - 406514 : Date of birth - 10 Apr 1918 : Place of birth - ALBANY WA : Place of enlistment - PERTH WA : Next of Kin - BIRD ROSE", 
+        "series": "A9300", 
+        "control_symbol": "BIRD P C", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5381181"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SEARCY PAUL EDWARD PERROOMBA : Service Number - 442581 : Date of birth - 05 Jul 1924 : Place of birth - ROSE PARK SA : Place of enlistment - ADELAIDE SA : Next of Kin - SEARCY M", 
+        "series": "A9301", 
+        "control_symbol": "442581", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5535777"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DUNNE MORGAN JAMES PAUL : Service Number - NX127840 : Date of birth - 26 Feb 1913 : Place of birth - KATOOMBA NSW : Place of enlistment - GIN GIN WA : Next of Kin - DUNNE ROSE", 
+        "series": "B883", 
+        "control_symbol": "NX127840", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5618458"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MOORE MATHEW PAUL : Service Number - N101531 : Date of birth - 19 Jul 1894 : Place of birth - GARLAND NSW : Place of enlistment - COWRA NSW : Next of Kin - MOORE ROSE", 
+        "series": "B884", 
+        "control_symbol": "N101531", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5678705"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FABER THEODORE PAUL : Service Number - VX143866 : Date of birth - 24 May 1922 : Place of birth - SOUTH MELBOURNE VIC : Place of enlistment - IN THE FIELD NEW GUINEA : Next of Kin - FABER ROSE", 
+        "series": "B883", 
+        "control_symbol": "VX143866", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5722770"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "THOMAS PAUL : Service Number - N284471 : Date of birth - 11 Oct 1914 : Place of birth - WALLSEND NSW : Place of enlistment - NEWCASTLE NSW : Next of Kin - STANLEY ROSE", 
+        "series": "B884", 
+        "control_symbol": "N284471", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6185496"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GALLAS SYDNEY ROBERT : Service Number - S51741 : Date of birth - 22 May 1924 : Place of birth - ROSE PARK SA : Place of enlistment - WOODSIDE SA : Next of Kin - GALLAS PAUL", 
+        "series": "B884", 
+        "control_symbol": "S51741", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6335841"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULZ ALFRED PAUL : Service Number - SX9420 : Date of birth - 23 Jun 1908 : Place of birth - ROSE PARK SA : Place of enlistment - ADELAIDE SA : Next of Kin - SCHULZ GLADYS", 
+        "series": "B883", 
+        "control_symbol": "SX9420", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6407597"
+    }, 
+    {
+        "digitised_pages": "16", 
+        "title": "BASTOW PAUL ANTHONY JAMES : Service Number - SX27531 : Date of birth - 21 Dec 1923 : Place of birth - ROSE PARK SA : Place of enlistment - WAYVILLE SA : Next of Kin - BASTOW THOMAS", 
+        "series": "B883", 
+        "control_symbol": "SX27531", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6414315"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MUSCAT Peter Paul born 21 May 1926; Rita (nee Muscat) born 25 May 1927; M'Assunta born 16 March 1950; Angela born 25 May 1951; Joseph born 13 March 1954; Rose born 16 September 1955; Anthony born 7 January 1957; M'Doris born 31 March 1958; Carmen born 29 July 1959; Juny born 31 July 1961 - British Maltese - travelled per MIQAN under Maltese Australian Government Agreement", 
+        "series": "A2478", 
+        "control_symbol": "MUSCAT P P", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1205311"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GRECH Anthony born 11 August 1928; Michael born 28 October 1952; Palazia born 13 May 1954; Loreto born 20 September 1955; Raymond born 23 September 1956; M'Rose born 8 March 1958; George born 31 January 1960; Peter Paul born 23 May 1961; Joseph born 18 September 1962 - British/Maltese - travelled per MIBUA under Maltese Australian Government Agreement", 
+        "series": "A2478", 
+        "control_symbol": "GRECH A", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1239926"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GRECH Paul born 5 March 1936; Mary born 4 August 1933; Anthony born 25 August 1957; Gejtu born 17 December 1958; Rose born 5 February 1960; Anne Mary born 8 March 1963 - British/Maltese - travelled per ship SYDNEY departing in 1964", 
+        "series": "A2478", 
+        "control_symbol": "GRECH P", 
+        "contents_dates": {
+            "date_str": "1964 - 1964", 
+            "start_date": "1964", 
+            "end_date": "1964"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1410439"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GRIMA Paul born 27 March 1938; Speranza (nee Agnes) born 29 March 1942; Carmel born 14 October 1960; Emanuel born 4 December 1961; Joseph born 20 July 1963; M'Rose born 24 October 1964 - Maltese - travelled per ship ROMA departing in 1965 under Australian Maltese Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "GRIMA P", 
+        "contents_dates": {
+            "date_str": "1965 - 1965", 
+            "start_date": "1965", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1443114"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ENGERER Vincenzo; Antonia; Peter Paul; Taddeo; Raymond; Rose Mary - travelled per ship SYDNEY departing in 1964", 
+        "series": "A2478", 
+        "control_symbol": "ENGERER V", 
+        "contents_dates": {
+            "date_str": "1963 - 1964", 
+            "start_date": "1963", 
+            "end_date": "1964"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1478342"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "TURNER Edward, Rose Jarvis, Patricia, George, Paul Anthony [Application by British migrants for assisted passage]", 
+        "series": "PP4/1", 
+        "control_symbol": "10354", 
+        "contents_dates": {
+            "date_str": "1950 - 1951", 
+            "start_date": "1950", 
+            "end_date": "1951"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3391665"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "OPEKAR Paul born 26 June 1909; Rose born 28 September 1916; Paul born 10 December 1947", 
+        "series": "A12043", 
+        "control_symbol": "487-489", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4720651"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "Holt, Alfred Sydney - wife Rose Florence [nee Spencer] and child Paul Bryan - departed Tilbury on the SS Maloja on 26 May 1950 - arrived in Brisbane 14 July 1950", 
+        "series": "BP23/1", 
+        "control_symbol": "3603", 
+        "contents_dates": {
+            "date_str": "1948 - 1950", 
+            "start_date": "1948", 
+            "end_date": "1950"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5046738"
+    }, 
+    {
+        "digitised_pages": "7", 
+        "title": "Rose, Douglas Paul Wilson - departed Tilbury on TSS Mooltan 2 February 1951 - arrived Brisbane 21 March 1951", 
+        "series": "BP23/1", 
+        "control_symbol": "4609", 
+        "contents_dates": {
+            "date_str": "1950 - 1951", 
+            "start_date": "1950", 
+            "end_date": "1951"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5048553"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ZAMMIT Paul born 24 January 1944;Rose born 26 May 1953 - Nationality Yugoslav - arrived per flight MIPA 23/137 ex MALTA departed 7 April 1971.", 
+        "series": "A2559", 
+        "control_symbol": "1971/50/1113-1114", 
+        "contents_dates": {
+            "date_str": "1971 - 1971", 
+            "start_date": "1971", 
+            "end_date": "1971"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5434337"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AZZOPARDI Paul born 05 May 1943; Rose born 02 May 1944; Joseph born 19 December 1966 -  Nationality Maltese -  arrived per ship T/N \"ACHILLE LAURO\" Ex MALTA departed 31 August 1967 under  the Malta-Australia Migration Agreement.", 
+        "series": "A2559", 
+        "control_symbol": "1967/BE/5077-5079", 
+        "contents_dates": {
+            "date_str": "1967 - 1967", 
+            "start_date": "1967", 
+            "end_date": "1967"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5837534"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DOURCY-BELLE-ROSE Clement Henry Paul Pierre Joseph [aka Clement Henry Dourcy] - born 7 September 1904 - Belgian", 
+        "series": "A435", 
+        "control_symbol": "1950/4/4009", 
+        "contents_dates": {
+            "date_str": "1947 - 1950", 
+            "start_date": "1947", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6958681"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GALEA Saviour born 5 June 1919; Carmen born 6 July 1918; Carmel born 18 May 1953; Rose born 20 April 1955; Paul born 8 May 1957", 
+        "series": "A7921", 
+        "control_symbol": "1969/976", 
+        "contents_dates": {
+            "date_str": "1969 - 1969", 
+            "start_date": "1969", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6964295"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FROST Stanley Ladd born 5 May 1906; Rose Laurier age 29; Guy age 5; Rush Paul Deane; nationality American; travelled per flight VH-UYW arriving in Cooktown on 17 December 1939", 
+        "series": "A12508", 
+        "control_symbol": "2/2989", 
+        "contents_dates": {
+            "date_str": "1938 - 1939", 
+            "start_date": "1938", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7123053"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "CHAMBERS Paul Eugene born 19 November 1931; Frances Rose (nee Krall) born 9 March 1939; Thomas Francis born 7 January 1958 - American", 
+        "series": "A12551", 
+        "control_symbol": "CHAMBERS P", 
+        "contents_dates": {
+            "date_str": "1967 - 1967", 
+            "start_date": "1967", 
+            "end_date": "1967"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7132033"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SMITH Charles Albert born 9 September 1920; Beatrice Maud (nee Leathersich) born 25 January 1924; Paul Anthony born 27 June 1946; Carol Rose Mary born 2 December 1948; Julie Ivy born 19 December 1952; travelled per NEW AUSTRALIA departing UK on 16 June 1954 under the Ex-servicemens Free Passage Scheme", 
+        "series": "A1877", 
+        "control_symbol": "16/6/1954 NEW AUSTRALIA SMITH C A", 
+        "contents_dates": {
+            "date_str": "1947 - 1954", 
+            "start_date": "1947", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7140060"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "TABONE Paul born 23 July 1915; Carmela born 6 October 1926; Mary born 31 January 1954; Anthony born 18 December 1956; Rose born 25 May 1959; Francis born 9 December 1965 - Maltese", 
+        "series": "A12546", 
+        "control_symbol": "TABONE P", 
+        "contents_dates": {
+            "date_str": "1967 - 1967", 
+            "start_date": "1967", 
+            "end_date": "1967"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7141433"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FEJER Rose (nee Alter) born 6 January 1917; Paul born 16 November 1913 - American", 
+        "series": "A12551", 
+        "control_symbol": "FEJER R", 
+        "contents_dates": {
+            "date_str": "1963 - 1967", 
+            "start_date": "1963", 
+            "end_date": "1967"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7144174"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FISHBECK Paul born 22 March 1934; Jessie Barnes Rose born 10 February 1937; Rosemary Barnes born 10 February 1962; John Paul George born 9 April 1964 - American - arrived Pan Am departed Portland 24 August 1965 under General Assisted Passage Scheme", 
+        "series": "A2560", 
+        "control_symbol": "FISHBECK P", 
+        "contents_dates": {
+            "date_str": "1964 - 1964", 
+            "start_date": "1964", 
+            "end_date": "1964"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7147392"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "TISOR Paul Millard born 30 May 1918; Rose Eileen (nee Mason) born 21 August 1920; Alan R born 3 May 1945; William A born 8 January 1948; Denis P born 11 August 1953 - American", 
+        "series": "A12551", 
+        "control_symbol": "TISOR P M", 
+        "contents_dates": {
+            "date_str": "1963 - 1967", 
+            "start_date": "1963", 
+            "end_date": "1967"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7151358"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SMIDMORE Francis Paul versus SMIDMORE Blanche Rose Lennon, wife of the said SMIDMORE Francis Paul; SMIDMORE Joseph Sarsfield; SMIDMORE Thomas Francis; SMIDMORE James Calement; SMIDMORE Leonard John; SMIDMORE Maurice Philip; SMIDMORE Constance Mary Winifred", 
+        "series": "A10071", 
+        "control_symbol": "1905/42", 
+        "contents_dates": {
+            "date_str": "1905 - 1906", 
+            "start_date": "1905", 
+            "end_date": "1906"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3136535"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Legras, Marcel born 1906 - nationality French - arrived in Bowen on SAINT VINCENT DE PAUL, 29 April 1930 [wife Legras, Rose 24 years]", 
+        "series": "BP9/3", 
+        "control_symbol": "FRENCH LEGRAS M", 
+        "contents_dates": {
+            "date_str": "1930 - 1930", 
+            "start_date": "1930", 
+            "end_date": "1930"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3432373"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "ROSE, Manfred Paul - Nationality: German - arrived Melbourne on Anna Salen 20 December 1953", 
+        "series": "BP25/1", 
+        "control_symbol": "ROSE M P - GERMAN", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4383460"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Kathleen Beatrice Burong (nee PAUL) [New Zealand born, Indonesian by marriage - filed with Dutch aliens by the Department of Immigration.  Arrived Rose Bay, Sydney per flying boat AOTEAROA, 22 Feb 1946.  Box 56]", 
+        "series": "SP11/2", 
+        "control_symbol": "DUTCH/BURONG K B", 
+        "contents_dates": {
+            "date_str": "1946 - 1946", 
+            "start_date": "1946", 
+            "end_date": "1946"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5001439"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Paul and Violette Mary Vidor - purchase of property Rose Bay NSW", 
+        "series": "A12217", 
+        "control_symbol": "L8085", 
+        "contents_dates": {
+            "date_str": "1943 - 1944", 
+            "start_date": "1943", 
+            "end_date": "1944"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5450260"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Drs Paul and Rienhardt Lind - purchase of properties at Rose Bay and Woollahra - Sydney NSW", 
+        "series": "A12217", 
+        "control_symbol": "L463", 
+        "contents_dates": {
+            "date_str": "1940 - 1940", 
+            "start_date": "1940", 
+            "end_date": "1940"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5484632"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Paul Eugene Citer [formerly Czitter] [Hungarian, born in Austria - arrived Rose Bay, Sydney per aircraft, 3 December 1946] [Box 203]", 
+        "series": "SP1121/1", 
+        "control_symbol": "CITER, PAUL EUGENE", 
+        "contents_dates": {
+            "date_str": "1948 - 1953", 
+            "start_date": "1948", 
+            "end_date": "1953"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6856251"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Paul Andre Guerin [French. The alien registration form for this item is not present. Aircraft passenger card records a date of birth of 30 Nov 1947, arrival at Rose Bay per TRANS OCEANIC AIRWAYS, 12 Feb 1950, Registration no A164559, 20 Dec 1966. There is no photograph with this item. Box 263]", 
+        "series": "SP908/1", 
+        "control_symbol": "FRENCH/GUERIN PAUL ANDRE", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7263119"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Emily Guerin (mother), Marie Christine Guerin (daughter, 3 years old) and Paul Andre Guerin (son, 2 years old) [French -  arrived Rose Bay per TRANS OCEANIC AIRWAYS, 18 Feb 1950. There are no photographs of the children with this item. Box 263]", 
+        "series": "SP908/1", 
+        "control_symbol": "FRENCH/GUERIN EMILY", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7264558"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Paul Eugene Czitter [Hungarian - arrived Rose Bay, Sydney per flying boat, 3 Dec 1946.  Box 129]", 
+        "series": "SP11/2", 
+        "control_symbol": "HUNGARIAN/CZITTER P E", 
+        "contents_dates": {
+            "date_str": "1946 - 1947", 
+            "start_date": "1946", 
+            "end_date": "1947"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7291508"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Paul Marie Bruno [French - arrived Rose Bay per aircraft VH-EBY, 23 April 1953. There is no photograph with this item] [Box 144]", 
+        "series": "SP1121/1", 
+        "control_symbol": "BRUNO, PAUL MARIE", 
+        "contents_dates": {
+            "date_str": "1953 - 1953", 
+            "start_date": "1953", 
+            "end_date": "1953"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9428729"
+    }
+]

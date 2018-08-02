@@ -1,0 +1,62 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Groth, Gottlich Frederick Wilhelm Scotsdale", 
+        "series": "MP16/1", 
+        "control_symbol": "1915/3/1021", 
+        "contents_dates": {
+            "date_str": "1915 - 1916", 
+            "start_date": "1915", 
+            "end_date": "1916"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "309657"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Groth, Gottleib Friedrich Wilhelm [district register W95/2/3]", 
+        "series": "A401", 
+        "control_symbol": "GROTH", 
+        "contents_dates": {
+            "date_str": "1914 - 1918", 
+            "start_date": "1914", 
+            "end_date": "1918"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "735104"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GROTH Wilhelm Heinrich August", 
+        "series": "PP14/1", 
+        "control_symbol": "5/3/37", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "751074"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Gottlieb Friedrich Wilhelm Groth and Elizabeth Esther Groth - purchase of property Brisbane Qld", 
+        "series": "A12217", 
+        "control_symbol": "L9088", 
+        "contents_dates": {
+            "date_str": "1944 - 1945", 
+            "start_date": "1944", 
+            "end_date": "1945"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5458028"
+    }
+]

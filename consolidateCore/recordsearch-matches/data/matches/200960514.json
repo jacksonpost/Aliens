@@ -1,0 +1,602 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "HADENFELDT Erwin Max Hermann - CAV [Civil Alien Victoria] number 5582 - Year of birth 1908", 
+        "series": "MT8/4", 
+        "identifier": "5902936", 
+        "control_symbol": "HADENFELDT ERWIN MAX HERMANN", 
+        "contents_dates": {
+            "date_str": "25 Jul 1944 - 22 Nov 1944", 
+            "start_date": "1944-07-25", 
+            "end_date": "1944-11-22"
+        }, 
+        "location": "Melbourne"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WUNDERSITZ MAX HERMANN : Service Number - S2805 : Date of birth - 15 Jul 1913 : Place of birth - MURRAY BRIDGE SA : Place of enlistment - WAYVILLE SA : Next of Kin - WUNDERSITZ BETTY", 
+        "series": "B884", 
+        "control_symbol": "S2805", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6331351"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DURLACHER HANS HERMANN MORITZ : Service Number - V377701 : Date of birth - 19 Sep 1914 : Place of birth - HAMBURG GERMANY : Place of enlistment - CAULFIELD VIC : Next of Kin - HURWITZ MAX", 
+        "series": "B884", 
+        "control_symbol": "V377701", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6633500"
+    }, 
+    {
+        "digitised_pages": "26", 
+        "title": "H. Hermann Max William Schremiert Schreinert Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1922/8642", 
+        "contents_dates": {
+            "date_str": "1921 - 1922", 
+            "start_date": "1921", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "42035"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Re Deserters from crew of \"Mosel\" - Hermann Probst, Max Chitten and Anton Briegel", 
+        "series": "B13", 
+        "control_symbol": "1937/12940", 
+        "contents_dates": {
+            "date_str": "1937 - circa1937", 
+            "start_date": "1937", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "823140"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KOEHLER Max Hermann Karl born 22 December 1934 - German - travelled per MIQAN departing in 1961", 
+        "series": "A2478", 
+        "control_symbol": "KOEHLER M H K", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1242297"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WEHLING Max Hermann born 18 November 1939 - German - travelled per MIQAN flight departing in 1962 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "WEHLING M H", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1245003"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ZIEGLER Fritz Max Hermann born 14 October 1922; Ruth (nee Gebauer) born 3 August 1927; Fred born 15 December 1947; Frank born 8 June 1953 - German - travelled per ship SKAUBRYN departing in 1957", 
+        "series": "A2478", 
+        "control_symbol": "ZIEGLER F M H", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1413674"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ZIELASKO Carl Fritz Max born 24 December 1911; Louise (nee Riedel) born 1 September 1910; Elke born 28 September 1941; Max born 13 February 1932; Hermann (Schnoor) born 22 July 1934 - German - travelled per ship SKAUBRYN departing in 1955", 
+        "series": "A2478", 
+        "control_symbol": "ZIELASKO C F M", 
+        "contents_dates": {
+            "date_str": "1955 - 1955", 
+            "start_date": "1955", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1414281"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZE Max Walter Eberhard born 20 March 1915; Marianne (nee Pieper) born 25 February 1912; Hermann born 2 March 1936; Elke born 30 June 1939; Horst born 8 April 1942 - German - travelled per ship SKAUBRYN departing in 1957", 
+        "series": "A2478", 
+        "control_symbol": "SCHULTZE M W E", 
+        "contents_dates": {
+            "date_str": "1956 - 1957", 
+            "start_date": "1956", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1437862"
+    }, 
+    {
+        "digitised_pages": "14", 
+        "title": "Scholz, Hermann Max - Naturalisation", 
+        "series": "A659", 
+        "control_symbol": "1941/1/3008", 
+        "contents_dates": {
+            "date_str": "1925 - 1941", 
+            "start_date": "1925", 
+            "end_date": "1941"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1770858"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WECK Hermann Max - born 20 July 1906 - German", 
+        "series": "A435", 
+        "control_symbol": "1948/4/429", 
+        "contents_dates": {
+            "date_str": "1947 - 1948", 
+            "start_date": "1947", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7014533"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ENGELMANN Max Julius Hermann - born 4 November 1921 - Stateless [formerly German]", 
+        "series": "A435", 
+        "control_symbol": "1946/4/1352", 
+        "contents_dates": {
+            "date_str": "1945 - 1946", 
+            "start_date": "1945", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7019151"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HERMANN Max born 3 March 1921; Hermann (nee Boske) born 8 May 1926; Ute born 5 November 1955; Dagmar born 8 October 1956 - German - travelled per AURELIA in August 1960", 
+        "series": "A2478", 
+        "control_symbol": "HERMANN M", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7689520"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - PENHALLURICK Martha Franziska Alma; Nominee - HAASE Hermann Max Emil; HAASE Hedwig Ottilie Emilie; HAASE Elvira Adele Antonie; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1948/694", 
+        "contents_dates": {
+            "date_str": "1948 - 1948", 
+            "start_date": "1948", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7874952"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Applicant - WAGMAN Isaac; Nominee - EBSTEIN Thekla; EBSTEIN Max Ludwig; EBSTEIN Hermann; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1938/2143", 
+        "contents_dates": {
+            "date_str": "1938 - 1938", 
+            "start_date": "1938", 
+            "end_date": "1938"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7918026"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - MARTENS Hermann Ferdinand; Nominee - MARTENS Dietrich Max; nationality German", 
+        "series": "A261", 
+        "control_symbol": "1932/250", 
+        "contents_dates": {
+            "date_str": "1932 - 1932", 
+            "start_date": "1932", 
+            "end_date": "1932"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8180548"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Rehrman [Rehrmann], Max Hermann [Hehrmann]", 
+        "series": "P3", 
+        "control_symbol": "T1966/1164", 
+        "contents_dates": {
+            "date_str": "1954 - 1966", 
+            "start_date": "1954", 
+            "end_date": "1966"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9596281"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHRIMPF Max Hermann - naturalisation", 
+        "series": "PP262/1", 
+        "control_symbol": "W1962/6411", 
+        "contents_dates": {
+            "date_str": "1953 - 1962", 
+            "start_date": "1953", 
+            "end_date": "1962"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "12401789"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Anton Briegal [includes 1 photograph showing front view; left and right finger prints and left and right thumb prints] [issue of Certificate of Exemption in favour of subject], Hermann Probst [also known as Harry Hogan] [includes 1 photograph showing front view], Erich Nickel and Max Chittan [includes 1 photograph showing front view] [deserters ex MOSEL in Sydney on 23 July 1937]  [correspondence detailing prosecution and deportation orders of subjects] [includes correspondence on Peter Vermassen and Edmund Pilz] [also known as Edmund Sacks] [deported ex FRANKEN from Sydney on 16 July 1938] [box 377]", 
+        "series": "SP42/1", 
+        "control_symbol": "C1938/6279", 
+        "contents_dates": {
+            "date_str": "1937 - 1939", 
+            "start_date": "1937", 
+            "end_date": "1939"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "31100231"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hermann Max", 
+        "series": "MP16/1", 
+        "control_symbol": "1914/1/137", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "319656"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Max Hermann Kramer [Herman Max Krummel] [Interned] [Application for Naturalisation] [Box 9]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N2884", 
+        "contents_dates": {
+            "date_str": "1916 - 1925", 
+            "start_date": "1916", 
+            "end_date": "1925"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "321932"
+    }, 
+    {
+        "digitised_pages": "338", 
+        "title": "Pastor Loehe - [United Evangelical Lutheran Chuch of Australia, Lohe or Loehe, Hermann Max Immanuel, British born alleged member of Nazi party in Queensland]", 
+        "series": "BP242/1", 
+        "control_symbol": "Q34916", 
+        "contents_dates": {
+            "date_str": "1940 - 1948", 
+            "start_date": "1940", 
+            "end_date": "1948"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "345493"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hermann Max Bernhardt - Port Pirie, SA - application for passport", 
+        "series": "D1915", 
+        "control_symbol": "SA184", 
+        "contents_dates": {
+            "date_str": "1920 - 1920", 
+            "start_date": "1920", 
+            "end_date": "1920"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "442171"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "List of Prisoners of War under 17 years and over 50 years of age [Christian VOLLMER, Albert MEYER, Carl Wilhelm KOCH, George Heinrich Johann STAHL, August Max GRUBEL, Heinrich Carl George KUSSIN, Hermann HOENE, Fritz Berthold SCHUMANN, Ferdinand HEIN, Martin MOSBACHER, Karl John MILLER, Felix BARTELS, Franz Joesph Wilhelm CRAMER, Ernest Hermann TSCHIRPIG, James John Albert MILLAR, August Robert RACTKE, Johann Carl HOFFMAN, Ivan JUJNOVICH, Ivan KATNICH, Visko ACALINOVIC, Blaz POLJICAK, Fritz WULFING, Harry BROWN, Andria VLAHOR, Anton RATKE, Carl Heinrich Wilhelm LORENTZ, Julius BLASCHEK, Marko TUNPOR, Ivan ANTULUOV,  Ivan STARCEVIC, Stepan BUDESELICH, Jure RAVLICH, Anton SPLIVALO, Juraj MATKOVICH, Juraj STARCOVIC, Frederick MENZEN, JOseph SKARIFF, Carl MEYER, Henry TAPKEN, Edward SCHMIDT, Ivan BOSICH]", 
+        "series": "PP14/1", 
+        "control_symbol": "16/1/59", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "751599"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Weck Hermann Max", 
+        "series": "A367", 
+        "control_symbol": "C76084", 
+        "contents_dates": {
+            "date_str": "1942 - 1948", 
+            "start_date": "1942", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "770713"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Englemann Max Julius Hermann", 
+        "series": "A367", 
+        "control_symbol": "C62532", 
+        "contents_dates": {
+            "date_str": "1941 - 1946", 
+            "start_date": "1941", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "781330"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hermann Max William SCHREMERT (Objection 175 of 1942; AC) [Box 26]", 
+        "series": "C329", 
+        "control_symbol": "842", 
+        "contents_dates": {
+            "date_str": "1942 - 1942", 
+            "start_date": "1942", 
+            "end_date": "1942"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "1164123"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Hermann Max NITZSCHE", 
+        "series": "PP302/1", 
+        "control_symbol": "WA1461", 
+        "contents_dates": {
+            "date_str": "1915 - 1922", 
+            "start_date": "1915", 
+            "end_date": "1922"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1593141"
+    }, 
+    {
+        "digitised_pages": "12", 
+        "title": "HELLER, Horst Hermann Max - Nationality: German - Arrived Brisbane on Sydney 10 September 1957", 
+        "series": "BP25/1", 
+        "control_symbol": "HELLER H H M - GERMAN", 
+        "contents_dates": {
+            "date_str": "1957 - 1960", 
+            "start_date": "1957", 
+            "end_date": "1960"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4387495"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DE HERMANN Max - Nationality: German - Arrived Melbourne per Flavia 06 January 1964 Departed Commonwealth on 22 March 1964", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/DE HERMANN MAX", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5801567"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schwarze, Hermann Max - Nationality: German - Alien Registration Certificate not issued [folio indicates Schwarz was naturalized 11 May 1936]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMAN SCHWARZE H M", 
+        "contents_dates": {
+            "date_str": "1933 - 1936", 
+            "start_date": "1933", 
+            "end_date": "1936"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6304089"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Witte, Max Hermann Karl - Nationality: German - Alien Registration Certificate No 2 issued at South Johnstone", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMAN WITTE M H C", 
+        "contents_dates": {
+            "date_str": "1929 - 1929", 
+            "start_date": "1929", 
+            "end_date": "1929"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6304402"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Max Hermann [German - Arrived Melbourne per AURELIA 8 November 1960]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/HERMANN MAX", 
+        "contents_dates": {
+            "date_str": "1960 - 1968", 
+            "start_date": "1960", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7532030"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Fritz Max Hermann Ziegler [German - Arrived Melbourne per SKAUBRYN 28 October 1957]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/ZIEGLER FRITZ MAX HERMANN", 
+        "contents_dates": {
+            "date_str": "1957 - 1968", 
+            "start_date": "1957", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7848957"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WETZKA Arthur Hermann Max - Nationality: German - Arrived Adelaide per Tungus 29 August 1964 Departed Commonwealth on 11 November 1965", 
+        "series": "D4881", 
+        "control_symbol": "WETZKA ARTHUR HERMANN MAX", 
+        "contents_dates": {
+            "date_str": "1964 - 1976", 
+            "start_date": "1964", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "8106235"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Schreinert, Hermann Max Wilhelm; Date of birth - 23 April 1882; Nationality - Dutch", 
+        "series": "MP1103/1", 
+        "control_symbol": "N1039", 
+        "contents_dates": {
+            "date_str": "1939 - 1942", 
+            "start_date": "1939", 
+            "end_date": "1942"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8613386"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Engelmann, Max Julius Hermann aka Israel; Date of birth - 04 November 1921; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "EM39396", 
+        "contents_dates": {
+            "date_str": "1940 - 1942", 
+            "start_date": "1940", 
+            "end_date": "1942"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8617081"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Fischer, Max Hermann; Date of birth - 10 May 1922; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "E39463", 
+        "contents_dates": {
+            "date_str": "1940 - 1941", 
+            "start_date": "1940", 
+            "end_date": "1941"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8617148"
+    }
+]

@@ -1,0 +1,287 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "VUKOVICH MATE : Service Number - W24241 : Date of birth - 26 Feb 1908 : Place of birth - VLAKA JUGO SLAVIA : Place of enlistment - KALGOORLIE WA : Next of Kin - RADALJ ANTE", 
+        "series": "B884", 
+        "identifier": "6482891", 
+        "control_symbol": "W24241", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Joze RADALJ alias Ante WUKOVIC - deportation", 
+        "series": "D596", 
+        "control_symbol": "1930/2554", 
+        "contents_dates": {
+            "date_str": "1930 - 1930", 
+            "start_date": "1930", 
+            "end_date": "1930"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "991180"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RADALJ, Ante - Passport and or travel documents", 
+        "series": "PP9/4", 
+        "control_symbol": "RADALJ, ANTE [1]", 
+        "contents_dates": {
+            "date_str": "1924 - 1924", 
+            "start_date": "1924", 
+            "end_date": "1924"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1334418"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RADALJ, Ante - Passport and or travel documents", 
+        "series": "PP9/4", 
+        "control_symbol": "RADALJ, ANTE [2]", 
+        "contents_dates": {
+            "date_str": "1924 - 1924", 
+            "start_date": "1924", 
+            "end_date": "1924"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1334419"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RADALJ, Ante pk Ivana - Passport and or travel documents", 
+        "series": "PP9/4", 
+        "control_symbol": "RADALJ, ANTE PK IVANA", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1334421"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PIVAC Antun - Application for Landing Permit [RADALJ Ante]", 
+        "series": "PP96/1", 
+        "control_symbol": "W1955/6387", 
+        "contents_dates": {
+            "date_str": "1955 - 1956", 
+            "start_date": "1955", 
+            "end_date": "1956"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7082585"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RADALJ Tony - Application for Landing Permit [RADALJ Ante]", 
+        "series": "PP96/1", 
+        "control_symbol": "W1955/11051", 
+        "contents_dates": {
+            "date_str": "1955 - 1956", 
+            "start_date": "1955", 
+            "end_date": "1956"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7087063"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RADALJ Ante - [Application for Passport]", 
+        "series": "PP105/1", 
+        "control_symbol": "W1956/2863", 
+        "contents_dates": {
+            "date_str": "1946 - 1957", 
+            "start_date": "1946", 
+            "end_date": "1957"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7087528"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - ERCEG John; Nominee - RADALJ Ante; nationality Yugoslavian", 
+        "series": "A261", 
+        "control_symbol": "1927/792", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7603844"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - RADALJ Ante; Nominee - RADALJ Nikola; nationality Yugoslavian", 
+        "series": "A261", 
+        "control_symbol": "1928/1190", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8161291"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RADALJ Ante [migrant selection documents]", 
+        "series": "PP132/2", 
+        "control_symbol": "2429", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9885369"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RADALJ Ante [migrant selection documents]", 
+        "series": "PP132/2", 
+        "control_symbol": "2431", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9885371"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RADALJ, Ante   [migrant selection documents]", 
+        "series": "PP135/2", 
+        "control_symbol": "RADALJ", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30078051"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RADALJ Anthony [Ante] [Empty file cover - top numbered to W1983/14617]", 
+        "series": "PP381/1", 
+        "control_symbol": "W1964/8901", 
+        "contents_dates": {
+            "date_str": "1964 - 1983", 
+            "start_date": "1964", 
+            "end_date": "1983"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "31120244"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RADALJ Ante [Yugoslav]", 
+        "series": "PP350/1", 
+        "control_symbol": "W1963/8458", 
+        "contents_dates": {
+            "date_str": "1956 - 1964", 
+            "start_date": "1956", 
+            "end_date": "1964"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "31565191"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RADALJ Ante [Nationality: Jugoslav; arrived Fremantle per Ville de Strasbourg 20 November 1924, left Commonwealth 1947; includes application for admission of Nikola, Jozo RADALJ to Australia]", 
+        "series": "PP302/1", 
+        "control_symbol": "WA5191", 
+        "contents_dates": {
+            "date_str": "1928 - 1955", 
+            "start_date": "1928", 
+            "end_date": "1955"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "671749"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RADALJ, Ante, aka REID, Tony", 
+        "series": "A6126", 
+        "control_symbol": "316", 
+        "contents_dates": {
+            "date_str": "1930 - 1949", 
+            "start_date": "1930", 
+            "end_date": "1949"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1096764"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Ante RADALJ", 
+        "series": "PP302/1", 
+        "control_symbol": "WA6150", 
+        "contents_dates": {
+            "date_str": "1929 - 1929", 
+            "start_date": "1929", 
+            "end_date": "1929"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "1615308"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RADALJ Ante - [arrived Fremantle 3 May 1927 per Orsova]", 
+        "series": "PP302/1", 
+        "control_symbol": "WA9172", 
+        "contents_dates": {
+            "date_str": "1927 - 1934", 
+            "start_date": "1927", 
+            "end_date": "1934"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1655614"
+    }
+]

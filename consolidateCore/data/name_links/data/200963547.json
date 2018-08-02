@@ -1,0 +1,107 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Passports - India - Jacobs, Hans [4 pages]", 
+        "series": "A1068", 
+        "control_symbol": "IC47/22/19/5", 
+        "contents_dates": {
+            "date_str": "1947 - 1947", 
+            "start_date": "1947", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1588102"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JACOBS Hans born 19 June 1935 Erika born 31 January 1938 Alice born 26 September 1963 - Nationality German - arrived per ship AURELIA departed Bremerhaven/Germany 9 December 1965 under Assisted Passage Scheme", 
+        "series": "A2559", 
+        "control_symbol": "1965/I/362-364", 
+        "contents_dates": {
+            "date_str": "1965 - 1965", 
+            "start_date": "1965", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5282434"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Jacobs Hans", 
+        "series": "A367", 
+        "control_symbol": "C81952", 
+        "contents_dates": {
+            "date_str": "1943 - 1949", 
+            "start_date": "1943", 
+            "end_date": "1949"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "768757"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Jacobs Dr Hans", 
+        "series": "A367", 
+        "control_symbol": "C81463", 
+        "contents_dates": {
+            "date_str": "1942 - 1947", 
+            "start_date": "1942", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "768935"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JACOBS Hans Dieter - Nationality: German - Arrived Fremantle per Aurelia 6 January 1966", 
+        "series": "D4881", 
+        "control_symbol": "JACOBS HANS DIETER", 
+        "contents_dates": {
+            "date_str": "1966 - 1976", 
+            "start_date": "1966", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7211132"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Jacobs, Hans; Date of birth - 15 October 1902; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "Z35446", 
+        "contents_dates": {
+            "date_str": "1940 - 1944", 
+            "start_date": "1940", 
+            "end_date": "1944"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8615315"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Prisoner of War/Internee; Jacobs, Hans; Year of birth - 1902; Nationality - German jewish", 
+        "series": "MP1103/2", 
+        "control_symbol": "Z35446", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9904189"
+    }
+]

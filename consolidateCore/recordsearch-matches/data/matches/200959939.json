@@ -1,0 +1,392 @@
+[
+    {
+        "digitised_pages": "7", 
+        "title": "Naturalization - LANGE, Fritz, Wilhelm, Georg", 
+        "series": "A1", 
+        "control_symbol": "1911/16583", 
+        "contents_dates": {
+            "date_str": "1911 - 1911", 
+            "start_date": "1911", 
+            "end_date": "1911"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "11821"
+    }, 
+    {
+        "digitised_pages": "8", 
+        "title": "Wilhelm Lange Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1914/23601", 
+        "contents_dates": {
+            "date_str": "1914 - 1915", 
+            "start_date": "1914", 
+            "end_date": "1915"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "32007"
+    }, 
+    {
+        "digitised_pages": "12", 
+        "title": "Carl Wilhelm Lange Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1921/23585", 
+        "contents_dates": {
+            "date_str": "1896 - 1922", 
+            "start_date": "1896", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "41229"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "LANGE, Joachim Wilhelm Friedrich", 
+        "series": "A823", 
+        "control_symbol": "1/1859", 
+        "contents_dates": {
+            "date_str": "1859 - 1859", 
+            "start_date": "1859", 
+            "end_date": "1859"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "171838"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANGE Wilhelm Dirk born 4 September 1929; Martje Cornelia (nee Top) born 19 December 1929; Jantje Ettje born 27 December 1947; Jan Johannes born 15 June 1950; Martha born 13 August 1956 - Dutch - travelled per JVO under Netherlands Australian Migration Agreement- Dutch - travelled per JVO under Netherlands Australian Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "LANGE W D", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1430454"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANGE Hans Karl Ewald born 8 June 1934; Hannelore (nee Konradi) born 16 January 1937; Wilhelm Ludwig born 20 March 1957; Wolfg born 23 January 1963 - German - travelled per ship FAIRSEA departing in 1964 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "LANGE H K E", 
+        "contents_dates": {
+            "date_str": "1964 - 1964", 
+            "start_date": "1964", 
+            "end_date": "1964"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1461166"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BECKER Wilhelm born 11 October 1930; Anita (nee Lange) born 21 January 1925; Hubert born 11 August 1950; Peter born 8 March 1952 - German - travelled per ship FAIRSEA departing in 1954 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "BECKER W", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1470124"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DE LANGE Wilhelm Christiaan born 19 June 1929 - Dutch - travelled per FAIRSEA ship departing in 1952 under Netherlands Australian Governments Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "DE LANGE W C", 
+        "contents_dates": {
+            "date_str": "1952 - 1952", 
+            "start_date": "1952", 
+            "end_date": "1952"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1476350"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Lange, Carl Wilhelm Edward - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1878/O5795", 
+        "contents_dates": {
+            "date_str": "1878 - 1878", 
+            "start_date": "1878", 
+            "end_date": "1878"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1595454"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Lange, Carl Wilhelm - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1896/D4209", 
+        "contents_dates": {
+            "date_str": "1896 - 1896", 
+            "start_date": "1896", 
+            "end_date": "1896"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1801662"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Lange, Carl Wilhelm Hermann - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "727", 
+        "contents_dates": {
+            "date_str": "1876 - 1877", 
+            "start_date": "1876", 
+            "end_date": "1877"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3178361"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Lange, Friedrich Christian Wilhelm - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "1951", 
+        "contents_dates": {
+            "date_str": "1884 - 1884", 
+            "start_date": "1884", 
+            "end_date": "1884"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3182232"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANGE, Karl Heinz Wilhelm - born 1948 - German - Renate nee Herta born 1952; Melanie born 1970 - [Assisted Passage Scheme - Germany office file K/1975/1297]", 
+        "series": "A2917", 
+        "control_symbol": "SD1975/4701", 
+        "contents_dates": {
+            "date_str": "1975 - 1975", 
+            "start_date": "1975", 
+            "end_date": "1975"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "30464488"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DE LANGE Wilhelm Christian [Dutch]", 
+        "series": "PP168/1", 
+        "control_symbol": "W1957/11372", 
+        "contents_dates": {
+            "date_str": "1957 - 1960", 
+            "start_date": "1957", 
+            "end_date": "1960"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "31130374"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Lange Heinrich Wilhelm Ludwig", 
+        "series": "A367", 
+        "control_symbol": "C92085", 
+        "contents_dates": {
+            "date_str": "1940 - 1945", 
+            "start_date": "1940", 
+            "end_date": "1945"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "775535"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANGE Heinrich Wilhelm Ludwig", 
+        "series": "D1915", 
+        "control_symbol": "SA3745", 
+        "contents_dates": {
+            "date_str": "1944 - 1946", 
+            "start_date": "1944", 
+            "end_date": "1946"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "888369"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Johann Friedrich Wilhelm Lange - Application for naturalization and Old Age Pension", 
+        "series": "B741", 
+        "control_symbol": "V/6148", 
+        "contents_dates": {
+            "date_str": "1929 - 1929", 
+            "start_date": "1929", 
+            "end_date": "1929"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1110885"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention Johann Wilhelm Freidrich Lange and Thomas Hornsby Varcoe , titled -  An improved fumigating apparatus for rabbit extermination(Cognate 11980 33 - 15167 33)", 
+        "series": "A627", 
+        "control_symbol": "11980/1933", 
+        "contents_dates": {
+            "date_str": "1933 - 1933", 
+            "start_date": "1933", 
+            "end_date": "1933"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4135303"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by Johann Wilhelm Freidrich Lange and Thomas Hornsby Varcoe titled, Improved apparatus for distributing fertilizers or other materials", 
+        "series": "A627", 
+        "control_symbol": "9610/1927", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4205048"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by: Johann Wilhelm Freidrich Lange - Titled - An improved fumigating apparatus for the destruction of rabbits and other animal pests", 
+        "series": "A627", 
+        "control_symbol": "22148/1925", 
+        "contents_dates": {
+            "date_str": "1925 - 1925", 
+            "start_date": "1925", 
+            "end_date": "1925"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4225491"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by: Johann Wilhelm Freidrich Lange - Titled - Improvements in and connected with air pumps of fumigating apparatus", 
+        "series": "A627", 
+        "control_symbol": "25600/1925", 
+        "contents_dates": {
+            "date_str": "1925 - 1925", 
+            "start_date": "1925", 
+            "end_date": "1925"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4225773"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANGE Wilhelm Dirk - Nationality: Dutch - Arrived Melbourne per Johan Van Oldenbarnevelt 11 February 1958 Departed Commonwealth on 17 Dec 1959", 
+        "series": "B78", 
+        "control_symbol": "DUTCH/LANGE WILHELM DIRK", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5705347"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Lange, Wilhelm Frederick - Nationality: German - Alien Registration Certificate No 2 issued 21 October 1916 at Kalbar", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMAN LANGE W F", 
+        "contents_dates": {
+            "date_str": "1916 - 1921", 
+            "start_date": "1916", 
+            "end_date": "1921"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6298575"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Wilhelm Karl Gustav Lange [German - Arrived Perth per Aircraft 2 February 1965]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/LANGE WILHELM KARL GUSTAV", 
+        "contents_dates": {
+            "date_str": "1965 - 1968", 
+            "start_date": "1965", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7535548"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Lange, Heinrich Wilhelm Ludwig; Date of birth - 25 October 1899; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "PWS3104", 
+        "contents_dates": {
+            "date_str": "1940 - 1945", 
+            "start_date": "1940", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8614483"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Prisoner of War/Internee; Lange, Heinrich Wilhelm Ludwig; Year of birth - 1899; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "PWS3104", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9903386"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "DEKKER Barend born 15 December 1933; Susanna M H (nee Klein) born 14 December 1934; Paul E born 2 September 1961; Tom born 21 October 1963 - Dutch - travelled per KLM flight under Netherlands Australia Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "DEKKER B", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1233689"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLEIN Erwin Paul Alfred born 19 June 1917; Lieselotte (nee Graumann) born 18 December 1912; Monika born 15 August 1944; Brigitte born 20 October 1950 - German - travelled per ship SKAUBRYN departing in 1956", 
+        "series": "A2478", 
+        "control_symbol": "KLEIN E P A", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1438038"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLEIN Werner Paul Arthur Wilhelm born 19 January 1920; Ursula (nee Klein) born 22 March 1922; Knut (Mirbach) born 14 November 1945 - German - travelled per ship SKAUBRYN departing in 1956", 
+        "series": "A2478", 
+        "control_symbol": "KLEIN W P A W", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1438039"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLEIN Paul born 25 September 1932 - German - travelled per ship FAIRSEA departing in 1954 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "KLEIN P", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1469314"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Klein, Paul", 
+        "series": "B44", 
+        "control_symbol": "V1973/22026", 
+        "contents_dates": {
+            "date_str": "1973 - 1973", 
+            "start_date": "1973", 
+            "end_date": "1973"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4058605"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLEIN Paul Marcel born 20 May 1909; nationality French; travelled per POLYNESIEN arriving in Brisbane on 27 May 1939", 
+        "series": "A12508", 
+        "control_symbol": "20/1051", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6945195"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLEIN Pal [aka Paul] - born 30 March 1900 - Hungarian", 
+        "series": "A435", 
+        "control_symbol": "1950/4/1871", 
+        "contents_dates": {
+            "date_str": "1950 - 1954", 
+            "start_date": "1950", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6951514"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLEIN Paul born 28 November 1944 - French", 
+        "series": "A2562", 
+        "control_symbol": "1970/4987", 
+        "contents_dates": {
+            "date_str": "1969 - 1969", 
+            "start_date": "1969", 
+            "end_date": "1969"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7641720"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BARTELS Paul born 23 December 1919; Christel (nee Sternberg aka Klein) born 16 December 1923; Gerda born 5 March 1955 - German - travelled per CASTEL FELICE in May 1959", 
+        "series": "A2478", 
+        "control_symbol": "BARTELS P", 
+        "contents_dates": {
+            "date_str": "1958 - 1959", 
+            "start_date": "1958", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7702818"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLEIN Paul born 31 January 1923 - German - travelled per CASTEL FELICE on 15 February 1961", 
+        "series": "A2478", 
+        "control_symbol": "KLEIN P", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7709620"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Applicant - BECKER Paul; Nominee - KLEIN Gunther; Yvone; Renee; nationality Dutch", 
+        "series": "A261", 
+        "control_symbol": "1946/300", 
+        "contents_dates": {
+            "date_str": "1946 - 1946", 
+            "start_date": "1946", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7881915"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Ilse Berlla Nordschild, Paul Simon Nordschild, Karl Schiffman, Siegfried De Klein, Fritz Somner, Berta Alfa, Rolf Doctor, Gaetano Anselmi, Izzy Janazza, Louis Farber, Thomas Louis Chester [also known as Tommy Chester], Dominador Ganzon, Ong. Hock Thye, Tan Chian, Man Chan, Due Luong, W. F. Barlett [arrived ex AORANGI in Sydney on 20 November 1937], Rev. Isikeli Hauofa and wife Mele Hauofa [arrived ex AORANGI in Sydney on 20 November 1937] [Tongan passengers for transhipment and enroute to Papua], Dullabh Morar [arrived ex AORANGI in Sydney on 20 November 1937] [Indian passenger for transhipment and enroute to India] and 3 unknown Chinese [arrived ex AORANGI in Sydney on 20 November 1937] [Chinese passengers for transhipment and enroute to China] [box 354]", 
+        "series": "SP42/1", 
+        "control_symbol": "C1937/8336", 
+        "contents_dates": {
+            "date_str": "1937 - 1938", 
+            "start_date": "1937", 
+            "end_date": "1938"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "31099662"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by Paul Klein and Andrew Szegvari now known as The Anode Rubber Company Limited, titled - Process of producing aqueous dispersions of organic substances", 
+        "series": "A627", 
+        "control_symbol": "11883/1928", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4204290"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by Paul Klein,  Andrew Szegvari, Stephen Gottlieb and George F Wilson  now known as The Anode Rubber Company Limited, titled - Method of and apparatus for preventing the separation of the constituents of liquid dispersed systems", 
+        "series": "A627", 
+        "control_symbol": "11885/1928", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4204291"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by  Paul Klein and Andrew Szegbari now known as The Anode Rubber Company Limited, titled - Improvements in or relating to the production of rubber articles from natural rubber latex", 
+        "series": "A627", 
+        "control_symbol": "11888/1928", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4204293"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by  Paul Klein  now known as The Anode Rubber Company Limited, titled - Process of drying products produced from aqueous dispersions of organic substances by agglomeration upon a base", 
+        "series": "A627", 
+        "control_symbol": "11889/1928", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4204294"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent  for an invention by The Dunlop Rubber Company Limited, Paul Klein and Albert Healey ,  titled -  Improvements in the direct production of rubber goods from rubber dispersions", 
+        "series": "A627", 
+        "control_symbol": "9204/1927", 
+        "contents_dates": {
+            "date_str": "1927 - 1927", 
+            "start_date": "1927", 
+            "end_date": "1927"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4215752"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLEIN Paul - Nationality: German - Arrived Melbourne per Fairsea 10 January 1954", 
+        "series": "B78", 
+        "control_symbol": "1958/KLEIN P", 
+        "contents_dates": {
+            "date_str": "1954 - 1958", 
+            "start_date": "1954", 
+            "end_date": "1958"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6035901"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLEIN Johannes Paul - Nationality:  German - Arrived Melbourne per Anna Salen 18 April 1953", 
+        "series": "B78", 
+        "control_symbol": "1960/KLEIN J", 
+        "contents_dates": {
+            "date_str": "1953 - 1960", 
+            "start_date": "1953", 
+            "end_date": "1960"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6041644"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Henri Paul Klein [French - arrived Sydney per aircraft VH-EBL, 14 Feb 1958. Child. Box 34]", 
+        "series": "SP1732/5", 
+        "control_symbol": "KLEIN, HENRI PAUL", 
+        "contents_dates": {
+            "date_str": "1957 - 1958", 
+            "start_date": "1957", 
+            "end_date": "1958"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7286394"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Manfred Paul Klein [German - arrived Sydney per aircraft VHEBK, 13 May 1964. There is no photograph with this item. Box 328]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/KLEIN MANFRED PAUL", 
+        "contents_dates": {
+            "date_str": "1964 - 1965", 
+            "start_date": "1964", 
+            "end_date": "1965"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7532889"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Paul Klein [Other nationality: Born in Austria, Israeli - Arrived Sydney per Aircraft 18 February 1956]", 
+        "series": "SP908/1", 
+        "control_symbol": "ISRAELI/KLEIN PAUL", 
+        "contents_dates": {
+            "date_str": "1956 - 1968", 
+            "start_date": "1956", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "8793785"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLEIN Paul - Nationality: German - Arrived Adelaide per Anna Salen 28 March 1952", 
+        "series": "D4881", 
+        "control_symbol": "KLEIN PAUL", 
+        "contents_dates": {
+            "date_str": "1952 - 1976", 
+            "start_date": "1952", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9183821"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Paul Klein [Other nationality: Born in Hungary, Stateless - Arrived Fremantle per CYRENIA 29 June 1949]", 
+        "series": "SP908/1", 
+        "control_symbol": "STATELESS/KLEIN PAUL", 
+        "contents_dates": {
+            "date_str": "1949 - 1968", 
+            "start_date": "1949", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9393428"
+    }
+]

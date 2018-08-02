@@ -1,0 +1,317 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Bauer, Franz", 
+        "series": "MP14/1", 
+        "identifier": "1005084", 
+        "control_symbol": "NN", 
+        "contents_dates": {
+            "date_str": "1943 - 1943", 
+            "start_date": "1943", 
+            "end_date": "1943"
+        }, 
+        "location": "Melbourne"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "BAUER FRANZ : Service Number - SX33401 : Date of birth - 01 May 1914 : Place of birth - MOSON HUNGARY : Place of enlistment - WAYVILLE SA : Next of Kin - BAUER BERTHOLD", 
+        "series": "B883", 
+        "identifier": "6415462", 
+        "control_symbol": "SX33401", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BAUER Franz born 4 December 1934 - Austrian - travelled per ship SYDNEY departing 1958", 
+        "series": "A2478", 
+        "control_symbol": "BAUER F", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1408590"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BAUER Franz born 28 January 1928 - Austrian - travelled per ship SYDNEY departing in 1957", 
+        "series": "A2478", 
+        "control_symbol": "BAUER F", 
+        "contents_dates": {
+            "date_str": "1956 - 1957", 
+            "start_date": "1956", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1431978"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Bauer, Franz Oscar - naturalization", 
+        "series": "A712", 
+        "control_symbol": "1901/N11238", 
+        "contents_dates": {
+            "date_str": "1901 - 1901", 
+            "start_date": "1901", 
+            "end_date": "1901"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1934233"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BAUER Franz - Application for Certificate of Exemption from the Dictation Test", 
+        "series": "PP9/1", 
+        "control_symbol": "1951/60/16204", 
+        "contents_dates": {
+            "date_str": "1951 - 1952", 
+            "start_date": "1951", 
+            "end_date": "1952"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5312852"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BAUER Franz born 1 May 1914 - Nationality: Austrian - Arrived Melbourne per N. Zeeland 3 September 1938", 
+        "series": "D4880", 
+        "control_symbol": "AUSTRIAN - BAUER F", 
+        "contents_dates": {
+            "date_str": "1938 - 1938", 
+            "start_date": "1938", 
+            "end_date": "1938"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5511267"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BAUER Franz  born 1 May 1914; nationality German;  travelled per ship arriving in Melbourne on 3 September 1938", 
+        "series": "A12508", 
+        "control_symbol": "21/229", 
+        "contents_dates": {
+            "date_str": "1938 - 1938", 
+            "start_date": "1938", 
+            "end_date": "1938"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6945573"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BAUER Franz - born 1 May 1914 - Stateless", 
+        "series": "A435", 
+        "control_symbol": "1944/4/4759", 
+        "contents_dates": {
+            "date_str": "1944 - 1945", 
+            "start_date": "1944", 
+            "end_date": "1945"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7027080"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BEHAM Franz born 9 April 1909; Therese (nee Bauer) born 20 May 1908; Stefan born 24 December 1937; Annemarie born 15 May 1939 - German - travelled per AROSA STAR in December 1954", 
+        "series": "A2478", 
+        "control_symbol": "BEHAM F", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7677472"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SUMANDL Franz born 5 October 1925; Leopoldine (nee Bauer) born 20 January 1931; Ingrid born 16 March 1956; Annemarie born 10 June 1951; Christine born 4 March 1950 - Austrian -  travelled per FLAMINIA on 9 June 1957", 
+        "series": "A2478", 
+        "control_symbol": "SUMANDL F", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7795936"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - BAUER Franz; Nominee - BAUER Bertholo; BAUER Samuella; BAUER Erich; nationality Hungarian and Austrian", 
+        "series": "A261", 
+        "control_symbol": "1938/145", 
+        "contents_dates": {
+            "date_str": "1938 - 1938", 
+            "start_date": "1938", 
+            "end_date": "1938"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7919668"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - BAUER Franz; Nominee - SZIRMAY Paula; nationality Hungarian", 
+        "series": "A261", 
+        "control_symbol": "1938/146", 
+        "contents_dates": {
+            "date_str": "1938 - 1938", 
+            "start_date": "1938", 
+            "end_date": "1938"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7919669"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BAUER, Franz PWG 41072", 
+        "series": "A367", 
+        "control_symbol": "C86253", 
+        "contents_dates": {
+            "date_str": "1945 - 1947", 
+            "start_date": "1945", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "65091"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Bauer Franz", 
+        "series": "A367", 
+        "control_symbol": "C42535", 
+        "contents_dates": {
+            "date_str": "1938 - 1944", 
+            "start_date": "1938", 
+            "end_date": "1944"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "779016"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Non Dutch Aliens arriving Camp Columbia, Wacol, Qld with Dutch Civilian Internees - [including Grosz, Stephan and Hilda Gesina; Munster, Franz; Bauer, Antonin; Stockl, Vilen and Helena Louise; Sykora, Vaclav; Divin, Antonin; Sanda, Josef; Rajnhard, Garoslav; Kanitz, Bela; Plutzinsky, Elizabeth; Edgar, Golo; Judah, Meeda; Karagancheff, Leonard; Riedel, Karel; Nautner, Jakob and Hedwig", 
+        "series": "BP242/1", 
+        "control_symbol": "Q23349", 
+        "contents_dates": {
+            "date_str": "1945 - 1947", 
+            "start_date": "1945", 
+            "end_date": "1947"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1043188"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "BAUER Franz - Nationality: Austrian - Arrived Fremantle per Australia 2 November 1951", 
+        "series": "K1331", 
+        "control_symbol": "1955/BAUER F", 
+        "contents_dates": {
+            "date_str": "1951 - 1951", 
+            "start_date": "1951", 
+            "end_date": "1951"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3170102"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BAUER Franz - Nationality: Austrian - Arrived Melbourne per Sydney 10 June 1958", 
+        "series": "K1331", 
+        "control_symbol": "AUSTRIAN/BAUER F", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3388612"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Franz Bauer  [Austrian - arrived Melbourne per TV SYDNEY, 16 April 1957.  Box 47]", 
+        "series": "SP908/1", 
+        "control_symbol": "AUSTRIAN/BAUER F", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4047536"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Bauer, Franz; Date of birth - 26 July 1914; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "PWG41072", 
+        "contents_dates": {
+            "date_str": "1941 - 1946", 
+            "start_date": "1941", 
+            "end_date": "1946"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8618751"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Prisoner of War/Internee; Bauer, Franz; Year of birth - --14; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "PWG41072", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9907575"
+    }
+]

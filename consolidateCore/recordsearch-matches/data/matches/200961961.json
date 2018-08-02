@@ -1,0 +1,77 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Graez, William; Daubenshaler, Adam; Talleur, Joseph; Wick, Anton; Meyer, Andreas; Deidrich, August; Markwort, Christian - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1869/U706", 
+        "contents_dates": {
+            "date_str": "1869 - 1869", 
+            "start_date": "1869", 
+            "end_date": "1869"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1575233"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Meyer, Andreas - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1869/U739", 
+        "contents_dates": {
+            "date_str": "1869 - 1869", 
+            "start_date": "1869", 
+            "end_date": "1869"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1575268"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Meyer, Andreas Antonios", 
+        "series": "B44", 
+        "control_symbol": "V1970/35087", 
+        "contents_dates": {
+            "date_str": "1961 - 1970", 
+            "start_date": "1961", 
+            "end_date": "1970"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4976741"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DEKKER Simon Hendrick - Application for Landing Permit [SCHELL Paul Rene, NUMAN Andreas, DIJKSTRA Sietre, DIJHATORA Mendrikje, MEYER Hendrikje]", 
+        "series": "PP66/1", 
+        "control_symbol": "1954/61/5582", 
+        "contents_dates": {
+            "date_str": "1954 - 1955", 
+            "start_date": "1954", 
+            "end_date": "1955"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5295115"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEYER Friedrich born 5 June 1935; Helga (nee Wullenweber) born 25 October 1934; Marita Edith born 27 September 1953; Andreas born 24 December 1957 - German - travelled per CASTEL FELICE in June 1958", 
+        "series": "A2478", 
+        "control_symbol": "MEYER F", 
+        "contents_dates": {
+            "date_str": "1957 - 1957", 
+            "start_date": "1957", 
+            "end_date": "1957"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7700421"
+    }
+]

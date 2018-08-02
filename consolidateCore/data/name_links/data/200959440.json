@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "THIEMANN Willy born 1 May 1924; Ruth (nee Weber) born 25 May 1929; Bernd born 4 September 1949 - German - travelled per flight MIMET", 
+        "series": "A2478", 
+        "control_symbol": "THIEMANN W", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1230628"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ZEPPENFELD Kurt Willy born 23 May 1930; Hannelore (nee Weber) born 10 December 1929 - German - travelled per ship FAIRSEA departing in 1954 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "ZEPPENFELD K W", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1469425"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Aircraft G-ALAM arrived Sydney 17 July 1950 - Passengers Willy Baaske, Hanni Baaske, Stratos Kotis, Anastasios Tallis, Yanna Soulis, Marinus Maas, Mientje Maas, Nicolaes Maas, Dragoljub Radulovic, Drina Radulovic, Miroslav Radulovic, Davorka Piplovic, Wan Abdul Hamid, Hendrik Prins, Willem De Vroon, B. J. Classen, Free Von Hombracht, Nancye Von Hombracht, Louise Von Hombracht, Herman Hogen-Esch, Clara Josy Hogen-Esch, Moses Kalker, Emilie Kalker and Marie Weber. For transhipment to Auckland Ragha Nagar [Box 72]", 
+        "series": "SP244/2", 
+        "control_symbol": "N1950/2/7737", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7280143"
+    }
+]

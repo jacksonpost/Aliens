@@ -1,0 +1,677 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Coyle, Frank Phillip; age 21; address - Bridgetown WA", 
+        "series": "MT1486/1", 
+        "control_symbol": "COYLE/FRANK PHILLIP", 
+        "contents_dates": {
+            "date_str": "1915 - 1916", 
+            "start_date": "1915", 
+            "end_date": "1916"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6523711"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Sleath, Edward Frank; age 29; address - Sydney NSW", 
+        "series": "MT1486/1", 
+        "control_symbol": "SLEATH/EDWARD FRANK", 
+        "contents_dates": {
+            "date_str": "1917 - 1917", 
+            "start_date": "1917", 
+            "end_date": "1917"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9697993"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RAYWARD HORACE DONALD : Service Number - QX50982 : Date of birth - 03 May 1904 : Place of birth - LISMORE NSW : Place of enlistment - FRASERS PADDOCK QLD : Next of Kin - RAYWARD JESSIE", 
+        "series": "B883", 
+        "control_symbol": "QX50982", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4465041"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "EMMETT CHARLES FRANK : Service Number - VX103380 : Date of birth - 12 Jul 1904 : Place of birth - ARARAT VIC : Place of enlistment - NOONAMAH NT : Next of Kin - EMMETT LUCY", 
+        "series": "B883", 
+        "control_symbol": "VX103380", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6103503"
+    }, 
+    {
+        "digitised_pages": "23", 
+        "title": "NORTON FRANK MARSTON : Service Number - VX44352 : Date of birth - 23 Dec 1895 : Place of birth - ADELAIDE SA : Place of enlistment - IN THE FIELD NSW : Next of Kin - NORTON ALICE", 
+        "series": "B883", 
+        "control_symbol": "VX44352", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6135963"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "TURNER DOUGLAS FRANK FRY : Service Number - TX14909 : Date of birth - 04 Dec 1921 : Place of birth - NEW NORFOLK TAS : Place of enlistment - HOBART TAS : Next of Kin - TURNER OSCAR", 
+        "series": "B883", 
+        "control_symbol": "TX14909", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6495579"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RENFREW HENRY : Service Number - NX38481 : Date of birth - 14 May 1917 : Place of birth - ABERDARE NSW : Place of enlistment - PADDINGTON NSW : Next of Kin - RENFREW FRANK", 
+        "series": "B883", 
+        "control_symbol": "NX38481", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4879424"
+    }, 
+    {
+        "digitised_pages": "16", 
+        "title": "MONGAN FRANK : Service Number - NX37044 : Date of birth - 04 Jun 1920 : Place of birth - CAMPSIE NSW : Place of enlistment - PADDINGTON NSW : Next of Kin - MONGAN IDA", 
+        "series": "B883", 
+        "control_symbol": "NX37044", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4886159"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ALLEN HAROLD LESLIE : Service Number - NX39540 : Date of birth - 17 Sep 1921 : Place of birth - TERALBA NSW : Place of enlistment - PADDINGTON NSW : Next of Kin - ALLEN FRANK", 
+        "series": "B883", 
+        "control_symbol": "NX39540", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4889162"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LIPANOVIC FRANK ROKO : Service Number - NX43576 : Date of birth - 10 Oct 1909 : Place of birth - KOCULA YUGOSLAVIA : Place of enlistment - PADDINGTON NSW : Next of Kin - LIPANOVIC PHILLIS", 
+        "series": "B883", 
+        "control_symbol": "NX43576", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4921794"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ANDERSON FRANK ALBERT : Service Number - NX205571 : Date of birth - 05 Jan 1927 : Place of birth - CROYDON NSW : Place of enlistment - PADDINGTON NSW : Next of Kin - ANDERSON FRANK", 
+        "series": "B883", 
+        "control_symbol": "NX205571", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5591058"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WALPOLE FRANK SEYMOUR : Service Number - N278392 : Date of birth - 29 Jul 1895 : Place of birth - ST KILDA VIC : Place of enlistment - PADDINGTON NSW : Next of Kin - WALPOLE GRACE", 
+        "series": "B884", 
+        "control_symbol": "N278392", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6179243"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LANE FRANK JOHN : Service Number - VX7490 : Date of birth - 28 Jun 1907 : Place of birth - MILLICENT SA : Place of enlistment - SOUTH MELBOURNE VIC : Next of Kin - LANE UNA", 
+        "series": "B883", 
+        "control_symbol": "VX7490", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6217285"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AYRES FRANK : Service Number - WX40741 : Date of birth - 29 Nov 1901 : Place of birth - LONDON ENGLAND : Place of enlistment - SWAN BARRACKS WA : Next of Kin - AYRES CECELIA", 
+        "series": "B883", 
+        "control_symbol": "WX40741", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6360305"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MARTINOD FRANK : Service Number - Q116531 : Date of birth - 27 Mar 1922 : Place of birth - WEST WARBURTON VIC : Place of enlistment - BABINDA QLD : Next of Kin - MARTINOD PETER", 
+        "series": "B884", 
+        "control_symbol": "Q116531", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4449870"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "TOCCHINI FRANK : Service Number - NX69059 : Date of birth - 21 Sep 1905 : Place of birth - SYDNEY NSW : Place of enlistment - PADDINGTON NSW : Next of Kin - TOCCHINI MINNIE", 
+        "series": "B883", 
+        "control_symbol": "NX69059", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4472443"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "CARRINGTON FRANK ALFRED : Service Number - Q256028 : Date of birth - 13 Jul 1902 : Place of birth - POOLE ENGLAND : Place of enlistment - BRISBANE QLD : Next of Kin - CARRINGTON GEO", 
+        "series": "B884", 
+        "control_symbol": "Q256028", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4650777"
+    }, 
+    {
+        "digitised_pages": "14", 
+        "title": "GURR FRANK PATRICK : Service Number - QX9638 : Date of birth - 10 Mar 1912 : Place of birth - BRISBANE QLD : Place of enlistment - KELVIN GROVE QLD : Next of Kin - GURR JOHANNA", 
+        "series": "B883", 
+        "control_symbol": "QX9638", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4850602"
+    }, 
+    {
+        "digitised_pages": "52", 
+        "title": "JACKSON REGINALD FRANK HUMPHREY : Service Number - 146071 : Date of birth - 18 Jun 1925 : Place of birth - MELBOURNE VIC : Place of enlistment - MELBOURNE : Next of Kin - JACKSON CHARLES", 
+        "series": "A9301", 
+        "control_symbol": "146071", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5356288"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "REES FRANK FOSTER : Service Number - 433859 : Date of birth - 05 Sep 1922 : Place of birth - CANTERBURY NSW : Place of enlistment - SYDNEY : Next of Kin - REES ARTHUR", 
+        "series": "A9301", 
+        "control_symbol": "433859", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5536637"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Wilhelm Heinrich Christian FRANK - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1907/2390", 
+        "contents_dates": {
+            "date_str": "1907 - 1907", 
+            "start_date": "1907", 
+            "end_date": "1907"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "7967"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Wilhelm Christian August Frank, Naturalisation", 
+        "series": "A1", 
+        "control_symbol": "1914/14393", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "30243"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MEERMAN Wilhelm born 9 October 1906; Maria J (nee Van Benthem) born 12 June 1914; Gesina Cornelia born 12 December 1945; Eurydice Christine born 20 June 1948; Frank Willem born 15 March 1950; Saskia Maria born 24 March 1952; Antoon born 30 April 1953; Jacob Jan born 12 July 1955 - Dutch - travelled per JVO under Netherlands Australian Migration Assistance", 
+        "series": "A2478", 
+        "control_symbol": "MEERMAN W", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1429314"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Welfare enquiries - Frank, Matthias, Wilhelm - Daas, Heinrich [0.5cm]", 
+        "series": "A1068", 
+        "control_symbol": "IC47/23/23", 
+        "contents_dates": {
+            "date_str": "1947 - 1950", 
+            "start_date": "1947", 
+            "end_date": "1950"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1588387"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Marks, Frank Otto Wilhelm - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1900/L822", 
+        "contents_dates": {
+            "date_str": "1900 - 1900", 
+            "start_date": "1900", 
+            "end_date": "1900"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1906621"
+    }, 
+    {
+        "digitised_pages": "33", 
+        "title": "HYMAN [HEIMANN] Peter Wilhelm [Marianne, Ralph, Frank]", 
+        "series": "PP948/1", 
+        "control_symbol": "W1977/22577", 
+        "contents_dates": {
+            "date_str": "1958 - 1978", 
+            "start_date": "1958", 
+            "end_date": "1978"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3233162"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FRANK Wilhelm born 4 January 1911; Agnes Winifred age 34; nationality German; travelled per ORCADES arriving in Sydney on 11 October 1938", 
+        "series": "A12508", 
+        "control_symbol": "21/1294", 
+        "contents_dates": {
+            "date_str": "1938 - 1938", 
+            "start_date": "1938", 
+            "end_date": "1938"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7128423"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FRANK Otto Friedrich Wilhelm born 26 June 1906", 
+        "series": "A12514", 
+        "control_symbol": "FRANK O F W", 
+        "contents_dates": {
+            "date_str": "1966 - 1966", 
+            "start_date": "1966", 
+            "end_date": "1966"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7144669"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SS CHANGTE arrived Sydney 4 April 1951. Large list of passengers. Passengers for whom a photograph is included are; Rose Jallard, Nelly Leineweber, Wilhelm Leineweber, Mr E. Buyanovas Mrs O. Buyanovas, Master N. Buyanovas, Miss N. Buyanovas, Rakhil Iankovskaia and Frank Henry Hollett [Box 205]", 
+        "series": "SP244/2", 
+        "control_symbol": "N1950/2/20260", 
+        "contents_dates": {
+            "date_str": "1950 - 1951", 
+            "start_date": "1950", 
+            "end_date": "1951"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7295699"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WOLFF Wilhelm born 23 May 1918; Ilse (nee Frank) born 28 October 1927; Gudrun born 22 January 1945 - German - travelled per ANNA SALEN in April 1954", 
+        "series": "A2478", 
+        "control_symbol": "WOLFF W", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7674471"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DINSE Herbert Wilhelm born 5 October ; Ursula (nee Berthold) born 7 July 1929; Jutta born 19 October 1950; Frank born 10 March 1958 - German - travelled per AURELIA in August 1960", 
+        "series": "A2478", 
+        "control_symbol": "DINSE H W", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7687609"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HEIMANN Peter Wilhelm born 6 March 1931; Heimann (nee Zaunder) born 15 February 1935; Ralph Roger born 15 October 1955; Frank Peter born 13 January 1958 - German - travelled per CASTEL FELICE in September 1958", 
+        "series": "A2478", 
+        "control_symbol": "HEIMANN PW", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7700746"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FRANK Wilhelm born 3 June 1932; Katharina (nee Zoeller) born 24 October 1930; Rudolf born 29 December 1955 - German - travelled per CASTEL FELICE on 2 September 1960", 
+        "series": "A2478", 
+        "control_symbol": "FRANK W", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7709109"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ZIEGAN Heinz-Wilhelm born 17 October 1932; Edith (nee Zimmermann) born 10 February 1938; Frank born 28 January 1960 - German - travelled per CASTEL FELICE on 2 September 1960", 
+        "series": "A2478", 
+        "control_symbol": "ZIEGAN H", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7711107"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RABOWSKY Helmut Wilhelm Walter Max born 14 July 1934; Ina Anna Martha (nee Onnasch) born 21 December 1936; Frank Helmut born 28 February 1960 - German - travelled per CASTEL FELICE on 27 May 1961", 
+        "series": "A2478", 
+        "control_symbol": "RABOWSKY H W W", 
+        "contents_dates": {
+            "date_str": "1961 - 1961", 
+            "start_date": "1961", 
+            "end_date": "1961"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7711849"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHONE Gunter Wilhelm born 14 March 1927; Ingeburg (nee Gehrke) born 7 February 1928; Brigitte born 29 August 1949; Peter born 25 April 1953; Frank born 15 September 1960 - German - travelled per CASTEL FELICE on 27 May 1961", 
+        "series": "A2478", 
+        "control_symbol": "SCHONE G W", 
+        "contents_dates": {
+            "date_str": "1961 - 1961", 
+            "start_date": "1961", 
+            "end_date": "1961"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7712244"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HAGEDORN Gerd Fritz Wilhelm born 9 June 1938; Christel (nee Karstedt) born 29 November 1941; Gabriele born 28 June 1960; Carola born 21 August 1963; Frank born 8 September 1966 - German", 
+        "series": "A2562", 
+        "control_symbol": "1968/3279", 
+        "contents_dates": {
+            "date_str": "1967 - 1967", 
+            "start_date": "1967", 
+            "end_date": "1967"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7719099"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GOZNIK Wilhelm born 24 October 1946; Sofia (nee Nekrep) born 14 May 1946; Michael (Feddes) born 18 August 1963; Frank (Feddes) born 26 September 1965 - Yugoslavian", 
+        "series": "A2562", 
+        "control_symbol": "1971/11177", 
+        "contents_dates": {
+            "date_str": "1970 - 1971", 
+            "start_date": "1970", 
+            "end_date": "1971"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7738163"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Frank, Ernst Wilhelm Conrad", 
+        "series": "P3", 
+        "control_symbol": "T1972/1797", 
+        "contents_dates": {
+            "date_str": "1957 - 1958", 
+            "start_date": "1957", 
+            "end_date": "1958"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9589712"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Frank, Karl Wilhelm Heirich", 
+        "series": "P3", 
+        "control_symbol": "T1972/1801", 
+        "contents_dates": {
+            "date_str": "1959 - 1960", 
+            "start_date": "1959", 
+            "end_date": "1960"
+        }, 
+        "location": "Hobart", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9589716"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Frank Wilhelm ex SS Hesson", 
+        "series": "MP16/1", 
+        "control_symbol": "1914/1/247", 
+        "contents_dates": {
+            "date_str": "1914 - 1919", 
+            "start_date": "1914", 
+            "end_date": "1919"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "326152"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Ehrlich Frederick Wilhelm, Alias Ehrenstein William, Alias Ellis Fred, Alias Ellis Frank Willy", 
+        "series": "PP14/1", 
+        "control_symbol": "5/1/232", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "750720"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Ostlergren, Frans Wilhelm [Otherwise known as Frank William Smith] - Nationality: Swedish - Naturalization certificate granted 25 November 1932", 
+        "series": "BP4/3", 
+        "control_symbol": "SWEDISH OSTLERGREN F W", 
+        "contents_dates": {
+            "date_str": "1932 - 1932", 
+            "start_date": "1932", 
+            "end_date": "1932"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9068802"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Frank Walter Davis [also known as Wilhelm Walter Fredborg] [Swedish - arrived Newcastle per NOVO, 9 May 1911] [Box 244]", 
+        "series": "SP1121/1", 
+        "control_symbol": "DAVIS, FRANK WALTER", 
+        "contents_dates": {
+            "date_str": "1911 - 1949", 
+            "start_date": "1911", 
+            "end_date": "1949"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30546137"
+    }
+]

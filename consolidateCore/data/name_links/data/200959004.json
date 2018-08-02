@@ -1,0 +1,47 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "Behrendt, August Heinrich Edward - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1903/S1106", 
+        "contents_dates": {
+            "date_str": "1903 - 1903", 
+            "start_date": "1903", 
+            "end_date": "1903"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1937347"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHMITZ Heinrich-Wilhelm born 15 February 1917; Charlotte Margarete (nee Tischer aka Behrendt) born 27 May 1907 - German - travelled per CASTEL FELICE on 15 February 1961", 
+        "series": "A2478", 
+        "control_symbol": "SCHMITZ H", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7711705"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "BEHRENDT Ingo Heinrich - Nationality: German - Arrived Melbourne per Castel Felice 12 November 1956", 
+        "series": "B78", 
+        "identifier": "5913988", 
+        "control_symbol": "GERMAN/BEHRENDT INGO HEINRICH", 
+        "contents_dates": {
+            "date_str": "01 Jan 1939 - 31 Dec 1972", 
+            "start_date": "1939-01-01", 
+            "end_date": "1972-12-31"
+        }, 
+        "location": "Melbourne"
+    }
+]

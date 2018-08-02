@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Siller, Carl Felix - naturalisation", 
+        "series": "A712", 
+        "identifier": "1826382", 
+        "control_symbol": "1897/F10027", 
+        "contents_dates": {
+            "date_str": "1897 - 1897", 
+            "start_date": "1897", 
+            "end_date": "1897"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Carl Felix Siller - purchase of property Dalby Qld - vendor P E Lancaster", 
+        "series": "A12217", 
+        "identifier": "5286987", 
+        "control_symbol": "L13102", 
+        "contents_dates": {
+            "date_str": "22 Oct 1946 - 03 Jan 1947", 
+            "start_date": "1946-10-22", 
+            "end_date": "1947-01-03"
+        }, 
+        "location": "Canberra"
+    }
+]

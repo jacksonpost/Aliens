@@ -1,0 +1,32 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "MANN LANCE LAWRENCE : Service Number - 154388 : Date of birth - 11 Jan 1927 : Place of birth - RIVERTON SA : Place of enlistment - ADELAIDE : Next of Kin - MANN OTTO", 
+        "series": "A9301", 
+        "identifier": "5358873", 
+        "control_symbol": "154388", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Vance Palmer ABC talk scripts - Current Books Worth Reading - 28 September 1941 [The Story of JMB - Denis Mackail; History in My Time - Otto Strasser; Dorthea - Sigrid Undset; Coast to Coast - Cecil Mann] [Box 1]", 
+        "series": "SP300/7", 
+        "identifier": "3072551", 
+        "control_symbol": "21", 
+        "contents_dates": {
+            "date_str": "1941 - 1941", 
+            "start_date": "1941", 
+            "end_date": "1941"
+        }, 
+        "location": "Sydney"
+    }
+]

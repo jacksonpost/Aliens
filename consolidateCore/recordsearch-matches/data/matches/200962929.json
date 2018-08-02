@@ -1,0 +1,17 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "LUECKE Helmuth Otto Ernst - Nationality: German - Arrived Melbourne per Nelly 9 February 1952", 
+        "series": "D4881", 
+        "identifier": "9184750", 
+        "control_symbol": "LUECKE HELMUTH OTTO ERNST", 
+        "contents_dates": {
+            "date_str": "09 Feb 1952 - 31 Dec 1976", 
+            "start_date": "1952-02-09", 
+            "end_date": "1976-12-31"
+        }, 
+        "location": "Adelaide"
+    }
+]

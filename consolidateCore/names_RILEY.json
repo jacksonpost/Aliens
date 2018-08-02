@@ -1,0 +1,22 @@
+[
+    {
+        "title": "VETTER, Wilhelm",
+        "barcode": "200960612",
+        "matchScore": 1
+    },
+    {
+        "title": "LIEBERT, Hermann",
+        "barcode": "200962214",
+        "matchScore": 0.9375
+    },
+    {
+        "title": "HOFFMANN, W",
+        "barcode": "200958962",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "title": "GUTTENBEIL, Albert",
+        "barcode": "200964495",
+        "matchScore": 1
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "internName": "VETTER, Wilhelm",
+        "internBarcode": "200960612",
+        "mp16title": "Vetter, Wilhelm",
+        "mp16barcode": "319293",
+        "matchScore": 1
+    },
+    {
+        "internName": "MASCHKE, Karl",
+        "internBarcode": "200960733",
+        "mp16title": "Maschke Carl",
+        "mp16barcode": "319492",
+        "matchScore": 0.8461538461538461
+    },
+    {
+        "internName": "GALE, Frank",
+        "internBarcode": "200961418",
+        "mp16title": "Lage, Frank",
+        "mp16barcode": "312152",
+        "matchScore": 0.8181818181818181
+    },
+    {
+        "internName": "BUTZMUCHLER, Paul",
+        "internBarcode": "200963689",
+        "mp16title": "Butzmuhlen Paul",
+        "mp16barcode": "325580",
+        "matchScore": 0.8235294117647058
+    },
+    {
+        "internName": "DARGATZ, Karl",
+        "internBarcode": "200962177",
+        "mp16title": "Dargatz Carl",
+        "mp16barcode": "325616",
+        "matchScore": 0.8461538461538461
+    },
+    {
+        "internName": "LIEBERT, Hermann",
+        "internBarcode": "200962214",
+        "mp16title": "Liebert Hermann",
+        "mp16barcode": "328484",
+        "matchScore": 0.9375
+    },
+    {
+        "internName": "HINSCH, Johann",
+        "internBarcode": "200963419",
+        "mp16title": "Plisch Johann",
+        "mp16barcode": "330543",
+        "matchScore": 0.7142857142857143
+    },
+    {
+        "internName": "HEINRICH, Richard",
+        "internBarcode": "200961250",
+        "mp16title": "Heinrich Schare",
+        "mp16barcode": "316784",
+        "matchScore": 0.7647058823529411
+    },
+    {
+        "internName": "TRAEGER, Otto",
+        "internBarcode": "200959210",
+        "mp16title": "Draeger Otto",
+        "mp16barcode": "317817",
+        "matchScore": 0.8461538461538461
+    },
+    {
+        "internName": "SCHNEDER, Max",
+        "internBarcode": "200964407",
+        "mp16title": "Schmetzer, May",
+        "mp16barcode": "319126",
+        "matchScore": 0.7142857142857143
+    },
+    {
+        "internName": "HOFFMANN, W",
+        "internBarcode": "200958962",
+        "mp16title": "Hoffmann W",
+        "mp16barcode": "329900",
+        "matchScore": 0.9090909090909091
+    },
+    {
+        "internName": "GUTTENBEIL, Albert",
+        "internBarcode": "200964495",
+        "mp16title": "Guttenbeil, Albert",
+        "mp16barcode": "320044",
+        "matchScore": 1
+    },
+    {
+        "internName": "LUECKE, Otto",
+        "internBarcode": "200962929",
+        "mp16title": "Juncken Otto",
+        "mp16barcode": "321241",
+        "matchScore": 0.75
+    }
+]

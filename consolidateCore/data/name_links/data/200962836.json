@@ -1,0 +1,212 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "[GRIMM Gustav Fredrich Wilhelm (Private) : Service Number - W96530 : Unit - 12th Australian Employment Company, Australian Military Forces : Date of Court Martial - 9 February 1944]", 
+        "series": "A471", 
+        "identifier": "8932017", 
+        "control_symbol": "52821", 
+        "contents_dates": {
+            "date_str": "1944 - 1944", 
+            "start_date": "1944", 
+            "end_date": "1944"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_status": null, 
+        "access_status": "Not yet examined", 
+        "digitised_pages": "0", 
+        "title": "GRIMM GUSTAV FRIEDRICH WILHELM : Service Number - W96530 : Date of birth - 13 Apr 1897 : Place of birth - WALBEEK GERMANY : Place of enlistment - KALGOORLIE WA : Next of Kin - Unknown", 
+        "series": "B884", 
+        "identifier": "6501074", 
+        "control_symbol": "W96530", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "William or Wilhelm Grimm Deported per \"Neckar\" February 1932", 
+        "series": "B13", 
+        "control_symbol": "1932/2770", 
+        "contents_dates": {
+            "date_str": "1932 - 1932", 
+            "start_date": "1932", 
+            "end_date": "1932"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "808425"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Investigation Branch, Perth/Customs Victoria - Re Verification of arrival of Gustav Friedrich Wilhelm Grimm", 
+        "series": "B13", 
+        "control_symbol": "1936/15273", 
+        "contents_dates": {
+            "date_str": "1936 - circa1936", 
+            "start_date": "1936", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "818287"
+    }, 
+    {
+        "digitised_pages": "15", 
+        "title": "Wilhelm Grimm - Section 8A", 
+        "series": "A1", 
+        "control_symbol": "1931/8599", 
+        "contents_dates": {
+            "date_str": "1931 - 1932", 
+            "start_date": "1931", 
+            "end_date": "1932"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1166104"
+    }, 
+    {
+        "digitised_pages": "23", 
+        "title": "GRIMM, Gustav Friedrich Wilhelm - Passport and or travel documents", 
+        "series": "PP9/4", 
+        "control_symbol": "GRIMM, GUSTAV FRIEDRICH WILHELM", 
+        "contents_dates": {
+            "date_str": "1928 - 1928", 
+            "start_date": "1928", 
+            "end_date": "1928"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1331534"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GRIMM Wilhelm August Erich born 19 March 1925; Waltraud (nee Mund) born 10 February 1930; Ilonka born 25 December 1953 - German - travelled per CASTEL FELICE on 20 June 1959", 
+        "series": "A2478", 
+        "control_symbol": "GRIMM W A E", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7706086"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GRIMM Wilhelm born 1906 - Nationality: German - arrived Adelaide per Main 6 December 1930", 
+        "series": "D4880", 
+        "control_symbol": "GERMAN/GRIMM W", 
+        "contents_dates": {
+            "date_str": "1930 - 1930", 
+            "start_date": "1930", 
+            "end_date": "1930"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30036819"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Gustav Friedrich Wilhelm GRIMM", 
+        "series": "PP302/1", 
+        "control_symbol": "WA11690", 
+        "contents_dates": {
+            "date_str": "1941 - 1945", 
+            "start_date": "1941", 
+            "end_date": "1945"
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "1662633"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GRIMM Hans Karl Wilhelm - Nationality: German - Arrived Fremantle per Centaur 3 July 1965", 
+        "series": "K1331", 
+        "control_symbol": "GERMAN/GRIMM H K W", 
+        "contents_dates": {
+            "date_str": "1965 - 1965", 
+            "start_date": "1965", 
+            "end_date": "1965"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4091628"
+    }, 
+    {
+        "digitised_pages": "16", 
+        "title": "GRIMM Gustav Friederick Wilhelm - Nationality: Stateless [previously German] - Arrived Fremantle per Napoli 5 November 1949", 
+        "series": "B78", 
+        "control_symbol": "1954/GRIMM G F W", 
+        "contents_dates": {
+            "date_str": "1949 - 1954", 
+            "start_date": "1949", 
+            "end_date": "1954"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4155112"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Gustav Frederick Wilhelm Grimm [German, born in German South Africa - arrived Melbourne per ALLER, 1 Dec 1928.  Box 93]", 
+        "series": "SP11/2", 
+        "control_symbol": "GERMAN/GRIMM G F W", 
+        "contents_dates": {
+            "date_str": "1945 - 1946", 
+            "start_date": "1945", 
+            "end_date": "1946"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5426477"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GRIMM Wilhelm Gustav: Nationality - German: First registered at Concentration Camp, Liverpool, New South Wales", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/GERMANY/GRIMM WILHELM", 
+        "contents_dates": {
+            "date_str": "1916 - 1925", 
+            "start_date": "1916", 
+            "end_date": "1925"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5968213"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Wilhelm August Erich Grimm [German - Arrived Melbourne per CASTEL FELICE 27 July 1959]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/GRIMM WILHELM AUGUST ERICH", 
+        "contents_dates": {
+            "date_str": "1959 - 1968", 
+            "start_date": "1959", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7531516"
+    }
+]

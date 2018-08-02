@@ -1,0 +1,257 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ OTTO HERMAN : Service Number - Q144377 : Date of birth - 07 Aug 1908 : Place of birth - LOWOOD QLD : Place of enlistment - LOWOOD QLD : Next of Kin - SCHULTZ IVY", 
+        "series": "B884", 
+        "control_symbol": "Q144377", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4454474"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ DOUGLAS ALBRECHT : Service Number - Q232674 : Date of birth - 18 Dec 1923 : Place of birth - JEPARIT VIC : Place of enlistment - DALBY QLD : Next of Kin - SCHULTZ OTTO", 
+        "series": "B884", 
+        "control_symbol": "Q232674", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4864282"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ FRANCIS ROY : Service Number - V171128 : Date of birth - 30 Jan 1924 : Place of birth - HAMILTON VIC : Place of enlistment - WARRNAMBOOL VIC : Next of Kin - SCHULTZ OTTO", 
+        "series": "B884", 
+        "control_symbol": "V171128", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6249216"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ GEORGE ALLAN : Service Number - V55984 : Date of birth - 23 Sep 1919 : Place of birth - HAMILTON VIC : Place of enlistment - HAMILTON VIC : Next of Kin - SCHULTZ OTTO", 
+        "series": "B884", 
+        "control_symbol": "V55984", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6273553"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ OTTO PHILLIPP : Service Number - S10080 : Date of birth - 27 Nov 1911 : Place of birth - AUGUSTON : Place of enlistment - GLOSSOP SA : Next of Kin - SCHULTZ FREDA", 
+        "series": "B884", 
+        "control_symbol": "S10080", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6344100"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ OTTO : Service Number - V383642 : Date of birth - 10 Dec 1887 : Place of birth - HAMILTON VIC : Place of enlistment - WARRNAMBOOL VIC : Next of Kin - SCHULTZ EMELIA", 
+        "series": "B884", 
+        "control_symbol": "V383642", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6664518"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ HENRY OTTO : Service Number - V390124 : Date of birth - 06 Feb 1889 : Place of birth - TOOLONDO VIC : Place of enlistment - CAVENDISH VIC : Next of Kin - SCHULTZ STELLA", 
+        "series": "B884", 
+        "control_symbol": "V390124", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6664588"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ Otto born 6 April 1913; Lina (nee Hassenpflug) born 16 January 1920; Joachim born 26 June 1941 - German - travelled per ship SKAUBRYN departing in 1954", 
+        "series": "A2478", 
+        "control_symbol": "SCHULTZ O", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1439132"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SS TOSCANA arrived Sydney 30 January 1950 - Passengers Henry, Suzette and Michele Blanchard, Oscar, Frida, Bernard and Ruth Oesh, Rosa Margreta Scholl, Maria Rachelle Depodesta, Steve, Anna and Susana Horn, Otto Boxler, Hosel Schelbert, Gertrud Lutz, Helmet Schultz, Olga Attanasio and Nervart Krikorian [Box 30]", 
+        "series": "SP244/2", 
+        "control_symbol": "N1950/2/2924", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5398284"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ Herbert Karl Otto born 17 March 1914; Irmgard (nee Bischkopf) born 15 March 1920; Monika born 5 October 1940; Petra born 7 December 1941; Holger born 16 October 1943; Lothar born 11 May 1947 - German - travelled per CASTEL FELICE in September 1958", 
+        "series": "A2478", 
+        "control_symbol": "SCHULTZ H K O", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7700885"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SEEBER Wilhelm Otto Albert born 23 May 1915; Brunhilde (nee Schultz) born 12 December 1918; Peter born 9 August 1953 - German - travelled per CASTEL FELICE in February 1959", 
+        "series": "A2478", 
+        "control_symbol": "SEEBER W O A", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7702679"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Capt. Manning said to be Otto Schultz", 
+        "series": "MP16/1", 
+        "control_symbol": "1915/3/1654", 
+        "contents_dates": {
+            "date_str": "1915 - 1916", 
+            "start_date": "1915", 
+            "end_date": "1916"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "310316"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schultz, Otto Robert, 96 Faraday St. Carlton", 
+        "series": "MP16/1", 
+        "control_symbol": "1916/259", 
+        "contents_dates": {
+            "date_str": "1915 - 1922", 
+            "start_date": "1915", 
+            "end_date": "1922"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "314401"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHULTZ Otto Rob: Nationality - German: First Registered at Carlton - Victoria", 
+        "series": "MT269/1", 
+        "control_symbol": "VIC/GERMANY/SCHULTZ OTTO", 
+        "contents_dates": {
+            "date_str": "1916 - 1921", 
+            "start_date": "1916", 
+            "end_date": "1921"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5956715"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for registration of patent by Johannes Ernest Schultz titled - Improvements in Otto cycle oil engines", 
+        "series": "A13149", 
+        "control_symbol": "17746", 
+        "contents_dates": {
+            "date_str": "1900 - 1900", 
+            "start_date": "1900", 
+            "end_date": "1900"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9056142"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Specifications for registration of patent by Johannes Ernest Schultz titled - Improvements in Otto cycle oil engines", 
+        "series": "A13150", 
+        "control_symbol": "17746", 
+        "contents_dates": {
+            "date_str": "1900 - 1900", 
+            "start_date": "1900", 
+            "end_date": "1900"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9179048"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schultz, Otto Albert - Nationality: German - Alien Registration Certificate No 10 issued 19 August 1918 at Gatton", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMAN SCHULTZ O A", 
+        "contents_dates": {
+            "date_str": "1918 - 1919", 
+            "start_date": "1918", 
+            "end_date": "1919"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "63004026"
+    }
+]

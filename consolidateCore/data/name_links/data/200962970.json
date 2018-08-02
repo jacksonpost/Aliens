@@ -1,0 +1,137 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "JAEGER Walter born 22 October 1933 - Austrian - travelled per ship TOSCANA departing in 1955", 
+        "series": "A2478", 
+        "control_symbol": "JAEGER W", 
+        "contents_dates": {
+            "date_str": "1954 - 1955", 
+            "start_date": "1954", 
+            "end_date": "1955"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1412477"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JAEGER Emil born 8 May 1908; Lydia (nee Weiss) born 13 January 1912; Reinhard born 13 October 1934; Walter born 30 July 1952 - German - travelled per FAIRSEA ship departing in 1954 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "JAEGER E", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1470027"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "JAEGER Lydia born 1912, Reinhard born 1934, Walter born 1952 - Nationality: German - Arrived Melbourne per Fairsea 12 June 1954", 
+        "series": "D343", 
+        "control_symbol": "JAEGER L", 
+        "contents_dates": {
+            "date_str": "1954 - 1954", 
+            "start_date": "1954", 
+            "end_date": "1954"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9212793"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Correspondence with Walter Jaeger Kochler concerning invention entitled - Improvements in the treatment of zinc and copper ores", 
+        "series": "A4619", 
+        "control_symbol": "6898", 
+        "contents_dates": {
+            "date_str": "1897 - 1897", 
+            "start_date": "1897", 
+            "end_date": "1897"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4286324"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent for an invention by Walter Jaeger Koehler communicated to Frank Mends Stone  titled improvements in the treatment of zinc and copper ores", 
+        "series": "A11848", 
+        "control_symbol": "1288", 
+        "contents_dates": {
+            "date_str": "1896 - 1896", 
+            "start_date": "1896", 
+            "end_date": "1896"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5107956"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Specification for registration of patent by Walter Jaeger Koehler titled - Improvements in the treatment of zinc and copper ores - Registered as Patent 3397", 
+        "series": "A13128", 
+        "control_symbol": "4470", 
+        "contents_dates": {
+            "date_str": "1896 - 1896", 
+            "start_date": "1896", 
+            "end_date": "1896"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7547402"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Specifications for registration of patent by Frank Mends Stone [communication from Walter Jaeger Koehler] titled - Improvements in the treatment of zinc and copper ores", 
+        "series": "A13136", 
+        "control_symbol": "1288", 
+        "contents_dates": {
+            "date_str": "1896 - 1896", 
+            "start_date": "1896", 
+            "end_date": "1896"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7595844"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Specifications for registration of patent by Walter Jaeger Koehler [transferred in 1898 to The Broken Hill Proprietary Company Limited] titled - Improvements in the treatment of zinc and copper ores - Patent not registered", 
+        "series": "A13127", 
+        "control_symbol": "3547", 
+        "contents_dates": {
+            "date_str": "1896 - 1896", 
+            "start_date": "1896", 
+            "end_date": "1896"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7647417"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for Letters Patent by Walter Jaeger Koehler and Broken Hill Proprietary Company Limited titled - Improvements in the treatment of zinc and copper ores", 
+        "series": "A12572", 
+        "control_symbol": "3547", 
+        "contents_dates": {
+            "date_str": "1896 - 1896", 
+            "start_date": "1896", 
+            "end_date": "1896"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7670454"
+    }
+]

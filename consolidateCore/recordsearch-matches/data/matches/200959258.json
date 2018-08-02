@@ -1,0 +1,662 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "ROHRLACH Hermann Heinrich Julius - Service Number: SX167", 
+        "series": "D1358", 
+        "identifier": "30828549", 
+        "control_symbol": "SX167", 
+        "contents_dates": {
+            "date_str": "20 Oct 1939 - 04 Oct 1946", 
+            "start_date": "1939-10-20", 
+            "end_date": "1946-10-04"
+        }, 
+        "location": "Adelaide"
+    }, 
+    {
+        "digitised_pages": "87", 
+        "title": "ALTMANN JULIUS HERMANN : Service Number - 28528 : Date of birth - 27 Jan 1906 : Place of birth - NEALS FLAT SA : Place of enlistment - ADELAIDE : Next of Kin - ALTMANN MAY", 
+        "series": "A9301", 
+        "control_symbol": "28528", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4570502"
+    }, 
+    {
+        "digitised_pages": "31", 
+        "title": "ROHRLACH HERMANN HEINRICH JULIUS : Service Number - 402755 : Date of birth - 14 Nov 1912 : Place of birth - KOPERAMAMMA SA : Place of enlistment - SYDNEY : Next of Kin - LLOYD L", 
+        "series": "A9301", 
+        "control_symbol": "402755", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5534417"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KNOBEL HERMANN JULIUS : Service Number - V373991 : Date of birth - 18 Apr 1903 : Place of birth - PLEASANT HILLS NSW : Place of enlistment - HENTY NSW : Next of Kin - KNOBEL KATHERINA", 
+        "series": "B884", 
+        "control_symbol": "V373991", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6635906"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "GOETZE, Hermann Julius", 
+        "series": "A821", 
+        "control_symbol": "SET 1/NO 45 FOLIO 11", 
+        "contents_dates": {
+            "date_str": "1851 - 1851", 
+            "start_date": "1851", 
+            "end_date": "1851"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "809581"
+    }, 
+    {
+        "digitised_pages": "27", 
+        "title": "Hermann Adolph Julius BACHMANN - Naturalisation certificate", 
+        "series": "A1", 
+        "control_symbol": "1930/3564", 
+        "contents_dates": {
+            "date_str": "1927 - 1930", 
+            "start_date": "1927", 
+            "end_date": "1930"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1500108"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Staatz, Hermann Julius Robertr - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1891/S10970", 
+        "contents_dates": {
+            "date_str": "1891 - 1891", 
+            "start_date": "1891", 
+            "end_date": "1891"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1766975"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Scherff, Hermann; Scherff, Julius - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1857/Y2243", 
+        "contents_dates": {
+            "date_str": "1857 - 1857", 
+            "start_date": "1857", 
+            "end_date": "1857"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1811255"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Lerich, Julius Hermann - Naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1863/B766", 
+        "contents_dates": {
+            "date_str": "1863 - 1863", 
+            "start_date": "1863", 
+            "end_date": "1863"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1815057"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Glassbrenner, Adolf Julius Hermann - naturalisation", 
+        "series": "A712", 
+        "control_symbol": "1899/J913", 
+        "contents_dates": {
+            "date_str": "1899 - 1899", 
+            "start_date": "1899", 
+            "end_date": "1899"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1843535"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Schulz, Hermann Robert Julius - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "177", 
+        "contents_dates": {
+            "date_str": "1865 - 1865", 
+            "start_date": "1865", 
+            "end_date": "1865"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3172040"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Rosenzweig, Julius Hermann - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "859", 
+        "contents_dates": {
+            "date_str": "1878 - 1878", 
+            "start_date": "1878", 
+            "end_date": "1878"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3178674"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Dorge, Ernst Julius Hermann - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "2025", 
+        "contents_dates": {
+            "date_str": "1884 - 1884", 
+            "start_date": "1884", 
+            "end_date": "1884"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3182622"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Steinberg, Johann Julius Hermann - Memorial of Naturalisation", 
+        "series": "A711", 
+        "control_symbol": "3228", 
+        "contents_dates": {
+            "date_str": "1895 - 1895", 
+            "start_date": "1895", 
+            "end_date": "1895"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3185750"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FALK Hermann Julius - born 20 May 1905 - German", 
+        "series": "A435", 
+        "control_symbol": "1944/4/1741", 
+        "contents_dates": {
+            "date_str": "1943 - 1944", 
+            "start_date": "1943", 
+            "end_date": "1944"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5276216"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WOLFF Hermann Julius born 29 April 1895; nationality German; travelled per  MALOJA arriving in Sydney on 5 October 1937", 
+        "series": "A12508", 
+        "control_symbol": "21/4749", 
+        "contents_dates": {
+            "date_str": "1937 - 1937", 
+            "start_date": "1937", 
+            "end_date": "1937"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6931224"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FALK Hermann Julius born 20 May 1905; [VON CORVIN] Gabriele aged 30; Utz aged 6; nationality German; travelled per ULYSSES arriving in Sydney on 16 February 1939", 
+        "series": "A12508", 
+        "control_symbol": "21/1129", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6945773"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PASS Emil Hermann Julius - born 30 June 1904 - Stateless", 
+        "series": "A435", 
+        "control_symbol": "1945/4/2152", 
+        "contents_dates": {
+            "date_str": "1945 - 1946", 
+            "start_date": "1945", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6996469"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ENGELMANN Max Julius Hermann - born 4 November 1921 - Stateless [formerly German]", 
+        "series": "A435", 
+        "control_symbol": "1946/4/1352", 
+        "contents_dates": {
+            "date_str": "1945 - 1946", 
+            "start_date": "1945", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7019151"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HERMANN Julius born 29 August 1922; nationality Polish; travelled per STRATHEDEN arriving in Brisbane on 17 October 1938", 
+        "series": "A12508", 
+        "control_symbol": "50/1062", 
+        "contents_dates": {
+            "date_str": "1938 - 1938", 
+            "start_date": "1938", 
+            "end_date": "1938"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7267115"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FIEDLER Hermann Julius born 11 July 1930; Ingeborg (nee Ihde) born 30 October 1937 - German -  travelled per CASTEL FELICE in June 1958", 
+        "series": "A2478", 
+        "control_symbol": "FIEDLER H J", 
+        "contents_dates": {
+            "date_str": "1958 - 1958", 
+            "start_date": "1958", 
+            "end_date": "1958"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7700266"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "STENVERS Eleonore born 27 march 1929; Hans Julius born 27 May 1951; Thea born 24 May 1952; Karl Hermann born 30 March 1955 - German - travelled per CASTEL FELICE in May 1959", 
+        "series": "A2478", 
+        "control_symbol": "STENVERS E", 
+        "contents_dates": {
+            "date_str": "1959 - 1959", 
+            "start_date": "1959", 
+            "end_date": "1959"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7705050"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "PASS Emil Hermann Julius born 30 June 1904; nationality German", 
+        "series": "A997", 
+        "control_symbol": "1944/364", 
+        "contents_dates": {
+            "date_str": "1944 - 1944", 
+            "start_date": "1944", 
+            "end_date": "1944"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7841020"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - MIHAILOFF Hermann Alexander; Nominee - GRUNDULS Julius; GRUNDULS Claudia; nationality Latvian", 
+        "series": "A261", 
+        "control_symbol": "1947/1613", 
+        "contents_dates": {
+            "date_str": "1947 - 1947", 
+            "start_date": "1947", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7877889"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "[Hermann Julius Israel Falk]", 
+        "series": "C422", 
+        "control_symbol": "50", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "310679"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "List of Prisoners of War under 17 years and over 50 years of age [Christian VOLLMER, Albert MEYER, Carl Wilhelm KOCH, George Heinrich Johann STAHL, August Max GRUBEL, Heinrich Carl George KUSSIN, Hermann HOENE, Fritz Berthold SCHUMANN, Ferdinand HEIN, Martin MOSBACHER, Karl John MILLER, Felix BARTELS, Franz Joesph Wilhelm CRAMER, Ernest Hermann TSCHIRPIG, James John Albert MILLAR, August Robert RACTKE, Johann Carl HOFFMAN, Ivan JUJNOVICH, Ivan KATNICH, Visko ACALINOVIC, Blaz POLJICAK, Fritz WULFING, Harry BROWN, Andria VLAHOR, Anton RATKE, Carl Heinrich Wilhelm LORENTZ, Julius BLASCHEK, Marko TUNPOR, Ivan ANTULUOV,  Ivan STARCEVIC, Stepan BUDESELICH, Jure RAVLICH, Anton SPLIVALO, Juraj MATKOVICH, Juraj STARCOVIC, Frederick MENZEN, JOseph SKARIFF, Carl MEYER, Henry TAPKEN, Edward SCHMIDT, Ivan BOSICH]", 
+        "series": "PP14/1", 
+        "control_symbol": "16/1/59", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "751599"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Englemann Max Julius Hermann", 
+        "series": "A367", 
+        "control_symbol": "C62532", 
+        "contents_dates": {
+            "date_str": "1941 - 1946", 
+            "start_date": "1941", 
+            "end_date": "1946"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "781330"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hermann Gerdes Julius and Frances Evie Julius", 
+        "series": "B741", 
+        "control_symbol": "V/2665", 
+        "contents_dates": {
+            "date_str": "1915 - 1941", 
+            "start_date": "1915", 
+            "end_date": "1941"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "820147"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hermann Waldemar Gustav Nuesse, Joseph [Josef] Carl Kinsele and Julius Posspisch [Jules Poszpisch] [Interned] [Box 28]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N5150", 
+        "contents_dates": {
+            "date_str": "1914 - 1927", 
+            "start_date": "1914", 
+            "end_date": "1927"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "843895"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hermann, Julius born 1922 - nationality Polish - arrived in Brisbane on STRATHEDEN, 17 October 1938", 
+        "series": "BP9/3", 
+        "control_symbol": "POLISH HERMANN J", 
+        "contents_dates": {
+            "date_str": "1938 - 1938", 
+            "start_date": "1938", 
+            "end_date": "1938"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3473453"
+    }, 
+    {
+        "digitised_pages": "43", 
+        "title": "MULLER, Hermann Georg Julius - Nationality: German - arrived Newcastle on Loudon Hill 4 April 1904", 
+        "series": "BP25/1", 
+        "control_symbol": "MULLER H G J - GERMAN", 
+        "contents_dates": {
+            "date_str": "1904 - 1960", 
+            "start_date": "1904", 
+            "end_date": "1960"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4383202"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Julius William Hermann Schoon - purchase of property in Dandenong Victoria", 
+        "series": "A12217", 
+        "control_symbol": "L7705", 
+        "contents_dates": {
+            "date_str": "1943 - 1943", 
+            "start_date": "1943", 
+            "end_date": "1943"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5452842"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RITTER Hermann Julius - Nationality: German - Arrived Melbourne per Nelly 05 December 1952 Departed Commonwealth on 20 June 1964", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/RITTER HERMANN JULIUS", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5813782"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "FEUERABEND Lothar Julius Hermann - Nationality: German - Arrived Melbourne per Castel Felice 6 May 1959", 
+        "series": "B78", 
+        "control_symbol": "GERMAN/FEUERABEND LOTHAR JULIUS HERMANN", 
+        "contents_dates": {
+            "date_str": "1939 - 1972", 
+            "start_date": "1939", 
+            "end_date": "1972"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5922580"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "[Announcement by Public Trustee regarding consent given to listed persons for sale, transfer, mortgage or disposition of property - For item contents see item note]", 
+        "series": "BP4/3", 
+        "control_symbol": "GERMANS 2", 
+        "contents_dates": {
+            "date_str": "1923 - 1923", 
+            "start_date": "1923", 
+            "end_date": "1923"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6298015"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "STEPHAN Gerhard Julius Hermann - Nationality: German - Arrived Melbourne per Nelly 5 December 1952", 
+        "series": "D4881", 
+        "control_symbol": "STEPHAN GERHARD JULIUS HERMANN", 
+        "contents_dates": {
+            "date_str": "1952 - 1976", 
+            "start_date": "1952", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7056397"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hermann Julius Nickel [German - Arrived Melbourne per Aircraft 29 November 1960]", 
+        "series": "SP908/1", 
+        "control_symbol": "GERMAN/NICKEL HERMANN JULIUS", 
+        "contents_dates": {
+            "date_str": "1960 - 1968", 
+            "start_date": "1960", 
+            "end_date": "1968"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7602583"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Specifications for registration of patent by Heinrich Ludwig Eduard Ruthning and Gustav Hermann Julius Ruthning titled - A metal rinking floor - Registered as patent 1241", 
+        "series": "A13127", 
+        "control_symbol": "1615", 
+        "contents_dates": {
+            "date_str": "1890 - 1890", 
+            "start_date": "1890", 
+            "end_date": "1890"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7645489"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Engelmann, Max Julius Hermann aka Israel; Date of birth - 04 November 1921; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "EM39396", 
+        "contents_dates": {
+            "date_str": "1940 - 1942", 
+            "start_date": "1940", 
+            "end_date": "1942"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8617081"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Application for registration of patent by Arthur Bunz (communication from Hermann Geissler and Fredrick Julius Rottmann) titled - An improved vibrator (noiseless) for carrying on and exercising the vibration cure", 
+        "series": "A13149", 
+        "control_symbol": "21042", 
+        "contents_dates": {
+            "date_str": "1903 - 1903", 
+            "start_date": "1903", 
+            "end_date": "1903"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9032366"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Specifications for registration of patent by Arthur Bunz (communication from Hermann Geissler and Fredrick Julius Rottmann) titled - An improved vibrator (noiseless) for carrying on and exercising the vibration cure", 
+        "series": "A13150", 
+        "control_symbol": "21042", 
+        "contents_dates": {
+            "date_str": "1903 - 1903", 
+            "start_date": "1903", 
+            "end_date": "1903"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "9175320"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "NICKEL Hermann Julius - Nationality: German - Arrived Melbourne per Aircraft PH LKU 29 November 1960", 
+        "series": "D4881", 
+        "control_symbol": "NICKEL HERMANN JULIUS", 
+        "contents_dates": {
+            "date_str": "1960 - 1976", 
+            "start_date": "1960", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "9214467"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "Prisoner of War/Internee; Engelmann, Max Julius Hermann Aka Israel; Year of birth - --21; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "E39396", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9905900"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hermann Julius FALK - Nationality: German - Arrived Sydney per ULYSSES 06 Feb 1939 [Box 52]", 
+        "series": "SP11/5", 
+        "control_symbol": "FALK, HERMANN JULIUS", 
+        "contents_dates": {
+            "date_str": "1939 - 1944", 
+            "start_date": "1939", 
+            "end_date": "1944"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "30383984"
+    }
+]

@@ -1,0 +1,392 @@
+[
+    {
+        "digitised_pages": "10", 
+        "title": "DREWETT PETER ALFRED : Service Number - SX23054 : Date of birth - 31 Mar 1919 : Place of birth - BALHANNAH SA : Place of enlistment - PORT KEMBLA NSW : Next of Kin - DREWETT THOMAS", 
+        "series": "B883", 
+        "control_symbol": "SX23054", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6404148"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Thomas, Theodore Gordon; Army Number - 495250; Date of birth - 20 February 1909", 
+        "series": "B4747", 
+        "control_symbol": "THOMAS/THEODORE GORDON", 
+        "contents_dates": {
+            "date_str": "1939 - circa1946", 
+            "start_date": "1939", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9319441"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "STROWBRIDGE JOHN THOMAS : Service Number - Q224082 : Date of birth - 30 Nov 1914 : Place of birth - BOWEN QLD : Place of enlistment - BOWEN QLD : Next of Kin - STROWBRIDGE THOMAS", 
+        "series": "B884", 
+        "control_symbol": "Q224082", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4619738"
+    }, 
+    {
+        "digitised_pages": "10", 
+        "title": "BOATFIELD COLIN THOMAS : Service Number - Q103047 : Date of birth - 21 May 1916 : Place of birth - STANTHORPE QLD : Place of enlistment - TOOWOOMBA QLD : Next of Kin - BOATFIELD WILLIAM", 
+        "series": "B884", 
+        "control_symbol": "Q103047", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4925854"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "READ THOMAS : Service Number - V15914 : Date of birth - 23 Feb 1894 : Place of birth - BRIDGAR ENGLAND : Place of enlistment - ROYAL PARK VIC : Next of Kin - READ JAMES", 
+        "series": "B884", 
+        "control_symbol": "V15914", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6293986"
+    }, 
+    {
+        "digitised_pages": "24", 
+        "title": "EASTALL THOMAS REGINALD : Service Number - TX2874 : Date of birth - 13 Nov 1917 : Place of birth - PENGUIN TAS : Place of enlistment - HOBART TAS : Next of Kin - EASTALL ERNEST", 
+        "series": "B883", 
+        "control_symbol": "TX2874", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6357341"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ELLIS THOMAS JAMES : Service Number - QX55183 : Date of birth - 22 Sep 1919 : Place of birth - RICHMOND QLD : Place of enlistment - QLD : Next of Kin - ELLIS JAMES", 
+        "series": "B883", 
+        "control_symbol": "QX55183", 
+        "contents_dates": {
+            "date_str": "1940 - 1947", 
+            "start_date": "1940", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4930723"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DENNIS THOMAS HENRY : Service Number - 425616 : Date of birth - 13 Jan 1911 : Place of birth - BEENLEIGH QLD : Place of enlistment - BRISBANE : Next of Kin - DENNIS DAISY", 
+        "series": "A9300", 
+        "control_symbol": "DENNIS T H", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5375809"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ROSS BRUCE THOMAS : Service Number - NX155906 : Date of birth - 14 Mar 1922 : Place of birth - CAIRNS QLD : Place of enlistment - IN THE FIELD : Next of Kin - ROSS ELSIE", 
+        "series": "B883", 
+        "control_symbol": "NX155906", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5556000"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GIBSON REGINALD GEORGE : Service Number - VX120076 : Date of birth - 16 Nov 1923 : Place of birth - BRIGHTON VIC : Place of enlistment - IN THE FIELD WA : Next of Kin - GIBSON THOMAS", 
+        "series": "B883", 
+        "control_symbol": "VX120076", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6063971"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MORGAN HENRY THOMAS EDWIN : Service Number - N388808 : Date of birth - 17 Nov 1895 : Place of birth - SOUTH WOODBURN NSW : Place of enlistment - PADDINGTON NSW : Next of Kin - MORGAN RITA", 
+        "series": "B884", 
+        "control_symbol": "N388808", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "6176468"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "TERRILL CLIFFORD LESLIE : Service Number - VX135600 : Date of birth - 19 Mar 1922 : Place of birth - BUNYIP VIC : Place of enlistment - IN THE FIELD : Next of Kin - TERRILL THOMAS", 
+        "series": "B883", 
+        "control_symbol": "VX135600", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6671077"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "Young, Thomas William; Army Number - 66045; Date of birth - 19 December 1913", 
+        "series": "B4747", 
+        "control_symbol": "YOUNG/THOMAS WILLIAM", 
+        "contents_dates": {
+            "date_str": "1937 - circa1946", 
+            "start_date": "1937", 
+            "end_date": null
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9327118"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WALSH Francis Thomas John : Service Number - A3844 : Date of Birth - 17/01/1915 : Place of Birth - Footscray, VIC : Conflict - WW2", 
+        "series": "A12372", 
+        "control_symbol": "R/3844/H", 
+        "contents_dates": {
+            "date_str": "1954 - 1970", 
+            "start_date": "1954", 
+            "end_date": "1970"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "30721988"
+    }, 
+    {
+        "digitised_pages": "27", 
+        "title": "MULLANE STANLEY : Service Number - 2878 : Date of birth - 12 Feb 1915 : Place of birth - BALLAN VIC : Place of enlistment - LAVERTON VIC : Next of Kin - MULLANE THOMAS", 
+        "series": "A9301", 
+        "control_symbol": "2878", 
+        "contents_dates": {
+            "date_str": "1921 - 1948", 
+            "start_date": "1921", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4263792"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "LATHAM THOMAS RICHARD : Service Number - 64179 : Date of birth - 15 Jun 1923 : Place of birth - HILLSTON NSW : Place of enlistment - SYDNEY : Next of Kin - LATHAM RICHARD", 
+        "series": "A9301", 
+        "control_symbol": "64179", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4598762"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "RICHARDSON WILLIAM THOMAS : Service Number - Q224715 : Date of birth - 03 Jul 1893 : Place of birth - BRISBANE QLD : Place of enlistment - PROSERPINE QLD : Next of Kin - RICHARDSON KATHLEEN", 
+        "series": "B884", 
+        "control_symbol": "Q224715", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4619798"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "GELLING ALEXANDER THOMAS : Service Number - NX17859 : Date of birth - 16 Jun 1914 : Place of birth - SYDNEY NSW : Place of enlistment - PADDINGTON NSW : Next of Kin - GELLING GRACE", 
+        "series": "B883", 
+        "control_symbol": "NX17859", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "4828840"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "READY THOMAS BOWEN : Service Number - 257669 : Date of birth - 05 Nov 1920 : Place of birth - Unknown : Place of enlistment - Unknown : Next of Kin - Unknown", 
+        "series": "A9300", 
+        "control_symbol": "READY T B", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5244800"
+    }, 
+    {
+        "digitised_pages": "16", 
+        "title": "SCRIVENER JOHN WALLIS : Service Number - NX202780 : Date of birth - 24 Apr 1925 : Place of birth - SYDNEY NSW : Place of enlistment - PADDINGTON NSW : Next of Kin - SCRIVENER THOMAS", 
+        "series": "B883", 
+        "control_symbol": "NX202780", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "5590189"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "THOMSEN Oskar Thomas born 15 February 1930 - Danish - travelled per TAHITIEN departing Marseille/France on 30 January 1957 under General Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "THOMSEN O T", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1214587"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Thomsen, Oskar Thomas Danish born 1930 - arrived Sydney 23 March 1957 aboard Tahitian", 
+        "series": "BP308/1", 
+        "control_symbol": "THOMSEN O", 
+        "contents_dates": {
+            "date_str": "1949 - 1964", 
+            "start_date": "1949", 
+            "end_date": "1964"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5084328"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Aircraft G-ALAN arrived Sydney 20 November 1950 - Passengers Thomas Edgar Wright [passport attached], Giuseppe Bianchi [photograph attached], Luise Viau, Gunther Lindenau, Oskar Unglaube and Ruffo Codecasa [Box 115]", 
+        "series": "SP244/2", 
+        "control_symbol": "N1950/2/12303", 
+        "contents_dates": {
+            "date_str": "1950 - 1950", 
+            "start_date": "1950", 
+            "end_date": "1950"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6880917"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BUEHLER Oskar born 21 October 1930; Renate (nee Haug) born 5 February 1937; Thomas born 4 March 1957; Andreas born 21 December 1958 - German - travelled per CASTEL FELICE on 2 September 1960", 
+        "series": "A2478", 
+        "control_symbol": "BUEHLER O", 
+        "contents_dates": {
+            "date_str": "1960 - 1960", 
+            "start_date": "1960", 
+            "end_date": "1960"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7709096"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "DITZ Oskar born 3 April 1905; nationality Slovakian; DITZ Alice born 5 May 1916; DITZ George Rolf born 17 November 1939; V Thomas Julius born 1 March 1944", 
+        "series": "A997", 
+        "control_symbol": "1947/372", 
+        "contents_dates": {
+            "date_str": "1947 - 1947", 
+            "start_date": "1947", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7824475"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Applicant - WARIK Thomas; Nominee - JARVISTO Oskar; nationality Esthonian", 
+        "series": "A261", 
+        "control_symbol": "1947/2548", 
+        "contents_dates": {
+            "date_str": "1947 - 1947", 
+            "start_date": "1947", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "7868378"
+    }
+]

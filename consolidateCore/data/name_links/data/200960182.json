@@ -1,0 +1,662 @@
+[
+    {
+        "digitised_status": null, 
+        "access_status": "Open", 
+        "digitised_pages": "0", 
+        "title": "Anna Helene Regine Bergmann, Heinrich Karl Bergmann, Ernst Otto Bergmann, August Hermann Bergmann, Friedrike Katherine Bergmann and Ulrich Gerhardt Bergmann [5 pages; box 3]", 
+        "series": "SP423/5", 
+        "identifier": "3500986", 
+        "control_symbol": "BERGMANN AHR", 
+        "contents_dates": {
+            "date_str": "1941 - 1942", 
+            "start_date": "1941", 
+            "end_date": "1942"
+        }, 
+        "location": "Sydney"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KLOSE ERNST KARL HANS : Date of birth - 01 Apr 1906 : Place of birth - Unknown : Place of enlistment - Unknown : Next of Kin - KLOSE HANS", 
+        "series": "A9300", 
+        "control_symbol": "KLOSE E K H", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5239784"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "TSCHIRPIG EDGAR KARL : Service Number - S61898 : Date of birth - 11 Mar 1911 : Place of birth - PYAP : Place of enlistment - LOXTON SA : Next of Kin - TSCHIRPIG ERNST", 
+        "series": "B884", 
+        "control_symbol": "S61898", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6342566"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHLOITHE ALBERT ERNST : Service Number - SX13634 : Date of birth - 06 Jan 1922 : Place of birth - TAPLAN SA : Place of enlistment - WAYVILLE SA : Next of Kin - SCHLOITHE KARL", 
+        "series": "B883", 
+        "control_symbol": "SX13634", 
+        "contents_dates": {
+            "date_str": "1939 - 1948", 
+            "start_date": "1939", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "6401727"
+    }, 
+    {
+        "digitised_pages": "10", 
+        "title": "Karl Ernst KANDLER - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1906/2519", 
+        "contents_dates": {
+            "date_str": "1906 - 1906", 
+            "start_date": "1906", 
+            "end_date": "1906"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "6883"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "Heinrich Ernst Karl TOPP - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1907/4234", 
+        "contents_dates": {
+            "date_str": "1907 - 1907", 
+            "start_date": "1907", 
+            "end_date": "1907"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8124"
+    }, 
+    {
+        "digitised_pages": "8", 
+        "title": "Ernst Rudolf Karl Emil Wahnert - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1913/8574", 
+        "contents_dates": {
+            "date_str": "1913 - 1913", 
+            "start_date": "1913", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "15583"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Karl Ernst Cpitz - Naturalization.", 
+        "series": "A1", 
+        "control_symbol": "1913/13318", 
+        "contents_dates": {
+            "date_str": "1913 - 1913", 
+            "start_date": "1913", 
+            "end_date": "1913"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "16153"
+    }, 
+    {
+        "digitised_pages": "5", 
+        "title": "Karl Ernst Schulze - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1914/2093", 
+        "contents_dates": {
+            "date_str": "1914 - 1914", 
+            "start_date": "1914", 
+            "end_date": "1914"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "28187"
+    }, 
+    {
+        "digitised_pages": "20", 
+        "title": "Ernst Karl Theodore Jesnoewski - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1917/8326", 
+        "contents_dates": {
+            "date_str": "1914 - 1917", 
+            "start_date": "1914", 
+            "end_date": "1917"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "35818"
+    }, 
+    {
+        "digitised_pages": "10", 
+        "title": "Ernst A.K. Adolf Karl Brendel - Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1922/3745", 
+        "contents_dates": {
+            "date_str": "1922 - 1922", 
+            "start_date": "1922", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "41619"
+    }, 
+    {
+        "digitised_pages": "17", 
+        "title": "Karl Johan Ernst Piack Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1922/7127", 
+        "contents_dates": {
+            "date_str": "1915 - 1922", 
+            "start_date": "1915", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "41894"
+    }, 
+    {
+        "digitised_pages": "22", 
+        "title": "E. Karl Ernst Adler Naturalization", 
+        "series": "A1", 
+        "control_symbol": "1922/8502", 
+        "contents_dates": {
+            "date_str": "1920 - 1922", 
+            "start_date": "1920", 
+            "end_date": "1922"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "42022"
+    }, 
+    {
+        "digitised_pages": "14", 
+        "title": "KRAUSE Gerhard Karl Ernst born 15 May 1942 - German - travelled per MIQAN under Australia German Assisted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "KRAUSE G K E", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1206518"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HLLE Ernst born 25 October 1935; Hedwig (nee Bengough) born 12 March 1935; Karl born 29 February 1952; Martina born 11 July 1960 - Austrian - travelled per MITAI under Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "HILLE E", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1208577"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHIEBL Ernst born 12 March 1925; Anna (nee Pfifferling) born 7 July 1925; Inge born 4 September 1948; Karl Heinz born 6 February 1960; Klaus born 14 December 1961 - Austrian - travelled under General Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "SCHIEBL E", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1222819"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ZWICKER Karl Ernst born 15 April 1941 - German - travelled under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "ZWICKER K E", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1226270"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WILLSTORFER Ernst born 23 April 1935; Waltraud (nee Hochreiter) born 14 June 1939; Karl Robert born 29 June 1958 - Austrian - travelled per MIQAN flight under Australian Austrian Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "WILLSTORFER E", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1231035"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHWARZ Hartmut Karl Ernst born 29 March 1942 - German - travelled per MIQAN flight departing in 1962 under Australian German Migration Agreement", 
+        "series": "A2478", 
+        "control_symbol": "SCHWARZ H K E", 
+        "contents_dates": {
+            "date_str": "1952 - 1965", 
+            "start_date": "1952", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1244854"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "SCHLAFER Ernst Karl Heinz born 16 December 1925; Ursula (nee Brutt) born 13 July 1928; Annelie born 10 September 1950; Wolfgang born 21 July 1952 - German - travelled per ship NELLY departing in 1953 under  the Australian/German assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "SCHLAFER E K H", 
+        "contents_dates": {
+            "date_str": "1952 - 1953", 
+            "start_date": "1952", 
+            "end_date": "1953"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1418301"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "MATZANKE  Horst Karl Ernst August born 2 August 1920; Erika (nee Hill) born 31 July 1921; Monika born 31 May 1941; Ralf born 8 December 1942; Frank born 1 January 1951 - German -  travelled per ship NELLY departing in 1952 under  the Australian/German assisted passage scheme", 
+        "series": "A2478", 
+        "control_symbol": "MATZANKE H K E A", 
+        "contents_dates": {
+            "date_str": "1952 - 1952", 
+            "start_date": "1952", 
+            "end_date": "1952"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1419268"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "HANISCH Ernst Karl born 25 April 1924; Eveline (nee Spielberg) born 29 July 1926; Erika born 18 May 1949; Eveline born 23 June 1951; Inge born 2 January 1953; Ernst born 17 September 1955; Monika born 5 September 1957; Peter born 24 April 1959; Susanne born 19 July 1960; Stephan born 9 December 1961 - German - travelled per FLAVIA under Australia German Assitsted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "HANISCH E K", 
+        "contents_dates": {
+            "date_str": "1964 - 1964", 
+            "start_date": "1964", 
+            "end_date": "1964"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1428654"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRAUSE Karl Ernst Richard born 15 December 1902; Kaethe (nee Gendrich) born 21 March 1903; Agnes born 25 January 1936; Hans born 25 October 1939 - German - travelled per NELLY under Australian German Assisted Scheme", 
+        "series": "A2478", 
+        "control_symbol": "KRAUSE K E R", 
+        "contents_dates": {
+            "date_str": "1952 - 1952", 
+            "start_date": "1952", 
+            "end_date": "1952"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1430318"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WINDHORN Erwin-Karl born 18 October 1910; Ella (nee Claussen) born 22 December 1908; Ernst-August born 17 August 1939; Irmgard born 8 December 1943 - German - travelled per ship SKAUBRYN departing in 1956", 
+        "series": "A2478", 
+        "control_symbol": "WINDHORN E K", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1432636"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Schroder, Ernst Karl Friedrich Wilhelm - Adelaide - application for passport", 
+        "series": "D1915", 
+        "control_symbol": "SA225", 
+        "contents_dates": {
+            "date_str": "1920 - 1920", 
+            "start_date": "1920", 
+            "end_date": "1920"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "323186"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Adler, Karl Ernst Kimba via Port Lincoln, SA - application for naturalization - German nationality [also report re loyalty; application for pension", 
+        "series": "D1915", 
+        "control_symbol": "SA615", 
+        "contents_dates": {
+            "date_str": "1914 - 1944", 
+            "start_date": "1914", 
+            "end_date": "1944"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "324430"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl Ernst Seidell [Application for Naturalisation] [Box 4]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N2078", 
+        "contents_dates": {
+            "date_str": "1916 - 1924", 
+            "start_date": "1916", 
+            "end_date": "1924"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "448516"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Karl [Charles] Ernst Christian Pieper [Interned] and wife Henny Pieper [Box 7]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N2738", 
+        "contents_dates": {
+            "date_str": "1915 - 1928", 
+            "start_date": "1915", 
+            "end_date": "1928"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "450305"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Albright Ernst Karl", 
+        "series": "PP14/1", 
+        "control_symbol": "4/1/61", 
+        "contents_dates": {
+            "date_str": "circa1915 - circa1920", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "748613"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Weinmann Ernst Karl also Hildegard Rosa, Walter and Helga", 
+        "series": "A367", 
+        "control_symbol": "C82114", 
+        "contents_dates": {
+            "date_str": "1941 - 1948", 
+            "start_date": "1941", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "768663"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Loebert Ernst Karl, Anna Louise, Willi, Herbert and Adolf", 
+        "series": "A367", 
+        "control_symbol": "C76111", 
+        "contents_dates": {
+            "date_str": "1948 - 1948", 
+            "start_date": "1948", 
+            "end_date": "1948"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "770700"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Christian Sander [Application for Naturalisation] [Applicant] Mrs Alexander Shabanoff and Karl Weinglass; Johannes Weinglass; Mrs Nadeshda Shabonoff and Mrs Plavin; Ivan and Victoria Alexandra Kisseleff; Nicholas Moltchanoff and Helene Babkova; Ernst and Maria Lange and Oscar, Margarete and Kasper Kangur [Nominees] [Box 28]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N5139", 
+        "contents_dates": {
+            "date_str": "1927 - 1947", 
+            "start_date": "1927", 
+            "end_date": "1947"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "843888"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Hans Heinrich [Henry] Freimuth [Application for Naturalisation] and Fritz Karl Ernst Langhoff [Interned] [Box 69]", 
+        "series": "ST1233/1", 
+        "control_symbol": "N18717", 
+        "contents_dates": {
+            "date_str": "1937 - 1944", 
+            "start_date": "1937", 
+            "end_date": "1944"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "848181"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "WEINMANN Ernst Karl, Enquiry by Immigration Adelaide", 
+        "series": "D1915", 
+        "control_symbol": "SA15070", 
+        "contents_dates": {
+            "date_str": "1947 - 1953", 
+            "start_date": "1947", 
+            "end_date": "1953"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "891158"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Carl RODGERS [Karl ROSENBERG] [arrived Melbourne 19 November 1929 per Oronsay] [application for admission of relatives or friends to Australia Ernst Ludwig ROSENBERG, Elisa ROSENBERG, Kurt ROSENBERG, Ruth ROSENBERG;  application for naturalisation]", 
+        "series": "PP302/1", 
+        "control_symbol": "WA9542", 
+        "contents_dates": {
+            "date_str": "1929 - 1945", 
+            "start_date": "1929", 
+            "end_date": "1945"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1655744"
+    }, 
+    {
+        "digitised_pages": "75", 
+        "title": "ERNST, Karl Otto [Security Service, New South Wales, dossier] [1.0cm; box 19]", 
+        "series": "C123", 
+        "control_symbol": "1564", 
+        "contents_dates": {
+            "date_str": "1939 - 1943", 
+            "start_date": "1939", 
+            "end_date": "1943"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1805716"
+    }, 
+    {
+        "digitised_pages": "10", 
+        "title": "SANDER Karl Ernst [German]", 
+        "series": "P1184", 
+        "control_symbol": "SANDER KE", 
+        "contents_dates": {
+            "date_str": "1953 - 1955", 
+            "start_date": "1953", 
+            "end_date": "1955"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "1848426"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Cooper, Karl Ernst August - Queensland investigation case file", 
+        "series": "BP242/1", 
+        "control_symbol": "Q23540", 
+        "contents_dates": {
+            "date_str": "1940 - 1946", 
+            "start_date": "1940", 
+            "end_date": "1946"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "3375026"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Roubicek, Ernst born 1905; wife Marianne age 31 years; two children Peter Ludwig age 7 years, George Karl age 3 years - nationality German - arrived in Brisbane on NARKUNDA 17 April 1939", 
+        "series": "BP9/3", 
+        "control_symbol": "GERMAN ROUBICEK E", 
+        "contents_dates": {
+            "date_str": "1939 - 1939", 
+            "start_date": "1939", 
+            "end_date": "1939"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3433284"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "ABRAHAM Karl Ernst - Nationality: German - Arrived Melbourne per Castel Felice 21 Maarch 1961", 
+        "series": "K1331", 
+        "control_symbol": "GERMAN/ABRAHAM K E", 
+        "contents_dates": {
+            "date_str": "1961 - 1969", 
+            "start_date": "1961", 
+            "end_date": "1969"
+        }, 
+        "location": "Perth", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4091423"
+    }, 
+    {
+        "digitised_pages": "8", 
+        "title": "HENKE, Rudolf  Ernst Karl - Nationality: German - Arrived Melbourne on Napoli 26 September 1952 - departed Flight PH-LKS 25 August 1955", 
+        "series": "BP25/1", 
+        "control_symbol": "HENKE R E K - GERMAN", 
+        "contents_dates": {
+            "date_str": "1952 - 1955", 
+            "start_date": "1952", 
+            "end_date": "1955"
+        }, 
+        "location": "Brisbane", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4387508"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "BUBECK Ernst Karl - Nationality: German - Arrived Melbourne per Oceania 13 September 1951", 
+        "series": "B78", 
+        "control_symbol": "1957/BUBECK E", 
+        "contents_dates": {
+            "date_str": "1951 - 1957", 
+            "start_date": "1951", 
+            "end_date": "1957"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "4809970"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "William Karl Ernst [German - arrived Sydney per MORTON BAY, 29 Jan 1930.  Box 92]", 
+        "series": "SP11/2", 
+        "control_symbol": "GERMAN/ERNST W K", 
+        "contents_dates": {
+            "date_str": "1939 - 1940", 
+            "start_date": "1939", 
+            "end_date": "1940"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "5426350"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "TAEDROW Horst Karl Ernst - Nationality: German - Arrived Melbourne per Nelly 9 February 1952", 
+        "series": "D4881", 
+        "control_symbol": "TAEDROW HORST KARL ERNST", 
+        "contents_dates": {
+            "date_str": "1952 - 1976", 
+            "start_date": "1952", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5496821"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "[ABC publicity photos] Fritz Kreisler, violinist [Box 104A]", 
+        "series": "SP1011/1", 
+        "control_symbol": "2829", 
+        "contents_dates": {
+            "date_str": "1966 - 1966", 
+            "start_date": "1966", 
+            "end_date": "1966"
+        }, 
+        "location": "Sydney", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3208714"
+    }, 
+    {
+        "digitised_pages": "6", 
+        "title": "AUTHOR Fritz Kreisler : ADDRESS Berlin : TITLE OF WORK Paraphrase on Two Russian Folk Songs: The Volga Boat Song and A Russian Folk Melody : TYPE OF WORK Musical : APPLICANT Fritz Kreisler : DATE OF APPLICATION 23 May 1925 : DATE COPYRIGHT REGISTERED 14 Jul 1925 : WORK ENCLOSED? [Yes]", 
+        "series": "A1336", 
+        "control_symbol": "13866", 
+        "contents_dates": {
+            "date_str": "1925 - 1925", 
+            "start_date": "1925", 
+            "end_date": "1925"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3470344"
+    }, 
+    {
+        "digitised_pages": "3", 
+        "title": "AUTHOR Fritz Kreisler : ADDRESS Berlin : TITLE OF WORK Old Folks at Home (Swannee River) : TYPE OF WORK Musical : APPLICANT Fritz Kreisler : DATE OF APPLICATION 25 May 1925 : DATE COPYRIGHT REGISTERED 14 Jul 1925 : WORK ENCLOSED? [Yes]", 
+        "series": "A1336", 
+        "control_symbol": "13877", 
+        "contents_dates": {
+            "date_str": "1925 - 1925", 
+            "start_date": "1925", 
+            "end_date": "1925"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "3470379"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "AUTHOR Fritz Kreisler : ADDRESS Vienna : TITLE OF WORK Liebesleid : TYPE OF WORK Musical : APPLICANT Australasian Performing Right Association Limited : DATE OF APPLICATION 23 Jul 1926 : DATE COPYRIGHT REGISTERED 24 Jul 1926 : WORK ENCLOSED? [Yes]", 
+        "series": "A1336", 
+        "control_symbol": "15211", 
+        "contents_dates": {
+            "date_str": "1926 - 1926", 
+            "start_date": "1926", 
+            "end_date": "1926"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "3471372"
+    }
+]

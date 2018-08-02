@@ -1,0 +1,167 @@
+[
+    {
+        "digitised_pages": 0, 
+        "title": "KRUEGER Ernst Otto born 6 July 1940 - German - travelled per ship FLAVIA departing in 1965 under Australian German Assisted Passage Scheme", 
+        "series": "A2478", 
+        "control_symbol": "KRUEGER E O", 
+        "contents_dates": {
+            "date_str": "1965 - 1965", 
+            "start_date": "1965", 
+            "end_date": "1965"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Open", 
+        "digitised_status": false, 
+        "identifier": "1456440"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRUEGER Guntner - Application for Landing Permit [KRUEGER Ernst]", 
+        "series": "PP66/1", 
+        "control_symbol": "1954/62/7115", 
+        "contents_dates": {
+            "date_str": "circa1954 - circa1954", 
+            "start_date": null, 
+            "end_date": null
+        }, 
+        "location": "Perth", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "5297228"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRUEGER Ernst Walter - born 16 July 1902 - German", 
+        "series": "A435", 
+        "control_symbol": "1947/4/3366", 
+        "contents_dates": {
+            "date_str": "1947 - 1966", 
+            "start_date": "1947", 
+            "end_date": "1966"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7015504"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRUEGER Ernst Otto A born 8 March 1933; Lisbdth born 23 February 1939; Guenther born 28 March 1955; Monika born 4 February 1960 - German - arrived under Second Assistance Scheme", 
+        "series": "A2280", 
+        "control_symbol": "KRUEGER E O A", 
+        "contents_dates": {
+            "date_str": "1968 - 1968", 
+            "start_date": "1968", 
+            "end_date": "1968"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7138640"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRUEGER Ernst Otto born 8 March 1933; Lisbeth (nee Schmidt) born 23 February 1939; Ernst Gunther born 28 March 1955 - German - travelled per CASTEL FELICE in January 1957", 
+        "series": "A2478", 
+        "control_symbol": "KRUEGER E O", 
+        "contents_dates": {
+            "date_str": "1956 - 1956", 
+            "start_date": "1956", 
+            "end_date": "1956"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7698933"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "Krueger Ernst", 
+        "series": "A367", 
+        "control_symbol": "C74436", 
+        "contents_dates": {
+            "date_str": "1943 - 1947", 
+            "start_date": "1943", 
+            "end_date": "1947"
+        }, 
+        "location": "Canberra", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "772406"
+    }, 
+    {
+        "digitised_pages": "2", 
+        "title": "KRUEGER Ernst - Nationality: German - Arrived Outer Harbour per Rangitiki 19 November 1941", 
+        "series": "B78", 
+        "control_symbol": "1948/KRUEGER E", 
+        "contents_dates": {
+            "date_str": "1948 - 1948", 
+            "start_date": "1948", 
+            "end_date": "1948"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "4119697"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRUEGER Ernst Otto - Nationality: German - Arrived Sydney per Flavia 6 August 1965 Departed Commonwealth on 26 August 1967", 
+        "series": "D4881", 
+        "control_symbol": "KRUEGER ERNST OTTO", 
+        "contents_dates": {
+            "date_str": "1965 - 1976", 
+            "start_date": "1965", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7047240"
+    }, 
+    {
+        "digitised_pages": 0, 
+        "title": "KRUGER Ernst Otto Adolf - Nationality: German - Arrived Melbourne per Castel Felice 24 January 1957 Departed Commonwealth on 29 Aug 1960 Also known as KRUEGER", 
+        "series": "D4881", 
+        "control_symbol": "KRUGER ERNST OTTO ADOLF", 
+        "contents_dates": {
+            "date_str": "1957 - 1976", 
+            "start_date": "1957", 
+            "end_date": "1976"
+        }, 
+        "location": "Adelaide", 
+        "access_status": "Not", 
+        "digitised_status": false, 
+        "identifier": "7202063"
+    }, 
+    {
+        "digitised_pages": "0", 
+        "title": "Prisoner of War/Internee: Krueger, Ernst; Date of birth - 16 July 1902; Nationality - German", 
+        "series": "MP1103/1", 
+        "control_symbol": "R36607", 
+        "contents_dates": {
+            "date_str": "1941 - 1946", 
+            "start_date": "1941", 
+            "end_date": "1946"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "8616492"
+    }, 
+    {
+        "digitised_pages": "4", 
+        "title": "Prisoner of War/Internee; Krueger, Ernst; Year of birth - --02; Nationality - German", 
+        "series": "MP1103/2", 
+        "control_symbol": "R36607", 
+        "contents_dates": {
+            "date_str": "1939 - 1945", 
+            "start_date": "1939", 
+            "end_date": "1945"
+        }, 
+        "location": "Melbourne", 
+        "access_status": "Open", 
+        "digitised_status": true, 
+        "identifier": "9905232"
+    }
+]
