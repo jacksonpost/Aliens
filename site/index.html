@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Aliens_0.7.5.2</title>
+
+<script type="text/javascript" src="scripts/jquery110.min.js"></script>	
+<script type="text/javascript" src="scripts/jquery.ba-hashchange.min.js"></script>	
+
+<link rel="stylesheet" type="text/css" href="style/style.css">
+
+<style type="text/css">
+</style>
+
+</head>
+<body>
+
+<script type="text/javascript">
+
+var intern, internOrig, troveIntern, mlmss, bungardyCamp, slnswExtract;
+var internIndex=[], troveInternIndex, mlmssIndex, bungardyCampIndex, slnswExtractIndex;
+var fleshCount = 0;
+var internID;
+var itemUse = 0; // goes up for each item added, some items take more space than others so use more allowance
+var itemAllowance = 6;
+var inverter = -1;
+var titleFadeOut = 1500;
+var pageLen=24;
+var pageNum=0;
+var filtSwitch=1;
+
+$(document).ready(function(){
+
+	$('#intro').hide().on('click', function(){
+		$('#intro').toggle();
+	});
+
+	$("#wrapper").append("<div class='loading'>loading...</div>");
+	addInfo();
+
+	$.getJSON('data/namesFleshedShort.json', function(data) {
+
+		intern = data;
+		internOrig = data;
+		for(var i=0; i<intern.length; i++){
+			internIndex.push( parseInt(intern[i].controlNumber) );
+		}
+		
+	}).done(function(){
+		$.getJSON('data/MLMSS+261.json', function(data) {
+			mlmss = data;
+		}).done(function(){
+			$.getJSON('data/holsworthy+AND+internment+OR+concentration.json', function(data) {
+				troveIntern = data;
+			}).done(function(){
+				$.getJSON('data/bungardy.json', function(data) {
+					bungardyCamp = data;
+				}).done(function(){
+					$.getJSON('data/slnsw-extract-Holsworthy+liverpool+internment.json', function(data) {
+						slnswExtract = data.records;
+					}).done(function(){
+						$("#wrapper .loading").fadeOut();
+						
+                        internIndex = shuffleSet(internIndex);
+                        troveInternIndex = randomSet(troveIntern.length);
+                        mlmssIndex = randomSet(mlmss.length);
+                        bungardyCampIndex = randomSet(bungardyCamp.transcript.length);
+                        slnswExtractIndex = randomSet(slnswExtract.length); 
+						
+						addPage();
+						hashControl();
+					});
+				});
+			});
+		});
+	});
+
+	// scale images based on their w:h (recorded as a static attribute)
+	$( window ).resize(function() {
+		$(".troveImg").each(function(index){
+			var ratio = $(this).attr("ratio");
+			var h = $(this).width()*parseFloat(ratio);
+			$(this).css({"height":+h+"px"});
+		});
+	});
+
+	$(window).scroll(function(){
+		if($(window).scrollTop() == $(document).height() - $(window).height()){
+			addPage();
+		}
+	});
+
+	$(window).hashchange(function(){
+		hashControl();
+	});
+
+	$(window).on('keydown',function(e){
+		var key = e.which;
+		console.log(key);
+
+		if(key == 188 || key == 190){ 
+
+			if(key == 188){ // < or ,
+				internIndex.sort(function(a, b){return a-b});
+			}else if(key == 190){ // > or .
+				internIndex.sort(function(a, b){return b-a});
+			}
+			
+			resetPortraits();
+
+		}else if(key == 70){ // f
+			if(filtSwitch >0){
+				intern = internOrig.filter(function(d){ return d.flesh.length > 0 });
+			}else{
+				intern = internOrig;
+			}
+			internIndex=[];
+			for(var i=0; i<intern.length; i++){
+				internIndex.push( parseInt(intern[i].controlNumber) );
+			}	
+
+			filtSwitch *= -1;
+			resetPortraits();
+		}
+
+	});
+
+});
+
+function resetPortraits(){
+	$('#startBack').fadeOut(1000, function(){
+		$('#startBack .imgContainer').remove();
+		pageNum=0;
+		addPage();
+		window.location = "#/";
+		$(this).show();
+	});
+}
+
+function retrieveIntern(num){
+	for(var tern=0; tern<intern.length; tern++){
+		if( parseInt(intern[tern].controlNumber)==num ){
+			return intern[tern];
+		}
+	}
+}
+
+function hashControl(){
+	if (location.hash.length < 2 || location.hash.indexOf("#/") == -1) { 
+		window.location = "#/"; 
+	}else if(location.hash=="#/"){
+		startPage();
+	}else{
+		var hashbits = location.hash.substring(2).split("/");
+		startSequence(hashbits[0]);
+	}
+}
+
+function startPage(){
+	$('#startBack').fadeIn(1000);
+	$('#wrapper').hide();
+	$('.adder').remove();
+	$('.returnTo').remove();
+}
+
+function addInfo(){
+	var info = $("<div class='info'></div>");
+	$(info).appendTo('#startBack');
+	$(".info").on('click', function(){
+		$('#intro').toggle();
+	});
+}
+
+function addPage(){
+	
+	var s=pageNum*pageLen;
+	var e=s+pageLen;
+	for(var i=s; i<e; i++){
+		if(i<intern.length){
+
+			var imgContainer = $("<div class='imgContainer'></div>");
+
+			var ob = retrieveIntern(internIndex[i]);
+
+			var theGuy = $("<img class='portrait' id='"+internIndex[i]+"' src='"+getImgPath(ob.barcode)+"' alt='"+ob.title+"' title='"+ob.title+"'>").on('click',function(){
+				$("#intro").fadeOut(1000);
+				internID = this.id;
+				window.location = "#/"+internID; // triggers startSequence
+			}).hide();
+
+			imgContainer.append(theGuy);
+			$('#startBack').append(imgContainer);
+		}
+	}
+
+	$('#startBack img').load(function() {
+		$(this).fadeIn(1200);
+	});
+
+	pageNum++;
+}
+
+function startSequence(seed){
+
+	$('#wrapper').hide();
+	$('#lCol').empty();
+	$('#cCol').empty();
+	$('#rCol').empty();
+	itemUse = 0;
+	internID = seed;
+
+	var ob = retrieveIntern(internID);
+
+	if(ob.flesh.length>0){
+		fleshCount=ob.flesh.length;
+	}
+
+	$('#startBack').fadeOut(1000,function(){
+		$('#cCol').append("<img class='portrait'src='"+getImgPath(ob.barcode)+"' alt='?'>");
+		$('#cCol').append("<h3>"+ob.title+"</h3>");
+		$('#cCol').append("<div class='dox'>No Identity Documents Found</div>");
+		$('#wrapper').fadeIn(1000,function(){
+
+			var adder = $("<div class='adder'></div>").hide();
+			$(adder).appendTo('body').fadeIn(1000);
+			$(".adder").on('click', function(){
+				addPiece();
+				if(itemUse>=itemAllowance){
+					if(inverter==-1){
+						var side = "#lCol";
+					}else{
+						var side = "#rCol";
+					}
+					$(side).children().first().fadeOut(500, function(){
+						$(this).remove();
+					});
+					return;
+				}
+			});
+
+			var returnTo = $("<div class='returnTo'></div>").hide();
+			$(returnTo).appendTo('body').fadeIn(1000);
+			$(".returnTo").on('click', function(){
+
+				$("#lCol").children().each(function(index){
+					$(this).fadeOut(500+Math.random()*1200);
+				});
+				$("#rCol").children().each(function(index){
+					$(this).fadeOut(500+Math.random()*1200, function(){
+					});
+				});
+
+				$("#cCol").children().not('.portrait').fadeOut(1000, function(){
+					$('#cCol img.portrait').fadeOut(1000, function(){
+						window.location = "#/";
+					});
+				});
+			});
+		});
+	});
+}
+
+function swapIntern(){
+	$("#lCol").children().each(function(index){
+		$(this).fadeOut(500+Math.random()*1200);
+	});
+	$("#rCol").children().each(function(index){
+		$(this).fadeOut(500+Math.random()*1200, function(){
+		});
+	});
+	$("#cCol").children().not('.portrait').fadeOut(1000, function(){
+		$('#cCol img.portrait').fadeOut(1000, function(){
+			window.location = "#/"+internID;
+		});
+	});
+}
+
+function addPiece(){
+	
+	if(fleshCount>0){
+		$('cCol.dox').fadeOut();
+		addCore();
+		fleshCount=0;
+		return;
+	}
+
+	if(inverter==-1){
+		var side = "#lCol";
+	}else{
+		var side = "#rCol";
+	}
+
+	if(Math.random()<0.15){
+		//load snippet
+		var t = bungardyCamp.transcript[bungardyCampIndex[0]].text;
+		var charLimit = 150;
+		var startPoint = Math.floor(Math.random()*(t.length-charLimit));
+		var trim = t.substr(t.indexOf(" ",startPoint),charLimit);
+
+		var snip = $("<div class='snippet item' id='"+bungardyCampIndex[0]+"'><p>..."+trim+"...</p></div>").hide().appendTo(side);
+
+		var title = $("<div class='title'>"+bungardyCamp.title+"</div>").hide().appendTo(snip);
+		
+		$(snip).fadeIn(1000).on('click',function(){
+			toggleLabel($(this));
+		});
+		bungardyCampIndex.splice(0,1); // remove item from the sequence
+		itemUse += 1;
+		inverter *= -1;
+		return;
+	}
+//// intern portrait
+	if(Math.random()<0.15){
+		var set = internIndex[Math.floor(Math.random()*internIndex.length)];
+		var ob = retrieveIntern(set);
+		var imgSrc = getImgPath(ob.barcode);
+
+		var imgContainer = $("<div class='troveImg item' ratio='"+ratio+"'></div>").hide();
+
+		$("<img class='mlmss' id='"+set+"' src='"+imgSrc+"' alt='?'>").appendTo(imgContainer).hide().load(function(){
+			$(this).parent().css({"background-image":"url("+imgSrc+")","width":w+"%","height":h+"px"}).fadeIn(1000).on('click',function(){
+				
+				internID = this.firstChild.id;
+				swapIntern();
+				
+			});
+			var h = $(this).parent().width()*ratio;
+			$(this).parent().css({"height":h+"px"});
+			$(title).delay(4000).fadeOut(titleFadeOut);
+		});
+
+		$(side).append(imgContainer);
+
+		itemUse += 1;
+		inverter *= -1;
+		return;
+	}
+////
+
+
+    var ratio = 1+((Math.random()/2)-0.25); // range: 0.75 - 1.25
+    var w = 60+Math.floor(Math.random()*38); // the percentage of .troveImage
+
+    if(Math.random()>0.7){
+
+        if(mlmss[mlmssIndex[0]].hasOwnProperty("imgMedium")){
+            var imgSrc = mlmss[mlmssIndex[0]].imgMedium;
+        }else{
+            var imgSrc = mlmss[mlmssIndex[0]].imgThumb;
+        }
+        var imgContainer = $("<div class='troveImg item' ratio='"+ratio+"'></div>").hide();
+
+        var title = $("<div class='title'>"+mlmss[mlmssIndex[0]].title+"</div>").appendTo(imgContainer);
+
+        $("<img class='mlmss' id='"+mlmssIndex[0]+"' src='"+imgSrc+"' alt='?'>").appendTo(imgContainer).hide().load(function(){
+            $(this).parent().css({"background-image":"url("+imgSrc+")","width":w+"%","height":h+"px"}).fadeIn(1000).on('click',function(){
+                toggleLabel($(this));
+            });
+            var h = $(this).parent().width()*ratio;
+            $(this).parent().css({"height":h+"px"});
+            $(title).delay(4000).fadeOut(titleFadeOut);
+        });
+
+        $(side).append(imgContainer);
+
+        mlmssIndex.splice(0,1);
+        itemUse++;
+    }else if(Math.random()>0.2){
+
+        // ratio tweak to accomodate NLA lo-res landscape format pics
+        var ratio = 0.7;
+
+        if(troveIntern[troveInternIndex[0]].hasOwnProperty("imgMedium")){
+            var imgSrc = troveIntern[troveInternIndex[0]].imgMedium;
+        }else{
+            var imgSrc = troveIntern[troveInternIndex[0]].imgThumb;
+        }
+        var imgContainer = $("<div class='troveImg item' ratio='"+ratio+"'></div>").hide();
+        var title = $("<div class='title'>"+troveIntern[troveInternIndex[0]].title+"</div>").appendTo(imgContainer);
+        $("<img class='troveIntern' id='"+troveInternIndex[0]+"' src='"+imgSrc+"' alt='?'>").appendTo(imgContainer).hide().load(function(){
+            $(this).parent().css({"background-image":"url("+imgSrc+")","width":w+"%"}).fadeIn(1000).on('click',function(){
+                toggleLabel($(this));
+            });
+            var h = $(this).parent().width()*ratio;
+            $(this).parent().css({"height":h+"px"});
+            $(title).delay(2000).fadeOut(titleFadeOut);
+        });
+
+        $(side).append(imgContainer);
+
+        troveInternIndex.splice(0,1);
+        itemUse++;
+    }else{
+        if(slnswExtract[slnswExtractIndex[0]].hasOwnProperty("pages")){
+            var page = Math.round(Math.random() * slnswExtract[slnswExtractIndex[0]].pages.length);
+            var imgSrc = slnswExtract[slnswExtractIndex[0]].pages[page].hiresURL;
+        }else{
+            var imgSrc = slnswExtract[slnswExtractIndex[0]].hiresURL;
+        }
+        var imgContainer = $("<div class='troveImg item' ratio='"+ratio+"'></div>").hide();
+        var title = $("<div class='title'>"+slnswExtract[slnswExtractIndex[0]].title+"</div>").appendTo(imgContainer);
+        $("<img class='mlmss' id='"+slnswExtractIndex[0]+"' src='"+imgSrc+"' alt='?'>").appendTo(imgContainer).hide().load(function(){
+            $(this).parent().css({"background-image":"url("+imgSrc+")","width":w+"%"}).fadeIn(1000).on('click',function(){
+                toggleLabel($(this));
+            });
+            var h = $(this).parent().width()*ratio;
+            $(this).parent().css({"height":h+"px"});
+            $(title).delay(2000).fadeOut(titleFadeOut);
+        });
+
+        $(side).append(imgContainer);
+
+        slnswExtractIndex.splice(0,1);
+        itemUse++;
+    }
+    inverter*=-1;
+
+}
+
+function addCore(){
+
+	$('#cCol .dox').fadeOut();
+
+	var ob = retrieveIntern(internID);
+
+	for(var h=0; h<ob.flesh.length; h++){
+
+		console.log("flesh is: "+ob.flesh[h].series);
+		
+		if(ob.flesh[h].series=="hsa"){
+			var notes = $("<div class='notes item'><p>NOTES:</p></div>").hide();
+			if(ob.flesh[h].hasOwnProperty("dateInterned")){
+				$(notes).append("<p>Date Interned: "+ob.flesh[h].dateInterned+"</p>");
+			}
+			if(ob.flesh[h].hasOwnProperty("interned")){
+				$(notes).append("<p>Interned At: "+ob.flesh[h].interned+"</p>");
+			}
+			if(ob.flesh[h].hasOwnProperty("nationality")){
+				$(notes).append("<p>Nationality: "+ob.flesh[h].nationality+"</p>");
+			}
+
+			if(ob.flesh[h].hasOwnProperty("dobAge")){
+				$(notes).append("<p>Date of Birth / Age: "+ob.flesh[h].dobAge+"</p>");
+			}
+
+			if(ob.flesh[h].hasOwnProperty("remarksNominal")){
+				$(notes).append("<p>"+ob.flesh[h].remarksNominal+"</p>");
+			}
+			if(ob.flesh[h].hasOwnProperty("remarks367")){
+				$(notes).append("<p>"+ob.flesh[h].remarks367+"</p>");
+			}
+			if(ob.flesh[h].hasOwnProperty("notes")){
+				$(notes).append("<p>"+ob.flesh[h].notes+"</p>");
+			}
+
+			$(notes).append("<p>Source: <a target='_blank' href='http://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=62050'>NAA</a> | <a href='http://interned.historysa.com.au/'>HistorySA Interned</a></p>")
+			$(notes).appendTo('#cCol').fadeIn();
+		}else if(ob.flesh[h].series=="a1" || ob.flesh[h].series=="mp16" || ob.flesh[h].series=="d2375"){
+
+			var ratio = 0.5; // range: 0.75 - 1.25
+			var w = 100; // the percentage of .troveImage
+
+			// using lo res to improve load time - switch to getImgPath for better quality
+			var url=getLoResPath(ob.flesh[h].barcode);
+			var src=getSourcePath(ob.flesh[h].barcode);
+
+			var imgContainer = $("<div class='coreImg item' ratio='"+ratio+"'></div>").hide();
+			var title = $("<div class='title'>"+ob.flesh[h].title+"</div>").appendTo(imgContainer);
+			$("<img class='core' id='"+internID+"' fleshID='"+h+"' src='"+url+"' alt='ITEM MISSING' title='"+ob.flesh[h].internBarcode+"'>").appendTo(imgContainer).hide().load(function(){
+					$(this).parent().css({"background-image":"url("+url+")","width":w+"%"}).fadeIn(1000).on('click',function(){toggleLabel($(this));});
+					var h = $(this).parent().width()*ratio;
+					$(this).parent().css({"height":h+"px"});
+					$(title).delay(2000).fadeOut(titleFadeOut);
+				});
+			$('#cCol').append(imgContainer);
+			////
+		}
+	}
+}
+
+function toggleLabel(ob){
+
+	var guy = retrieveIntern(internID);
+
+	console.log("toggling...");
+	if($(ob).hasClass("selected")){
+		$(".selected").removeClass("selected");
+		$(".label").remove();
+		$('.item .title').stop(true,true).hide();
+	}else{
+		$(".selected").removeClass("selected");
+		$(".label").remove();
+		$('.item .title:visible').stop(true,true).hide();
+
+		var src = $(ob).children('img').attr("id");
+		var coll = "Trove";
+
+		if($(ob).children('img').hasClass("troveIntern")){
+			src = troveIntern[src].source;
+		}else if($(ob).hasClass("snippet")){
+			src = bungardyCamp.itemURL;
+		}else if($(ob).hasClass("coreImg")){
+			var fleshID = $(ob).children('img').attr('fleshID');
+			src = getSourcePath(guy.flesh[fleshID].barcode);
+		}else{
+			src = mlmss[src].source;
+		}
+
+		if((src).indexOf("nla.gov")!=-1){
+			coll = "NLA";
+		}else if((src).indexOf("slsa.sa.gov")!=-1){
+			coll = "SLSA";
+		}else if((src).indexOf("naa.gov")!=-1){
+			coll = "NAA";
+		}else if((src).indexOf("sl.nsw.gov")!=-1){
+			coll = "SLNSW";
+		}
+
+		var label = $("<div class='label'><a href='"+src+"' target='_blank'>source: "+coll+"</a></div>");
+		$(label).on('click',function(event){ event.stopPropagation()});
+		$(ob).children('div .title').stop(true,true).show();
+		$(ob).addClass("selected");
+		$(ob).children('div .title').append(label);
+	}
+}
+
+function getImgPath(originalBarcode){
+	return "http://recordsearch.naa.gov.au/NAAMedia/ShowImage.asp?B="+originalBarcode+"&T=P";
+}
+function getLoResPath(originalBarcode){
+	return "http://recordsearch.naa.gov.au/NAAMedia/ShowImage.asp?B="+originalBarcode+"&T=R";
+}
+function getSourcePath(originalBarcode){
+	return "http://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B="+originalBarcode+"";
+}
+
+
+function randomSubset(len, count){  // return a random and unique array subset
+	var set=[];
+	var seq=[];
+	for(var j=0; j<len; j++){
+		seq.push(j);
+	}
+	for(var j=0; j<count; j++){
+		var num = Math.floor(Math.random()*seq.length);
+		set.push(seq[num]);
+		seq.splice(num,1);
+	}
+	return set;
+}
+
+function randomSet(len){  // create a random sequence of unique indices
+	var set=[];
+	var seq=[];
+	for(var j=0; j<len; j++){
+		seq.push(j);
+	}
+	while(seq.length>0){
+		var num = Math.floor(Math.random()*seq.length);
+		set.push(seq[num]);
+		seq.splice(num,1);
+	}
+	return set;
+}
+
+function shuffleSet(arr){  // shuffle an array
+	var set=[];
+	while(arr.length>0){
+		var num = Math.floor(Math.random()*arr.length);
+		set.push(arr[num]);
+		arr.splice(num,1);
+	}
+	return set;
+}
+
+</script>
+
+<div id="intro">
+	<h3>Aliens</h3>
+	<p class="quote">During World War I, for security reasons the Australian Government pursued a comprehensive internment policy against enemy aliens living in Australia.</p>
+
+	<p class="quote">Initially only those born in countries at war with Australia were classed as enemy aliens, but later this was expanded to include people of enemy nations who were naturalised British subjects, Australian-born descendants of migrants born in enemy nations and others who were thought to pose a threat to Australia's security.</p>
+
+    <p class="quote">Australia interned almost 7000 people during World War I, of whom about 4500 were enemy aliens and British nationals of German ancestry already resident in Australia.<br><span><br>- <a href="http://www.naa.gov.au/collection/snapshots/internment-camps/index.aspx#section1" target="_BLANK">National Archives of Australia</a></span><br><br></p>
+	<p>By the end of the war most of the remaining internees had been moved into a large camp at Holsworthy near Liverpool, NSW.  As part of their record-keeping the military photographed internees, assigned them a number, recorded their names and stored this minimal identifying information in giant books.</p>
+	<p>One of these books is kept by the National Archives in Canberra. Containing mostly rows of nearly identical portraits, it is striking to behold these people, serialised, reduced to numbers and names.</p>
+	<p><em>Aliens</em> aims to return some of the identity and context missing from the subjects of the 'Aliens book' by drawing on multiple digital collections for material relating to the Holsworthy internment camp.  The resulting artifacts are placed around each individual portrait, enhancing our understanding of the internment situation and our empathy for those who were subject to it.</p>
+        <p><br><br>For a complete list of internees visit the NAA's <a href="http://www.naa.gov.au/collection/fact-sheets/fs171.aspx">online collection</a><br>And for more information on this website contact <a href="mailto:Riley@setfilter.net" >Riley[at]setfilter.net</a><br><br></p>
+</div>
+
+<div id="wrapper">
+	<div id="lCol"></div>
+	<div id="cCol"></div>
+	<div id="rCol"></div>
+</div>
+
+<div id="startBack"></div>
+
+</body>
+
+</html>
